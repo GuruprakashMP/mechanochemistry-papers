@@ -1,0 +1,28 @@
+{
+  "_comment": "Researchers whose complete publication lists are harvested during backfill (their papers still pass the same relevance classifier). Names are ASCII-normalized to match OpenAlex raw_author_name search (diacritics dropped: Friscic, Balaz, Hernandez, Garcia). Add names freely and rerun: python -m ddc backfill --authors-only",
+  "authors": [
+    "Tomislav Friscic",
+    "Stuart James",
+    "James Mack",
+    "Carsten Bolm",
+    "Timothy Hanusa",
+    "Kenneth Suslick",
+    "Koji Kubota",
+    "Hajime Ito",
+    "Lars Borchardt",
+    "Evelina Colacino",
+    "Deborah Crawford",
+    "William Jones",
+    "Franziska Emmerling",
+    "Ivan Halasz",
+    "Elena Boldyreva",
+    "Vladimir Boldyrev",
+    "Peter Balaz",
+    "Jose G. Hernandez",
+    "Felipe Garcia",
+    "Achim Stolle",
+    "Guan-Wu Wang",
+    "Duncan Browne",
+    "Andrea Porcheddu"
+  ]
+}
