@@ -5534,6 +5534,40 @@
   "added": "2026-07-27"
  },
  {
+  "id": "00997ba6ef162c14",
+  "title": "Optimizing synthesis strategies for the production of single-phase zirconates with Ce and Nd co-doping",
+  "authors": [
+   "Selina Richter",
+   "Sara E. Gilson",
+   "Luíza Braga Ferreira dos Santos",
+   "Nina Huittinen"
+  ],
+  "journal": "MRS Advances",
+  "publisher": "Springer Science+Business Media",
+  "published": "2024-02-08",
+  "year": 2024,
+  "doi": "10.1557/s43580-024-00789-1",
+  "url": "https://doi.org/10.1557/s43580-024-00789-1",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Grinding",
+   "Mortar & Pestle",
+   "PXRD",
+   "Solid-State Synthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Helmholtz-Zentrum Dresden-Rossendorf",
+   "Freie Universität Berlin"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "de953f4e0af76903",
   "title": "PREPARATION AND THERMOELECTRIC PROPERTIES OF Bi2Te(3-x)Sex SAMPLES BY HIGH-ENERGY BALL MILLING AND SPARK PLASMA SINTERING METHOD",
   "authors": [
@@ -6102,6 +6136,32 @@
   "relevance_score": 73,
   "affiliations": [
    "Chongqing University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "321a199dca99e14b",
+  "title": "Shedding Light on Wide Bandgap Perovskites",
+  "authors": [
+   "Michael A. Saliba"
+  ],
+  "journal": "Proceedings of the International Conference on Hybrid and Organic Photovoltaics",
+  "publisher": "",
+  "published": "2024-02-06",
+  "year": 2024,
+  "doi": "10.29363/nanoge.hopv.2024.137",
+  "url": "https://doi.org/10.29363/nanoge.hopv.2024.137",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanosynthesis",
+   "Perovskites"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Stuttgart"
   ],
   "added": "2026-07-27"
  },
