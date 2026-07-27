@@ -1,5 +1,139 @@
 [
  {
+  "id": "132270e232cfc889",
+  "title": "Sodium-Lump-Mediated Mechanochemical Deprotection of Benzyl-Derived Groups",
+  "authors": [
+   "Keisuke Kondo",
+   "Naoki Shizukuishi",
+   "Koji Kubota",
+   "Hajime Ito"
+  ],
+  "journal": "Synthesis",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2026-01-29",
+  "year": 2026,
+  "doi": "10.1055/a-2801-5094",
+  "url": "https://doi.org/10.1055/a-2801-5094",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "b3eb95508daf3376",
+  "title": "Mechanochemistry: Looking back and ahead",
+  "authors": [
+   "Tomislav Stolar",
+   "Jasna Alić",
+   "Lucia Casali",
+   "Nikita Y. Gugin",
+   "Matěj Baláž",
+   "Adam A. L. Michalchuk∞",
+   "Franziska Emmerling"
+  ],
+  "journal": "Chem",
+  "publisher": "Elsevier BV",
+  "published": "2026-01-20",
+  "year": 2026,
+  "doi": "10.1016/j.chempr.2025.102880",
+  "url": "https://doi.org/10.1016/j.chempr.2025.102880",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Grinding",
+   "In-Situ",
+   "Mechanochemistry",
+   "Mortar & Pestle",
+   "Time-Resolved"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Federal Institute For Materials Research and Testing",
+   "Slovak Academy of Sciences",
+   "Institute of Geotechnics of the Slovak Academy of Sciences",
+   "University of Birmingham"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "0d287b52224b1169",
+  "title": "Experimental Isolation of Single Impact, Cumulative Energy, Aging, and Liquid‐Assisted Grinding Effects in Mechanochemical Reactions",
+  "authors": [
+   "Johanna Templ",
+   "Lars Borchardt"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-01-15",
+  "year": 2026,
+  "doi": "10.1002/anie.202523191",
+  "url": "https://doi.org/10.1002/anie.202523191",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Kinetics",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Grinding",
+   "Impact Energy",
+   "Mechanical Activation",
+   "Mechanochemistry",
+   "Milling",
+   "Mixer Mill"
+  ],
+  "relevance_score": 85,
+  "affiliations": [
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "50746227f1af2230",
+  "title": "Synergizing Mechanochemistry and Multicomponent Reactions for Sustainable COF Synthesis",
+  "authors": [
+   "Haiyan Pan",
+   "Nana Wang",
+   "Guan‐Wu Wang"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2026-01-06",
+  "year": 2026,
+  "doi": "10.1002/chem.70660",
+  "url": "https://doi.org/10.1002/chem.70660",
+  "source": "openalex",
+  "categories": [
+   "MOF & Framework Mechanosynthesis",
+   "Green & Solvent-Free Chemistry",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "COFs",
+   "Mechanochemistry",
+   "Mechanosynthesis",
+   "Milling",
+   "Sustainable Synthesis"
+  ],
+  "relevance_score": 80,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Anhui Normal University",
+   "Lanzhou University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "fa08bf4a7e0a9475",
   "title": "Using Mechanochemistry to Activate Poly(vinyl chloride) as a Mechanotunable Brønsted-Acid-Releasing Reagent for Organic Synthesis",
   "authors": [
@@ -30,6 +164,362 @@
   "added": "2026-07-27"
  },
  {
+  "id": "cb51bf8696178700",
+  "title": "Correction: Kinetics of the mechanically induced ibuprofen–nicotinamide co-crystal formation by in situ X-ray diffraction",
+  "authors": [
+   "Lucia Casali",
+   "Maria Carta",
+   "Adam A. L. Michalchuk",
+   "Francesco Delogu",
+   "Franziska Emmerling"
+  ],
+  "journal": "Physical Chemistry Chemical Physics",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d6cp90028c",
+  "url": "https://doi.org/10.1039/d6cp90028c",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Cocrystals",
+   "In-Situ",
+   "In-Situ PXRD",
+   "Mechanically Induced"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Federal Institute For Materials Research and Testing",
+   "University of Cagliari",
+   "University of Florence",
+   "University of Birmingham",
+   "Humboldt-Universität zu Berlin"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "c3652ca75e6aad05",
+  "title": "Mechanochemical applications of magnesium nitride to fullerene chemistry: synthesis of pyrroline-fused tetra-functionalized [60]fullerene derivatives",
+  "authors": [
+   "Jun-Shen Chen",
+   "Wen-Jie Qiu",
+   "Lifeng Guo",
+   "G. C. Wang"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d6cc00518g",
+  "url": "https://doi.org/10.1039/d6cc00518g",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Solvent-Free"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Anhui Normal University",
+   "Lanzhou University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "c2e36d57ca17b788",
+  "title": "Mechanochemical strategies for the catalytic upcycling of polyethylene via transfer hydrogenation",
+  "authors": [
+   "Antonio Cosimo Pio Trimboli",
+   "Emilia Paone",
+   "Andrea Donato",
+   "Riccardo Pellegrini",
+   "Elena Groppo",
+   "Maximilian Wohlgemuth",
+   "Sven Grätz",
+   "Francesco Mauriello",
+   "Lars Borchardt"
+  ],
+  "journal": "Polymer Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d6py00117c",
+  "url": "https://doi.org/10.1039/d6py00117c",
+  "source": "openalex",
+  "categories": [
+   "Liquid-Assisted Grinding",
+   "Mechanocatalysis & Mechanoredox",
+   "Mechanism & Kinetics",
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Catalyst",
+   "Depolymerization",
+   "Grinding",
+   "In-Situ",
+   "Liquid-Assisted Grinding",
+   "Mechanical Activation",
+   "Mechanocatalysis",
+   "Mechanochemistry",
+   "Milling",
+   "Mixer Mill",
+   "Planetary Mill"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "University of Reggio Calabria",
+   "Industriale Chimica (Italy)",
+   "Laboratoire de Chimie",
+   "University of Turin",
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "a779d46082c7f6ed",
+  "title": "Mechanochemistry-directed ligand design for enhanced reactivity and enantioselectivity in solve-less palladium-catalyzed conjugate arylations",
+  "authors": [
+   "Keisuke Kondo",
+   "Hina Shoji",
+   "Koji Kubota",
+   "Hajime Ito"
+  ],
+  "journal": "RSC Mechanochemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d6mr00032k",
+  "url": "https://doi.org/10.1039/d6mr00032k",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "a5c2cd1b67624deb",
+  "title": "Scalable mechanochemical synthesis of amides using bead milling technology",
+  "authors": [
+   "Pietro Caboni",
+   "Andrea Porcheddu",
+   "Sándor B. Ötvös",
+   "C. Oliver Kappe"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d5gc04764a",
+  "url": "https://doi.org/10.1039/d5gc04764a",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Amide Bond Formation",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Graz",
+   "University of Cagliari",
+   "Nawi Graz",
+   "Research Center Pharmaceutical Engineering (Austria)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "a2d74104370e69ad",
+  "title": "The role of ball mass, surface, and contact dynamics in mechanochemical reactions",
+  "authors": [
+   "Marisol Fabienne Rappen",
+   "Justus Mäder",
+   "Tino Schwemin",
+   "Sven Grätz",
+   "Lars Borchardt"
+  ],
+  "journal": "RSC Mechanochemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d5mr00146c",
+  "url": "https://doi.org/10.1039/d5mr00146c",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "a23b33e55253e8b9",
+  "title": "Scaling up mechanochemical reactions: linking crystalline phase evolution studied via in situ PXRD with kinetics from MCR-ALS",
+  "authors": [
+   "Laura Macchietti",
+   "Maria Carta",
+   "Francesco Delogu",
+   "Fabrizia Grepioni",
+   "Franziska Emmerling",
+   "Lucia Casali"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d6sc01158f",
+  "url": "https://doi.org/10.1039/d6sc01158f",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "In-Situ PXRD",
+   "Mechanochemistry",
+   "PXRD"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "University of Bologna",
+   "University of Cagliari",
+   "Consorzio Interuniversitario per lo Sviluppo dei Sistemi a Grande Interfase",
+   "University of Florence",
+   "Federal Institute For Materials Research and Testing",
+   "Humboldt-Universität zu Berlin"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "9b8667fc38602ac5",
+  "title": "ZIF-8-based biocomposites via reactive extrusion: towards industrial-scale manufacturing",
+  "authors": [
+   "Nikita Gugin",
+   "Alexander Schwab",
+   "Francesco Carraro",
+   "Isabella Tavernaro",
+   "Jana Falkenhagen",
+   "José Antonio Villajos",
+   "Paolo Falcaro",
+   "Franziska Emmerling"
+  ],
+  "journal": "Journal of Materials Chemistry A",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d5ta08276e",
+  "url": "https://doi.org/10.1039/d5ta08276e",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Mechanochemistry",
+   "Reactive Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Federal Institute For Materials Research and Testing",
+   "Humboldt-Universität zu Berlin",
+   "Graz University of Technology",
+   "Fuel Cells and Hydrogen"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "93edaa23faff8f6b",
+  "title": "Reimagining sulfohydroxamic acid formation through mechanochemical solid-state activation",
+  "authors": [
+   "Muhammad Irfan",
+   "Pietro Caboni",
+   "Andrea Porcheddu",
+   "Francesco Basoccu"
+  ],
+  "journal": "RSC Mechanochemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d5mr00141b",
+  "url": "https://doi.org/10.1039/d5mr00141b",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry",
+   "Milling",
+   "Solvent-Free"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of Cagliari",
+   "Istituto Nazionale di Fisica Nucleare, Sezione di Cagliari"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "9219c63099b49418",
+  "title": "Selective mechanochemical conversion of post-consumer polyethylene terephthalate waste into hcp and fcu UiO-66 metal–organic frameworks",
+  "authors": [
+   "Tomislav Stolar",
+   "Dilara Bayram",
+   "Anastasia May",
+   "Remie Matthieu Sundermann",
+   "Carsten Prinz",
+   "Klas Meyer",
+   "Anett Myxa",
+   "Jana Falkenhagen",
+   "Franziska Emmerling"
+  ],
+  "journal": "RSC Mechanochemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d4mr00126e",
+  "url": "https://doi.org/10.1039/d4mr00126e",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Federal Institute For Materials Research and Testing",
+   "Berliner Hochschule für Technik",
+   "IMT Mines Albi"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "5ab7e8591f6f3a57",
   "title": "Mechanochemical α to β phase transition of U 3 O 8",
   "authors": [
@@ -53,6 +543,137 @@
   ],
   "relevance_score": 52,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "596947b4a9b133d5",
+  "title": "Amano-PS-IM-catalyzed mechanochemical enzymatic acylative kinetic resolution of secondary alcohols",
+  "authors": [
+   "Koji Kubota",
+   "Yuri Kamakura",
+   "Taiga Takeda",
+   "Hajime Ito"
+  ],
+  "journal": "RSC Mechanochemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d6mr00028b",
+  "url": "https://doi.org/10.1039/d6mr00028b",
+  "source": "openalex",
+  "categories": [
+   "Liquid-Assisted Grinding",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Grinding",
+   "Liquid-Assisted Grinding",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "538f8431b503ae27",
+  "title": "Unveiling amorphous intermediates in mechanochemical metal–organic synthesis through in situ PXRD and THz-Raman coupling",
+  "authors": [
+   "Laura Macchietti",
+   "Lucia Casali",
+   "Laura Contini",
+   "Yihua Jiang",
+   "Tom Leyssens",
+   "Franziska Emmerling",
+   "Fabrizia Grepioni"
+  ],
+  "journal": "RSC Mechanochemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d6mr00045b",
+  "url": "https://doi.org/10.1039/d6mr00045b",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "In-Situ",
+   "In-Situ PXRD",
+   "Mechanochemistry",
+   "Organic Synthesis",
+   "PXRD"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "2a5df1933d7dbccd",
+  "title": "Scalable and sustainable mechanochemical deracemisation by resonant acoustic mixing",
+  "authors": [
+   "Guillaume Wery",
+   "Job Gieling",
+   "Zoer El Kaderi",
+   "Leeroy Hendrickx",
+   "Thomas Wiegand",
+   "Carsten Bolm",
+   "Tom Leyssens",
+   "Daniel M. Baier"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d5gc06927k",
+  "url": "https://doi.org/10.1039/d5gc06927k",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Resonant Acoustic Mixing"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "UCLouvain",
+   "Max Planck Institute for Chemical Energy Conversion",
+   "RWTH Aachen University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "10e3c4dfbda46bf9",
+  "title": "Unlocking the reversibility of the mechanochemical synthesis of a pharmaceutical cocrystal",
+  "authors": [
+   "Artem Golomolzin",
+   "E. A. Losev",
+   "E. Boldyreva"
+  ],
+  "journal": "RSC Mechanochemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d6mr00052e",
+  "url": "https://doi.org/10.1039/d6mr00052e",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Cocrystals",
+   "Mechanochemistry",
+   "Pharmaceutical Cocrystals"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Novosibirsk State University",
+   "V.S. Sobolev Institute of Geology and Mineralogy"
+  ],
   "added": "2026-07-27"
  }
 ]

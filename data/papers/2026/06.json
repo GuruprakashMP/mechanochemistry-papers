@@ -1,5 +1,92 @@
 [
  {
+  "id": "f9137989ec049efe",
+  "title": "Accelerated Mechanochemical Reaction Discovery and Development via Miniaturized Parallel Milling",
+  "authors": [
+   "Francesco Mele",
+   "Sarah E. Raby‐Buck",
+   "Ana Maria Constantin",
+   "Gabriele Mele",
+   "Federico Cuccu",
+   "Andrea Porcheddu",
+   "Katharine Ingram",
+   "Nicola Della Ca",
+   "Duncan L. Browne",
+   "Luca Capaldo"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-06-30",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15005205/v2",
+  "url": "https://doi.org/10.26434/chemrxiv.15005205/v2",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Heterocycle Synthesis",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of Parma",
+   "Synlab Czech (Czechia)",
+   "Medway School of Pharmacy",
+   "University College London"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "7f5fffb3ef923688",
+  "title": "Partial Deuteration Tunes Reactivity of Solids in a Mechanochemical Transformation by Inducing an Unexpected Kinetic Isotope Effect",
+  "authors": [
+   "Stipe Lukin",
+   "Lea Čolakić",
+   "Maria Carta",
+   "Edi Topić",
+   "Goran Miletić",
+   "Dajana Barišić",
+   "Marco Di Michiel",
+   "Francesco Delogu",
+   "Iván Halász"
+  ],
+  "journal": "Chemistry of Materials",
+  "publisher": "American Chemical Society",
+  "published": "2026-06-29",
+  "year": 2026,
+  "doi": "10.1021/acs.chemmater.6c01508",
+  "url": "https://doi.org/10.1021/acs.chemmater.6c01508",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids",
+   "Computational & Data-Driven",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "DFT",
+   "In-Situ",
+   "Mechanochemistry",
+   "PXRD",
+   "Polymorphism",
+   "Raman",
+   "Salt Formation",
+   "Supramolecular",
+   "Synchrotron"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Ruđer Bošković Institute",
+   "University of Cagliari",
+   "University of Zagreb",
+   "European Synchrotron Radiation Facility"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "bb712d44c5dffbde",
   "title": "A Mosaic Layered Halide-Perovskite Spin Glass: Mechanochemical Alloying of a Ferromagnet and a Paramagnet.",
   "authors": [
@@ -27,6 +114,107 @@
    "Perovskites"
   ],
   "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "2a134b63adc6a102",
+  "title": "Mechanochemical Upcycling of Polyvinylidene Fluoride: Lewis Acid Induced Generation of Sodium Aluminium Fluorides",
+  "authors": [
+   "Minh Bui",
+   "Jakob Bölle",
+   "Jörg Radnik",
+   "Steffen M. Weidner",
+   "Luise Sander",
+   "Mike Ahrens",
+   "Kerstin Scheurell",
+   "Kannan Balasubramanian",
+   "Franziska Emmerling",
+   "Thomas Braun"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2026-06-22",
+  "year": 2026,
+  "doi": "10.1002/cssc.70741",
+  "url": "https://doi.org/10.1002/cssc.70741",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "Humboldt-Universität zu Berlin",
+   "Federal Institute For Materials Research and Testing"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "7202ab20ecc5edd2",
+  "title": "Mechanochemical Dehydrogenative Phenochalcogenazination: A Pronounced Water Effect",
+  "authors": [
+   "Alina Paffen",
+   "Calogero Quaranta",
+   "Kishor Gavhane",
+   "Hardik V. Mori",
+   "Frédéric W. Patureau",
+   "Carsten Bolm"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2026-06-17",
+  "year": 2026,
+  "doi": "10.1002/cssc.70801",
+  "url": "https://doi.org/10.1002/cssc.70801",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Catalyst",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "RWTH Aachen University",
+   "Reliance Industries (India)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "f1590eff78c2e07a",
+  "title": "Unlocking Temperature Insights in Mechanochemistry by Raman Thermometry",
+  "authors": [
+   "Tugce Dogan",
+   "Sven Fabig",
+   "Sven Graetz",
+   "Lars Borchardt"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-06-15",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15004743/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15004743/v1",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Ball Milling",
+   "In-Situ",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 68,
   "affiliations": [],
   "added": "2026-07-27"
  },

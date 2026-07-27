@@ -1,5 +1,298 @@
 [
  {
+  "id": "538d92f173e7ef06",
+  "title": "Real‐Time In Situ Raman Monitoring of Photomechanochemical Reactions",
+  "authors": [
+   "Ivica Cvrtila",
+   "Vjekoslav Štrukil",
+   "Marija Alešković",
+   "Ivan Kulcsár",
+   "Tomislav Mrla",
+   "Evelina Colacino",
+   "Iván Halász"
+  ],
+  "journal": "Chemistry - Methods",
+  "publisher": "Wiley",
+  "published": "2025-01-31",
+  "year": 2025,
+  "doi": "10.1002/cmtd.202400089",
+  "url": "https://doi.org/10.1002/cmtd.202400089",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Ball Milling",
+   "In-Situ",
+   "In-Situ Raman",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Ruđer Bošković Institute",
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "f0d5d5b6397434da",
+  "title": "Controlled Introduction of sp 3 Quantum Defects in Fluorescent Carbon Nanotubes by Mechanochemistry",
+  "authors": [
+   "Miriam Sander",
+   "Justus T. Metternich",
+   "Pascal Dippner",
+   "Sebastian Kruss",
+   "Lars Borchardt"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2025-01-21",
+  "year": 2025,
+  "doi": "10.1002/anie.202421021",
+  "url": "https://doi.org/10.1002/anie.202421021",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Ruhr University Bochum",
+   "Fraunhofer Institute for Microelectronic Circuits and Systems"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "a93846fdd3b19676",
+  "title": "Kontrollierte Einführung von sp 3 ‐Quantendefekten in Fluoreszierenden Kohlenstoffnanoröhren mittels Mechanochemie",
+  "authors": [
+   "Miriam Sander",
+   "Justus T. Metternich",
+   "Pascal Dippner",
+   "Sebastian Kruss",
+   "Lars Borchardt"
+  ],
+  "journal": "Angewandte Chemie",
+  "publisher": "Wiley",
+  "published": "2025-01-21",
+  "year": 2025,
+  "doi": "10.1002/ange.202421021",
+  "url": "https://doi.org/10.1002/ange.202421021",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Ruhr University Bochum",
+   "Fraunhofer Institute for Microelectronic Circuits and Systems"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "d68430d65095b0bd",
+  "title": "Scalable Main Group Mechanocatalytic CO2 Valorisation to Cyclocarbonate Species",
+  "authors": [
+   "Javier F. Reynes",
+   "Lucía Álvarez‐Miguel",
+   "Frederik Winkelmann",
+   "Michael Felderhoff",
+   "Marta E. G. Mosquera",
+   "Christopher J. Whiteoak",
+   "Felipe Garcı́a"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2025-01-20",
+  "year": 2025,
+  "doi": "10.26434/chemrxiv-2025-d0b12",
+  "url": "https://doi.org/10.26434/chemrxiv-2025-d0b12",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanocatalysis",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "Universidad de Oviedo",
+   "Universidad de Alcalá",
+   "Max-Planck-Institut für Kohlenforschung",
+   "Australian Regenerative Medicine Institute",
+   "Monash University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "04437bffe5d3bd89",
+  "title": "Mechanochemistry: Unravelling the Impact of Metal Leaching in Organic Synthesis",
+  "authors": [
+   "Francesco Basoccu",
+   "Pietro Caboni",
+   "Andrea Porcheddu"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2025-01-17",
+  "year": 2025,
+  "doi": "10.1002/cssc.202402547",
+  "url": "https://doi.org/10.1002/cssc.202402547",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Organic Mechanosynthesis",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Grinding",
+   "Mechanochemistry",
+   "Milling",
+   "Milling Media",
+   "Organic Synthesis",
+   "Solvent-Free"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "University of Cagliari"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "f804bc1395c06648",
+  "title": "Ligand-free reductive amination via Pd-coated mechanocatalysis",
+  "authors": [
+   "Maximilian Wohlgemuth",
+   "Sarah Schmidt",
+   "Lars Beißel",
+   "Lars Borchardt"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5cc04707b",
+  "url": "https://doi.org/10.1039/d5cc04707b",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanocatalysis",
+   "Milling"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "dcdf1c28ca7215bf",
+  "title": "A mechanochemical [2+2+2] cycloaddition facilitated by a cobalt( ii ) catalyst and piezoelectric materials",
+  "authors": [
+   "Kalipada Jana",
+   "Koji Kubota",
+   "Hajime Ito"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5sc02074c",
+  "url": "https://doi.org/10.1039/d5sc02074c",
+  "source": "openalex",
+  "categories": [
+   "Piezo- & Tribocatalysis",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanochemistry",
+   "Piezoelectric"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "d8e05a71366815d0",
+  "title": "Lewis-acid induced mechanochemical degradation of polyvinylidene fluoride: transformation into valuable products",
+  "authors": [
+   "Minh Bui",
+   "Christian Heinekamp",
+   "Emil Fuhry",
+   "Steffen Weidner",
+   "Jörg Radnik",
+   "Mike Ahrens",
+   "Kerstin Scheurell",
+   "Kannan Balasubramanian",
+   "Franziska Emmerling",
+   "Thomas Braun"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5sc05783c",
+  "url": "https://doi.org/10.1039/d5sc05783c",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Humboldt-Universität zu Berlin",
+   "Federal Institute For Materials Research and Testing",
+   "Ambulatory Rehabilitation Center Berlin Adlershof"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "cca259884ad5f572",
+  "title": "Mechanochemically mediated electrosynthesis: unveiling a new pathway for redox reactions under mechanochemical conditions",
+  "authors": [
+   "M. Mokhtar",
+   "Tom Heppler",
+   "James Mack"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d4gc06293k",
+  "url": "https://doi.org/10.1039/d4gc06293k",
+  "source": "openalex",
+  "categories": [
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Organic Synthesis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Cincinnati"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "beffe9c5e7e92032",
   "title": "Mechanically induced sequential one-pot Wittig olefination–Diels–Alder reaction: a solvent-free approach to complex bicyclic scaffolds",
   "authors": [
@@ -22,6 +315,354 @@
   ],
   "relevance_score": 58,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "b1f9cd42d333c2ac",
+  "title": "Sustainable mechanochemical approach for the selective synthesis of multicomponent organic solids: real-time in situ insights",
+  "authors": [
+   "Torvid Feiler",
+   "Franziska Emmerling",
+   "Biswajit Bhattacharya"
+  ],
+  "journal": "CrystEngComm",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5ce00663e",
+  "url": "https://doi.org/10.1039/d5ce00663e",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids",
+   "In-Situ Monitoring",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Cocrystals",
+   "Grinding",
+   "In-Situ",
+   "In-Situ PXRD",
+   "Mechanochemistry",
+   "PXRD"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Federal Institute For Materials Research and Testing",
+   "Humboldt-Universität zu Berlin"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "671734fad5f58bdb",
+  "title": "Moving mechanochemistry forward",
+  "authors": [
+   "James D. Batteas",
+   "Kerstin G. Blank",
+   "Evelina Colacino",
+   "Franziska Emmerling",
+   "Tomislav Friščić",
+   "James Mack",
+   "Jeffrey S. Moore",
+   "Maria Elena Rivas",
+   "Wilfred T. Tysoe"
+  ],
+  "journal": "RSC Mechanochemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d4mr90021a",
+  "url": "https://doi.org/10.1039/d4mr90021a",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Texas A&M University",
+   "Johannes Kepler University of Linz",
+   "Université de Montpellier",
+   "Federal Institute For Materials Research and Testing",
+   "University of Birmingham",
+   "University of Cincinnati",
+   "University of Illinois Urbana-Champaign",
+   "Johnson Matthey (United Kingdom)",
+   "University of Wisconsin–Milwaukee"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "63a1e32ea765335e",
+  "title": "Solvent-free zinc-mediated Béchamp reduction using mechanochemistry",
+  "authors": [
+   "Koji Kubota",
+   "Asahi Nagao",
+   "Hajime Ito"
+  ],
+  "journal": "RSC Mechanochemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d4mr00138a",
+  "url": "https://doi.org/10.1039/d4mr00138a",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Solvent-Free"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "62d528ed53b9777e",
+  "title": "Solid-state aromatic nucleophilic fluorination: a rapid, practical, and environmentally friendly route to N-heteroaryl fluorides",
+  "authors": [
+   "Koji Kubota",
+   "Tetsu Makino",
+   "Keisuke Kondo",
+   "Tamae Seo",
+   "Mingoo Jin",
+   "Hajime Ito"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d4gc06362g",
+  "url": "https://doi.org/10.1039/d4gc06362g",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "6041e4ef2d7717f5",
+  "title": "A cooperative electron-deficient phosphine/olefin ligand system for the site-selective mechanochemical Suzuki–Miyaura cross-coupling of 2,4-dibromoaryl ethers",
+  "authors": [
+   "Yunpeng Gao",
+   "Julong Jiang",
+   "Satoshi Maeda",
+   "Koji Kubota",
+   "Hajime Ito"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5sc01669j",
+  "url": "https://doi.org/10.1039/d5sc01669j",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Cross-Coupling",
+   "Mechanochemistry",
+   "Milling",
+   "Suzuki Coupling"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "Hokkaido University",
+   "Hokkai Gakuen University",
+   "Hokkaido University of Science"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "4799d49da2892cb5",
+  "title": "Mechanochemically synthesized covalent organic frameworks as catalysts for the Suzuki–Miyaura coupling reaction",
+  "authors": [
+   "Hong Pan",
+   "Nana Wang",
+   "Guan‐Wu Wang"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5cc02179k",
+  "url": "https://doi.org/10.1039/d5cc02179k",
+  "source": "openalex",
+  "categories": [
+   "MOF & Framework Mechanosynthesis",
+   "Organic Mechanosynthesis",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "COFs",
+   "Catalyst",
+   "Mechanochemistry",
+   "Suzuki Coupling"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Anhui Normal University",
+   "Lanzhou University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "44cda3e18ccd3230",
+  "title": "Monitoring in situ Mechanochemical Reactions",
+  "authors": [
+   "Franziska Emmerling",
+   "Adam A. L. Michalchuk∞"
+  ],
+  "journal": "Elsevier eBooks",
+  "publisher": "Elsevier BV",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1016/b978-0-443-15742-4.00126-5",
+  "url": "https://doi.org/10.1016/b978-0-443-15742-4.00126-5",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Federal Institute For Materials Research and Testing",
+   "University of Birmingham"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "223b070726eaa789",
+  "title": "In situ Raman spectroscopy for comparing ball milling and resonant acoustic mixing in organic mechanosynthesis",
+  "authors": [
+   "Leonarda Vugrin",
+   "Christos Chatzigiannis",
+   "Evelina Colacino",
+   "Iván Halász"
+  ],
+  "journal": "RSC Mechanochemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5mr00016e",
+  "url": "https://doi.org/10.1039/d5mr00016e",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Ball Milling",
+   "In-Situ",
+   "In-Situ Raman",
+   "Mechanochemistry",
+   "Mechanosynthesis",
+   "Milling",
+   "Raman",
+   "Resonant Acoustic Mixing"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Ruđer Bošković Institute",
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "20eb7c186b6e787e",
+  "title": "Thermally accelerated Heck reaction under direct mechanocatalysis using palladium milling balls",
+  "authors": [
+   "Johanna Templ",
+   "Suhmi Hwang",
+   "Tino Schwemin",
+   "Hakan Baltaci",
+   "Lars Borchardt"
+  ],
+  "journal": "RSC Mechanochemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5mr00032g",
+  "url": "https://doi.org/10.1039/d5mr00032g",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox",
+   "Ball Milling & Grinding",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Mechanocatalysis",
+   "Milling"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University Hospitals of the Ruhr-University of Bochum",
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "1be405754fc358f9",
+  "title": "Modulating the crystalline forms of silver–sulfadiazine complexes by mechanochemistry",
+  "authors": [
+   "Daniela R. Ferreira",
+   "Anaïs Portet",
+   "Paula C. Alves",
+   "Patrícia Rijo",
+   "Clara S. B. Gomes",
+   "M. Teresa Duarte",
+   "Iván Halász",
+   "Evelina Colacino",
+   "Franziska Emmerling",
+   "Vânia André"
+  ],
+  "journal": "CrystEngComm",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5ce00572h",
+  "url": "https://doi.org/10.1039/d5ce00572h",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "University of Lisbon",
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier",
+   "Universidade Lusófona",
+   "Universidade Nova de Lisboa",
+   "Ruđer Bošković Institute",
+   "Federal Institute For Materials Research and Testing"
+  ],
   "added": "2026-07-27"
  },
  {
@@ -52,6 +693,41 @@
   ],
   "relevance_score": 62,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "115fccd5c068c086",
+  "title": "Chemoselectivity switch by mechanochemistry in the base-catalysed dione-acylation",
+  "authors": [
+   "Sally Nijem",
+   "Alexander Kaushansky",
+   "Svetana Pucovski",
+   "Elisa Ivry",
+   "Evelina Colacino",
+   "Iván Halász",
+   "Charles E. Diesendruck"
+  ],
+  "journal": "RSC Mechanochemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d4mr00141a",
+  "url": "https://doi.org/10.1039/d4mr00141a",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Technion – Israel Institute of Technology",
+   "Ruđer Bošković Institute",
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier"
+  ],
   "added": "2026-07-27"
  }
 ]

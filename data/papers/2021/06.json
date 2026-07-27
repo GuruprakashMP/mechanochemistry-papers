@@ -1,5 +1,105 @@
 [
  {
+  "id": "2f22e7252a2b7785",
+  "title": "Ball Milling Enabled Reactivity of Manganese Metal",
+  "authors": [
+   "Duncan L. Browne",
+   "William I. Nicholson",
+   "Joseph L. Howard",
+   "Giuseppina Magri",
+   "Alex C. Seastram",
+   "Adam Khan",
+   "Louis C. Morrill",
+   "Emma Richards"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2021-06-30",
+  "year": 2021,
+  "doi": "10.33774/chemrxiv-2021-s7r6b",
+  "url": "https://doi.org/10.33774/chemrxiv-2021-s7r6b",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University College London",
+   "Cardiff University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "850b526d5acc7911",
+  "title": "Cover Picture: Introduction of a Luminophore into Generic Polymers via Mechanoradical Coupling with a Prefluorescent Reagent (Angew. Chem. Int. Ed. 29/2021)",
+  "authors": [
+   "Koji Kubota",
+   "Naoki Toyoshima",
+   "Daiyo Miura",
+   "Julong Jiang",
+   "Satoshi Maeda",
+   "Mingoo Jin",
+   "Hajime Ito"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2021-06-21",
+  "year": 2021,
+  "doi": "10.1002/anie.202107754",
+  "url": "https://doi.org/10.1002/anie.202107754",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Ball Milling",
+   "In-Situ",
+   "Milling"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "67eb426a943684c4",
+  "title": "A Ball Milling Enabled Cross-Electrophile Coupling",
+  "authors": [
+   "Andrew C. Jones",
+   "William I. Nicholson",
+   "Jamie A. Leitch",
+   "Duncan L. Browne"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2021-06-13",
+  "year": 2021,
+  "doi": "10.26434/chemrxiv.14770740.v1",
+  "url": "https://doi.org/10.26434/chemrxiv.14770740.v1",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Cardiff University",
+   "Medway School of Pharmacy",
+   "University College London"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "a21adbc7d6944f04",
   "title": "Introducing Mechanochemistry into Rubber Processing: Green-Functionalized Cross-Linking Network of Butadiene Elastomer",
   "authors": [
@@ -28,6 +128,107 @@
   ],
   "relevance_score": 46,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "be9052c61b3f753d",
+  "title": "Raman spectroscopy for real-time and in situ monitoring of mechanochemical milling reactions",
+  "authors": [
+   "Stipe Lukin",
+   "Krunoslav Užarević",
+   "Iván Halász"
+  ],
+  "journal": "Nature Protocols",
+  "publisher": "Nature Portfolio",
+  "published": "2021-06-04",
+  "year": 2021,
+  "doi": "10.1038/s41596-021-00545-x",
+  "url": "https://doi.org/10.1038/s41596-021-00545-x",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry",
+   "Milling",
+   "Raman"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Ruđer Bošković Institute"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "f137dc127b9c5179",
+  "title": "A mechanochemical method for the transformation of biomass and applications of nanochitin and nanochitosan in catalysis",
+  "authors": [
+   "Blaine G. Fiss",
+   "Tony Z. Jin",
+   "Malickah Hicks",
+   "Tracy Liu",
+   "Edmond Lam",
+   "Tomislav Friščić",
+   "Audrey Moores"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2021-06-01",
+  "year": 2021,
+  "doi": "10.1021/scimeetings.1c00666",
+  "url": "https://doi.org/10.1021/scimeetings.1c00666",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "2ee1686ad600d6eb",
+  "title": "Simplifying and Expanding the Scope of Boron Imidazolate Framework (BIF) Synthesis Using Mechanochemistry",
+  "authors": [
+   "Cameron B. Lennox",
+   "Jean‐Louis Do",
+   "Joshua Crew",
+   "Mihails Arhangelskis",
+   "Hatem M. Titi",
+   "Ashlee J. Howarth",
+   "Omar K. Farha",
+   "Tomislav Friščić"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2021-06-01",
+  "year": 2021,
+  "doi": "10.26434/chemrxiv.14707233",
+  "url": "https://doi.org/10.26434/chemrxiv.14707233",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids",
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "DFT",
+   "Mechanochemistry",
+   "Polymorphism"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Fonds de Recherche du Québec – Nature et Technologies",
+   "Centre québécois sur les matériaux fonctionnels",
+   "McGill University",
+   "Cardiff University",
+   "University of Warsaw",
+   "Northwestern University",
+   "Concordia University"
+  ],
   "added": "2026-07-27"
  }
 ]

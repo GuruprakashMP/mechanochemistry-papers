@@ -1,5 +1,131 @@
 [
  {
+  "id": "d512ce5f5bbe580c",
+  "title": "Reactors for Special Technical-Chemical Processes: Tribochemical Reactors",
+  "authors": [
+   "Lars Borchardt",
+   "Sven Grätz"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2025-12-31",
+  "year": 2025,
+  "doi": "10.1007/978-3-662-69921-8_34",
+  "url": "https://doi.org/10.1007/978-3-662-69921-8_34",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Tribochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "38fc02fba6204b76",
+  "title": "Moving mechanochemistry forward: accelerating and tuning organic synthesis by mechanochemistry",
+  "authors": [
+   "Isaiah R. Speight",
+   "James Mack"
+  ],
+  "journal": "RSC Mechanochemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-12-15",
+  "year": 2025,
+  "doi": "10.1039/d5mr90035b",
+  "url": "https://doi.org/10.1039/d5mr90035b",
+  "source": "openalex",
+  "categories": [
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Organic Synthesis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "William & Mary",
+   "Williams (United States)",
+   "University of Cincinnati"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "9e9a7911dcf26409",
+  "title": "Mechanochemical synthesis of organosodium compounds through direct sodiation of organic halides",
+  "authors": [
+   "Keisuke Kondo",
+   "Matthew Lowe",
+   "Nathan Davison",
+   "Paul G. Waddell",
+   "Roly J. Armstrong",
+   "Erli Lu",
+   "Koji Kubota",
+   "Hajime Ito"
+  ],
+  "journal": "Nature Synthesis",
+  "publisher": "Nature Portfolio",
+  "published": "2025-12-08",
+  "year": 2025,
+  "doi": "10.1038/s44160-025-00949-7",
+  "url": "https://doi.org/10.1038/s44160-025-00949-7",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Mechanochemistry",
+   "Organic Synthesis",
+   "Solvent-Free"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Hokkaido University",
+   "Newcastle University",
+   "University of Birmingham"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "0051e168eb525a99",
+  "title": "Motion matters: the role of milling ball trajectories in mechanochemical reactions",
+  "authors": [
+   "Marisol Fabienne Rappen",
+   "Justus Mäder",
+   "Sven Grätz",
+   "Lars Borchardt"
+  ],
+  "journal": "RSC Mechanochemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-12-02",
+  "year": 2025,
+  "doi": "10.1039/d5mr00112a",
+  "url": "https://doi.org/10.1039/d5mr00112a",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox",
+   "Ball Milling & Grinding",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Mechanocatalysis",
+   "Mechanochemistry",
+   "Milling",
+   "Suzuki Coupling"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "ccface634f10c966",
   "title": "Achieving highly selective polishing of polysilicon over oxide and nitride films via ethylenediamine-modulated interfacial mechanochemistry",
   "authors": [

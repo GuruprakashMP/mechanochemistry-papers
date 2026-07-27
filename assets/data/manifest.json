@@ -1,86 +1,151 @@
 {
- "generated": "2026-07-27 15:34 UTC",
- "total": 74,
+ "generated": "2026-07-27 15:39 UTC",
+ "total": 912,
  "years": [
   {
    "year": 2026,
-   "count": 37,
+   "count": 88,
    "file": "papers-2026.json"
   },
   {
    "year": 2025,
-   "count": 3,
+   "count": 74,
    "file": "papers-2025.json"
   },
   {
    "year": 2024,
-   "count": 4,
+   "count": 67,
    "file": "papers-2024.json"
   },
   {
    "year": 2023,
-   "count": 5,
+   "count": 71,
    "file": "papers-2023.json"
   },
   {
    "year": 2022,
-   "count": 5,
+   "count": 86,
    "file": "papers-2022.json"
   },
   {
    "year": 2021,
-   "count": 4,
+   "count": 69,
    "file": "papers-2021.json"
   },
   {
    "year": 2020,
-   "count": 4,
+   "count": 61,
    "file": "papers-2020.json"
   },
   {
    "year": 2019,
-   "count": 2,
+   "count": 54,
    "file": "papers-2019.json"
   },
   {
    "year": 2018,
-   "count": 1,
+   "count": 51,
    "file": "papers-2018.json"
   },
   {
    "year": 2017,
-   "count": 1,
+   "count": 49,
    "file": "papers-2017.json"
   },
   {
    "year": 2016,
-   "count": 1,
+   "count": 37,
    "file": "papers-2016.json"
   },
   {
    "year": 2015,
-   "count": 2,
+   "count": 35,
    "file": "papers-2015.json"
   },
   {
+   "year": 2014,
+   "count": 30,
+   "file": "papers-2014.json"
+  },
+  {
+   "year": 2013,
+   "count": 29,
+   "file": "papers-2013.json"
+  },
+  {
    "year": 2012,
-   "count": 1,
+   "count": 25,
    "file": "papers-2012.json"
   },
   {
+   "year": 2011,
+   "count": 17,
+   "file": "papers-2011.json"
+  },
+  {
    "year": 2010,
-   "count": 2,
+   "count": 13,
    "file": "papers-2010.json"
   },
   {
+   "year": 2009,
+   "count": 10,
+   "file": "papers-2009.json"
+  },
+  {
+   "year": 2008,
+   "count": 14,
+   "file": "papers-2008.json"
+  },
+  {
+   "year": 2007,
+   "count": 11,
+   "file": "papers-2007.json"
+  },
+  {
    "year": 2006,
-   "count": 1,
+   "count": 4,
    "file": "papers-2006.json"
   },
   {
-   "year": 1999,
+   "year": 2005,
+   "count": 5,
+   "file": "papers-2005.json"
+  },
+  {
+   "year": 2004,
+   "count": 5,
+   "file": "papers-2004.json"
+  },
+  {
+   "year": 2003,
    "count": 1,
+   "file": "papers-2003.json"
+  },
+  {
+   "year": 2002,
+   "count": 1,
+   "file": "papers-2002.json"
+  },
+  {
+   "year": 1999,
+   "count": 2,
    "file": "papers-1999.json"
+  },
+  {
+   "year": 1998,
+   "count": 1,
+   "file": "papers-1998.json"
+  },
+  {
+   "year": 1984,
+   "count": 1,
+   "file": "papers-1984.json"
+  },
+  {
+   "year": 1983,
+   "count": 1,
+   "file": "papers-1983.json"
   }
  ]
 }

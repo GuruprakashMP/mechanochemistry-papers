@@ -1,5 +1,119 @@
 [
  {
+  "id": "fd67775fcb7f8e83",
+  "title": "The Direct Mechanocatalytic Suzuki–Miyaura Reaction of Small Organic Molecules",
+  "authors": [
+   "Wilm Pickhardt",
+   "Claudio Beaković",
+   "Maike Mayer",
+   "Maximilian Wohlgemuth",
+   "Fabien Joel Leon Kraus",
+   "Martin Etter",
+   "Sven Grätz",
+   "Lars Borchardt"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-05-31",
+  "year": 2022,
+  "doi": "10.1002/anie.202205003",
+  "url": "https://doi.org/10.1002/anie.202205003",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox",
+   "Organic Mechanosynthesis",
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Catalyst",
+   "Cross-Coupling",
+   "In-Situ",
+   "Mechanocatalysis",
+   "Mechanochemistry",
+   "Milling",
+   "Suzuki Coupling"
+  ],
+  "relevance_score": 86,
+  "affiliations": [
+   "Ruhr University Bochum",
+   "Deutsches Elektronen-Synchrotron DESY"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "2397e2f7f446be08",
+  "title": "Mechanosynthesis and Photophysics of Colour-tunable Photoluminescent Group 13 Metal Complexes with Sterically Demanding 3,5-di-tert-butyl Substituted Salen and Salophen Ligands",
+  "authors": [
+   "Félix León",
+   "Chenfei Li",
+   "Javier F. Reynes",
+   "Varun K. Sigh",
+   "Xiao Lian",
+   "How Chee Ong",
+   "Gavin Hum",
+   "Handong Sun",
+   "Felipe Garcı́a"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2022-05-24",
+  "year": 2022,
+  "doi": "10.26434/chemrxiv-2022-gm12z",
+  "url": "https://doi.org/10.26434/chemrxiv-2022-gm12z",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nanyang Technological University",
+   "Universidad de Oviedo"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "70ebe6f46da3d4fd",
+  "title": "Mechanistic Study of the Mechanochemical Pd II -Catalyzed Bromination of Aromatic C–H Bonds by Experimental and Computational Methods",
+  "authors": [
+   "Dajana Barišić",
+   "Iván Halász",
+   "Alen Bjelopetrović",
+   "Darko Babić",
+   "Manda Ćurić"
+  ],
+  "journal": "Organometallics",
+  "publisher": "American Chemical Society",
+  "published": "2022-05-18",
+  "year": 2022,
+  "doi": "10.1021/acs.organomet.1c00698",
+  "url": "https://doi.org/10.1021/acs.organomet.1c00698",
+  "source": "openalex",
+  "categories": [
+   "Computational & Data-Driven",
+   "In-Situ Monitoring",
+   "Mechanism & Kinetics",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "DFT",
+   "In-Situ",
+   "Mechanochemistry",
+   "Raman",
+   "Reaction Mechanism",
+   "Time-Resolved"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Ruđer Bošković Institute"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "91c4e969b28e4344",
   "title": "Reticular Synthesis of Hydrogen‐Bonded Organic Frameworks and Their Derivatives via Mechanochemistry",
   "authors": [
@@ -32,6 +146,37 @@
   ],
   "relevance_score": 65,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "6d885c7205d8acd7",
+  "title": "Iron‐Catalyzed Intramolecular Arene C(sp 2 )−H Amidations under Mechanochemical Conditions",
+  "authors": [
+   "Peng Shi",
+   "Yongliang Tu",
+   "Deshen Kong",
+   "Peng Wu",
+   "Ding Ma",
+   "Carsten Bolm"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-05-05",
+  "year": 2022,
+  "doi": "10.1002/anie.202204874",
+  "url": "https://doi.org/10.1002/anie.202204874",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "RWTH Aachen University"
+  ],
   "added": "2026-07-27"
  }
 ]

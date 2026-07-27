@@ -1,5 +1,112 @@
 [
  {
+  "id": "67304091a7bb46d1",
+  "title": "Milling Medium‐Free Suzuki Coupling by Direct Mechanocatalysis: From Mixer Mills to Resonant Acoustic Mixers**",
+  "authors": [
+   "Maximilian Wohlgemuth",
+   "Sarah Schmidt",
+   "Maike Mayer",
+   "Wilm Pickhardt",
+   "Sven Grätz",
+   "Lars Borchardt"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2023-07-28",
+  "year": 2023,
+  "doi": "10.1002/chem.202301714",
+  "url": "https://doi.org/10.1002/chem.202301714",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox",
+   "Ball Milling & Grinding",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Grinding",
+   "Mechanocatalysis",
+   "Mechanochemistry",
+   "Milling",
+   "Mixer Mill",
+   "Suzuki Coupling"
+  ],
+  "relevance_score": 95,
+  "affiliations": [
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "1272e81c33c96947",
+  "title": "Mechanosynthesis of Fullerotetrahydroquinolines by Copper-Mediated sp3 C–H Functionalization of N,N-Dimethylanilines with [60]Fullerene",
+  "authors": [
+   "Guan‐Wu Wang",
+   "Huan Yang",
+   "Shi-Qi Ye",
+   "Gang Shao",
+   "Jun-Shen Chen"
+  ],
+  "journal": "Synlett",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2023-07-24",
+  "year": 2023,
+  "doi": "10.1055/a-2136-3849",
+  "url": "https://doi.org/10.1055/a-2136-3849",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Mechanosynthesis",
+   "Milling",
+   "Perovskites",
+   "Solvent-Free"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Hefei National Center for Physical Sciences at Nanoscale",
+   "State Key Laboratory of Applied Organic Chemistry",
+   "Lanzhou University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "95143a873dd19178",
+  "title": "Ammonia Synthesis by Mechanochemistry",
+  "authors": [
+   "Federico Cuccu",
+   "Duncan L. Browne",
+   "Andrea Porcheddu"
+  ],
+  "journal": "ChemCatChem",
+  "publisher": "Wiley",
+  "published": "2023-07-17",
+  "year": 2023,
+  "doi": "10.1002/cctc.202300762",
+  "url": "https://doi.org/10.1002/cctc.202300762",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanocatalysis",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "University of Cagliari",
+   "Medway School of Pharmacy",
+   "University College London"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "24615275e5419344",
   "title": "Experimental quantitation of molecular conditions responsible for flow-induced polymer mechanochemistry",
   "authors": [
@@ -22,6 +129,40 @@
   ],
   "relevance_score": 66,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "c59d149252b8799b",
+  "title": "Opportunities and Challenges in Applying Solid‐State NMR Spectroscopy in Organic Mechanochemistry",
+  "authors": [
+   "Igor d’Anciães Almeida Silva",
+   "Ettore Bartalucci",
+   "Carsten Bolm",
+   "Thomas Wiegand"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "",
+  "published": "2023-07-05",
+  "year": 2023,
+  "doi": "10.1002/adma.202304092",
+  "url": "https://doi.org/10.1002/adma.202304092",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids",
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry",
+   "Milling",
+   "Polymorphism"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Max Planck Institute for Chemical Energy Conversion",
+   "RWTH Aachen University"
+  ],
   "added": "2026-07-27"
  }
 ]

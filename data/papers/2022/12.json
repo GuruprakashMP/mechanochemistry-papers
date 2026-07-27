@@ -1,5 +1,121 @@
 [
  {
+  "id": "2851a067221f04a4",
+  "title": "Valorization of Kraft Lignin by mechanochemical processing with sodium percarbonate",
+  "authors": [
+   "Friedrich Fink",
+   "Tomasz M. Stawski",
+   "Franziska Emmerling",
+   "Jana Falkenhagen"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2022-12-21",
+  "year": 2022,
+  "doi": "10.26434/chemrxiv-2022-rtzcx",
+  "url": "https://doi.org/10.26434/chemrxiv-2022-rtzcx",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Federal Institute For Materials Research and Testing"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "3feeb293ffd71280",
+  "title": "Quantitative, room‐temperature, solvent-free mechanochemical oxidation of elemental gold into organosoluble gold salts",
+  "authors": [
+   "Jean‐Louis Do",
+   "Thomas Auvray",
+   "Cameron B. Lennox",
+   "Hatem M. Titi",
+   "Louis A. Cuccia",
+   "Tomislav Friščić"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2022-12-18",
+  "year": 2022,
+  "doi": "10.26434/chemrxiv-2022-800px",
+  "url": "https://doi.org/10.26434/chemrxiv-2022-800px",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Nanoparticles",
+   "Solvent-Free"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "McGill University",
+   "Concordia University",
+   "University of Birmingham"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "53a320e7881da726",
+  "title": "Advances in synthesis: general discussion",
+  "authors": [
+   "Alexander Angerhofer",
+   "Matěj Baláž",
+   "Viktor P. Balema",
+   "Ana M. Belenguer",
+   "Richard G. Blair",
+   "E.V. Boldyreva",
+   "Carsten Bolm",
+   "Lars Borchardt",
+   "Adam B. Braunschweig",
+   "Duncan L. Browne",
+   "Stephen L. Craig",
+   "Lamis El Wenni",
+   "Franziska Emmerling",
+   "M.J. Ferguson",
+   "Cecilia Fiore",
+   "Tomislav Friščić",
+   "Kimichika Fukushima",
+   "Felipe Garcı́a",
+   "Lori Gonnet",
+   "Sven Grätz",
+   "Rafael A. Hernandez R.",
+   "Hajime Ito",
+   "Stuart L. James",
+   "Deniz Karabiyikli",
+   "Jeung Gon Kim",
+   "Kôji Kubota",
+   "Frédéric Lamaty",
+   "Giulio I. Lampronti",
+   "Jamie A. Leitch",
+   "Stipe Lukin"
+  ],
+  "journal": "Faraday Discussions",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-12-15",
+  "year": 2022,
+  "doi": "10.1039/d2fd90081e",
+  "url": "https://doi.org/10.1039/d2fd90081e",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "f72b94c39b9ac447",
   "title": "Mechanochemistry of Spiropyran under Internal Stresses of a Glassy Polymer",
   "authors": [
@@ -20,6 +136,56 @@
    "Mechanochemistry"
   ],
   "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "cd7558274e078fca",
+  "title": "Shear processes and polymer mechanochemistry: general discussion",
+  "authors": [
+   "Matěj Baláž",
+   "Viktor P. Balema",
+   "Richard G. Blair",
+   "E.V. Boldyreva",
+   "Carsten Bolm",
+   "Adam B. Braunschweig",
+   "Robert W. Carpick",
+   "Stephen L. Craig",
+   "Franziska Emmerling",
+   "James P. Ewen",
+   "Cecilia Fiore",
+   "Tomislav Friščić",
+   "Sven Grätz",
+   "Iván Halász",
+   "Ehsan Hamzehpoor",
+   "Hajime Ito",
+   "Jeung Gon Kim",
+   "Giulio I. Lampronti",
+   "Danielle Laurencin",
+   "James Mack",
+   "Lucia Maini",
+   "Paolo P. Mazzeo",
+   "Sharmarke Mohamed",
+   "Karthik Nagapudi",
+   "Allan Niidu",
+   "Jogirdas Vainauskas",
+   "Caterina Zuffa"
+  ],
+  "journal": "Faraday Discussions",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-12-12",
+  "year": 2022,
+  "doi": "10.1039/d2fd90084j",
+  "url": "https://doi.org/10.1039/d2fd90084j",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Polymer Mechanochemistry"
+  ],
+  "relevance_score": 66,
   "affiliations": [],
   "added": "2026-07-27"
  },

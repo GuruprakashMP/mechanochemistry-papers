@@ -1,5 +1,47 @@
 [
  {
+  "id": "6ba037c7b08c6c2e",
+  "title": "In Situ Monitoring of Mechanochemical Covalent Organic Framework Formation Reveals Templating Effect of Liquid Additive",
+  "authors": [
+   "Sebastian T. Emmerling",
+   "Luzia S. Germann",
+   "Patrick Julien",
+   "Igor Moudrakovski",
+   "Martin Etter",
+   "Tomislav Friščić",
+   "Robert E. Dinnebier",
+   "Bettina V. Lotsch"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2020-09-23",
+  "year": 2020,
+  "doi": "10.26434/chemrxiv.12988829",
+  "url": "https://doi.org/10.26434/chemrxiv.12988829",
+  "source": "openalex",
+  "categories": [
+   "MOF & Framework Mechanosynthesis",
+   "In-Situ Monitoring",
+   "Mechanism & Kinetics",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "COFs",
+   "Catalyst",
+   "In-Situ",
+   "Mechanochemistry",
+   "Raman",
+   "Reaction Kinetics",
+   "Reaction Mechanism",
+   "Real-Time Monitoring"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "McGill University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "f826b92dfc89c4e8",
   "title": "Polymer Mechanochemistry and the Emergence of the Mechanophore Concept",
   "authors": [
@@ -22,6 +64,42 @@
   ],
   "relevance_score": 66,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "50e42013e9190bcf",
+  "title": "Solid‐State Radical C−H Trifluoromethylation Reactions Using Ball Milling and Piezoelectric Materials",
+  "authors": [
+   "Yadong Pang",
+   "Joo Won Lee",
+   "Koji Kubota",
+   "Hajime Ito"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2020-09-14",
+  "year": 2020,
+  "doi": "10.1002/anie.202009844",
+  "url": "https://doi.org/10.1002/anie.202009844",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanocatalysis & Mechanoredox",
+   "Piezo- & Tribocatalysis",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Heterocycle Synthesis",
+   "Mechanochemistry",
+   "Mechanoredox",
+   "Milling",
+   "Piezoelectric"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "Hokkaido University"
+  ],
   "added": "2026-07-27"
  }
 ]

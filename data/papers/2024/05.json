@@ -1,0 +1,195 @@
+[
+ {
+  "id": "e26d9e8b504c0c25",
+  "title": "Machine‐Learning‐Assisted Discovery of Mechanosynthesized Lead‐Free Metal Halide Perovskites for the Oxidative Photocatalytic Cleavage of Alkenes",
+  "authors": [
+   "Yonghao Xiao",
+   "Khokan Choudhuri",
+   "Adisak Thanetchaiyakup",
+   "Wei Xin Chan",
+   "Xinwen Hu",
+   "Mansour Sadek",
+   "Ying Hern Tam",
+   "Ryan Guanying Loh",
+   "Sharifah Nadhirah Binte Shaik Mohammed",
+   "Kendric Jian Ying Lim",
+   "Ju Zheng Ten",
+   "Felipe Garcı́a",
+   "Vijila Chellappan",
+   "Tej S. Choksi",
+   "Yee‐Fun Lim",
+   "Han Sen Soo"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2024-05-28",
+  "year": 2024,
+  "doi": "10.1002/advs.202309714",
+  "url": "https://doi.org/10.1002/advs.202309714",
+  "source": "openalex",
+  "categories": [
+   "Computational & Data-Driven",
+   "Mechanical Alloying & Materials",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "DFT",
+   "Machine Learning",
+   "Mechanosynthesis",
+   "Organic Synthesis",
+   "Perovskites"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Nanyang Technological University",
+   "Universidad de Oviedo",
+   "Monash University",
+   "Agency for Science, Technology and Research",
+   "National University of Singapore",
+   "Institute of Materials Research and Engineering",
+   "The Cambridge Centre for Advanced Research and Education in Singapore",
+   "Université Bourgogne Franche-Comté"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "a55b3892ac9a9219",
+  "title": "Solid‐State Oxidation of Alcohols in Gold‐Coated Milling Vessels via Direct Mechanocatalysis",
+  "authors": [
+   "Maximilian Wohlgemuth",
+   "Sarah Schmidt",
+   "Maike Mayer",
+   "Wilm Pickhardt",
+   "Sven Grätz",
+   "Lars Borchardt"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2024-05-27",
+  "year": 2024,
+  "doi": "10.1002/anie.202405342",
+  "url": "https://doi.org/10.1002/anie.202405342",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanocatalysis",
+   "Milling",
+   "Milling Parameters"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "64a903f202629476",
+  "title": "Mechanochemistry in Organic Synthesis: An Italian Journey through Innovations",
+  "authors": [
+   "Francesco Basoccu",
+   "Lidia De Luca",
+   "Andrea Porcheddu"
+  ],
+  "journal": "European Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2024-05-18",
+  "year": 2024,
+  "doi": "10.1002/ejoc.202400425",
+  "url": "https://doi.org/10.1002/ejoc.202400425",
+  "source": "openalex",
+  "categories": [
+   "Organic Mechanosynthesis",
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Green Chemistry",
+   "Mechanochemistry",
+   "Organic Synthesis"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of Cagliari",
+   "Istituto Nazionale di Fisica Nucleare, Sezione di Cagliari",
+   "University of Sassari"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "a5e069e0bdc84c79",
+  "title": "Synthesis of Benzo[ e ][1,4,3]oxathiazin-3-one 1-Oxides from N H- S -(2-Hydroxyaryl)sulfoximines",
+  "authors": [
+   "Kiruthika Periasamy",
+   "Pit van Bonn",
+   "Runa Tschekorsky Orloff",
+   "N. Völcker",
+   "Qiulan Lu",
+   "Kari Rissanen",
+   "Carsten Bolm"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2024-05-14",
+  "year": 2024,
+  "doi": "10.1021/acs.joc.4c00712",
+  "url": "https://doi.org/10.1021/acs.joc.4c00712",
+  "source": "openalex",
+  "categories": [
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Heterocycle Synthesis",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "RWTH Aachen University",
+   "University of Jyväskylä"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "46995570b0c46fe0",
+  "title": "Direct Mechanocatalysis with Pd Alloys",
+  "authors": [
+   "Wilm Pickhardt",
+   "Fabiene Joel Leon Kraus",
+   "Maximilian Wohlgemuth",
+   "Martin Etter",
+   "Marius Spallek",
+   "Martin Schwensow",
+   "Zeynep Genc",
+   "Sven Grätz",
+   "Lars Borchardt"
+  ],
+  "journal": "ChemCatChem",
+  "publisher": "Wiley",
+  "published": "2024-05-02",
+  "year": 2024,
+  "doi": "10.1002/cctc.202400491",
+  "url": "https://doi.org/10.1002/cctc.202400491",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox",
+   "In-Situ Monitoring",
+   "Organic Mechanosynthesis",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanocatalysis",
+   "Milling",
+   "PXRD",
+   "Sonogashira Coupling",
+   "Suzuki Coupling"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Ruhr University Bochum",
+   "Deutsches Elektronen-Synchrotron DESY"
+  ],
+  "added": "2026-07-27"
+ }
+]

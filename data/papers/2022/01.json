@@ -1,5 +1,415 @@
 [
  {
+  "id": "61b6b5db25e1db8a",
+  "title": "Insight into the Reactivity Profile of Solid-State Aryl Bromides in Suzuki–Miyaura Cross-Coupling Reactions Using Ball Milling",
+  "authors": [
+   "Koji Kubota",
+   "Hajime Ito",
+   "Keisuke Kondo",
+   "Tamae Seo"
+  ],
+  "journal": "Synlett",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2022-01-21",
+  "year": 2022,
+  "doi": "10.1055/a-1748-3797",
+  "url": "https://doi.org/10.1055/a-1748-3797",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Cross-Coupling",
+   "Milling",
+   "Organic Synthesis",
+   "Suzuki Coupling"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "9caa24c1ddae4b38",
+  "title": "The Mechanochemical Synthesis and Activation of Carbon‐Rich π ‐Conjugated Materials",
+  "authors": [
+   "Mingjun Xuan",
+   "Christian Schumacher",
+   "Carsten Bolm",
+   "Robert Göstl",
+   "Andreas Herrmann"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2022-01-20",
+  "year": 2022,
+  "doi": "10.1002/advs.202105497",
+  "url": "https://doi.org/10.1002/advs.202105497",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores"
+  ],
+  "tags": [
+   "Force-Induced",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "DWI – Leibniz Institute for Interactive Materials",
+   "RWTH Aachen University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "15aa116cb3a24a55",
+  "title": "Mechanochemistry Can Reduce Life Cycle Environmental Impacts of Manufacturing Active Pharmaceutical Ingredients",
+  "authors": [
+   "Or Galant",
+   "Giacomo Cerfeda",
+   "Aaron S. McCalmont",
+   "Stuart L. James",
+   "Andrea Porcheddu",
+   "Francesco Delogu",
+   "Deborah E. Crawford",
+   "Evelina Colacino",
+   "Sabrina Spatari"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2022-01-20",
+  "year": 2022,
+  "doi": "10.1021/acssuschemeng.1c06434",
+  "url": "https://doi.org/10.1021/acssuschemeng.1c06434",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "Green & Solvent-Free Chemistry",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Extrusion",
+   "Green Chemistry",
+   "Mechanochemistry",
+   "Scale-up",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 80,
+  "affiliations": [
+   "Technion – Israel Institute of Technology",
+   "Queen's University Belfast",
+   "University of Cagliari",
+   "Consorzio Interuniversitario per lo Sviluppo dei Sistemi a Grande Interfase",
+   "University of Bradford",
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "1266054132f5a71e",
+  "title": "Mechanochemical Palladium-Catalyzed Oxidative Esterification of Alcohols",
+  "authors": [
+   "Pit van Bonn",
+   "Daniela Dreßler",
+   "Fabian Weitenhagen",
+   "Carsten Bolm"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2022-01-20",
+  "year": 2022,
+  "doi": "10.1021/acssuschemeng.1c07558",
+  "url": "https://doi.org/10.1021/acssuschemeng.1c07558",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Solvent-Free"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "RWTH Aachen University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "65d16e236550da25",
+  "title": "Mechanistic Insights on the Mechanosynthesis of Phenytoin, a WHO Essential Medicine**",
+  "authors": [
+   "Francesco Puccetti",
+   "Stipe Lukin",
+   "Krunoslav Užarević",
+   "Evelina Colacino",
+   "Iván Halász",
+   "Carsten Bolm",
+   "José G. Hernández"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2022-01-18",
+  "year": 2022,
+  "doi": "10.1002/chem.202104409",
+  "url": "https://doi.org/10.1002/chem.202104409",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry",
+   "Mechanosynthesis",
+   "Raman",
+   "Reaction Mechanism"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "RWTH Aachen University",
+   "Ruđer Bošković Institute",
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier",
+   "Institut Charles Gerhardt Montpellier"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "6978e59b18ba3ab7",
+  "title": "Mechanochemical Synthesis of Diarylethynes from Aryl Iodides and CaC2",
+  "authors": [
+   "Carsten Bolm",
+   "Pit van Bonn"
+  ],
+  "journal": "Synlett",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2022-01-07",
+  "year": 2022,
+  "doi": "10.1055/a-1733-6254",
+  "url": "https://doi.org/10.1055/a-1733-6254",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Grinding",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "RWTH Aachen University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "d3d82f532849fc66",
+  "title": "A guide to direct mechanocatalysis",
+  "authors": [
+   "Suhmi Hwang",
+   "Sven Grätz",
+   "Lars Borchardt"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1039/d1cc05697b",
+  "url": "https://doi.org/10.1039/d1cc05697b",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanocatalysis",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "cac3db66d887d115",
+  "title": "In situ time-resolved monitoring of mixed-ligand metal–organic framework mechanosynthesis",
+  "authors": [
+   "Max Rautenberg",
+   "Biswajit Bhattacharya",
+   "Julia Witt",
+   "Mohit Jain",
+   "Franziska Emmerling"
+  ],
+  "journal": "CrystEngComm",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1039/d2ce00803c",
+  "url": "https://doi.org/10.1039/d2ce00803c",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanosynthesis",
+   "Time-Resolved"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Federal Institute For Materials Research and Testing",
+   "Humboldt-Universität zu Berlin",
+   "Technische Universität Darmstadt"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "aab6d766a244461f",
+  "title": "Too much water? Not enough? In situ monitoring of the mechanochemical reaction of copper salts with dicyandiamide",
+  "authors": [
+   "Lucia Casali",
+   "Torvid Feiler",
+   "Maria Heilmann",
+   "Dario Braga",
+   "Franziska Emmerling",
+   "Fabrizia Grepioni"
+  ],
+  "journal": "CrystEngComm",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1039/d1ce01670a",
+  "url": "https://doi.org/10.1039/d1ce01670a",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry",
+   "Milling",
+   "Milling Parameters",
+   "Raman"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "University of Bologna",
+   "Federal Institute For Materials Research and Testing"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "7cf48328f029bdb4",
+  "title": "The mechanochemical synthesis of polymers",
+  "authors": [
+   "Annika Krusenbaum",
+   "Sven Grätz",
+   "Getinet Tamiru Tigineh",
+   "Lars Borchardt",
+   "Jeung Gon Kim"
+  ],
+  "journal": "Chemical Society Reviews",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1039/d1cs01093j",
+  "url": "https://doi.org/10.1039/d1cs01093j",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Green Chemistry",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Ruhr University Bochum",
+   "Bahir Dar University",
+   "Jeonbuk National University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "7451f875cdea1e6c",
+  "title": "Quantitative reversible one pot interconversion of three crystalline polymorphs by ball mill grinding",
+  "authors": [
+   "Ana M. Belenguer",
+   "Giulio I. Lampronti",
+   "Adam A. L. Michalchuk∞",
+   "Franziska Emmerling",
+   "Jeremy K. M. Sanders"
+  ],
+  "journal": "CrystEngComm",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1039/d2ce00393g",
+  "url": "https://doi.org/10.1039/d2ce00393g",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Grinding",
+   "Polymorphism"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Cambridge",
+   "Federal Institute For Materials Research and Testing"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "6ff54b1b2da71be3",
+  "title": "Mechanochemical Fischer indolisation: an eco-friendly design for a timeless reaction",
+  "authors": [
+   "Andrea Porcheddu",
+   "Rita Mocci",
+   "Margherita Brindisi",
+   "Federico Cuccu",
+   "Claudia Fattuoni",
+   "Francesco Delogu",
+   "Evelina Colacino",
+   "Maria Valeria D’Auria"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1039/d2gc00724j",
+  "url": "https://doi.org/10.1039/d2gc00724j",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Cagliari",
+   "University of Naples Federico II",
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "6117818e7fe9e4ad",
   "title": "Sonopharmacology: controlling pharmacotherapy and diagnosis by ultrasound-induced polymer mechanochemistry",
   "authors": [
@@ -25,6 +435,104 @@
   ],
   "relevance_score": 75,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "5859191ec588a700",
+  "title": "Substituting steel for a polymer in a jar for ball milling does matter",
+  "authors": [
+   "E. A. Losev",
+   "Sergey G. Arkhipov",
+   "Dmitry S. Kolybalov",
+   "Alexey M. Mineev",
+   "Andrey G. Ogienko",
+   "E.V. Boldyreva",
+   "В. В. Болдырев"
+  ],
+  "journal": "CrystEngComm",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1039/d1ce01703a",
+  "url": "https://doi.org/10.1039/d1ce01703a",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Novosibirsk State University",
+   "Boreskov Institute of Catalysis",
+   "Research Institute of Therapy and Preventive Medicine",
+   "Siberian Branch of the Russian Academy of Sciences",
+   "Institute of Chemical Kinetics and Combustion"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "47ad8b9067252493",
+  "title": "Stainless steel-initiated thiosulfonylations of unactivated alkenes under solvent-free conditions in a mixer mill",
+  "authors": [
+   "Deshen Kong",
+   "Carsten Bolm"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1039/d2gc02519a",
+  "url": "https://doi.org/10.1039/d2gc02519a",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling",
+   "Mixer Mill",
+   "Solvent-Free"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "RWTH Aachen University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "0e319c71fbb6eacd",
+  "title": "Stainless steel-initiated chloro sulfoximidations of allenes under solvent-free conditions in a ball mill",
+  "authors": [
+   "Deshen Kong",
+   "Mostafa M. Amer",
+   "Carsten Bolm"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1039/d2gc00820c",
+  "url": "https://doi.org/10.1039/d2gc00820c",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mixer Mill",
+   "Solvent-Free"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "RWTH Aachen University",
+   "Egyptian Petroleum Research Institute"
+  ],
   "added": "2026-07-27"
  }
 ]

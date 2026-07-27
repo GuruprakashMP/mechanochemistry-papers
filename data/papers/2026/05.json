@@ -1,5 +1,44 @@
 [
  {
+  "id": "82dc28da30e66f23",
+  "title": "Mechanochemical Amidation Mediated by 1,1’‐Oxalyldiimidazole for the Synthesis of Agrochemicals",
+  "authors": [
+   "Andrea Casagrande",
+   "Rubén Solórzano‐Rodríguez",
+   "Maria Carta",
+   "Francesco Delogu",
+   "Joris Vezzani",
+   "Allan Niidu",
+   "Evelina Colacino"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2026-05-29",
+  "year": 2026,
+  "doi": "10.1002/chem.71190",
+  "url": "https://doi.org/10.1002/chem.71190",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Amide Bond Formation",
+   "Green Chemistry",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Tallinn University of Technology",
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier",
+   "Institut Charles Gerhardt Montpellier",
+   "University of Cagliari"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "6b72ddaebd25e6ca",
   "title": "Solvent and catalyst-free mechanochemical synthesis of indenyl-derived thiazolone imine, thiazolidin-4-one and thiazolidin-4-ol hybrids: anticancer evaluation and molecular modeling studies.",
   "authors": [
@@ -31,6 +70,263 @@
   ],
   "relevance_score": 83,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "6926e8636d9af7d4",
+  "title": "Mechanochemistry Meets Catalysis: Metal Complexes for Greener Organic Transformations",
+  "authors": [
+   "Sourav Behera",
+   "Francesco Basoccu",
+   "Andrea Porcheddu"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-05-23",
+  "year": 2026,
+  "doi": "10.1002/anie.202600005",
+  "url": "https://doi.org/10.1002/anie.202600005",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox",
+   "Reactor Engineering & Scale-up",
+   "Ball Milling & Grinding",
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Catalyst",
+   "Extrusion",
+   "Grinding",
+   "Mechanocatalysis",
+   "Mechanochemistry",
+   "Milling",
+   "Resonant Acoustic Mixing"
+  ],
+  "relevance_score": 89,
+  "affiliations": [
+   "University of Cagliari"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "ed05cf971737d7ab",
+  "title": "Mechanochemical Methods for Amide Bond Formation",
+  "authors": [
+   "Tatsiana Nikonovich",
+   "Christos Chatzigiannis",
+   "Corentin Bordier",
+   "Rubén Solórzano‐Rodríguez",
+   "Daniel M. Baier",
+   "F. F. Ort",
+   "Riina Aav",
+   "Tom Leyssens",
+   "Daniel Blanco‐Ania",
+   "Floris P. J. T. Rutjes",
+   "Dzmitry Kananovich",
+   "Evelina Colacino"
+  ],
+  "journal": "Chemical Reviews",
+  "publisher": "American Chemical Society",
+  "published": "2026-05-20",
+  "year": 2026,
+  "doi": "10.1021/acs.chemrev.5c00534",
+  "url": "https://doi.org/10.1021/acs.chemrev.5c00534",
+  "source": "openalex",
+  "categories": [
+   "Organic Mechanosynthesis",
+   "Green & Solvent-Free Chemistry",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Amide Bond Formation",
+   "Green Chemistry",
+   "Mechanochemistry",
+   "Organic Synthesis",
+   "Scale-up"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Tallinn University of Technology",
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier",
+   "UCLouvain",
+   "Radboud University Nijmegen"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "bf245319df097122",
+  "title": "Mechanochemical Near‐Ambient Synthesis of C 2 N Materials From HAT‐CN and its Precursors",
+  "authors": [
+   "Pascal Dippner",
+   "Sven Grätz",
+   "Jonas Lins",
+   "Torsten Gutmann",
+   "Lars Borchardt"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2026-05-10",
+  "year": 2026,
+  "doi": "10.1002/cssc.70678",
+  "url": "https://doi.org/10.1002/cssc.70678",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Ruhr University Bochum",
+   "Technische Universität Darmstadt",
+   "Paderborn University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "29ffb1c679849490",
+  "title": "Mechanochemical Hydrodeoxygenations",
+  "authors": [
+   "Lena M. Hanek",
+   "Carsten Bolm"
+  ],
+  "journal": "European Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2026-05-08",
+  "year": 2026,
+  "doi": "10.1002/ejoc.202501222",
+  "url": "https://doi.org/10.1002/ejoc.202501222",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "RWTH Aachen University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "62d4eb3a54be4729",
+  "title": "Breaking the Immiscibility Barrier: A Mechanochemical Approach to Enable the Direct Glycosylation of Native Sugars with Hydrophobic Aliphatic Alcohols",
+  "authors": [
+   "Koji Kubota",
+   "Yuri Kamakura",
+   "Taiga Takeda",
+   "Julong Jiang",
+   "Yoshiyuki Manabe",
+   "Koichi Fukase",
+   "H Ito"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2026-05-05",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c04094",
+  "url": "https://doi.org/10.1021/jacs.6c04094",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling",
+   "Solvent-Free"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Hokkaido University",
+   "Graduate School USA",
+   "The University of Osaka"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "e600d0ba9e15c995",
+  "title": "Safe and Sustainable by Design (SSbD) Synthesis of Food and Personal Care Ingredients by Mechanochemistry",
+  "authors": [
+   "Rubén Solórzano‐Rodríguez",
+   "Nicolas Fantozzi",
+   "Andrea Casagrande",
+   "Christos Chatzigiannis",
+   "Corentin Bordier",
+   "P. Rando",
+   "Evelina Colacino"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2026-05-04",
+  "year": 2026,
+  "doi": "10.1002/cssc.202502491",
+  "url": "https://doi.org/10.1002/cssc.202502491",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Green Chemistry",
+   "Mechanochemistry",
+   "Milling",
+   "Milling Media"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier",
+   "Virtual Technology (United States)",
+   "Genias Benelux (Netherlands)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "5cbde895aeb1e64d",
+  "title": "Mechanosynthesis of [60]Fullerene-Fused Tetrahydropyridines with Magnesium Nitride as the Nitrogen Source",
+  "authors": [
+   "Li-Feng Guo",
+   "Hai-Bin Zhou",
+   "Wen-Jie Qiu",
+   "Jun-Shen Chen",
+   "Chuang Niu",
+   "Guan-Wu Wang"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2026-05-01",
+  "year": 2026,
+  "doi": "10.1021/acs.orglett.6c01152",
+  "url": "https://doi.org/10.1021/acs.orglett.6c01152",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Catalyst",
+   "Mechanosynthesis",
+   "Milling",
+   "Perovskites"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Anhui Normal University",
+   "State Key Laboratory of Chemical Engineering",
+   "Lanzhou University"
+  ],
   "added": "2026-07-27"
  }
 ]

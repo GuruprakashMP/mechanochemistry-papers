@@ -460,6 +460,31 @@
   "added": "2026-07-27"
  },
  {
+  "id": "716d3de996830475",
+  "title": "Mechanochemical Multicomponent Reactions",
+  "authors": [
+   "Francesco Basoccu",
+   "Dipak J. Fartade",
+   "Andrea Porcheddu"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-07-22",
+  "year": 2026,
+  "doi": "10.1002/9783527853793.ch04",
+  "url": "https://doi.org/10.1002/9783527853793.ch04",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "6c2c1885c831b342",
   "title": "Mechanochemical Synthesis of Iodine-Substituted Bicyclo[1.1.1]pentanes Via a Piezoelectric Catalytic System",
   "authors": [
@@ -798,6 +823,101 @@
   "added": "2026-07-27"
  },
  {
+  "id": "ad49049a6907c0cf",
+  "title": "Data and supplementary information for \"Effect of non-Newtonian viscosity on the reactivity of mechanochemical reactions\"",
+  "authors": [
+   "Tetsuya Yamamoto",
+   "Koji Kubota",
+   "Julong Jiang",
+   "Yu Harabuchi",
+   "Hajime Ito",
+   "Jian Ping Gong",
+   "Guo H"
+  ],
+  "journal": "Figshare",
+  "publisher": "Figshare (United Kingdom)",
+  "published": "2026-07-09",
+  "year": 2026,
+  "doi": "10.6084/m9.figshare.32947022.v1",
+  "url": "https://doi.org/10.6084/m9.figshare.32947022.v1",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "2a4e8161b5d28884",
+  "title": "Y(OTf) 3 -Catalyzed Formal (3 + 2) Cycloadditions of Donor–Acceptor Cyclopropanes with KSCN under Mechanochemical Conditions",
+  "authors": [
+   "Wandi Li",
+   "Leonie Herzog",
+   "Yijie Hu",
+   "Heinrich F. von Köller",
+   "Daniel B. Werz",
+   "Carsten Bolm"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2026-07-04",
+  "year": 2026,
+  "doi": "10.1021/acs.orglett.6c02526",
+  "url": "https://doi.org/10.1021/acs.orglett.6c02526",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Catalyst",
+   "Heterocycle Synthesis",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "RWTH Aachen University",
+   "Shaanxi Normal University",
+   "University of Freiburg"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "1652a2fc1f2a997c",
+  "title": "In situ salt-loaded cathode by mechanochemical modification for pre-metallation of next-generation metal-ion capacitors",
+  "authors": [
+   "Miriam Sander",
+   "Sandesh Darlami Magar",
+   "Thierry Brousse",
+   "Andrea Balducci",
+   "Lars Borchardt"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-07-03",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15005622/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15005622/v1",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Réseau sur le Stockage Electrochimique de l'énergie"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "7dc32686ce9a716f",
   "title": "Sulfur-Rich Polymers From Elemental Sulfur: Sustainable Pathways and Emerging Applications in Sustainable Materials (2021-2025).",
   "authors": [
@@ -822,6 +942,57 @@
   ],
   "relevance_score": 42,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "0eeeb6023ad7f075",
+  "title": "Synthesis and properties of (FeSnPbSb)S quinary sulphides: Bridging mechanochemical and high-entropy concepts",
+  "authors": [
+   "Peter Baláž",
+   "Lars Borchardt",
+   "Tamás Csanádi",
+   "Nina Daneu",
+   "Damjan Vengust",
+   "Dáša Drenčaková",
+   "Ján Dusza",
+   "Róbert Džunda",
+   "Lenka Findoráková",
+   "Ondrej Petruš",
+   "Viktor Puchý",
+   "Gaelle Riou",
+   "Lucas le Gars",
+   "Emmanuel Guilmeau",
+   "Imelda Octa Tampubolon",
+   "Marek Vojtko",
+   "Maximillian Wohlgemuth",
+   "Matej Baláž"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2026-07-01",
+  "year": 2026,
+  "doi": "10.1016/j.jallcom.2026.189835",
+  "url": "https://doi.org/10.1016/j.jallcom.2026.189835",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Slovak Academy of Sciences",
+   "Institute of Geotechnics of the Slovak Academy of Sciences",
+   "Ruhr University Bochum",
+   "Obuda University",
+   "Institute of Materials Research of the Slovak Academy of Sciences",
+   "Jožef Stefan Institute",
+   "Centre National de la Recherche Scientifique",
+   "École Nationale Supérieure d'Ingénieurs de Caen",
+   "Normandie Université",
+   "Université de Caen Normandie"
+  ],
   "added": "2026-07-27"
  }
 ]

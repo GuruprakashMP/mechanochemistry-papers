@@ -1,5 +1,35 @@
 [
  {
+  "id": "450339b66e02c477",
+  "title": "Selective enzymatic esterification of lignin model compounds in the ball mill",
+  "authors": [
+   "Ulla Weißbach",
+   "Saumya Dabral",
+   "Laure Konnert",
+   "Carsten Bolm",
+   "José G. Hernández"
+  ],
+  "journal": "Beilstein Journal of Organic Chemistry",
+  "publisher": "Beilstein Institute for the Advancement of Chemical Sciences",
+  "published": "2017-08-25",
+  "year": 2017,
+  "doi": "10.3762/bjoc.13.173",
+  "url": "https://doi.org/10.3762/bjoc.13.173",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "RWTH Aachen University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "dc99d28d506d5247",
   "title": "Chemistry 2.0: Developing a New, Solvent-Free System of Chemical Synthesis Based on Mechanochemistry",
   "authors": [
@@ -31,6 +61,45 @@
   ],
   "relevance_score": 86,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "6610c53dcdd808c6",
+  "title": "Cover Feature: Tandem In Situ Monitoring for Quantitative Assessment of Mechanochemical Reactions Involving Structurally Unknown Phases (Chem. Eur. J. 56/2017)",
+  "authors": [
+   "Stipe Lukin",
+   "Tomislav Stolar",
+   "Martina Tireli",
+   "María Valeria Blanco",
+   "Darko Babić",
+   "Tomislav Friščić",
+   "Krunoslav Užarević",
+   "Iván Halász"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2017-08-10",
+  "year": 2017,
+  "doi": "10.1002/chem.201703297",
+  "url": "https://doi.org/10.1002/chem.201703297",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry",
+   "PXRD",
+   "Raman",
+   "Reaction Mechanism"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Ruđer Bošković Institute",
+   "European Synchrotron Radiation Facility",
+   "McGill University"
+  ],
   "added": "2026-07-27"
  }
 ]

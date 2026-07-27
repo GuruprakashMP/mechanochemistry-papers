@@ -32,5 +32,81 @@
   "relevance_score": 52,
   "affiliations": [],
   "added": "2026-07-27"
+ },
+ {
+  "id": "fb61599196121df3",
+  "title": "Mechanochemical Synthesis of Fluorine-Containing Co-Doped Zeolitic Imidazolate Frameworks for Producing Electrocatalysts",
+  "authors": [
+   "Max Rautenberg",
+   "Marius Gernhard",
+   "Jörg Radnik",
+   "Julia Witt",
+   "Christina Roth",
+   "Franziska Emmerling"
+  ],
+  "journal": "Frontiers in Chemistry",
+  "publisher": "Frontiers Media",
+  "published": "2022-03-14",
+  "year": 2022,
+  "doi": "10.3389/fchem.2022.840758",
+  "url": "https://doi.org/10.3389/fchem.2022.840758",
+  "source": "openalex",
+  "categories": [
+   "MOF & Framework Mechanosynthesis",
+   "In-Situ Monitoring",
+   "Cocrystals & Pharmaceutical Solids",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "In-Situ",
+   "In-Situ PXRD",
+   "MOFs",
+   "Mechanochemistry",
+   "Polymorphism",
+   "Time-Resolved",
+   "ZIFs"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Federal Institute For Materials Research and Testing",
+   "Humboldt-Universität zu Berlin",
+   "University of Bayreuth"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "ef2576f017d82405",
+  "title": "Assessing the Greenness of Mechanochemical Processes with the DOZN 2.0 Tool",
+  "authors": [
+   "Pankaj Sharma",
+   "Caleb Vetter",
+   "Ettigounder Ponnusamy",
+   "Evelina Colacino"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2022-03-10",
+  "year": 2022,
+  "doi": "10.1021/acssuschemeng.1c07981",
+  "url": "https://doi.org/10.1021/acssuschemeng.1c07981",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Extrusion",
+   "Green Chemistry",
+   "Mechanochemistry",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier"
+  ],
+  "added": "2026-07-27"
  }
 ]

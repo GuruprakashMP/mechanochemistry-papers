@@ -1,5 +1,36 @@
 [
  {
+  "id": "c482a31f3c041d63",
+  "title": "Mechanochemistry Frees Thiourea Dioxide (TDO) from the ‘Veils’ of Solvent, Exposing All Its Reactivity",
+  "authors": [
+   "Francesco Basoccu",
+   "Federico Cuccu",
+   "Pietro Caboni",
+   "Lidia De Luca",
+   "Andrea Porcheddu"
+  ],
+  "journal": "Molecules",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2023-02-28",
+  "year": 2023,
+  "doi": "10.3390/molecules28052239",
+  "url": "https://doi.org/10.3390/molecules28052239",
+  "source": "openalex",
+  "categories": [
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Heterocycle Synthesis",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "University of Cagliari",
+   "University of Sassari"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "4fb4a3028fe1d716",
   "title": "Swelling-Activated, Soft Mechanochemistry in Polymer Materials",
   "authors": [
@@ -24,6 +55,208 @@
   ],
   "relevance_score": 40,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "a41170bec12c3940",
+  "title": "UV‐Licht trifft Mechanochemie: Die Regioselektive Photochemische Festkörpersynthese von Nanographenen",
+  "authors": [
+   "Daniel M. Baier",
+   "Carolina Spula",
+   "Stephen Fanenstich",
+   "Sven Grätz",
+   "Lars Borchardt"
+  ],
+  "journal": "Angewandte Chemie",
+  "publisher": "Wiley",
+  "published": "2023-02-24",
+  "year": 2023,
+  "doi": "10.1002/ange.202218719",
+  "url": "https://doi.org/10.1002/ange.202218719",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "47fd41807a6025f0",
+  "title": "The Regioselective Solid‐State Photo‐Mechanochemical Synthesis of Nanographenes with UV light",
+  "authors": [
+   "Daniel M. Baier",
+   "Carolina Spula",
+   "Stephen Fanenstich",
+   "Sven Grätz",
+   "Lars Borchardt"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2023-02-24",
+  "year": 2023,
+  "doi": "10.1002/anie.202218719",
+  "url": "https://doi.org/10.1002/anie.202218719",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "9d7f2fa7789cdb09",
+  "title": "[60]Fullerene-Fused Cyclopentanes: Mechanosynthesis and Photovoltaic Application",
+  "authors": [
+   "Gang Shao",
+   "Chuang Niu",
+   "Hongwei Liu",
+   "Huan Yang",
+   "Jun-Shen Chen",
+   "Yang‐Rong Yao",
+   "Shangfeng Yang",
+   "Guan‐Wu Wang"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2023-02-14",
+  "year": 2023,
+  "doi": "10.1021/acs.orglett.3c00332",
+  "url": "https://doi.org/10.1021/acs.orglett.3c00332",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Mechanosynthesis",
+   "Milling",
+   "Perovskites",
+   "Solvent-Free"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Hefei National Center for Physical Sciences at Nanoscale",
+   "Chinese Academy of Sciences",
+   "Lanzhou University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "9759f1d8420198f5",
+  "title": "Mechanochemical effects underlying the mechanically activated catalytic hydrogenation of carbon monoxide",
+  "authors": [
+   "Maria Carta",
+   "Anna Laura Sanna",
+   "Andrea Porcheddu",
+   "Sebastiano Garroni",
+   "Francesco Delogu"
+  ],
+  "journal": "Scientific Reports",
+  "publisher": "Nature Portfolio",
+  "published": "2023-02-11",
+  "year": 2023,
+  "doi": "10.1038/s41598-023-28972-8",
+  "url": "https://doi.org/10.1038/s41598-023-28972-8",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanism & Kinetics",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Catalyst",
+   "Mechanical Activation",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Cagliari",
+   "University of Sassari"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "37ac4f2816bcc6af",
+  "title": "The Rapid Mechanochemical Synthesis of Microporous Covalent Triazine Networks: Elucidating the Role of Chlorinated Linkers by a Solvent‐Free Approach",
+  "authors": [
+   "Annika Krusenbaum",
+   "Fabien Joel Leon Kraus",
+   "Stefanie Hutsch",
+   "Sven Grätz",
+   "Mark V. Höfler",
+   "Torsten Gutmann",
+   "Lars Borchardt"
+  ],
+  "journal": "Advanced Sustainable Systems",
+  "publisher": "Wiley",
+  "published": "2023-02-09",
+  "year": 2023,
+  "doi": "10.1002/adsu.202200477",
+  "url": "https://doi.org/10.1002/adsu.202200477",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Ruhr University Bochum",
+   "Technische Universität Darmstadt"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "d7d32a5611f1a271",
+  "title": "Mechanochemistry Frees the Thiourea Dioxide (TDO) from the ‘Veils’ of the Solvent, Exposing All Its Reactivity",
+  "authors": [
+   "Francesco Basoccu",
+   "Federico Cuccu",
+   "Pietro Caboni",
+   "Lidia De Luca",
+   "Andrea Porcheddu"
+  ],
+  "journal": "Preprints.org",
+  "publisher": "",
+  "published": "2023-02-03",
+  "year": 2023,
+  "doi": "10.20944/preprints202302.0062.v1",
+  "url": "https://doi.org/10.20944/preprints202302.0062.v1",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Heterocycle Synthesis",
+   "Mechanochemistry",
+   "Solvent-Free"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Cagliari",
+   "University of Sassari"
+  ],
   "added": "2026-07-27"
  }
 ]

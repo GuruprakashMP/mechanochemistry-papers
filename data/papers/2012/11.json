@@ -1,0 +1,106 @@
+[
+ {
+  "id": "05eaaf17dbdd5da1",
+  "title": "Real-time and in situ monitoring of mechanochemical milling reactions",
+  "authors": [
+   "Tomislav Friščić",
+   "Iván Halász",
+   "Patrick J. Beldon",
+   "Ana M. Belenguer",
+   "Frank D. Adams",
+   "Simon A. J. Kimber",
+   "V. Honkimäki",
+   "Robert E. Dinnebier"
+  ],
+  "journal": "Nature Chemistry",
+  "publisher": "Nature Portfolio",
+  "published": "2012-11-30",
+  "year": 2012,
+  "doi": "10.1038/nchem.1505",
+  "url": "https://doi.org/10.1038/nchem.1505",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Cambridge",
+   "Centre in Green Chemistry and Catalysis",
+   "McGill University",
+   "University of Zagreb",
+   "Max Planck Institute for Solid State Research",
+   "European Synchrotron Radiation Facility"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "9c505866c84d4903",
+  "title": "Screening for polymorphs of cocrystals: a case study",
+  "authors": [
+   "Mark D. Eddleston",
+   "Saranja Sivachelvam",
+   "William Jones"
+  ],
+  "journal": "CrystEngComm",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2012-11-05",
+  "year": 2012,
+  "doi": "10.1039/c2ce26496j",
+  "url": "https://doi.org/10.1039/c2ce26496j",
+  "source": "openalex",
+  "categories": [
+   "Liquid-Assisted Grinding",
+   "Cocrystals & Pharmaceutical Solids",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Cocrystals",
+   "Grinding",
+   "Liquid-Assisted Grinding",
+   "Pharmaceutical Cocrystals",
+   "Polymorphism"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University of Cambridge"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "3dafc658cb8dc9e3",
+  "title": "Mechanochemical degradation of lignin and wood by solvent-free grinding in a reactive medium",
+  "authors": [
+   "Tillmann Kleine",
+   "Julien Buendia",
+   "Carsten Bolm"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2012-11-01",
+  "year": 2012,
+  "doi": "10.1039/c2gc36456e",
+  "url": "https://doi.org/10.1039/c2gc36456e",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Grinding",
+   "Mechanochemistry",
+   "Solvent-Free",
+   "Solvent-Free Grinding"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "RWTH Aachen University"
+  ],
+  "added": "2026-07-27"
+ }
+]

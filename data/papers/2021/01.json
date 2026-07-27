@@ -1,5 +1,85 @@
 [
  {
+  "id": "050c417c320470cd",
+  "title": "Mechanochemical Synthesis and Thermal Dehydrogenation of Novel Calcium-Containing Bimetallic Amidoboranes",
+  "authors": [
+   "Igor Milanović",
+   "Nikola Biliškov",
+   "Krunoslav Užarević",
+   "Stipe Lukin",
+   "Martin Etter",
+   "Iván Halász"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2021-01-29",
+  "year": 2021,
+  "doi": "10.1021/acssuschemeng.0c06839",
+  "url": "https://doi.org/10.1021/acssuschemeng.0c06839",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "In-Situ Monitoring",
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Hydrogen Storage",
+   "In-Situ",
+   "Mechanochemistry",
+   "Milling",
+   "PXRD",
+   "Solvent-Free",
+   "Synchrotron"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "University of Belgrade",
+   "Ruđer Bošković Institute",
+   "Vinča Institute of Nuclear Sciences",
+   "Deutsches Elektronen-Synchrotron DESY"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "9b9f34550d51b349",
+  "title": "The Mechanochemical Beckmann Rearrangement: An Eco-efficient “Cut-and-Paste” Strategy to Design the “Good Old Amide Bond”",
+  "authors": [
+   "Rita Mocci",
+   "Evelina Colacino",
+   "Lidia De Luca",
+   "Claudia Fattuoni",
+   "Andrea Porcheddu",
+   "Francesco Delogu"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2021-01-28",
+  "year": 2021,
+  "doi": "10.1021/acssuschemeng.0c07254",
+  "url": "https://doi.org/10.1021/acssuschemeng.0c07254",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Amide Bond Formation",
+   "Green Chemistry",
+   "Mechanochemistry",
+   "Solvent-Free"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Cagliari",
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier",
+   "University of Sassari"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "f5cd3ef30c7d300a",
   "title": "State-of-the-Art of Eggshell Waste in Materials Science: Recent Advances in Catalysis, Pharmaceutical Applications, and Mechanochemistry",
   "authors": [
@@ -29,6 +109,544 @@
   ],
   "relevance_score": 49,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "b0254998ec8e6885",
+  "title": "Investigation of isomerization of dexibuprofen in a ball mill using chiral capillary electrophoresis",
+  "authors": [
+   "Jonas Urlaub",
+   "Reinhard P. Kaiser",
+   "Oliver Scherf‐Clavel",
+   "Carsten Bolm",
+   "Ulrike Holzgrabe"
+  ],
+  "journal": "Electrophoresis",
+  "publisher": "Wiley",
+  "published": "2021-01-27",
+  "year": 2021,
+  "doi": "10.1002/elps.202000307",
+  "url": "https://doi.org/10.1002/elps.202000307",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling",
+   "Milling Parameters"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "University of Würzburg",
+   "RWTH Aachen University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "27ae2d90fdbb2a82",
+  "title": "Solvent‐free Reactions for the Synthesis of Indolenine‐based Squaraines and Croconaines: Comparison of Thermal Heating, Mechanochemical Milling, and IR Irradiation",
+  "authors": [
+   "Nicola Zappimbulso",
+   "Maria Annunziata M. Capozzi",
+   "Andrea Porcheddu",
+   "Gianluca M. Farinola",
+   "Angela Punzi"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2021-01-15",
+  "year": 2021,
+  "doi": "10.1002/cssc.202002763",
+  "url": "https://doi.org/10.1002/cssc.202002763",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling",
+   "Solvent-Free"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of Bari Aldo Moro",
+   "University of Cagliari"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "243e4198c21691b2",
+  "title": "1,2‐Benzothiazine Derivatives from Sulfonimidamides by Metal‐Catalyzed Annulation Reactions in Solution and under Solvent‐Free Mechanochemical Conditions",
+  "authors": [
+   "Jan‐Hendrik Schöbel",
+   "Philipp Elbers",
+   "Khai‐Nghi Truong",
+   "Kari Rissanen",
+   "Carsten Bolm"
+  ],
+  "journal": "Advanced Synthesis & Catalysis",
+  "publisher": "Wiley",
+  "published": "2021-01-15",
+  "year": 2021,
+  "doi": "10.1002/adsc.202001505",
+  "url": "https://doi.org/10.1002/adsc.202001505",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "RWTH Aachen University",
+   "University of Jyväskylä"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "44049a2224b47c8b",
+  "title": "Metadata of \"Solvent-free Reactions for the Synthesis of Indolenine-based Squaraines and Croconaines: Comparison of Thermal Heating, Mechanochemical Milling, and IR Irradiation\"",
+  "authors": [
+   "Nicola Zappimbulso",
+   "Maria Annunziata M. Capozzi",
+   "Andrea Porcheddu",
+   "M. Farinola Gianluca",
+   "Angela Punzi"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2021-01-11",
+  "year": 2021,
+  "doi": "10.5281/zenodo.5743287",
+  "url": "https://doi.org/10.5281/zenodo.5743287",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling",
+   "Solvent-Free"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Bari Aldo Moro",
+   "University of Cagliari"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "f2b2e943b217e5a3",
+  "title": "Mechanochemical Transformation of Planar Polyarene to Curved Fused-Ring System: Solid-Phase Synthesis of Corannulene",
+  "authors": [
+   "Yong Teoh",
+   "Gábor Báti",
+   "Felipe Garcı́a",
+   "Mihaiela C. Stuparu"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2021-01-08",
+  "year": 2021,
+  "doi": "10.26434/chemrxiv.13531010",
+  "url": "https://doi.org/10.26434/chemrxiv.13531010",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "Nanyang Technological University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "41d0e14e4c25e950",
+  "title": "Direct and Telescopic Mechanochemical Synthesis of Higher-order Organic-Inorganic Hybrid Cocrystals: Tuning Order, Functionality and Size in Cocrystal Design",
+  "authors": [
+   "Zi xuan Ng",
+   "Davin Tan",
+   "Wei Liang Teo",
+   "Félix León",
+   "Xiaoyan Shi",
+   "Ying Sim",
+   "yongxin Li",
+   "Rakesh Ganguly",
+   "Yanli Zhao",
+   "Sharmarke Mohamed",
+   "Felipe Garcı́a"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2021-01-04",
+  "year": 2021,
+  "doi": "10.26434/chemrxiv.13515938.v1",
+  "url": "https://doi.org/10.26434/chemrxiv.13515938.v1",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Cocrystals",
+   "Crystal Engineering",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Nanyang Technological University",
+   "Guangdong University of Technology",
+   "Shiv Nadar University",
+   "Khalifa University of Science and Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "faaae69bf752aaf5",
+  "title": "Metal Complexes in Mechanochemistry",
+  "authors": [
+   "Félix León",
+   "Felipe Garcı́a"
+  ],
+  "journal": "Elsevier eBooks",
+  "publisher": "Elsevier BV",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1016/b978-0-08-102688-5.00031-3",
+  "url": "https://doi.org/10.1016/b978-0-08-102688-5.00031-3",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "ebca94d9c889e379",
+  "title": "Monitoring mechanochemical processes in situ and in real time",
+  "authors": [
+   "Adam A. L. Michalchuk∞",
+   "Anke Kabelitz",
+   "Franziska Emmerling"
+  ],
+  "journal": "Elsevier eBooks",
+  "publisher": "Elsevier BV",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1016/b978-0-12-819009-8.00004-9",
+  "url": "https://doi.org/10.1016/b978-0-12-819009-8.00004-9",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Federal Institute For Materials Research and Testing"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "eb152ee26fa004db",
+  "title": "Beyond the Scholl reaction – one-step planarization and edge chlorination of nanographenes by mechanochemistry",
+  "authors": [
+   "Daniel M. Baier",
+   "Sven Grätz",
+   "Babak Farhadi Jahromi",
+   "Sarah Hellmann",
+   "Konrad Bergheim",
+   "Wilm Pickhardt",
+   "Rochus Schmid",
+   "Lars Borchardt"
+  ],
+  "journal": "RSC Advances",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/d1ra07679e",
+  "url": "https://doi.org/10.1039/d1ra07679e",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Ruhr University Bochum",
+   "Technische Universität Dresden"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "e4bce1012d3efae2",
+  "title": "Milligram-scale, temperature-controlled ball milling to provide an informed basis for scale-up to reactive extrusion",
+  "authors": [
+   "Joel Andersen",
+   "Hunter F. Starbuck",
+   "Tia Current",
+   "Scott Martin",
+   "James Mack"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/d1gc02174e",
+  "url": "https://doi.org/10.1039/d1gc02174e",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Twin-Screw Extrusion",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Extrusion",
+   "Mechanochemistry",
+   "Milling",
+   "Reactive Extrusion",
+   "Scale-up"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "University of Cincinnati",
+   "Thermo Fisher Scientific (United States)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "c6badc323a3a7b84",
+  "title": "Ball milling – a new concept for predicting degradation profiles in active pharmaceutical ingredients",
+  "authors": [
+   "Reinhard P. Kaiser",
+   "Everaldo F. Krake",
+   "Laura Backer",
+   "Jonas Urlaub",
+   "Wolfgang Baumann",
+   "Norbert Handler",
+   "Helmut Buschmann",
+   "Torsten Beweries",
+   "Ulrike Holzgrabe",
+   "Carsten Bolm"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/d1cc04716g",
+  "url": "https://doi.org/10.1039/d1cc04716g",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "RWTH Aachen University",
+   "Leibniz Institute for Catalysis",
+   "Leibniz-Institute for Food Systems Biology at the Technical University of Munich"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "bbac2c4ec3c83858",
+  "title": "Mechanochemical synthesis of mononuclear gold( i ) halide complexes of diphosphine ligands with tuneable luminescent properties",
+  "authors": [
+   "Andrea Deák",
+   "Csaba Jobbágy",
+   "Attila Demeter",
+   "Ladislav Čelko",
+   "Jaroslav Cihlář",
+   "Pál Szabó",
+   "Péter Ábrányi‐Balogh",
+   "Deborah E. Crawford",
+   "David Virieux",
+   "Evelina Colacino"
+  ],
+  "journal": "Dalton Transactions",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/d1dt01751a",
+  "url": "https://doi.org/10.1039/d1dt01751a",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Institute of Materials and Environmental Chemistry",
+   "HUN-REN Research Centre for Natural Sciences",
+   "Central European Institute of Technology",
+   "Brno University of Technology",
+   "Institute of Organic Chemistry",
+   "Hungarian Research Network",
+   "University of Bradford",
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "b825346e9da8bf2a",
+  "title": "Synthesis of trifluoromethyl-substituted 1,2,6-thiadiazine 1-oxides from sulfonimidamides under mechanochemical conditions",
+  "authors": [
+   "Marco T. Passia",
+   "Jan‐Hendrik Schöbel",
+   "Niklas Julian Lentelink",
+   "Khai‐Nghi Truong",
+   "Kari Rissanen",
+   "Carsten Bolm"
+  ],
+  "journal": "Organic & Biomolecular Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/d1ob01912k",
+  "url": "https://doi.org/10.1039/d1ob01912k",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Heterocycle Synthesis",
+   "Mechanochemistry",
+   "Solvent-Free"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "RWTH Aachen University",
+   "University of Jyväskylä"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "8e5f66e1eed93148",
+  "title": "From solution-based nonconventional activation methods to mechanochemical procedures: The hydantoin case",
+  "authors": [
+   "Andrea Porcheddu",
+   "Clarence Charnay",
+   "Francesco Delogu",
+   "Evelina Colacino"
+  ],
+  "journal": "Elsevier eBooks",
+  "publisher": "Elsevier BV",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1016/b978-0-12-819009-8.00003-7",
+  "url": "https://doi.org/10.1016/b978-0-12-819009-8.00003-7",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Cagliari",
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "7d7ce5ffb954ef58",
+  "title": "Mechanochemical reactivity inhibited, prohibited and reversed by liquid additives: examples from crystal-form screens",
+  "authors": [
+   "Mihails Arhangelskis",
+   "Dejan‐Krešimir Bučar",
+   "Simone Bordignon",
+   "Michele R. Chierotti",
+   "Samuel A. Stratford",
+   "Dario Voinovich",
+   "William Jones",
+   "Dritan Hasa"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/d0sc05071g",
+  "url": "https://doi.org/10.1039/d0sc05071g",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Faculty (United Kingdom)",
+   "University of Warsaw",
+   "University College London",
+   "Torino e-district",
+   "University of Turin",
+   "University of Cambridge",
+   "University of Trieste"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "768273c170c1e90e",
+  "title": "A phenomenological kinetic equation for mechanochemical reactions involving highly deformable molecular solids",
+  "authors": [
+   "Maria Carta",
+   "Francesco Delogu",
+   "Andrea Porcheddu"
+  ],
+  "journal": "Physical Chemistry Chemical Physics",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/d1cp01361k",
+  "url": "https://doi.org/10.1039/d1cp01361k",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling",
+   "Solvent-Free"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "University of Cagliari",
+   "Consorzio Interuniversitario per lo Sviluppo dei Sistemi a Grande Interfase",
+   "University of Florence"
+  ],
   "added": "2026-07-27"
  }
 ]

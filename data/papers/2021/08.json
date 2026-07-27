@@ -1,5 +1,193 @@
 [
  {
+  "id": "7fc6aa6578fa86ec",
+  "title": "Mechanochemical Syntheses of N -Containing Heterocycles with TosMIC",
+  "authors": [
+   "Christian Schumacher",
+   "Claude Molitor",
+   "Sabrina Smid",
+   "Khai‐Nghi Truong",
+   "Kari Rissanen",
+   "Carsten Bolm"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2021-08-18",
+  "year": 2021,
+  "doi": "10.1021/acs.joc.1c01529",
+  "url": "https://doi.org/10.1021/acs.joc.1c01529",
+  "source": "openalex",
+  "categories": [
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Heterocycle Synthesis",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "RWTH Aachen University",
+   "University of Jyväskylä"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "4e5459507819f6ef",
+  "title": "Mechanochemical Solvent-Free Synthesis of Indenones from Aromatic Carboxylic Acids and Alkynes",
+  "authors": [
+   "L. Li",
+   "Guan‐Wu Wang"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2021-08-17",
+  "year": 2021,
+  "doi": "10.1021/acs.joc.1c01472",
+  "url": "https://doi.org/10.1021/acs.joc.1c01472",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Solvent-Free"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Hefei Normal University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "7102119e838d4d2e",
+  "title": "Advances in Mechanochemistry",
+  "authors": [
+   "Evelina Colacino",
+   "Francesco Delogu",
+   "Timothy P. Hanusa"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2021-08-16",
+  "year": 2021,
+  "doi": "10.1021/acssuschemeng.1c04390",
+  "url": "https://doi.org/10.1021/acssuschemeng.1c04390",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Nanoparticles"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier",
+   "University of Cagliari",
+   "Vanderbilt University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "4dfc3aaf6fae68f3",
+  "title": "Fluorination and co-doping of ZIF-8 by ball mill grinding for efficient oxygen reduction electrocatalysis",
+  "authors": [
+   "Max Rautenberg",
+   "Marius Gernhard",
+   "Christina Roth",
+   "Franziska Emmerling"
+  ],
+  "journal": "Acta Crystallographica Section A Foundations and Advances",
+  "publisher": "",
+  "published": "2021-08-14",
+  "year": 2021,
+  "doi": "10.1107/s010876732108956x",
+  "url": "https://doi.org/10.1107/s010876732108956x",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Catalyst",
+   "Grinding"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Federal Institute For Materials Research and Testing",
+   "Humboldt-Universität zu Berlin",
+   "University of Bayreuth"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "096fe45f7aac9482",
+  "title": "Mechanochemical cocrystal formation: insights into polymorph control",
+  "authors": [
+   "Franziska Emmerling"
+  ],
+  "journal": "Acta Crystallographica Section A Foundations and Advances",
+  "publisher": "",
+  "published": "2021-08-14",
+  "year": 2021,
+  "doi": "10.1107/s0108767321094290",
+  "url": "https://doi.org/10.1107/s0108767321094290",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids",
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Cocrystals",
+   "Grinding",
+   "In-Situ",
+   "Mechanochemistry",
+   "Milling",
+   "Polymorphism",
+   "Time-Resolved"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Federal Institute For Materials Research and Testing"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "fbe1c3c8c04c4e5a",
+  "title": "Tribocatalysis: challenges and perspectives",
+  "authors": [
+   "Feng Ru Fan",
+   "Shunji Xie",
+   "Guan‐Wu Wang",
+   "Zhong‐Qun Tian"
+  ],
+  "journal": "Science China Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2021-08-09",
+  "year": 2021,
+  "doi": "10.1007/s11426-021-1089-6",
+  "url": "https://doi.org/10.1007/s11426-021-1089-6",
+  "source": "openalex",
+  "categories": [
+   "Piezo- & Tribocatalysis"
+  ],
+  "tags": [
+   "Tribocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Xiamen University",
+   "Collaborative Innovation Center of Chemistry for Energy Materials",
+   "University of Science and Technology of China"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "8d7eac59b279789c",
   "title": "Mechanochemistry coupled with MgCO3 one-step activation to prepare coal-based hierarchical porous carbon for supercapacitors",
   "authors": [

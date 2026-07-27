@@ -1,5 +1,36 @@
 [
  {
+  "id": "727b81614be7bd5b",
+  "title": "Efficient mechanochemical complexation of various steroid compounds with α-, β- and γ-cyclodextrin",
+  "authors": [
+   "Laura Rinaldi",
+   "Arianna Binello",
+   "Achim Stolle",
+   "Massimo Curini",
+   "Giancarlo Cravotto"
+  ],
+  "journal": "Steroids",
+  "publisher": "Elsevier BV",
+  "published": "2015-02-25",
+  "year": 2015,
+  "doi": "10.1016/j.steroids.2015.02.016",
+  "url": "https://doi.org/10.1016/j.steroids.2015.02.016",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Turin",
+   "Friedrich Schiller University Jena",
+   "University of Perugia"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "8ef342d476b3d52a",
   "title": "Inducing and quantifying forbidden reactivity with single-molecule polymer mechanochemistry",
   "authors": [
@@ -28,6 +59,70 @@
   ],
   "relevance_score": 66,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "7f488b746fb85f02",
+  "title": "Effect of Reaction Parameters on the Synthesis of 5-Arylidene Barbituric Acid Derivatives in Ball Mills",
+  "authors": [
+   "Robert R. Schmidt",
+   "Christine Friederike Burmeister",
+   "Matěj Baláž",
+   "Arno Kwade",
+   "Achim Stolle"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2015-02-19",
+  "year": 2015,
+  "doi": "10.1021/op5003787",
+  "url": "https://doi.org/10.1021/op5003787",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Knoevenagel",
+   "Milling",
+   "Planetary Ball Mill",
+   "Solvent-Free"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Friedrich Schiller University Jena",
+   "Technische Universität Braunschweig",
+   "Slovak Academy of Sciences",
+   "Institute of Geotechnics of the Slovak Academy of Sciences"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "1ae533dff30efc84",
+  "title": "ChemInform Abstract: Introductory Lecture: Mechanochemistry, a Versatile Synthesis Strategy for New Materials",
+  "authors": [
+   "William Jones",
+   "Mark D. Eddleston"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2015-02-19",
+  "year": 2015,
+  "doi": "10.1002/chin.201510343",
+  "url": "https://doi.org/10.1002/chin.201510343",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Cambridge"
+  ],
   "added": "2026-07-27"
  }
 ]

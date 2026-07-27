@@ -1,5 +1,559 @@
 [
  {
+  "id": "7b13ab43723733d6",
+  "title": "Solvent‐Free Synthesis",
+  "authors": [
+   "Kendra Denlinger",
+   "James Mack"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2018-01-22",
+  "year": 2018,
+  "doi": "10.1002/9781119288152.ch13",
+  "url": "https://doi.org/10.1002/9781119288152.ch13",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Cincinnati"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "844e43bdb35d471f",
+  "title": "Mechanochemical Oxidation and Cleavage of Lignin β-O-4 Model Compounds and Lignin",
+  "authors": [
+   "Saumya Dabral",
+   "Hermann Wotruba",
+   "José G. Hernández",
+   "Carsten Bolm"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2018-01-17",
+  "year": 2018,
+  "doi": "10.1021/acssuschemeng.7b03418",
+  "url": "https://doi.org/10.1021/acssuschemeng.7b03418",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling",
+   "Milling Parameters",
+   "Scale-up"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "RWTH Aachen University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "d6cf31290c5f2af5",
+  "title": "Mechanochemical Activation of Iron Cyano Complexes: A Prebiotic Impact Scenario for the Synthesis of α‐Amino Acid Derivatives",
+  "authors": [
+   "Carsten Bolm",
+   "Rita Mocci",
+   "Christian Schumacher",
+   "Mathias Turberg",
+   "Francesco Puccetti",
+   "José G. Hernández"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2018-01-15",
+  "year": 2018,
+  "doi": "10.1002/anie.201713109",
+  "url": "https://doi.org/10.1002/anie.201713109",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "RWTH Aachen University",
+   "University of Cagliari",
+   "Istituto Nazionale di Fisica Nucleare, Sezione di Cagliari",
+   "University of Florence"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "925ff9e41fab6412",
+  "title": "Opening Pandora’s Box: Chirality, Polymorphism, and Stoichiometric Diversity in Flurbiprofen/Proline Cocrystals",
+  "authors": [
+   "Natalia Tumanova",
+   "Nikolay Tumanov",
+   "Koen Robeyns",
+   "Franziska Fischer",
+   "Luca Fusaro",
+   "Fabrice Morelle",
+   "Voraksmy Ban",
+   "Geoffroy Hautier",
+   "Yaroslav Filinchuk",
+   "Johan Wouters",
+   "Tom Leyssens",
+   "Franziska Emmerling"
+  ],
+  "journal": "Crystal Growth & Design",
+  "publisher": "American Chemical Society",
+  "published": "2018-01-04",
+  "year": 2018,
+  "doi": "10.1021/acs.cgd.7b01436",
+  "url": "https://doi.org/10.1021/acs.cgd.7b01436",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Liquid-Assisted Grinding",
+   "Cocrystals & Pharmaceutical Solids",
+   "In-Situ Monitoring",
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Cocrystallization",
+   "Cocrystals",
+   "DFT",
+   "Grinding",
+   "In-Situ",
+   "In-Situ PXRD",
+   "Liquid-Assisted Grinding",
+   "Milling",
+   "Pharmaceutical Cocrystals",
+   "Polymorphism"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "UCLouvain",
+   "University of Namur",
+   "Federal Institute For Materials Research and Testing",
+   "Paul Scherrer Institute"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "fc7a99465d25662a",
+  "title": "The mechanochemical Scholl reaction – a solvent-free and versatile graphitization tool",
+  "authors": [
+   "Sven Grätz",
+   "Doreen Beyer",
+   "Valeriya Tkachova",
+   "Sarah Hellmann",
+   "Reinhard Berger",
+   "Xinliang Feng",
+   "Lars Borchardt"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2018-01-01",
+  "year": 2018,
+  "doi": "10.1039/c8cc01993b",
+  "url": "https://doi.org/10.1039/c8cc01993b",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry",
+   "Solvent-Free"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Laboratoire de Chimie Moléculaire et Thioorganique",
+   "Technische Universität Dresden"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "fb6fe33838c169e6",
+  "title": "Enthalpy vs. friction: heat flow modelling of unexpected temperature profiles in mechanochemistry of metal–organic frameworks",
+  "authors": [
+   "Krunoslav Užarević",
+   "Nenad Ferdelji",
+   "Tomislav Mrla",
+   "Patrick Julien",
+   "Boris Halasz",
+   "Tomislav Friščić",
+   "Iván Halász"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2018-01-01",
+  "year": 2018,
+  "doi": "10.1039/c7sc05312f",
+  "url": "https://doi.org/10.1039/c7sc05312f",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids",
+   "In-Situ Monitoring",
+   "Ball Milling & Grinding",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling",
+   "Polymorphism",
+   "Reaction Kinetics",
+   "Synchrotron"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Zagreb",
+   "Ruđer Bošković Institute",
+   "McGill University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "fa77a3fd11306e86",
+  "title": "Ca-Tetrafluorophthalate and Sr-isophthalate: mechanochemical synthesis and characterization in comparison with other Ca-and Sr-coordination polymers",
+  "authors": [
+   "Abdal‐Azim Al‐Terkawi",
+   "Gudrun Scholz",
+   "Franziska Emmerling",
+   "Erhard Kemnitz"
+  ],
+  "journal": "Dalton Transactions",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2018-01-01",
+  "year": 2018,
+  "doi": "10.1039/c8dt00488a",
+  "url": "https://doi.org/10.1039/c8dt00488a",
+  "source": "openalex",
+  "categories": [
+   "MOF & Framework Mechanosynthesis",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Coordination Polymers",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Federal Institute For Materials Research and Testing",
+   "Humboldt-Universität zu Berlin"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "d639d1abda9afdfc",
+  "title": "Design of a scalable AuNP catalyst system for plasmon-driven photocatalysis",
+  "authors": [
+   "Heike Lisa Kerstin Stephanie Stolle",
+   "F. Garwe",
+   "Robert Müller",
+   "T. Krech",
+   "B. Oberleiter",
+   "Thomas Rainer",
+   "Wolfgang Fritzsche",
+   "Achim Stolle"
+  ],
+  "journal": "RSC Advances",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2018-01-01",
+  "year": 2018,
+  "doi": "10.1039/c8ra03661f",
+  "url": "https://doi.org/10.1039/c8ra03661f",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanocatalysis & Mechanoredox",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Catalyst",
+   "Nanoparticles"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Leibniz Institute of Photonic Technology",
+   "Friedrich Schiller University Jena"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "a5968b8adf6926ad",
+  "title": "In situ studies of mechanochemistry: a force of synthesis",
+  "authors": [
+   "Franziska Emmerling"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2018-01-01",
+  "year": 2018,
+  "doi": "",
+  "url": "https://opus4.kobv.de/opus4-bam/frontdoor/index/index/docId/46992",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "762f7c7a3004109b",
+  "title": "Recyclable heterogeneous metal foil-catalyzed cyclopropenation of alkynes and diazoacetates under solvent-free mechanochemical reaction conditions",
+  "authors": [
+   "Longrui Chen",
+   "Devonna Leslie",
+   "Michael G. Coleman",
+   "James Mack"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2018-01-01",
+  "year": 2018,
+  "doi": "10.1039/c8sc00443a",
+  "url": "https://doi.org/10.1039/c8sc00443a",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Mechanocatalysis & Mechanoredox",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Catalyst",
+   "Heterogeneous Catalysis",
+   "Mechanochemistry",
+   "Solvent-Free",
+   "Sonogashira Coupling"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "University of Cincinnati",
+   "Rochester Institute of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "6e21aebf2e325ce7",
+  "title": "Solvent-free N -iodosuccinimide-promoted synthesis of spiroimidazolines from alkenes and amidines under ball-milling conditions",
+  "authors": [
+   "Hui Xu",
+   "Kuan Chen",
+   "Hong-Wei Liu",
+   "Guan‐Wu Wang"
+  ],
+  "journal": "Organic Chemistry Frontiers",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2018-01-01",
+  "year": 2018,
+  "doi": "10.1039/c8qo00723c",
+  "url": "https://doi.org/10.1039/c8qo00723c",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling",
+   "Solvent-Free"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Hefei National Center for Physical Sciences at Nanoscale",
+   "Microscale (United States)",
+   "Collaborative Innovation Center of Chemistry for Energy Materials",
+   "Lanzhou University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "67a50268814d5e0f",
+  "title": "Mechanochemistry for “no solvent, no base” preparation of hydantoin-based active pharmaceutical ingredients: nitrofurantoin and dantrolene",
+  "authors": [
+   "Evelina Colacino",
+   "Andrea Porcheddu",
+   "Iván Halász",
+   "Clarence Charnay",
+   "Francesco Delogu",
+   "R Sbarbati Del Guerra",
+   "Julien Fullenwarth"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2018-01-01",
+  "year": 2018,
+  "doi": "10.1039/c8gc01345d",
+  "url": "https://doi.org/10.1039/c8gc01345d",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Université de Montpellier",
+   "Institut des Biomolécules Max Mousseron",
+   "University of Cagliari",
+   "National Interuniversity Consortium of Materials Science and Technology",
+   "Ruđer Bošković Institute",
+   "Centre National de la Recherche Scientifique",
+   "Institut Charles Gerhardt Montpellier",
+   "Services déconcentrés d'appui à la recherche Occitanie-Montpellier",
+   "Material (Belgium)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "660d8e9022b575eb",
+  "title": "Mechanochemical dehydrocoupling of dimethylamine borane and hydrogenation reactions using Wilkinson's catalyst",
+  "authors": [
+   "Christian Schumacher",
+   "Deborah E. Crawford",
+   "Branimir Raguž",
+   "Robert Glaum",
+   "Stuart L. James",
+   "Carsten Bolm",
+   "José G. Hernández"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2018-01-01",
+  "year": 2018,
+  "doi": "10.1039/c8cc04487b",
+  "url": "https://doi.org/10.1039/c8cc04487b",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry",
+   "Cocrystals & Pharmaceutical Solids",
+   "Mechanocatalysis & Mechanoredox",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Catalyst",
+   "In-Situ",
+   "Mechanochemistry",
+   "Milling",
+   "Polymorphism",
+   "Solvent-Free"
+  ],
+  "relevance_score": 89,
+  "affiliations": [
+   "RWTH Aachen University",
+   "FH Aachen",
+   "Queen's University Belfast",
+   "University of Ulster",
+   "Belfast City Hospital",
+   "University of Bonn",
+   "Institute of Inorganic Chemistry of the Slovak Academy of Sciences"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "5aa0ee5fadeb2245",
+  "title": "Mechanochemical carbon–carbon bond formation that proceeds via a cocrystal intermediate",
+  "authors": [
+   "Stipe Lukin",
+   "Martina Tireli",
+   "Ivor Lončarić",
+   "Dajana Barišić",
+   "Primož Šket",
+   "Domagoj Vrsaljko",
+   "Marco Di Michiel",
+   "Janez Plavec",
+   "Krunoslav Užarević",
+   "Iván Halász"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2018-01-01",
+  "year": 2018,
+  "doi": "10.1039/c8cc07853j",
+  "url": "https://doi.org/10.1039/c8cc07853j",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Cocrystals",
+   "Knoevenagel",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Zagreb",
+   "Ruđer Bošković Institute",
+   "EN-FIST Centre of Excellence (Slovenia)",
+   "National Institute of Chemistry",
+   "European Synchrotron Radiation Facility",
+   "University of Ljubljana"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "41487bab09a50293",
+  "title": "Papain-catalysed mechanochemical synthesis of oligopeptides by milling and twin-screw extrusion: application in the Juliá–Colonna enantioselective epoxidation",
+  "authors": [
+   "Karen J. Ardila‐Fierro",
+   "Deborah E. Crawford",
+   "A. Körner",
+   "Stuart L. James",
+   "Carsten Bolm",
+   "José G. Hernández"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2018-01-01",
+  "year": 2018,
+  "doi": "10.1039/c7gc03205f",
+  "url": "https://doi.org/10.1039/c7gc03205f",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Extrusion",
+   "Mechanochemistry",
+   "Milling",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "RWTH Aachen University",
+   "FH Aachen",
+   "Queen's University Belfast",
+   "University of Ulster",
+   "Belfast City Hospital",
+   "DWI – Leibniz Institute for Interactive Materials"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "23f1bd5875730ea5",
   "title": "Mechanochemistry and organic synthesis: from mystical to practical",
   "authors": [
@@ -22,6 +576,54 @@
   ],
   "relevance_score": 55,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "0dcaae13ac6ff187",
+  "title": "Green and rapid mechanosynthesis of high-porosity NU- and UiO-type metal–organic frameworks",
+  "authors": [
+   "Athena M. Fidelli",
+   "Bahar Karadeniz",
+   "Ashlee J. Howarth",
+   "Igor Huskić",
+   "Luzia S. Germann",
+   "Iván Halász",
+   "Martin Etter",
+   "Su‐Young Moon",
+   "Robert E. Dinnebier",
+   "Vladimir Stilinović",
+   "Omar K. Farha",
+   "Tomislav Friščić",
+   "Krunoslav Užarević"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2018-01-01",
+  "year": 2018,
+  "doi": "10.1039/c8cc03189d",
+  "url": "https://doi.org/10.1039/c8cc03189d",
+  "source": "openalex",
+  "categories": [
+   "MOF & Framework Mechanosynthesis"
+  ],
+  "tags": [
+   "MOFs",
+   "Mechanochemistry",
+   "Mechanosynthesis"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "National and Kapodistrian University of Athens",
+   "McGill University",
+   "Ruđer Bošković Institute",
+   "Northwestern University",
+   "Concordia University",
+   "Max Planck Institute for Solid State Research",
+   "Stuttgart Observatory",
+   "Deutsches Elektronen-Synchrotron DESY",
+   "University of Zagreb",
+   "King Abdulaziz University"
+  ],
   "added": "2026-07-27"
  }
 ]

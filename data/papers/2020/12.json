@@ -1,5 +1,35 @@
 [
  {
+  "id": "b16ac12caf31ceb4",
+  "title": "Cobalt-Catalyzed Intermolecular [2+2+2] Cycloaddition of Nitriles and Alkynes: Facile Synthesis of Polyarylpyridines and Their Mechanochemical Cyclodehydrogenation to Nitrogen-Containing Polyaromatics",
+  "authors": [
+   "Chang‐Sheng Wang",
+   "Qiao Sun",
+   "Felipe Garcı́a",
+   "Chen Wang",
+   "Naohiko Yoshikai"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2020-12-22",
+  "year": 2020,
+  "doi": "10.26434/chemrxiv.13465697",
+  "url": "https://doi.org/10.26434/chemrxiv.13465697",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nanyang Technological University",
+   "Shaoxing University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "ccadd1d8b5c1fdf0",
   "title": "Kabachnik–Fields Reaction by Mechanochemistry: New Horizons from Old Methods",
   "authors": [
@@ -32,6 +62,37 @@
   ],
   "relevance_score": 46,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "38f83bcc848cb059",
+  "title": "Coupling of mechanical deformation and reaction in mechanochemical transformations",
+  "authors": [
+   "Gabriele Traversari",
+   "Andrea Porcheddu",
+   "Giorgio Pia",
+   "Francesco Delogu",
+   "Alberto Cincotti"
+  ],
+  "journal": "Physical Chemistry Chemical Physics",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-12-09",
+  "year": 2020,
+  "doi": "10.1039/d0cp05647b",
+  "url": "https://doi.org/10.1039/d0cp05647b",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "University of Cagliari"
+  ],
   "added": "2026-07-27"
  }
 ]
