@@ -1,5 +1,33 @@
 [
  {
+  "id": "23aa2d2a0a30ec79",
+  "title": "A Physical Model Reveals the Mechanochemistry Responsible for Dynein's Processive Motion",
+  "authors": [
+   "Timothy C. Elston",
+   "Denis Tsygankov",
+   "Nikolay V. Dokholyan",
+   "Adrian W.R. Serohijos"
+  ],
+  "journal": "UNC Libraries",
+  "publisher": "",
+  "published": "2020-10-31",
+  "year": 2020,
+  "doi": "10.17615/y7mq-vr80",
+  "url": "https://doi.org/10.17615/y7mq-vr80",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of North Carolina at Chapel Hill"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "b3dbd663a7dce089",
   "title": "Mechanochemical Preparation of Active Pharmaceutical Ingredients Monitored by In Situ Raman Spectroscopy",
   "authors": [
@@ -77,6 +105,100 @@
   "added": "2026-07-27"
  },
  {
+  "id": "e80a73ba7f487469",
+  "title": "Assessment of Co-sublimation for the Formation of Multicomponent Crystals",
+  "authors": [
+   "Jean Lombard",
+   "Delia A. Haynes",
+   "T. Le Roex"
+  ],
+  "journal": "Crystal Growth & Design",
+  "publisher": "American Chemical Society",
+  "published": "2020-10-29",
+  "year": 2020,
+  "doi": "10.1021/acs.cgd.0c01148",
+  "url": "https://doi.org/10.1021/acs.cgd.0c01148",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Cocrystallization",
+   "Cocrystals",
+   "Mechanochemistry",
+   "Polymorphism"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Stellenbosch University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d45782893d0266ca",
+  "title": "Microwave-mechanochemistry-assisted synthesis of Z-scheme HSr2Nb3O10/WO3 heterojunctions for improved simulated sunlight driven photocatalytic activity",
+  "authors": [
+   "Yuying Ding",
+   "Dan Luo",
+   "Yunfang Huang",
+   "Bin Rong",
+   "Xia Chen",
+   "Yuelin Wei",
+   "Leqing Fan",
+   "Jihuai Wu"
+  ],
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "Elsevier BV",
+  "published": "2020-10-28",
+  "year": 2020,
+  "doi": "10.1016/j.jece.2020.104624",
+  "url": "https://doi.org/10.1016/j.jece.2020.104624",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Huaqiao University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "08d44a6dde520089",
+  "title": "Switching Polymorph Stabilities with Impurities: A Thermodynamic Route to Benzamide Form III",
+  "authors": [
+   "Weronika Kras",
+   "Andrea Carletta",
+   "Riccardo Montis",
+   "R. A. L. Sullivan",
+   "Aurora J. Cruz‐Cabeza"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2020-10-28",
+  "year": 2020,
+  "doi": "10.26434/chemrxiv.13138964.v1",
+  "url": "https://doi.org/10.26434/chemrxiv.13138964.v1",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Polymorphism"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "AstraZeneca (United Kingdom)",
+   "University of Manchester",
+   "University of Namur"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "5c290d251f0782d9",
   "title": "Cover Picture: Solid‐State Radical C−H Trifluoromethylation Reactions Using Ball Milling and Piezoelectric Materials (Angew. Chem. Int. Ed. 50/2020)",
   "authors": [
@@ -110,6 +232,43 @@
   "added": "2026-07-27"
  },
  {
+  "id": "afb1c1cc19ad5704",
+  "title": "Controlling Optical and Catalytic Activity of Genetically Engineered Proteins by Ultrasound",
+  "authors": [
+   "Yu Zhou",
+   "Shuaidong Huo",
+   "Mark Loznik",
+   "Robert Göstl",
+   "Arnold J. Boersma",
+   "Andreas Herrmann"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2020-10-26",
+  "year": 2020,
+  "doi": "10.1002/anie.202010324",
+  "url": "https://doi.org/10.1002/anie.202010324",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Cavitation",
+   "Mechanochemistry",
+   "Polymer Mechanochemistry",
+   "Ultrasound"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "University of Groningen",
+   "DWI – Leibniz Institute for Interactive Materials",
+   "Xiamen University",
+   "RWTH Aachen University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "8e7854ac8320dc37",
   "title": "Titelbild: Solid‐State Radical C−H Trifluoromethylation Reactions Using Ball Milling and Piezoelectric Materials (Angew. Chem. 50/2020)",
   "authors": [
@@ -141,6 +300,47 @@
    "Hokkaido University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "721427ac1bcfd592",
+  "title": "Sustainable One-Step Solid-State Synthesis of Antibacterially Active Silver Nanoparticles Using Mechanochemistry",
+  "authors": [
+   "Mária Kováčová",
+   "Nina Daneu",
+   "Ľudmila Tkáčiková",
+   "Radovan Búreš",
+   "Erika Dutková",
+   "Martin Stahorský",
+   "Zdenka Lukáčová Bujňáková",
+   "Matěj Baláž"
+  ],
+  "journal": "Nanomaterials",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2020-10-25",
+  "year": 2020,
+  "doi": "10.3390/nano10112119",
+  "url": "https://doi.org/10.3390/nano10112119",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling",
+   "Nanoparticles",
+   "Planetary Mill",
+   "Solid-State Synthesis"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Slovak Academy of Sciences",
+   "Institute of Geotechnics of the Slovak Academy of Sciences",
+   "Jožef Stefan Institute",
+   "University of Veterinary Medicine in Košice",
+   "Institute of Materials Research of the Slovak Academy of Sciences"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "f9e787da114ce221",
@@ -177,6 +377,37 @@
   "added": "2026-07-27"
  },
  {
+  "id": "359dcc122e141d7c",
+  "title": "Mechanochemistry enables optical-electrical multifunctional response and tunability in two-dimensional hybrid perovskites",
+  "authors": [
+   "Zhi‐Xu Zhang",
+   "Chang‐Yuan Su",
+   "Ji‐Xing Gao",
+   "Tie Zhang",
+   "Da‐Wei Fu"
+  ],
+  "journal": "Science China Materials",
+  "publisher": "Springer Science+Business Media",
+  "published": "2020-10-22",
+  "year": 2020,
+  "doi": "10.1007/s40843-020-1463-0",
+  "url": "https://doi.org/10.1007/s40843-020-1463-0",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Perovskites"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Southeast University",
+   "Zhejiang Normal University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "d30b7ade77f736aa",
   "title": "Kinetics of MgH2 formation by ball milling",
   "authors": [
@@ -204,6 +435,41 @@
    "I.R.C.C.S. Oasi Maria SS"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "c53cbb9c0c8bbc1e",
+  "title": "Diselenide-Linked Polymers under Sonication",
+  "authors": [
+   "Qin Wu",
+   "Yuan Yuan",
+   "Feiyi Chen",
+   "Chenxing Sun",
+   "Huaping Xu",
+   "Yulan Chen"
+  ],
+  "journal": "ACS Macro Letters",
+  "publisher": "American Chemical Society",
+  "published": "2020-10-19",
+  "year": 2020,
+  "doi": "10.1021/acsmacrolett.0c00585",
+  "url": "https://doi.org/10.1021/acsmacrolett.0c00585",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Mechanophores",
+   "Sonication",
+   "Sonochemistry"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Tianjin University",
+   "Tsinghua University"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "9487a8c237645d6f",
@@ -265,6 +531,44 @@
    "Hokkaido University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "3d7b214f15f654fd",
+  "title": "A Polymer with Mechanochemically Active Hidden Length",
+  "authors": [
+   "Yancong Tian",
+   "Xiaodong Cao",
+   "Xun Li",
+   "Huan Zhang",
+   "Cai‐Li Sun",
+   "Yuanze Xu",
+   "Wengui Weng",
+   "Wenke Zhang",
+   "Roman Boulatov"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2020-10-16",
+  "year": 2020,
+  "doi": "10.1021/jacs.0c09220",
+  "url": "https://doi.org/10.1021/jacs.0c09220",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores",
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "DFT",
+   "Mechanochemistry",
+   "Mechanophores"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "University of Liverpool",
+   "Xiamen University",
+   "Jilin University"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "dae7b851da9895df",
@@ -329,6 +633,91 @@
    "Nanyang Technological University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "1fa464997a07b121",
+  "title": "Interlocking screws crank out pharmaceuticals",
+  "authors": [
+   "special to C EN XiaoZhi Lim"
+  ],
+  "journal": "C&EN Global Enterprise",
+  "publisher": "American Chemical Society",
+  "published": "2020-10-05",
+  "year": 2020,
+  "doi": "10.1021/cen-09838-scicon6",
+  "url": "https://doi.org/10.1021/cen-09838-scicon6",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Mechanochemistry",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d291fb067bc4e897",
+  "title": "Reductive Defluorination and Mechanochemical Decomposition of Per- and Polyfluoroalkyl Substances (PFASs): From Present Knowledge to Future Remediation Concepts",
+  "authors": [
+   "Philipp Roesch",
+   "Christian Vogel",
+   "Franz‐Georg Simon"
+  ],
+  "journal": "International Journal of Environmental Research and Public Health",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2020-10-03",
+  "year": 2020,
+  "doi": "10.3390/ijerph17197242",
+  "url": "https://doi.org/10.3390/ijerph17197242",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Federal Institute For Materials Research and Testing"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d67b70178f917515",
+  "title": "Mechanochemical Production of Urea-citric Acid Copolymer",
+  "authors": [
+   "Eval O. Miranda",
+   "Victor H. R. Silva",
+   "Mirtânia Antunes Leão",
+   "Elaine Christine de Magalhães Cabral Albuquerque",
+   "Sílvio Cunha",
+   "Rosana Lopes Fialho"
+  ],
+  "journal": "IOP Conference Series Materials Science and Engineering",
+  "publisher": "IOP Publishing",
+  "published": "2020-10-01",
+  "year": 2020,
+  "doi": "10.1088/1757-899x/958/1/012008",
+  "url": "https://doi.org/10.1088/1757-899x/958/1/012008",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Planetary Ball Mill"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Universidade Federal da Bahia",
+   "Instituto Federal da Bahia"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "b3ccf5fb490ded69",

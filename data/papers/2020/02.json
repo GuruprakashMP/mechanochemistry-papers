@@ -1,5 +1,72 @@
 [
  {
+  "id": "8930d65a34b92289",
+  "title": "High-Entropy Perovskite Fluorides: A New Platform for Oxygen Evolution Catalysis",
+  "authors": [
+   "Tao Wang",
+   "Hao Chen",
+   "Zhenzhen Yang",
+   "Jiyuan Liang",
+   "Sheng Dai"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2020-02-27",
+  "year": 2020,
+  "doi": "10.1021/jacs.9b12377",
+  "url": "https://doi.org/10.1021/jacs.9b12377",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Perovskites"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Tennessee at Knoxville",
+   "Oak Ridge National Laboratory"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "4a8fe2237a37dc09",
+  "title": "Cover Feature: Mechanoenzymatic Transformations in the Absence of Bulk Water: A More Natural Way of Using Enzymes (ChemBioChem 6/2020)",
+  "authors": [
+   "Sandra Kaabel",
+   "Tomislav Friščić",
+   "Karine Auclair"
+  ],
+  "journal": "ChemBioChem",
+  "publisher": "Wiley",
+  "published": "2020-02-26",
+  "year": 2020,
+  "doi": "10.1002/cbic.202000087",
+  "url": "https://doi.org/10.1002/cbic.202000087",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Twin-Screw Extrusion",
+   "Green & Solvent-Free Chemistry",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Depolymerization",
+   "Extrusion",
+   "Mechanochemistry",
+   "Milling",
+   "Solvent-Free",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "McGill University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "f27c7ced34bd8729",
   "title": "Effect of stressing conditions on mechanochemical Knoevenagel synthesis",
   "authors": [
@@ -32,6 +99,153 @@
   "added": "2026-07-27"
  },
  {
+  "id": "388ef787300c7662",
+  "title": "From Lead Paste to High-Value Nanolead Sulfide Products: A New Application of Mechanochemistry in the Recycling of Spent Lead–Acid Batteries",
+  "authors": [
+   "Kang Liu",
+   "Quanyin Tan",
+   "Lili Liu",
+   "Jinhui Li"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2020-02-25",
+  "year": 2020,
+  "doi": "10.1021/acssuschemeng.9b07055",
+  "url": "https://doi.org/10.1021/acssuschemeng.9b07055",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "State Key Joint Laboratory of Environment Simulation and Pollution Control",
+   "Tsinghua University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f6c0b8d6ac69077a",
+  "title": "Stimuli‐Responsive Molecular Photon Upconversion",
+  "authors": [
+   "Nobuhiro Yanai",
+   "Nobuo Kimizuka"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2020-02-24",
+  "year": 2020,
+  "doi": "10.1002/anie.202001325",
+  "url": "https://doi.org/10.1002/anie.202001325",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Supramolecular"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Kyushu University",
+   "Japan Science and Technology Agency"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b06fcf140516f4b7",
+  "title": "Mechanosynthesis of Noels-type NHC–Ruthenium Complexes and Applications in Ring-Opening Metathesis Polymerization",
+  "authors": [
+   "François Quintin",
+   "Julien Pinaud",
+   "Frédéric Lamaty",
+   "Xavier Bantreil"
+  ],
+  "journal": "Organometallics",
+  "publisher": "American Chemical Society",
+  "published": "2020-02-21",
+  "year": 2020,
+  "doi": "10.1021/acs.organomet.0c00013",
+  "url": "https://doi.org/10.1021/acs.organomet.0c00013",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Catalyst",
+   "Mechanochemistry",
+   "Mechanosynthesis"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier",
+   "Institut des Biomolécules Max Mousseron"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "108b237190c86ee4",
+  "title": "In-situ crystallization-induced selective monoarylation of dihaloarenes using mechanochemistry",
+  "authors": [
+   "Seo"
+  ],
+  "journal": "The Chemical Society of Japan",
+  "publisher": "",
+  "published": "2020-02-21",
+  "year": 2020,
+  "doi": "",
+  "url": "https://confit.atlas.jp/guide/event/csj100th/subject/1H1-35/detail",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0cfd3485bb30d53c",
+  "title": "Sodium-induced solid-phase hydrogenation of carbon dioxide to formate by mechanochemistry",
+  "authors": [
+   "Dunfan Zhou",
+   "Yu Meng",
+   "Yaping Fan",
+   "Zhenyu Wang",
+   "Guoju Dang",
+   "Quansheng Zhang",
+   "Jingying Xie"
+  ],
+  "journal": "Environmental Chemistry Letters",
+  "publisher": "Springer Science+Business Media",
+  "published": "2020-02-20",
+  "year": 2020,
+  "doi": "10.1007/s10311-020-00974-2",
+  "url": "https://doi.org/10.1007/s10311-020-00974-2",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Shanghai Institute of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "c8044a1fa657c0d9",
   "title": "Microscopic kinetic information from Ag oxalate mechanochemistry in ball drop experiments",
   "authors": [
@@ -59,6 +273,42 @@
    "University of Cagliari"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "e0e03cb21e31ebde",
+  "title": "Ultralight Programmable Bioinspired Aerogels with an Integrated Multifunctional Surface for Self-Cleaning, Oil Absorption, and Thermal Insulation via Coassembly",
+  "authors": [
+   "Chenyang Cai",
+   "Zechang Wei",
+   "Yangze Huang",
+   "Chenfeng Ding",
+   "Pei Wang",
+   "Jianyue Song",
+   "Leixin Deng",
+   "Yu Fu",
+   "W. H. Zhong"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "publisher": "American Chemical Society",
+  "published": "2020-02-11",
+  "year": 2020,
+  "doi": "10.1021/acsami.0c00308",
+  "url": "https://doi.org/10.1021/acsami.0c00308",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Nanjing Forestry University",
+   "Washington State University",
+   "Beijing University of Chemical Technology"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "365f41e677c4fc2a",
@@ -98,5 +348,156 @@
    "McGill University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "b6ef34ff8dedeb97",
+  "title": "Synthesis, Characterisation and Cytotoxic Activity Evaluation of New Metalsalen Complexes Based on the 1,2-bicyclo[2.2.2]octane Bridge",
+  "authors": [
+   "Pierre Milbeo",
+   "François Quintin",
+   "Laure Moulat",
+   "Claude Didierjean",
+   "Jean Martínez",
+   "Xavier Bantreil",
+   "Monique Calmès",
+   "Frédéric Lamaty"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2020-02-05",
+  "year": 2020,
+  "doi": "10.26434/chemrxiv.11800257",
+  "url": "https://doi.org/10.26434/chemrxiv.11800257",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Université de Montpellier"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d775f5c9941eee5b",
+  "title": "Design of An Optical Tweezers System with Fast Digital Feedback for Studying the Mechanochemistry of Cardiac Myosin",
+  "authors": [
+   "W. Tom Stump",
+   "Thomas W. Blackwell",
+   "Sarah R. Clippinger",
+   "Michael J. Greenberg"
+  ],
+  "journal": "Biophysical Journal",
+  "publisher": "Elsevier BV",
+  "published": "2020-02-01",
+  "year": 2020,
+  "doi": "10.1016/j.bpj.2019.11.3224",
+  "url": "https://doi.org/10.1016/j.bpj.2019.11.3224",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Washington University in St. Louis"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "833f44f427b6ad97",
+  "title": "Strain-Dependent Properties of KIF3A and KIF3C Tune the Mechanochemistry of the KIF3AC Heterodimer",
+  "authors": [
+   "Brandon M. Bensel",
+   "Michael S. Woody",
+   "Serapion Pyrpassopoulos",
+   "Yale E. Goldman",
+   "Susan P. Gilbert",
+   "E. Michael Ostap"
+  ],
+  "journal": "Biophysical Journal",
+  "publisher": "Elsevier BV",
+  "published": "2020-02-01",
+  "year": 2020,
+  "doi": "10.1016/j.bpj.2019.11.2415",
+  "url": "https://doi.org/10.1016/j.bpj.2019.11.2415",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Rensselaer Polytechnic Institute",
+   "Penn Center for AIDS Research"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7368f794197966be",
+  "title": "Mechanochemistry of an Interlocked Poly[2]catenane: From Single Molecule to Bulk Gel",
+  "authors": [
+   "Hao Xing",
+   "Zhandong Li",
+   "Wenbo Wang",
+   "Peiren Liu",
+   "Junkai Liu",
+   "Yu Song",
+   "Zi Liang Wu",
+   "Wenke Zhang",
+   "Feihe Huang"
+  ],
+  "journal": "CCS Chemistry",
+  "publisher": "Chinese Chemical Society",
+  "published": "2020-02-01",
+  "year": 2020,
+  "doi": "10.31635/ccschem.019.201900043",
+  "url": "https://doi.org/10.31635/ccschem.019.201900043",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "State Key Laboratory of Chemical Engineering",
+   "Zhejiang University",
+   "Jilin University",
+   "State Key Laboratory of Supramolecular Structure and Materials",
+   "Hong Kong University of Science and Technology",
+   "University of Hong Kong"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "15567ca240772510",
+  "title": "Nanoceramics from the Ball Mill",
+  "authors": [],
+  "journal": "Interceram - International Ceramic Review",
+  "publisher": "Springer Science+Business Media",
+  "published": "2020-02-01",
+  "year": 2020,
+  "doi": "10.1007/s42411-019-0068-x",
+  "url": "https://doi.org/10.1007/s42411-019-0068-x",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
  }
 ]

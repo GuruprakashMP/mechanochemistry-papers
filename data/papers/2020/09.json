@@ -1,5 +1,36 @@
 [
  {
+  "id": "5c8bc95fc2183647",
+  "title": "Highly Efficient Solid‐State Hydrolysis of Waste Polyethylene Terephthalate by Mechanochemical Milling and Vapor‐Assisted Aging",
+  "authors": [
+   "Vjekoslav Štrukil"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2020-09-28",
+  "year": 2020,
+  "doi": "10.1002/cssc.202002124",
+  "url": "https://doi.org/10.1002/cssc.202002124",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Depolymerization",
+   "Mechanochemistry",
+   "Milling",
+   "Solvent-Free"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "Ruđer Bošković Institute"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "6ba037c7b08c6c2e",
   "title": "In Situ Monitoring of Mechanochemical Covalent Organic Framework Formation Reveals Templating Effect of Liquid Additive",
   "authors": [
@@ -67,6 +98,187 @@
   "added": "2026-07-27"
  },
  {
+  "id": "560c4b6b41a410c2",
+  "title": "Cytotoxicity of Mechanochemically Prepared Cu(II) Complexes",
+  "authors": [
+   "Aaron S. McCalmont",
+   "Amalia Ruiz",
+   "M.C. Lagunas",
+   "Wafa’ T. Al-Jamal",
+   "Deborah E. Crawford"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2020-09-21",
+  "year": 2020,
+  "doi": "10.1021/acssuschemeng.0c04950",
+  "url": "https://doi.org/10.1021/acssuschemeng.0c04950",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "Queen's University Belfast",
+   "University of Bradford"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ed67e9353f63b7d2",
+  "title": "Experimental and Theoretical Studies of Cu-Sn Intermetallic Phase Growth During High-Temperature Storage of Eutectic SnAg Interconnects",
+  "authors": [
+   "Aleksandr Morozov",
+   "А. Б. Фрейдин",
+   "Victor Klinkov",
+   "А. В. Семенча",
+   "Wolfgang H. Müller",
+   "T. Hauck"
+  ],
+  "journal": "Journal of Electronic Materials",
+  "publisher": "Springer Science+Business Media",
+  "published": "2020-09-18",
+  "year": 2020,
+  "doi": "10.1007/s11664-020-08433-y",
+  "url": "https://doi.org/10.1007/s11664-020-08433-y",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Institute of Problems of Mechanical Engineering",
+   "Technische Universität Berlin",
+   "Peter the Great St. Petersburg Polytechnic University",
+   "NXP (Germany)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "87ca6a1c599ef01d",
+  "title": "Organic Solvent‐free Asymmetric 1,4‐Addition in Liquid‐ or Solid‐State using Conventional Stirring Catalyzed by a Chiral Rhodium Complex Developed as a Homogeneous Catalyst",
+  "authors": [
+   "Toshinobu Korenaga",
+   "Hiroto Kori",
+   "Shota Asai",
+   "Ryo Kowata",
+   "Masayuki Shirai"
+  ],
+  "journal": "ChemCatChem",
+  "publisher": "Wiley",
+  "published": "2020-09-17",
+  "year": 2020,
+  "doi": "10.1002/cctc.202001479",
+  "url": "https://doi.org/10.1002/cctc.202001479",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanocatalysis & Mechanoredox",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Catalyst",
+   "Mechanochemistry",
+   "Milling",
+   "Nanoparticles"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Iwate University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ad43dc52c78dc1fe",
+  "title": "Mechanochemistry of Metal–Organic Frameworks under Pressure and Shock",
+  "authors": [
+   "Xuan Zhou",
+   "Yurun Miao",
+   "Kenneth S. Suslick",
+   "Dana D. Dlott"
+  ],
+  "journal": "Accounts of Chemical Research",
+  "publisher": "American Chemical Society",
+  "published": "2020-09-16",
+  "year": 2020,
+  "doi": "10.1021/acs.accounts.0c00396",
+  "url": "https://doi.org/10.1021/acs.accounts.0c00396",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids",
+   "MOF & Framework Mechanosynthesis",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Crystal Engineering",
+   "Mechanochemistry",
+   "Nanostructured",
+   "Porous Materials"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Illinois Urbana-Champaign"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5d99c93793b65561",
+  "title": "Investigation of thermo-chemical properties of mechanochemically generated glucose–histidine Maillard reaction mixtures",
+  "authors": [
+   "Haoran Xing",
+   "Varoujan A. Yaylayan"
+  ],
+  "journal": "European Food Research and Technology",
+  "publisher": "Springer Science+Business Media",
+  "published": "2020-09-16",
+  "year": 2020,
+  "doi": "10.1007/s00217-020-03611-y",
+  "url": "https://doi.org/10.1007/s00217-020-03611-y",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "McGill University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "535c2b3737f2f917",
+  "title": "Nontraditional Activation Methods in Green and Sustainable Applications: Microwaves; Ultrasounds; Photo-, Electro- and Mechanochemistry and High Hydrostatic Pressure",
+  "authors": [],
+  "journal": "Focus on Catalysts",
+  "publisher": "Elsevier BV",
+  "published": "2020-09-15",
+  "year": 2020,
+  "doi": "10.1016/j.focat.2020.09.046",
+  "url": "https://doi.org/10.1016/j.focat.2020.09.046",
+  "source": "openalex",
+  "categories": [
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Ultrasound"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "50e42013e9190bcf",
   "title": "Solid‐State Radical C−H Trifluoromethylation Reactions Using Ball Milling and Piezoelectric Materials",
   "authors": [
@@ -101,5 +313,280 @@
    "Hokkaido University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "bf790e79f9f58c7e",
+  "title": "The B & B approach: Ball-milling conjugation of dextran with phenylboronic acid (PBA)-functionalized BODIPY",
+  "authors": [
+   "Patrizia Andreozzi",
+   "Lorenza Tamberi",
+   "Elisamaria Tasca",
+   "Gina Elena Giacomazzo",
+   "Marta Martínez Moro",
+   "Mirko Severi",
+   "Marco Marradi",
+   "Stefano Cicchi",
+   "Sergio Moya",
+   "Giacomo Biagiotti",
+   "Barbara Richichi"
+  ],
+  "journal": "Beilstein Journal of Organic Chemistry",
+  "publisher": "Beilstein Institute for the Advancement of Chemical Sciences",
+  "published": "2020-09-11",
+  "year": 2020,
+  "doi": "10.3762/bjoc.16.188",
+  "url": "https://doi.org/10.3762/bjoc.16.188",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling",
+   "Nanoparticles",
+   "Solvent-Free"
+  ],
+  "relevance_score": 80,
+  "affiliations": [
+   "CIC biomaGUNE",
+   "University of Florence",
+   "Sapienza University of Rome",
+   "Adam Mickiewicz University in Poznań"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9200eddc045aeee8",
+  "title": "Validation of the CoGEF Method as a Predictive Tool for Polymer Mechanochemistry",
+  "authors": [
+   "Isabel Klein",
+   "Corey C. Husic",
+   "Dávid Péter Kovács",
+   "Nicolas J. Choquette",
+   "Maxwell J. Robb"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2020-09-09",
+  "year": 2020,
+  "doi": "10.1021/jacs.0c06868",
+  "url": "https://doi.org/10.1021/jacs.0c06868",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores",
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "DFT",
+   "Mechanochemistry",
+   "Mechanophores",
+   "Polymer Mechanochemistry"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "California Institute of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ed16b7eed9d1b514",
+  "title": "Data from: Distal conformational locks on ferrocene mechanophores guide reaction pathways for enhanced mechanochemistry",
+  "authors": [
+   "Tatiana B. Kouznetsova",
+   "Müge Fermen‐Coker",
+   "Yangju Lin",
+   "Chuanbing Tang",
+   "Yudi Zhang",
+   "Ye Sha",
+   "Enhua Xu",
+   "Craig, Stephen",
+   "Zi Wang",
+   "Logan Shannahan"
+  ],
+  "journal": "Research Data Repository, Duke University",
+  "publisher": "",
+  "published": "2020-09-08",
+  "year": 2020,
+  "doi": "10.7924/r4125x84n",
+  "url": "https://doi.org/10.7924/r4125x84n",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores"
+  ],
+  "tags": [
+   "Force-Induced",
+   "Mechanochemistry",
+   "Mechanophores"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "20e72d364563ccce",
+  "title": "Making Agriculture More Sustainable: An Environmentally Friendly Approach to the Synthesis of Lignin@Cu Pesticides",
+  "authors": [
+   "Cristina Gazzurelli",
+   "A. Migliori",
+   "Paolo P. Mazzeo",
+   "Mauro Carcelli",
+   "Suvi Pietarinen",
+   "Giuliano Leonardi",
+   "Antonio Pandolfi",
+   "Dominga Rogolino",
+   "Paolo Pelagatti"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2020-09-08",
+  "year": 2020,
+  "doi": "10.1021/acssuschemeng.0c04645",
+  "url": "https://doi.org/10.1021/acssuschemeng.0c04645",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Parma",
+   "Istituto Nazionale di Fisica Nucleare, Sezione di Bologna",
+   "Institute for Microelectronics and Microsystems",
+   "Outokumpu (Finland)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2f57aaafaa91109a",
+  "title": "Improving the Yield and Rate of Acid‐Catalyzed Deconstruction of Lignin by Mechanochemical Activation",
+  "authors": [
+   "Darpan H. Patel",
+   "Dominik Marx",
+   "Allan L. L. East"
+  ],
+  "journal": "ChemPhysChem",
+  "publisher": "Wiley",
+  "published": "2020-09-02",
+  "year": 2020,
+  "doi": "10.1002/cphc.202000671",
+  "url": "https://doi.org/10.1002/cphc.202000671",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "University of Regina",
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "bc6b6eeff0e1de2f",
+  "title": "Mechanochemical Behaviour of Solid Pharmaceuticals during Milling: Experimental and Modelling Studies",
+  "authors": [
+   "Hanane Abouhakim"
+  ],
+  "journal": "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)",
+  "publisher": "White Rose University Consortium",
+  "published": "2020-09-01",
+  "year": 2020,
+  "doi": "",
+  "url": "",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Ball Milling",
+   "Grinding Jar",
+   "Mechanochemistry",
+   "Milling",
+   "Planetary Ball Mill"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "6f8ad2e86ca328e9",
+  "title": "Synergy between surface mechanochemistry and subsurface dissolution on wear of soda lime silica glass in basic solution",
+  "authors": [
+   "Hongtu He",
+   "Qian Qiao",
+   "Jiaxin Yu",
+   "Seong H. Kim"
+  ],
+  "journal": "Journal of the American Ceramic Society",
+  "publisher": "Wiley",
+  "published": "2020-09-01",
+  "year": 2020,
+  "doi": "10.1111/jace.17444",
+  "url": "https://doi.org/10.1111/jace.17444",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Southwest University of Science and Technology",
+   "Pennsylvania State University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "33dd67c50fbbe3a9",
+  "title": "Mechanochemistry as a Green Route: Synthesis, Thermal Stability, and Postsynthetic Reversible Phase Transformation of Highly-Luminescent Cesium Copper Halides",
+  "authors": [
+   "G. Krishnamurthy Grandhi",
+   "Noolu Srinivasa Manikanta Viswanath",
+   "Han Bin Cho",
+   "Joo Hyeong Han",
+   "Seong Min Kim",
+   "Sungho Choi",
+   "Won Bin Im"
+  ],
+  "journal": "The Journal of Physical Chemistry Letters",
+  "publisher": "American Chemical Society",
+  "published": "2020-09-01",
+  "year": 2020,
+  "doi": "10.1021/acs.jpclett.0c02384",
+  "url": "https://doi.org/10.1021/acs.jpclett.0c02384",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Grinding",
+   "Manual Grinding",
+   "Mechanochemistry",
+   "Phase Transformation",
+   "Solvent-Free"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "Hanyang University",
+   "Anyang University",
+   "Chonnam National University",
+   "Korea Research Institute of Chemical Technology"
+  ],
+  "added": "2026-07-28"
  }
 ]

@@ -1,5 +1,160 @@
 [
  {
+  "id": "8080efd410c07a49",
+  "title": "Isotope Effect in the Activation of a Mechanophore",
+  "authors": [
+   "Robert Nixon",
+   "Guillaume De Bo"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2020-12-31",
+  "year": 2020,
+  "doi": "10.1021/jacs.0c11259",
+  "url": "https://doi.org/10.1021/jacs.0c11259",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanical Activation",
+   "Mechanochemistry",
+   "Mechanophores"
+  ],
+  "relevance_score": 56,
+  "affiliations": [
+   "University of Manchester"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "47f1608abb4f122b",
+  "title": "Mechanochemical synthesis of MAPbBr3/carbon sphere composites for boosting carrier-involved superoxide species",
+  "authors": [
+   "Qun Wang",
+   "Ming Ma",
+   "Kai Cui",
+   "Xiaochen Li",
+   "Yan Zhou",
+   "Li Yang",
+   "Xiaohong Wu"
+  ],
+  "journal": "Journal of Environmental Sciences",
+  "publisher": "Elsevier BV",
+  "published": "2020-12-30",
+  "year": 2020,
+  "doi": "10.1016/j.jes.2020.12.024",
+  "url": "https://doi.org/10.1016/j.jes.2020.12.024",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Harbin Institute of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a31f50e9d89f326b",
+  "title": "Mechanochemistry Activated Covalent Conjugation Reactions in Soft Hydrogels Induced by Interfacial Failure",
+  "authors": [
+   "Ashray V. Parameswar",
+   "Karan Dikshit",
+   "Sanli Movafaghi",
+   "Carson J. Bruns",
+   "Andrew P. Goodwin"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "publisher": "American Chemical Society",
+  "published": "2020-12-28",
+  "year": 2020,
+  "doi": "10.1021/acsami.0c18432",
+  "url": "https://doi.org/10.1021/acsami.0c18432",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Mechanophores"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "University of Colorado Boulder"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "925d2d30d73e6804",
+  "title": "From pipemidic acid molecular salts to metal complexes and BioMOFs using mechanochemistry",
+  "authors": [
+   "Martin Zábranský",
+   "Paula C. Alves",
+   "Catarina Bravo",
+   "M. Teresa Duarte",
+   "Vânia André"
+  ],
+  "journal": "CrystEngComm",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-12-23",
+  "year": 2020,
+  "doi": "10.1039/d0ce01533d",
+  "url": "https://doi.org/10.1039/d0ce01533d",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Lisbon",
+   "Charles University",
+   "IST-ID - Associação do Instituto Superior Técnico para a Investigação e Desenvolvimento",
+   "Instituto Politécnico de Lisboa"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "3ab913e072d0ce94",
+  "title": "Single-molecule observation of mechanical isomerization of spirothiopyran and subsequent Click addition",
+  "authors": [
+   "Ruixiang Yao",
+   "Xun Li",
+   "Nan Xiao",
+   "Wengui Weng",
+   "Wenke Zhang"
+  ],
+  "journal": "Nano Research",
+  "publisher": "Springer Science+Business Media",
+  "published": "2020-12-23",
+  "year": 2020,
+  "doi": "10.1007/s12274-020-3268-9",
+  "url": "https://doi.org/10.1007/s12274-020-3268-9",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Mechanophores"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Jilin University",
+   "State Key Laboratory of Supramolecular Structure and Materials",
+   "University of Liège",
+   "Xiamen University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "b16ac12caf31ceb4",
   "title": "Cobalt-Catalyzed Intermolecular [2+2+2] Cycloaddition of Nitriles and Alkynes: Facile Synthesis of Polyarylpyridines and Their Mechanochemical Cyclodehydrogenation to Nitrogen-Containing Polyaromatics",
   "authors": [
@@ -28,6 +183,285 @@
    "Shaoxing University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "427989a8d5bf00d8",
+  "title": "Modeling Molecules under Pressure with Gaussian Potentials",
+  "authors": [
+   "Maximilian Scheurer",
+   "Andreas Dreuw",
+   "Evgeny Epifanovsky",
+   "Martin Head‐Gordon",
+   "Tim Stauch"
+  ],
+  "journal": "Journal of Chemical Theory and Computation",
+  "publisher": "American Chemical Society",
+  "published": "2020-12-22",
+  "year": 2020,
+  "doi": "10.1021/acs.jctc.0c01212",
+  "url": "https://doi.org/10.1021/acs.jctc.0c01212",
+  "source": "openalex",
+  "categories": [
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Mechanochemistry",
+   "Molecular Dynamics"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Heidelberg University",
+   "Q Chem (United States)",
+   "Lawrence Berkeley National Laboratory",
+   "University of California, Berkeley",
+   "University of Bremen"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e047274c53488994",
+  "title": "Mechanochemical synthesis of an elusive fluorinated polyacetylene",
+  "authors": [
+   "Benjamin R. Boswell",
+   "Carl M. F. Mansson",
+   "Jordan M. Cox",
+   "Zexin Jin",
+   "Joseph A. H. Romaniuk",
+   "Kurt P. Lindquist",
+   "Lynette Cegelski",
+   "Yan Xia",
+   "Steven A. Lopez",
+   "Noah Z. Burns"
+  ],
+  "journal": "Nature Chemistry",
+  "publisher": "Nature Portfolio",
+  "published": "2020-12-21",
+  "year": 2020,
+  "doi": "10.1038/s41557-020-00608-8",
+  "url": "https://doi.org/10.1038/s41557-020-00608-8",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Stanford University",
+   "Northeastern University",
+   "Stanford Medicine"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d5a7582ae10a5095",
+  "title": "On-Surface Mechanochemistry Synthesis of Non-Alternant Non-Benzenoid Aromatic Compounds Containing 4 to 8-Membered Rings",
+  "authors": [
+   "Benjamín Mallada",
+   "Bruno de la Torre",
+   "Jesús I. Mendieta‐Moreno",
+   "Dana Nachtigalova",
+   "Adam Matěj",
+   "Mikuláš Matoušek",
+   "Pingo Mutombo",
+   "Jiří Brabec",
+   "Libor Veis",
+   "Timothée Cadart",
+   "Martin Kotora",
+   "Pavel Jelı́nek"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2020-12-21",
+  "year": 2020,
+  "doi": "10.26434/chemrxiv.13455908.v1",
+  "url": "https://doi.org/10.26434/chemrxiv.13455908.v1",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Czech Academy of Sciences",
+   "Regional Centre of Advanced Technologies and Materials",
+   "FZU ‒ Institute of Physics of the Academy of Sciences of the Czech Republic",
+   "Palacký University Olomouc",
+   "Czech Academy of Sciences, J. Heyrovský Institute of Physical Chemistry",
+   "Charles University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "6326585e4396af1f",
+  "title": "Porphyrin synthesis using mechanochemistry: Sustainability assessment",
+  "authors": [
+   "Carla Gomes",
+   "Mariana Peixoto",
+   "Marta Piñeiro"
+  ],
+  "journal": "WORLD SCIENTIFIC eBooks",
+  "publisher": "World Scientific",
+  "published": "2020-12-20",
+  "year": 2020,
+  "doi": "10.1142/9789811223556_0043",
+  "url": "https://doi.org/10.1142/9789811223556_0043",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Coimbra"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "90d3c5ec314e99af",
+  "title": "Fast reversible isomerization of merocyanine as a tool to quantify stress history in elastomers",
+  "authors": [
+   "Yinjun Chen",
+   "C. Joshua Yeh",
+   "Qiang Guo",
+   "Yuan Qi",
+   "Rong Long",
+   "Costantino Creton"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-12-17",
+  "year": 2020,
+  "doi": "10.1039/d0sc06157c",
+  "url": "https://doi.org/10.1039/d0sc06157c",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris Sciences et Lettres",
+   "Sorbonne Université",
+   "ESPCI Paris",
+   "University of Colorado Boulder",
+   "Colorado State University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "62d7daa7aa929072",
+  "title": "Mechanochemistry for sustainable and efficient dehydrogenation/hydrogenation",
+  "authors": [
+   "Blaine G. Fiss",
+   "Austin J. Richard",
+   "Tomislav Friščić",
+   "Audrey Moores"
+  ],
+  "journal": "Canadian Journal of Chemistry",
+  "publisher": "NRC Research Press",
+  "published": "2020-12-17",
+  "year": 2020,
+  "doi": "10.1139/cjc-2020-0408",
+  "url": "https://doi.org/10.1139/cjc-2020-0408",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling",
+   "Solvent-Free"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Centre in Green Chemistry and Catalysis",
+   "McGill University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "607e2d72f9e5c81d",
+  "title": "Thermally stable and highly recyclable carbon fiber-reinforced polyketone composites based on mechanochemical bond formation",
+  "authors": [
+   "Jiwan You",
+   "Young Mo Lee",
+   "Han‐Hyeong Choi",
+   "Tae Ann Kim",
+   "Sang‐Soo Lee",
+   "Jong Hyuk Park"
+  ],
+  "journal": "Composites Part A Applied Science and Manufacturing",
+  "publisher": "Elsevier BV",
+  "published": "2020-12-17",
+  "year": 2020,
+  "doi": "10.1016/j.compositesa.2020.106251",
+  "url": "https://doi.org/10.1016/j.compositesa.2020.106251",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Korea University",
+   "Korea Institute of Science and Technology",
+   "Seoul National University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "41ffab5ec66ee6b0",
+  "title": "Mechanochemistry: A force in disguise and conditional effects towards chemical reactions",
+  "authors": [
+   "Srikanth Mateti",
+   "Motilal Mathesh",
+   "Zhen Liu",
+   "Tao Tao",
+   "Thrinathreddy Ramireddy",
+   "Alexey M. Glushenkov",
+   "Wenrong Yang",
+   "Ying Chen"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-12-17",
+  "year": 2020,
+  "doi": "10.1039/d0cc06581a",
+  "url": "https://doi.org/10.1039/d0cc06581a",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Deakin University",
+   "Geelong Hospital",
+   "Qingdao University",
+   "Division of Materials Science and Engineering",
+   "Qingdao Center of Resource Chemistry and New Materials",
+   "Guangdong University of Technology",
+   "Australian National University",
+   "Canberra (United Kingdom)"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "ccadd1d8b5c1fdf0",
@@ -65,6 +499,324 @@
   "added": "2026-07-27"
  },
  {
+  "id": "c221d99ea6c2ff8f",
+  "title": "Estimation of Diffusion-Kinetic and Thermodynamic Properties of Al‑Sm-H Alloys",
+  "authors": [
+   "V. O. Lukyanova",
+   "I. Yu. Gots"
+  ],
+  "journal": "Конденсированные среды и межфазные границы",
+  "publisher": "",
+  "published": "2020-12-15",
+  "year": 2020,
+  "doi": "10.17308/kcmf.2020.22/3118",
+  "url": "https://doi.org/10.17308/kcmf.2020.22/3118",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Hydrogen Storage",
+   "Mechanochemistry",
+   "Nanostructured"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Yuri Gagarin State Technical University of Saratov"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "bde0d257b78d8bda",
+  "title": "Mechanochemical Preparation of N,S-Doped Graphene Oxide Using (NH 4 ) 2 SO 4 for Supercapacitor Applications",
+  "authors": [
+   "Xue-Qin Ma",
+   "Yaqi Shan",
+   "Meng-Yao Wang",
+   "Zeid A. ALOthman",
+   "Zhi-Xiang Xu",
+   "Peigao Duan",
+   "Jun Zhou",
+   "Rafael Luque"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2020-12-15",
+  "year": 2020,
+  "doi": "10.1021/acssuschemeng.0c05918",
+  "url": "https://doi.org/10.1021/acssuschemeng.0c05918",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Jiangsu University",
+   "Xi'an Jiaotong University",
+   "Nanjing Tech University",
+   "King Saud University",
+   "Peoples' Friendship University of Russia"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "618fc77ccb16a957",
+  "title": "Benzimidazole as Ubiquitous Structural Fragment: An Update on Development of its Green Synthetic Approaches",
+  "authors": [
+   "Ashish Patel",
+   "Drashti Shah",
+   "Naiya Patel",
+   "Khushbu Patel",
+   "Nidhi Soni",
+   "Afzal Nagani",
+   "Vruti Parikh",
+   "Hirak Shah",
+   "Tushar Bambharoliya"
+  ],
+  "journal": "Mini-Reviews in Organic Chemistry",
+  "publisher": "Bentham Science Publishers",
+  "published": "2020-12-15",
+  "year": 2020,
+  "doi": "10.2174/1570193x17999201211194908",
+  "url": "https://doi.org/10.2174/1570193x17999201211194908",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Sonochemistry",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Green Chemistry",
+   "Mechanochemistry",
+   "Ultrasound"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Charotar University of Science and Technology",
+   "Parul University",
+   "North Carolina State University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "281a3daca6d3b7ba",
+  "title": "Metastability and Seeding Effects in the Mechanochemical Hybrid Lead(II) Iodide Formation",
+  "authors": [
+   "Manuel Wilke",
+   "Dariusz Jakub Gawryluk",
+   "Nicola Casati"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2020-12-15",
+  "year": 2020,
+  "doi": "10.1002/chem.202004431",
+  "url": "https://doi.org/10.1002/chem.202004431",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry",
+   "PXRD"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Paul Scherrer Institute"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f3bde0547280b64e",
+  "title": "Mechanochemistry for ammonia synthesis under mild conditions",
+  "authors": [
+   "Gao‐Feng Han",
+   "Feng Li",
+   "Zhiwen Chen",
+   "Claude Coppex",
+   "Seok‐Jin Kim",
+   "Hyuk‐Jun Noh",
+   "Zhengping Fu",
+   "Yalin Lu",
+   "Chandra Veer Singh",
+   "Samira Siahrostami",
+   "Qing Jiang",
+   "Jong‐Beom Baek"
+  ],
+  "journal": "Nature Nanotechnology",
+  "publisher": "Nature Portfolio",
+  "published": "2020-12-14",
+  "year": 2020,
+  "doi": "10.1038/s41565-020-00809-9",
+  "url": "https://doi.org/10.1038/s41565-020-00809-9",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Ulsan National Institute of Science and Technology",
+   "University of Toronto",
+   "Jilin University",
+   "University of Calgary",
+   "University of Science and Technology of China",
+   "Quantum Design (Germany)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f81cefd5a348ea1b",
+  "title": "Mechanochemistry as a Sustainable Method for the Preparation of Fluorescent Ugi BODIPY Adducts",
+  "authors": [
+   "Mario Pérez‐Venegas",
+   "Teresa Arbeloa",
+   "Jorge Bañuelos",
+   "Íñigo López‐Arbeloa",
+   "Nancy E. Lozoya‐Pérez",
+   "Bernardo Franco",
+   "Héctor M. Mora‐Montes",
+   "José L. Belmonte‐Vázquez",
+   "Claudia I. Bautista‐Hernández",
+   "Eduardo Peña‐Cabrera",
+   "Eusebio Juaristi"
+  ],
+  "journal": "European Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2020-12-11",
+  "year": 2020,
+  "doi": "10.1002/ejoc.202001267",
+  "url": "https://doi.org/10.1002/ejoc.202001267",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Grinding",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Instituto Politécnico Nacional",
+   "University of the Basque Country",
+   "Universidad de Guanajuato",
+   "National College"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5668cc6f0294d109",
+  "title": "Tunable Fulleretic Sodalite MOFs: Highly Efficient and Controllable Entrapment of C 60 Fullerene via Mechanochemistry",
+  "authors": [
+   "Valentina Martinez",
+   "Bahar Karadeniz",
+   "Nikola Biliškov",
+   "Ivor Lončarić",
+   "Senada Muratović",
+   "Dijana Žilić",
+   "Stanislav M. Avdoshenko",
+   "Maria Roslova",
+   "Alexey A. Popov",
+   "Krunoslav Užarević"
+  ],
+  "journal": "Chemistry of Materials",
+  "publisher": "American Chemical Society",
+  "published": "2020-12-11",
+  "year": 2020,
+  "doi": "10.1021/acs.chemmater.0c03796",
+  "url": "https://doi.org/10.1021/acs.chemmater.0c03796",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry",
+   "MOF & Framework Mechanosynthesis"
+  ],
+  "tags": [
+   "Ball Milling",
+   "MOFs",
+   "Mechanochemistry",
+   "Milling",
+   "Solvent-Free"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "Ruđer Bošković Institute",
+   "Leibniz Institute for Solid State and Materials Research",
+   "Stockholm University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "1997f498e6d97825",
+  "title": "Ultrasonication for Environmentally Friendly Preparation of Antimicrobial and Catalytically Active Nanocomposites of Cellulosic Textiles",
+  "authors": [
+   "Joanna Kwiczak‐Yiğitbaşı",
+   "Mine Demir",
+   "Recep Erdem Ahan",
+   "Sedat Canlı",
+   "Urartu Özgür Şafak Şeker",
+   "Bilge Baytekin"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2020-12-11",
+  "year": 2020,
+  "doi": "10.1021/acssuschemeng.0c05493",
+  "url": "https://doi.org/10.1021/acssuschemeng.0c05493",
+  "source": "openalex",
+  "categories": [
+   "Sonochemistry",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Nanoparticles",
+   "Sonication",
+   "Ultrasonic"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Bilkent University",
+   "Middle East Technical University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c43877e895dcc2dc",
+  "title": "Reversible Mechanochemistry Enabled Autonomous Sustaining of Robustness of Polymers—An Example of Next Generation Self-healing Strategy",
+  "authors": [
+   "Mingxuan Li",
+   "Min Zhi Rong",
+   "Mingqiu Zhang"
+  ],
+  "journal": "Chinese Journal of Polymer Science",
+  "publisher": "Springer Nature",
+  "published": "2020-12-09",
+  "year": 2020,
+  "doi": "10.1007/s10118-021-2532-0",
+  "url": "https://doi.org/10.1007/s10118-021-2532-0",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Sun Yat-sen University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "38f83bcc848cb059",
   "title": "Coupling of mechanical deformation and reaction in mechanochemical transformations",
   "authors": [
@@ -94,5 +846,166 @@
    "University of Cagliari"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "0cf5ab3dadc12907",
+  "title": "Triggering Forces at the Nanoscale: Technologies for Single‐Chain Mechanical Activation and Manipulation",
+  "authors": [
+   "Daniel E. Martínez‐Tong",
+   "José A. Pomposo",
+   "Ester Verde‐Sesto"
+  ],
+  "journal": "Macromolecular Rapid Communications",
+  "publisher": "Wiley",
+  "published": "2020-12-06",
+  "year": 2020,
+  "doi": "10.1002/marc.202000654",
+  "url": "https://doi.org/10.1002/marc.202000654",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Kinetics",
+   "Polymer Mechanochemistry & Mechanophores",
+   "Sonochemistry",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Activation",
+   "Mechanochemistry",
+   "Mechanophores",
+   "Mechanoresponsive",
+   "Nanoparticles",
+   "Polymer Mechanochemistry",
+   "Ultrasonic"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of the Basque Country",
+   "Material Physics Center",
+   "Ikerbasque",
+   "Donostia International Physics Center"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7998f922ff113941",
+  "title": "Selective synthesis of multicomponent crystals using mechanochemistry and sublimation",
+  "authors": [
+   "Jean Lombard"
+  ],
+  "journal": "SUNScholar (Stellenbosch University)",
+  "publisher": "Stellenbosch University",
+  "published": "2020-12-01",
+  "year": 2020,
+  "doi": "",
+  "url": "http://hdl.handle.net/10019.1/109136",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "558766a4f5474efa",
+  "title": "Polymer Research at the State Key Laboratory of Supramolecular Structure and Materials, Jilin University",
+  "authors": [
+   "Zesheng An",
+   "Wenke Zhang",
+   "Junqi Sun"
+  ],
+  "journal": "Macromolecular Rapid Communications",
+  "publisher": "Wiley",
+  "published": "2020-12-01",
+  "year": 2020,
+  "doi": "10.1002/marc.202000630",
+  "url": "https://doi.org/10.1002/marc.202000630",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Polymer Mechanochemistry",
+   "Supramolecular"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Jilin University",
+   "State Key Laboratory of Supramolecular Structure and Materials"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "4c46425d0796d2ec",
+  "title": "Inclusion of Montelukast in y-Cyclodextrin: Presenting a Mechanochemical Route to Improve Drug Stability and Solubility",
+  "authors": [
+   "Jéssica S. Barbosa",
+   "Karyna Lysenko",
+   "Filipe A. Almeida Paz",
+   "Susana S. Braga"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2020-12-01",
+  "year": 2020,
+  "doi": "10.3390/iecp2020-08717",
+  "url": "https://doi.org/10.3390/iecp2020-08717",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling",
+   "PXRD"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "Rede de Química e Tecnologia",
+   "University of Aveiro"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "36c6d1ab8fc7e34d",
+  "title": "“New” solutions to the problem of poorly soluble drugs – the role of \"green\", anti-crystal engineering",
+  "authors": [
+   "Lidia Tajber",
+   "Hanah Mesallati",
+   "Julija Zotova",
+   "Ż. Wojnarowska",
+   "Anita Umerska"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2020-12-01",
+  "year": 2020,
+  "doi": "10.3390/iecp2020-08784",
+  "url": "https://doi.org/10.3390/iecp2020-08784",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Cocrystals",
+   "Crystal Engineering",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Trinity College Dublin",
+   "Institute of Physics",
+   "University of Silesia in Katowice"
+  ],
+  "added": "2026-07-28"
  }
 ]

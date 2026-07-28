@@ -1,5 +1,95 @@
 [
  {
+  "id": "661bf35d7f40afa2",
+  "title": "Tribochemistry as an Alternative Synthesis Pathway",
+  "authors": [
+   "Hayden Carlton",
+   "David Huitink",
+   "Hong Liang"
+  ],
+  "journal": "Lubricants",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2020-08-29",
+  "year": 2020,
+  "doi": "10.3390/lubricants8090087",
+  "url": "https://doi.org/10.3390/lubricants8090087",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Nanoparticles",
+   "Sustainable Synthesis",
+   "Tribochemistry"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "University of Arkansas at Fayetteville",
+   "Walker (United States)",
+   "Texas A&M University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e709ec581206f6d7",
+  "title": "Catalytic activity of novel thermoplastic/cellulose-Au nanocomposites prepared by cryomilling",
+  "authors": [
+   "Joanna Kwiczak‐Yiğitbaşı"
+  ],
+  "journal": "TURKISH JOURNAL OF CHEMISTRY",
+  "publisher": "Scientific and Technological Research Council of Turkey (TUBITAK)",
+  "published": "2020-08-25",
+  "year": 2020,
+  "doi": "10.3906/kim-2005-53",
+  "url": "https://doi.org/10.3906/kim-2005-53",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling",
+   "Nanoparticles"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Bilkent University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "4a5fddf675ae93ac",
+  "title": "Recent Advances on Copper Complexes as Visible Light Photoinitiators and (Photo) Redox Initiators of Polymerization",
+  "authors": [
+   "Guillaume Noirbent",
+   "Frédéric Dumur"
+  ],
+  "journal": "Catalysts",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2020-08-20",
+  "year": 2020,
+  "doi": "10.3390/catal10090953",
+  "url": "https://doi.org/10.3390/catal10090953",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Aix-Marseille Université",
+   "Institut de Chimie Radicalaire"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "49dac17946610c7f",
   "title": "In-situ reaction monitoring of a mechanochemical ball mill reaction with solid state NMR",
   "authors": [
@@ -30,6 +120,77 @@
    "Federal Institute For Materials Research and Testing"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "5002387b2a731f97",
+  "title": "Mechanochemistry Applied to the Synthesis of X-ray Contrast Agent",
+  "authors": [
+   "Alessandro Barge",
+   "Francesca Baricco",
+   "Giancarlo Cravotto",
+   "Roberta Fretta",
+   "Luciano Lattuada"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2020-08-17",
+  "year": 2020,
+  "doi": "10.1021/acssuschemeng.0c02928",
+  "url": "https://doi.org/10.1021/acssuschemeng.0c02928",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling",
+   "Planetary Ball Mill",
+   "Process Intensification",
+   "Solvent-Free"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "University of Turin",
+   "Bracco (Italy)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "1370eb7206388609",
+  "title": "Toward Drug Release Using Polymer Mechanochemical Disulfide Scission",
+  "authors": [
+   "Zhiyuan Shi",
+   "Jingnan Wu",
+   "Qingchuan Song",
+   "Robert Göstl",
+   "Andreas Herrmann"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2020-08-17",
+  "year": 2020,
+  "doi": "10.1021/jacs.0c07077",
+  "url": "https://doi.org/10.1021/jacs.0c07077",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Polymer Mechanochemistry",
+   "Ultrasound"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "DWI – Leibniz Institute for Interactive Materials",
+   "RWTH Aachen University",
+   "University of Groningen"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "eda1c42e1b3e53d9",
@@ -63,6 +224,37 @@
    "Lanzhou University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "a5b27606fb1af149",
+  "title": "Li 7 GeS 5 Br—An Argyrodite Li-Ion Conductor Prepared by Mechanochemical Synthesis",
+  "authors": [
+   "Florian Strauss",
+   "Tatiana Zinkevich",
+   "Sylvio Indris",
+   "Torsten Brezesinski"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2020-08-14",
+  "year": 2020,
+  "doi": "10.1021/acs.inorgchem.0c02094",
+  "url": "https://doi.org/10.1021/acs.inorgchem.0c02094",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Solid-State Synthesis",
+   "Synchrotron"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Karlsruhe Institute of Technology",
+   "Helmholtz-Institute Ulm"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "511036934f331fe3",
@@ -110,6 +302,40 @@
   "added": "2026-07-27"
  },
  {
+  "id": "9d3265a60df4a601",
+  "title": "Grafted Cinnamoyl-Based Mechanophores for Self-Sensing and Photochemical Healing Capabilities in Epoxy",
+  "authors": [
+   "Ryan Gunckel",
+   "Bonsung Koo",
+   "Yifei Xu",
+   "Bradley Pauley",
+   "Asha Hall",
+   "Aditi Chattopadhyay",
+   "Lenore L. Dai"
+  ],
+  "journal": "ACS Applied Polymer Materials",
+  "publisher": "American Chemical Society",
+  "published": "2020-08-13",
+  "year": 2020,
+  "doi": "10.1021/acsapm.0c00599",
+  "url": "https://doi.org/10.1021/acsapm.0c00599",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Mechanophores",
+   "Polymer Mechanochemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Arizona State University",
+   "DEVCOM Army Research Laboratory"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "c34a0573e9abdf58",
   "title": "Synthesis, properties, and catalysis of p-block complexes supported by bis(arylimino)acenaphthene ligands",
   "authors": [
@@ -135,6 +361,114 @@
    "Nanyang Technological University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "6b82965e03219489",
+  "title": "Regulating Heterogeneous Catalysis of Gold Nanoparticles with Polymer Mechanochemistry",
+  "authors": [
+   "Siyao Wu",
+   "Tao Wang",
+   "Hangxun Xu"
+  ],
+  "journal": "ACS Macro Letters",
+  "publisher": "American Chemical Society",
+  "published": "2020-08-11",
+  "year": 2020,
+  "doi": "10.1021/acsmacrolett.0c00451",
+  "url": "https://doi.org/10.1021/acsmacrolett.0c00451",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores",
+   "Mechanism & Kinetics",
+   "Mechanocatalysis & Mechanoredox",
+   "Mechanical Alloying & Materials",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Catalyst",
+   "Heterogeneous Catalysis",
+   "Mechanical Activation",
+   "Mechanochemistry",
+   "Mechanophores",
+   "Nanoparticles",
+   "Polymer Mechanochemistry",
+   "Sonication"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Hefei National Center for Physical Sciences at Nanoscale"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d24f8c26707a060e",
+  "title": "Selective regeneration of lithium from spent lithium-ion batteries using ionic substitution stimulated by mechanochemistry",
+  "authors": [
+   "Mengmeng Wang",
+   "Quanyin Tan",
+   "Lili Liu",
+   "Jinhui Li"
+  ],
+  "journal": "Journal of Cleaner Production",
+  "publisher": "Elsevier BV",
+  "published": "2020-08-09",
+  "year": 2020,
+  "doi": "10.1016/j.jclepro.2020.123612",
+  "url": "https://doi.org/10.1016/j.jclepro.2020.123612",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "State Key Joint Laboratory of Environment Simulation and Pollution Control",
+   "Tsinghua University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "531ff16d05ea7bb2",
+  "title": "Mechanochemical Synthesis of Corannulene‐Based Curved Nanographenes",
+  "authors": [
+   "Gábor Báti",
+   "Dániel Csókás",
+   "Yong Teoh",
+   "Si Man Tam",
+   "Raymond Rong Sheng Shi",
+   "Richard D. Webster",
+   "Imre Pápai",
+   "Felipe Garcı́a",
+   "Mihaiela C. Stuparu"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2020-08-08",
+  "year": 2020,
+  "doi": "10.1002/anie.202007815",
+  "url": "https://doi.org/10.1002/anie.202007815",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Organic Mechanosynthesis",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry",
+   "Solvent-Free",
+   "Suzuki Coupling"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Nanyang Technological University",
+   "Institute of Organic Chemistry",
+   "HUN-REN Research Centre for Natural Sciences"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "ffe4b2284d023816",

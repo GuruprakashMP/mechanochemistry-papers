@@ -1,5 +1,41 @@
 [
  {
+  "id": "fd68b7d6cbd74d0e",
+  "title": "Synthesis of Tree-Component Cobalt-Based Alloy by Selective Laser Melting",
+  "authors": [
+   "A.A. Saprykin",
+   "Yuriy P. Sharkeev",
+   "Natalya A. Saprykina",
+   "Margarita A. Khimich",
+   "Egor A. Ibragimov",
+   "Alexey A. Saprykin"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2022-06-30",
+  "year": 2022,
+  "doi": "10.4028/p-ky8391",
+  "url": "https://doi.org/10.4028/p-ky8391",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanical Alloying",
+   "Planetary Ball Mill"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "National Research Tomsk State University",
+   "Tomsk Polytechnic University",
+   "Novosibirsk State Technical University",
+   "Institute of Strength Physics and Materials Science"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "ed73162e7fabb755",
   "title": "Catalytic role of binary oxides ( CuO and Al 2 O 3 ) on hydrogen storage in MgH 2",
   "authors": [
@@ -155,6 +191,84 @@
    "Sevastopol National Technical University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "b1a0d8ac9d24f220",
+  "title": "Synthesis, characterization and amorphization of mechanically alloyed Fe75Si12Ti6B7 and Fe73Si15Ti5B7 powders",
+  "authors": [
+   "A. Chebli",
+   "Martin Cesnek",
+   "A. Djekoun",
+   "J.J. Suñol",
+   "D. Niznansky"
+  ],
+  "journal": "Journal of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "2022-06-30",
+  "year": 2022,
+  "doi": "10.1007/s10853-022-07404-4",
+  "url": "https://doi.org/10.1007/s10853-022-07404-4",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Badji Mokhtar-Annaba University",
+   "University of Skikda",
+   "Czech Technical University in Prague",
+   "Universitat de Girona",
+   "Charles University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a606e5d7df54d5b7",
+  "title": "Direct Hydrogen Production from Water/Seawater by Irradiation/Vibration-Activated Using Defective Ferroelectric BaTiO3-x Nanoparticles",
+  "authors": [
+   "Yue Jiang",
+   "Cui Ying Toe",
+   "Sajjad S. Mofarah",
+   "Claudio Cazorla",
+   "Shery L. Y. Chang",
+   "Yanting Yin",
+   "Qi Zhang",
+   "Sean Lim",
+   "Yin Yao",
+   "Ruoming Tian",
+   "Yuan Wang",
+   "Tasmia Zaman",
+   "Hamidreza Arandiyan",
+   "Gunther G. Andersson",
+   "Jason Scott",
+   "Pramod Koshy",
+   "Danyang Wang",
+   "Charles C. Sorrell"
+  ],
+  "journal": "arXiv (Cornell University)",
+  "publisher": "Cornell University",
+  "published": "2022-06-30",
+  "year": 2022,
+  "doi": "10.48550/arxiv.2206.14961",
+  "url": "https://doi.org/10.48550/arxiv.2206.14961",
+  "source": "openalex",
+  "categories": [
+   "Piezo- & Tribocatalysis",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Nanoparticles",
+   "Piezocatalysis",
+   "Piezoelectric"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-28"
  },
  {
   "id": "9b183063c7e7eb70",
@@ -489,6 +603,41 @@
   "added": "2026-07-27"
  },
  {
+  "id": "81743c9fb19c99a2",
+  "title": "Characterization of Microstructure and High Temperature Compressive Strength of Austenitic Stainless Steel (21-4N) through Powder Metallurgy Route",
+  "authors": [
+   "Arun Prasad Murali",
+   "Dharmalingam Ganesan",
+   "Sachin Salunkhe",
+   "Emad Abouel Nasr",
+   "J. Paulo Davim",
+   "H.M.A. Hussein"
+  ],
+  "journal": "Crystals",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2022-06-29",
+  "year": 2022,
+  "doi": "10.3390/cryst12070923",
+  "url": "https://doi.org/10.3390/cryst12070923",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology",
+   "King Saud University",
+   "University of Aveiro",
+   "Future University in Egypt",
+   "Helwan University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "7409a5923d0d8e51",
   "title": "Effect of Ca2+ binding states of calmodulin on the conformational dynamics and force responses of myosin lever arm",
   "authors": [
@@ -519,6 +668,65 @@
    "Yangzhou University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "4f9762a39f314e17",
+  "title": "Progress in the Preparation of Large-Size High-Performance CuCr Alloys",
+  "authors": [
+   "Jin-ru Han",
+   "Zhihe Dou",
+   "Ting‐an Zhang",
+   "Wang An"
+  ],
+  "journal": "Advances in Materials Science and Engineering",
+  "publisher": "Hindawi Publishing Corporation",
+  "published": "2022-06-29",
+  "year": 2022,
+  "doi": "10.1155/2022/1333985",
+  "url": "https://doi.org/10.1155/2022/1333985",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Northeastern University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "3418476455a806c0",
+  "title": "The Effect of Mullite Addition on Wear Properties of SiO2 Doped ZrO2 Ceramics",
+  "authors": [
+   "Mehmet Akif HAFIZOĞLU",
+   "Tahsin SİVAS CUMHURİYET ÜNİVERSİTESİ BOYRAZ",
+   "Ahmet AKKUŞ"
+  ],
+  "journal": "Cumhuriyet Science Journal",
+  "publisher": "Sivas Cumhuriyet University",
+  "published": "2022-06-29",
+  "year": 2022,
+  "doi": "10.17776/csj.1015872",
+  "url": "https://doi.org/10.17776/csj.1015872",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanical Alloying",
+   "Milling",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Sivas Cumhuriyet Üniversitesi"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "28207d8393dc3fa8",
@@ -582,6 +790,39 @@
    "East China University of Science and Technology"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "2088a59e9515975a",
+  "title": "The Effect of Cu Additions on the Antibacterial Properties of Metallic Glassy Ni50TM50 (TM; Ti, Zr) Binary Systems",
+  "authors": [
+   "Ahmad Aldhameer",
+   "M. Sherif El-Eskandarany",
+   "Fahad Al-Ajmi",
+   "Mohamed Kishk",
+   "Mohammad Banyan"
+  ],
+  "journal": "Processes",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2022-06-29",
+  "year": 2022,
+  "doi": "10.3390/pr10071279",
+  "url": "https://doi.org/10.3390/pr10071279",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "Milling",
+   "Nanoparticles"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Kuwait Institute for Scientific Research"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "132ce27bebaca8c2",
@@ -682,6 +923,34 @@
   "added": "2026-07-27"
  },
  {
+  "id": "a329a85f788b2ffa",
+  "title": "Synthesis of spherical mullite/Yb 2 SiO 5 composite EBC powder by using mechanical alloying and spray dry processes",
+  "authors": [
+   "Alireza Hasani",
+   "Majid Mohammadi",
+   "Mostafa Hajian",
+   "Ali Abedi Nieai"
+  ],
+  "journal": "International Journal of Materials Research (formerly Zeitschrift fuer Metallkunde)",
+  "publisher": "De Gruyter",
+  "published": "2022-06-28",
+  "year": 2022,
+  "doi": "10.1515/ijmr-2020-8195",
+  "url": "https://doi.org/10.1515/ijmr-2020-8195",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Shahrood"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "9e8b42f284caa11a",
   "title": "Structural changes and enzymatic saccharification intensification of spent mushroom substrate after ball milling pretreatment",
   "authors": [
@@ -749,6 +1018,35 @@
   "added": "2026-07-27"
  },
  {
+  "id": "6985b911b2d1449f",
+  "title": "Waste valorization in sustainable engineering materials: Reactive processing of recycled carpets waste with polyamide 6",
+  "authors": [
+   "Mohamed A. Abdelwahab",
+   "Boon Peng Chang",
+   "Amar K. Mohanty",
+   "Manjusri Misra"
+  ],
+  "journal": "Polymer Testing",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-28",
+  "year": 2022,
+  "doi": "10.1016/j.polymertesting.2022.107681",
+  "url": "https://doi.org/10.1016/j.polymertesting.2022.107681",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Guelph"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "628effb0d040a700",
   "title": "Surface Topography-Adaptive Robotic Superstructures for Biofilm Removal and Pathogen Detection on Human Teeth",
   "authors": [
@@ -784,6 +1082,93 @@
    "Center for Innovation"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "217490a358477251",
+  "title": "Correction to: Effect of Y2O3 on Mechanical and Corrosion Properties of Fe and Fe-Ni Alloys Prepared by Mechanical Alloying Followed by Spark Plasma Sintering",
+  "authors": [
+   "Arpan Arora",
+   "Atul Kumar",
+   "Suhrit Mula"
+  ],
+  "journal": "Journal of Materials Engineering and Performance",
+  "publisher": "Springer Science+Business Media",
+  "published": "2022-06-28",
+  "year": 2022,
+  "doi": "10.1007/s11665-022-07105-8",
+  "url": "https://doi.org/10.1007/s11665-022-07105-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Indian Institute of Technology Roorkee",
+   "Vellore Institute of Technology University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e9e6a6884704ae5f",
+  "title": "High-Temperature Tribological Behavior of HDPE Composites Reinforced by Short Carbon Fiber under Water-Lubricated Conditions",
+  "authors": [
+   "Wen Zhong",
+   "Siqiang Chen",
+   "Zhe Tong"
+  ],
+  "journal": "Materials",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2022-06-27",
+  "year": 2022,
+  "doi": "10.3390/ma15134508",
+  "url": "https://doi.org/10.3390/ma15134508",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Xihua University",
+   "North University of China"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d57d486561f841a0",
+  "title": "On twin screw extrusion parametric optimisation using hybrid approach of ANOVA and TOPSIS for 3D printing applications",
+  "authors": [
+   "Sudhir Kumar",
+   "Rupinder Singh",
+   "Tajinder P. Singh",
+   "Ajay Batish"
+  ],
+  "journal": "Advances in Materials and Processing Technologies",
+  "publisher": "Taylor & Francis",
+  "published": "2022-06-27",
+  "year": 2022,
+  "doi": "10.1080/2374068x.2022.2087844",
+  "url": "https://doi.org/10.1080/2374068x.2022.2087844",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Thapar Institute of Engineering & Technology",
+   "National Institute of Technical Teachers Training and Research"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "cd0a4df15d22d741",
@@ -885,6 +1270,33 @@
    "Romanian Academy"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "8b1f3e7fd5c9d27a",
+  "title": "Partial Substitution of Mn by Al in the Cocrfenimnxal20-X (X=5, 10, 15) High Entropy Alloy Prepared of Mechanical Alloying and Spark Plasma Sintering",
+  "authors": [
+   "Hana Thürlová",
+   "Filip Průša"
+  ],
+  "journal": "MANUFACTURING TECHNOLOGY",
+  "publisher": "Jan Evangelista Purkyně University in Ústí nad Labem",
+  "published": "2022-06-27",
+  "year": 2022,
+  "doi": "10.21062/mft.2022.045",
+  "url": "https://doi.org/10.21062/mft.2022.045",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "High-Entropy Alloys",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Chemistry and Technology, Prague"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "856dce72d9665cfc",
@@ -989,6 +1401,55 @@
    "Nanomed (Brazil)"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "b9f6e03843dddc5f",
+  "title": "Mechanically Induced Highly Efficient Hydrogen Evolution from Water over Piezoelectric SnSe nanosheets",
+  "authors": [
+   "Shun Li",
+   "Zhicheng Zhao",
+   "Jiabin Li",
+   "Hong Liu",
+   "Maosong Liu",
+   "Yuqiao Zhang",
+   "Lizhong Su",
+   "Ana I. Pérez-Jiménez",
+   "Yunchang Guo",
+   "Fan Yang",
+   "Yong Liu",
+   "Jin-Zhu Zhao",
+   "Jianming Zhang",
+   "Li‐Dong Zhao",
+   "Yuanhua Lin"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2022-06-26",
+  "year": 2022,
+  "doi": "10.1002/smll.202202507",
+  "url": "https://doi.org/10.1002/smll.202202507",
+  "source": "openalex",
+  "categories": [
+   "Piezo- & Tribocatalysis",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Mechanically Induced",
+   "Piezocatalysis",
+   "Piezoelectric",
+   "Ultrasonic"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "Jiangsu University",
+   "Jiangsu University of Science and Technology",
+   "Institute of New Materials",
+   "South China Normal University",
+   "Beihang University",
+   "Horiba (Japan)",
+   "Tsinghua University"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "a782f7e9b1e0865e",
@@ -1695,6 +2156,35 @@
   "added": "2026-07-27"
  },
  {
+  "id": "63f39df14591b313",
+  "title": "Polymer-Network Toughening and Highly Sensitive Mechanochromism via a Dynamic Covalent Mechanophore and a Multinetwork Strategy",
+  "authors": [
+   "Takuma Watabe",
+   "Daisuke Aoki",
+   "Hideyuki Otsuka"
+  ],
+  "journal": "Macromolecules",
+  "publisher": "American Chemical Society",
+  "published": "2022-06-23",
+  "year": 2022,
+  "doi": "10.1021/acs.macromol.2c00724",
+  "url": "https://doi.org/10.1021/acs.macromol.2c00724",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanical Activation",
+   "Mechanophores"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "21995e24957dd46e",
   "title": "Introducing Students to Energy-Efficient Mechanochemistry of Biopolymers",
   "authors": [
@@ -1727,6 +2217,46 @@
   "added": "2026-07-27"
  },
  {
+  "id": "17730dddf3afe308",
+  "title": "Enhanced Piezocatalytic Performance of BaTiO 3 Nanosheets with Highly Exposed {001} Facets",
+  "authors": [
+   "Qiao Tang",
+   "Jiang Wu",
+   "Dong‐Hoon Kim",
+   "Carlos Franco",
+   "Anastasia Terzopoulou",
+   "Andrea Veciana",
+   "Josep Puigmartí‐Luis",
+   "Xiangzhong Chen",
+   "Bradley J. Nelson",
+   "Salvador Pané"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2022-06-23",
+  "year": 2022,
+  "doi": "10.1002/adfm.202202180",
+  "url": "https://doi.org/10.1002/adfm.202202180",
+  "source": "openalex",
+  "categories": [
+   "Piezo- & Tribocatalysis",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Nanoparticles",
+   "Piezocatalysis",
+   "Piezoelectric"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "ETH Zurich",
+   "Robotics Research (United States)",
+   "Institució Catalana de Recerca i Estudis Avançats",
+   "Universitat de Barcelona"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "f763b8b001436298",
   "title": "Simultaneous preparation of sodium borohydride and ammonia gas by ball milling",
   "authors": [
@@ -1754,6 +2284,71 @@
    "Curtin University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "ea8a30c2f503d105",
+  "title": "Synthesis of FeCrCoNiCu high entropy alloy through mechanical alloying and spark plasma sintering processes",
+  "authors": [
+   "Mohammad Reza Toroghinejad",
+   "Hossein Pirmoradian",
+   "Ali Shabani"
+  ],
+  "journal": "Materials Chemistry and Physics",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-22",
+  "year": 2022,
+  "doi": "10.1016/j.matchemphys.2022.126433",
+  "url": "https://doi.org/10.1016/j.matchemphys.2022.126433",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Isfahan University of Technology",
+   "Shahid Beheshti University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "dc7198d76b327e1d",
+  "title": "Symmetry-breaking induced piezocatalysis of Bi2S3 nanorods and boosted by alternating magnetic field",
+  "authors": [
+   "Feixue Gao",
+   "Ming Fang",
+   "Shuo Zhang",
+   "Meiyan Ni",
+   "Yawen Cai",
+   "Yifeng Zhang",
+   "Xiaoli Tan",
+   "Mingguang Kong",
+   "Wei Xu",
+   "Xiangke Wang"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-22",
+  "year": 2022,
+  "doi": "10.1016/j.apcatb.2022.121664",
+  "url": "https://doi.org/10.1016/j.apcatb.2022.121664",
+  "source": "openalex",
+  "categories": [
+   "Piezo- & Tribocatalysis"
+  ],
+  "tags": [
+   "Piezocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "North China Electric Power University",
+   "Qufu Normal University",
+   "Chinese Academy of Sciences",
+   "Institute of Solid State Physics"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "ccea28423b81723f",
@@ -1951,6 +2546,40 @@
    "Zhejiang University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "56bfaa2cd99c02f6",
+  "title": "Thermodynamic analysis and microstructural evolution of the W-Mo-Ni-C system produced by mechanical alloying",
+  "authors": [
+   "Fredy Josealdo Castillo Plata",
+   "Jesús Noé Rivera Olvera",
+   "Vicente Garibay-Feblés",
+   "Lucia Graciela Diaz Barriga"
+  ],
+  "journal": "Physica B Condensed Matter",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-22",
+  "year": 2022,
+  "doi": "10.1016/j.physb.2022.414126",
+  "url": "https://doi.org/10.1016/j.physb.2022.414126",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling",
+   "Milling Parameters",
+   "Nanostructured"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Instituto Politécnico Nacional",
+   "Universidad México Contemporáneo",
+   "Mexican Institute of Petroleum"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "4a1fcd8b84ab689d",
@@ -2160,6 +2789,44 @@
   "added": "2026-07-27"
  },
  {
+  "id": "8a6416b9cf307c1c",
+  "title": "Extensive Analyses on Expanding the Scope of Acid–Aminopyrimidine Synthons for the Design of Molecular Solids",
+  "authors": [
+   "Utsav Garg",
+   "Yasser Azim",
+   "Mahboob Alam",
+   "Aranya Kar",
+   "Chullikkattil P. Pradeep"
+  ],
+  "journal": "Crystal Growth & Design",
+  "publisher": "American Chemical Society",
+  "published": "2022-06-21",
+  "year": 2022,
+  "doi": "10.1021/acs.cgd.2c00293",
+  "url": "https://doi.org/10.1021/acs.cgd.2c00293",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Cocrystals & Pharmaceutical Solids",
+   "Computational & Data-Driven",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Cocrystals",
+   "DFT",
+   "Grinding",
+   "Neat Grinding",
+   "PXRD"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Aligarh Muslim University",
+   "Dongguk University",
+   "Indian Institute of Technology Mandi"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "7511a554a5ac4d18",
   "title": "Room-Temperature Electrochemical Fluoride (De)insertion into CsMnFeF 6",
   "authors": [
@@ -2208,6 +2875,32 @@
    "Jet Propulsion Laboratory"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "7487258800b1ba06",
+  "title": "An Overview of High-Entropy Alloys Prepared by Mechanical Alloying Followed by the Characterization of Their Microstructure and Various Properties",
+  "authors": [
+   "R. Shashanka"
+  ],
+  "journal": "Alloys",
+  "publisher": "",
+  "published": "2022-06-21",
+  "year": 2022,
+  "doi": "10.3390/alloys1020008",
+  "url": "https://doi.org/10.3390/alloys1020008",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "High-Entropy Alloys",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Bartin University"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "49f698baf6b1c2b0",
@@ -2372,6 +3065,66 @@
   "added": "2026-07-27"
  },
  {
+  "id": "539ac0369c5be8a9",
+  "title": "The forming mechanism and thermal stability of W-Zr super-saturated solid solution powder prepared by mechanical alloying",
+  "authors": [
+   "Kongxun Zhao",
+   "Zhouran Zhang",
+   "Shun Li",
+   "Yu Tang",
+   "Li’an Zhu",
+   "Yicong Ye",
+   "Shuxin Bai"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-20",
+  "year": 2022,
+  "doi": "10.1016/j.jallcom.2022.165928",
+  "url": "https://doi.org/10.1016/j.jallcom.2022.165928",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National University of Defense Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "1742bac50bf532df",
+  "title": "STRUCTURAL CHANGES IN A POWDER METALLURGY 66FE-14MN-6SI-9CR-5NI (MASS. %) SHAPE MEMORY ALLOY SUBJECTED TO BENDING CREEP",
+  "authors": [
+   "Lenuța Ciurcă",
+   "Bogdan Pricop",
+   "Maricel Agop",
+   "Leandru-Gheorghe Bujoreanu"
+  ],
+  "journal": "International Journal of Modern Manufacturing Technologies",
+  "publisher": "",
+  "published": "2022-06-20",
+  "year": 2022,
+  "doi": "10.54684/ijmmt.2022.14.1.33",
+  "url": "https://doi.org/10.54684/ijmmt.2022.14.1.33",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Gheorghe Asachi Technical University of Iași"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "e03a1c0aa5819fd5",
   "title": "Effect of Activation Modes on the Property Characterization of Crumb Rubber Powder from Waste Tires and Performance Analysis of Activated Rubber-Modified Asphalt Binder",
   "authors": [
@@ -2431,6 +3184,72 @@
    "Academy of the State Fire Service EMERCOM of Russia"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "f4cbaddbc87b7123",
+  "title": "Development of novel paracetamol/naproxen co-crystals with an improvement in naproxen solubility.",
+  "authors": [
+   "Amal Al-Dulaimi",
+   "Myasar Alkotaji",
+   "Faris T. Abachi"
+  ],
+  "journal": "Iraqi Journal of Pharmaceutical Sciences ( P-ISSN 1683 - 3597 E-ISSN 2521 - 3512)",
+  "publisher": "",
+  "published": "2022-06-18",
+  "year": 2022,
+  "doi": "10.31351/vol31iss1pp202-219",
+  "url": "https://doi.org/10.31351/vol31iss1pp202-219",
+  "source": "openalex",
+  "categories": [
+   "Liquid-Assisted Grinding",
+   "Cocrystals & Pharmaceutical Solids",
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Cocrystallization",
+   "Cocrystals",
+   "Grinding",
+   "Liquid-Assisted Grinding",
+   "PXRD",
+   "Ultrasonic"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "University of Mosul"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0780fa3b012bbdd8",
+  "title": "Preparation and Properties of Bulk and Porous Ti-Ta-Ag Biomedical Alloys",
+  "authors": [
+   "G. Adamek",
+   "Mikolaj Kozlowski",
+   "Adam Junka",
+   "Piotr Siwak",
+   "J. Jakubowicz"
+  ],
+  "journal": "Materials",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2022-06-18",
+  "year": 2022,
+  "doi": "10.3390/ma15124332",
+  "url": "https://doi.org/10.3390/ma15124332",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Poznań University of Technology",
+   "Wroclaw Medical University"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "d9cfe200da882e83",
@@ -2565,6 +3384,79 @@
   "added": "2026-07-27"
  },
  {
+  "id": "878c014e54cbf2c3",
+  "title": "Synergistic enhancement of piezocatalysis and electrochemical oxidation for the degradation of ciprofloxacin by PbO2 intercalation material",
+  "authors": [
+   "Chong Wang",
+   "Tianai Zhang",
+   "Jinlin Luo",
+   "Menglin Wu",
+   "Junfeng Niu",
+   "Enxiang Shang",
+   "Chengsheng Ni",
+   "Jiupai Ni"
+  ],
+  "journal": "Separation and Purification Technology",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-17",
+  "year": 2022,
+  "doi": "10.1016/j.seppur.2022.121528",
+  "url": "https://doi.org/10.1016/j.seppur.2022.121528",
+  "source": "openalex",
+  "categories": [
+   "Piezo- & Tribocatalysis"
+  ],
+  "tags": [
+   "Piezocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Southwest University",
+   "North China Electric Power University",
+   "Hebei Agricultural University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "67adf13c48c8b050",
+  "title": "Synthesis and Characterization of Hydroxyapatite and Hydroxyapatite‐Based Catalysts",
+  "authors": [
+   "Yousra El Jemli",
+   "Karima Abdelouahdi",
+   "Doan Pham Minh",
+   "Abdellatif Barakat",
+   "Abderrahim Solhy"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2022-06-17",
+  "year": 2022,
+  "doi": "10.1002/9783527830190.ch2",
+  "url": "https://doi.org/10.1002/9783527830190.ch2",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Cadi Ayyad University",
+   "Centre National de la Recherche Scientifique",
+   "Université Fédérale de Toulouse Midi-Pyrénées",
+   "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+   "IMT Mines Albi",
+   "Centre de Recherche d'Albi en génie des Procédés, des SOlides Divisés, de l'Énergie et de l'Environnement",
+   "Université de Montpellier",
+   "Ingénierie des Agropolymères et Technologies Emergentes",
+   "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+   "Université Mohammed VI Polytechnique"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "46af88c24a517fb2",
   "title": "Liquid assisted Grindstone Chemistry: An eco-friendly scalable approach for diverse organocatalytic mechanochemical domino multicomponent reactions by employing the reactivity of cyclic 1,3-diketones at ambient conditions",
   "authors": [
@@ -2601,6 +3493,74 @@
    "University of Central Punjab"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "41288e1bd8d98b39",
+  "title": "XRD Analysis of LiFeO 2 Formation from Li 2 CO 3 -Fe 2 O 3 Mechanically Activated Reagents",
+  "authors": [
+   "Е. Н. Лысенко",
+   "В. А. Власов",
+   "А. П. Суржиков",
+   "А. И. Купчишин"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2022-06-17",
+  "year": 2022,
+  "doi": "10.4028/p-owy6gu",
+  "url": "https://doi.org/10.4028/p-owy6gu",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanical Activation",
+   "Milling",
+   "Planetary Ball Mill"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "National Research Tomsk State University",
+   "Tomsk Polytechnic University",
+   "Abai Kazakh National Pedagogical University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2b40767f3a39b6cc",
+  "title": "Investigation of Magnetic Phase Formation in Nickel-Zinc Ferrites by X-Ray Diffraction and Thermal Analysis",
+  "authors": [
+   "Е. В. Николаев",
+   "Е. Н. Лысенко",
+   "А. П. Суржиков",
+   "А. И. Купчишин"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2022-06-17",
+  "year": 2022,
+  "doi": "10.4028/p-gedvv4",
+  "url": "https://doi.org/10.4028/p-gedvv4",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanical Activation",
+   "Milling",
+   "Planetary Ball Mill"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "National Research Tomsk State University",
+   "Tomsk Polytechnic University",
+   "Abai Kazakh National Pedagogical University"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "11a47efb6da07814",
@@ -2734,6 +3694,38 @@
    "Suez University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "83c4ec4495ca7b1d",
+  "title": "Piezocatalytic inactivation of water bacterium and heterotrophism -An overview",
+  "authors": [
+   "Ahsan Ali",
+   "Longbin Chen",
+   "Muhammad Salman Nasir",
+   "Chao Wu",
+   "Baolin Guo",
+   "Yaodong Yang"
+  ],
+  "journal": "Research Square",
+  "publisher": "",
+  "published": "2022-06-16",
+  "year": 2022,
+  "doi": "10.21203/rs.3.rs-1743320/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-1743320/v1",
+  "source": "openalex",
+  "categories": [
+   "Piezo- & Tribocatalysis"
+  ],
+  "tags": [
+   "Piezocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Qilu University of Technology",
+   "University of Agriculture Faisalabad",
+   "Xi'an Jiaotong University"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "62c642c4abec34bf",
@@ -2873,6 +3865,37 @@
    "National University of Science and Technology"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "f84f1cc35ce27ee4",
+  "title": "Al13Fe4-Al Composites with Nanocrystalline Matrix Manufactured by Hot-Pressing of Milled Powders",
+  "authors": [
+   "M. Krasnowski",
+   "S. Gierlotka",
+   "D. Zasada"
+  ],
+  "journal": "Materials",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2022-06-15",
+  "year": 2022,
+  "doi": "10.3390/ma15124241",
+  "url": "https://doi.org/10.3390/ma15124241",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Warsaw University of Technology",
+   "Institute of High Pressure Physics",
+   "Polish Academy of Sciences",
+   "Military University of Technology in Warsaw"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "f659d4c5b4e6bd2f",
@@ -3021,6 +4044,41 @@
   "added": "2026-07-27"
  },
  {
+  "id": "b1792e9c9f0050a2",
+  "title": "Role of Coformers in Solubility Enhancement of Poorly Soluble Drugs through Cocrystallization: An Overview",
+  "authors": [
+   "R Hema",
+   "N S Ganesh",
+   "Vineeth Chandy"
+  ],
+  "journal": "International Journal of Pharmaceutical Sciences Review and Research",
+  "publisher": "",
+  "published": "2022-06-15",
+  "year": 2022,
+  "doi": "10.47583/ijpsrr.2022.v74i02.024",
+  "url": "https://doi.org/10.47583/ijpsrr.2022.v74i02.024",
+  "source": "openalex",
+  "categories": [
+   "Liquid-Assisted Grinding",
+   "Cocrystals & Pharmaceutical Solids",
+   "Ball Milling & Grinding",
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Cocrystallization",
+   "Cocrystals",
+   "Extrusion",
+   "Grinding",
+   "Liquid-Assisted Grinding"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "St. John's College of Nursing",
+   "Al-Ameen College of Pharmacy"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "a411267440f35d3e",
   "title": "Mechanochemically Induced Cross Dehydrogenative Coupling Reactions under Ball Milling",
   "authors": [
@@ -3094,6 +4152,36 @@
   "added": "2026-07-27"
  },
  {
+  "id": "87766eb037e9cf1d",
+  "title": "Abstract 366: Combinatorial effect of fisetin and paclitaxel encapsulated PBM nanoparticles in ovarian cancer therapy",
+  "authors": [
+   "Melayshia McFadden",
+   "Santosh Kumar Singh",
+   "Rajesh Singh"
+  ],
+  "journal": "Cancer Research",
+  "publisher": "American Association for Cancer Research",
+  "published": "2022-06-15",
+  "year": 2022,
+  "doi": "10.1158/1538-7445.am2022-366",
+  "url": "https://doi.org/10.1158/1538-7445.am2022-366",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Nanoparticles",
+   "Planetary Ball Mill"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Morehouse School of Medicine"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "763cd1103ea6b49f",
   "title": "Nano-Modified Vibrocentrifuged Concrete with Granulated Blast Slag: The Relationship between Mechanical Properties and Micro-Structural Analysis",
   "authors": [
@@ -3125,6 +4213,36 @@
    "Don State Technical University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "4fb06dde64e9e0d6",
+  "title": "Abstract 301: Repurposing engineered thymoquinone nanoparticles to inhibit drug-resistant prostate cancer",
+  "authors": [
+   "Santosh Kumar Singh",
+   "Manoj Kumar Mishra",
+   "Rajesh Singh"
+  ],
+  "journal": "Cancer Research",
+  "publisher": "American Association for Cancer Research",
+  "published": "2022-06-15",
+  "year": 2022,
+  "doi": "10.1158/1538-7445.am2022-301",
+  "url": "https://doi.org/10.1158/1538-7445.am2022-301",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Nanoparticles"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Morehouse School of Medicine",
+   "Alabama State University"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "26b4787fe0f70694",
@@ -3482,6 +4600,66 @@
   "added": "2026-07-27"
  },
  {
+  "id": "e58e08dbb3345290",
+  "title": "Hypercrosslinked polymers from the mechanosynthesis of coal tar products",
+  "authors": [
+   "Antonio Lopez Borrero",
+   "Alain Celzard",
+   "Vanessa Fierro"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "2022-06-12",
+  "year": 2022,
+  "doi": "",
+  "url": "https://hal.univ-lorraine.fr/hal-03873421",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Institut Jean Lamour",
+   "Université de Lorraine"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d27ca7b1b63ddaa5",
+  "title": "Corrosion Behavior of A413/SiC Composites Produced by Mechanical Alloying",
+  "authors": [
+   "Ociel Rodríguez-Pérez",
+   "J.A. García-Hinojosa",
+   "Francisco Javier Rodríguez‐Gómez",
+   "R. López-Sesenes",
+   "César A. García-Pérez",
+   "Reynaldo Tapia",
+   "J.G. González-Rodrı́guez"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-12",
+  "year": 2022,
+  "doi": "10.20964/2022.07.18",
+  "url": "https://doi.org/10.20964/2022.07.18",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad Nacional Autónoma de México",
+   "Universidad Autónoma del Estado de Morelos"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "965f1564ae9b2a40",
   "title": "Effects of Reactive Condition and Mechanochemical Treatment on Xylose Production from Rice Husk by Dilute Acid Hydrolysis",
   "authors": [
@@ -3537,6 +4715,41 @@
    "University of Tennessee at Knoxville"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "ff68e7fdd4da1e25",
+  "title": "A Comparative Study of Nanocrystalline Fe 38.5 Co 38.5 Nb 7 P 15Cu 1 Alloys Obtained by Mechanical Alloying and Rapid Quenching",
+  "authors": [
+   "A. Cotai",
+   "S. Miraglia",
+   "B.V. Neamţu",
+   "Traian Florin Marinca",
+   "H.F. Chicinaş",
+   "O. Isnard",
+   "I. Chicinaş"
+  ],
+  "journal": "Archives of Metallurgy and Materials",
+  "publisher": "De Gruyter Open",
+  "published": "2022-06-10",
+  "year": 2022,
+  "doi": "10.24425/amm.2022.137790",
+  "url": "https://doi.org/10.24425/amm.2022.137790",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Technical University of Cluj-Napoca",
+   "Institut Néel",
+   "Université Grenoble Alpes"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "bee296519dd4ff02",
@@ -3763,6 +4976,38 @@
   "added": "2026-07-27"
  },
  {
+  "id": "3fc6cbd86b9efd9c",
+  "title": "In Service Performance of Toughened PHBV/TPU Blends Obtained by Reactive Extrusion for Injected Parts",
+  "authors": [
+   "Kerly Samaniego-Aguilar",
+   "Estefania Sánchez‐Safont",
+   "Alex Arrillaga",
+   "Jon Anakabe",
+   "José Gámez‐Pérez",
+   "Luís Cabedo"
+  ],
+  "journal": "Polymers",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2022-06-09",
+  "year": 2022,
+  "doi": "10.3390/polym14122337",
+  "url": "https://doi.org/10.3390/polym14122337",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Universitat Jaume I",
+   "Lear (Spain)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "3abb2ebebd4f9c23",
   "title": "Optimizing the Thermomechanical Process of Nickel-Based ODS Superalloys by an Efficient Method",
   "authors": [
@@ -3835,6 +5080,35 @@
    "Wuhan Polytechnic University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "fcc2d2b161dfef2c",
+  "title": "Wear-resistant coatings produced by high-speed selective laser sintering of wet-milled W Fe powders: Phase composition, microstructure, and properties",
+  "authors": [
+   "M.A. Eryomina",
+   "S. F. Lomayeva",
+   "E. V. Kharanzhevsky",
+   "A.N. Bel'tyukov"
+  ],
+  "journal": "International Journal of Refractory Metals and Hard Materials",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-08",
+  "year": 2022,
+  "doi": "10.1016/j.ijrmhm.2022.105915",
+  "url": "https://doi.org/10.1016/j.ijrmhm.2022.105915",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Udmurt Federal Research Center, Ural Branch of the Russian Academy of Sciences",
+   "Udmurt State University"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "ecb6d75161376105",
@@ -3972,6 +5246,40 @@
   "added": "2026-07-27"
  },
  {
+  "id": "59f84e7a706c3637",
+  "title": "Base-Catalyzed Diastereoselective Construction of Spiro-epoxyoxindoles by the Darzens Reaction of 3-Chlorooxindoles with Aryl Aldehydes under Solvent-free Grinding",
+  "authors": [
+   "Yue Li",
+   "Feng Wang",
+   "Li Liu",
+   "Rui Ning",
+   "Dulin Kong",
+   "Mingshu Wu"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2022-06-07",
+  "year": 2022,
+  "doi": "10.3762/bxiv.2022.44.v1",
+  "url": "https://doi.org/10.3762/bxiv.2022.44.v1",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Grinding",
+   "Solvent-Free",
+   "Solvent-Free Grinding"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Hainan Normal University",
+   "Hainan Medical University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "51f9f994b178cb1e",
   "title": "Mechanochemical bottom-up synthesis of phosphorus-linked, heptazine-based carbon nitrides using sodium phosphide",
   "authors": [
@@ -4067,6 +5375,64 @@
   "added": "2026-07-27"
  },
  {
+  "id": "ef15cdfbd8846fbb",
+  "title": "Properties of Aluminum Nano Composites Bearing Alumina Particles and Multiwall Carbon Nanotubes Manufactured by Mechanical Alloying and Microwave Sintering",
+  "authors": [
+   "Emre Özer",
+   "Mehmet Ayvaz",
+   "Mustafa Übeylï",
+   "İbrahim Sarpkaya"
+  ],
+  "journal": "Metals and Materials International",
+  "publisher": "Springer Science+Business Media",
+  "published": "2022-06-06",
+  "year": 2022,
+  "doi": "10.1007/s12540-022-01238-0",
+  "url": "https://doi.org/10.1007/s12540-022-01238-0",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Osmaniye Korkut Ata University",
+   "Manisa Celal Bayar University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e6421e05f0e8b211",
+  "title": "Fabrication of MA-EPDM grafted MWCNTs by reactive extrusion for enhanced interfacial adhesion and mechanical properties of PP/MA-EPDM composite",
+  "authors": [
+   "Eun Yeob Choi",
+   "Chang Keun Kim",
+   "Chul B. Park"
+  ],
+  "journal": "Composites Part B Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-06",
+  "year": 2022,
+  "doi": "10.1016/j.compositesb.2022.110043",
+  "url": "https://doi.org/10.1016/j.compositesb.2022.110043",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "University of Toronto",
+   "Chung-Ang University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "c26671193ef38a43",
   "title": "Machine learning approach for ball milling of alumina ceramics",
   "authors": [
@@ -4098,6 +5464,39 @@
    "Kumoh National Institute of Technology"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "be0553a0366d1919",
+  "title": "Enhanced Piezocatalysis by Calcium Phosphate Nanowires via Gold Nanoparticle Conjugation",
+  "authors": [
+   "Jayanta Dolai",
+   "Aritra Biswas",
+   "Reeddhi Ray",
+   "Nikhil R. Jana"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "publisher": "American Chemical Society",
+  "published": "2022-06-06",
+  "year": 2022,
+  "doi": "10.1021/acsami.2c05036",
+  "url": "https://doi.org/10.1021/acsami.2c05036",
+  "source": "openalex",
+  "categories": [
+   "Piezo- & Tribocatalysis",
+   "Mechanical Alloying & Materials",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Nanoparticles",
+   "Piezocatalysis",
+   "Piezoelectric",
+   "Ultrasound"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Indian Association for the Cultivation of Science"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "7bbd407b9ae3d563",
@@ -4266,6 +5665,74 @@
   "added": "2026-07-27"
  },
  {
+  "id": "08351e7b26941a61",
+  "title": "Preliminary Mechanosynthesis Map in the CaCO3–H3PO4–H2O System",
+  "authors": [
+   "A.C. Ferro",
+   "Tomás Seixas",
+   "Ricardo Baptista",
+   "Mafalda Guedes"
+  ],
+  "journal": "MATERIAIS 2022",
+  "publisher": "",
+  "published": "2022-06-06",
+  "year": 2022,
+  "doi": "10.3390/materproc2022008078",
+  "url": "https://doi.org/10.3390/materproc2022008078",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "Mechanosynthesis",
+   "Milling",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "University of Lisbon",
+   "Instituto Politécnico de Lisboa",
+   "Instituto Politecnico de Setubal"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "01733889c8952728",
+  "title": "Al-Permalloy (Ni71.25Fe23.75Al5) obtained by mechanical alloying. The influence of the processing parameters on structural, microstructural, thermal, and magnetic characteristics",
+  "authors": [
+   "Traian Florin Marinca",
+   "Andrei Ioan Sule",
+   "Rǎzvan Hirian",
+   "Argentina Niculina Sechel",
+   "Florin Popa",
+   "B.V. Neamţu",
+   "I. Chicinaş"
+  ],
+  "journal": "Advanced Powder Technology",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-06",
+  "year": 2022,
+  "doi": "10.1016/j.apt.2022.103642",
+  "url": "https://doi.org/10.1016/j.apt.2022.103642",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Technical University of Cluj-Napoca",
+   "Babeș-Bolyai University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "f2c99df0888e19f2",
   "title": "Thermo-mechanical processing of fibre-rich blackcurrant pomace to modify techno-functional properties",
   "authors": [
@@ -4296,6 +5763,45 @@
    "Technische Universität Dresden"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "ed9d2b7ebacd441e",
+  "title": "Innovative polypropylene based blends by in situ polymerization of a polyimide dispersed phase by reactive extrusion",
+  "authors": [
+   "Charlotte Dubois",
+   "Catherine Marestin",
+   "Philippe Cassagnau",
+   "Karim Delage",
+   "Pierre Alcouffe",
+   "Nicolas Garois",
+   "Véronique Bounor‐Legaré"
+  ],
+  "journal": "Polymer",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-04",
+  "year": 2022,
+  "doi": "10.1016/j.polymer.2022.125022",
+  "url": "https://doi.org/10.1016/j.polymer.2022.125022",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Extrusion",
+   "In-Situ",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Université Claude Bernard Lyon 1",
+   "Total (France)",
+   "Centre National de la Recherche Scientifique",
+   "Ingenierie des Materiaux polymeres",
+   "Institut National des Sciences Appliquées de Lyon",
+   "Université Jean Monnet"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "d821574df360d754",
@@ -4393,6 +5899,36 @@
    "State Key Laboratory of Supramolecular Structure and Materials"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "d46409df275b2061",
+  "title": "New insight to piezocatalytic peroxymonosulfate activation: The critical role of dissolved oxygen in mediating radical and nonradical pathways",
+  "authors": [
+   "Gang Nie",
+   "Ling Xiao",
+   "Jingxiu Bi",
+   "Shaobin Wang",
+   "Xiaoguang Duan"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-03",
+  "year": 2022,
+  "doi": "10.1016/j.apcatb.2022.121584",
+  "url": "https://doi.org/10.1016/j.apcatb.2022.121584",
+  "source": "openalex",
+  "categories": [
+   "Piezo- & Tribocatalysis"
+  ],
+  "tags": [
+   "Piezocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Wuhan University",
+   "The University of Adelaide"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "b699957e14319c78",
@@ -4760,6 +6296,36 @@
   "added": "2026-07-27"
  },
  {
+  "id": "3fd0204aa4a963ff",
+  "title": "Microstructure evolutions of Ti-Al-Nb alloys with different Ta addition, produced by mechanical alloying and spark plasma sintering",
+  "authors": [
+   "Chuanjun Xiao",
+   "Hongwei Zhang",
+   "Danial Davoodi",
+   "Reza Miri",
+   "Morteza Tayebi"
+  ],
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-02",
+  "year": 2022,
+  "doi": "10.1016/j.matlet.2022.132568",
+  "url": "https://doi.org/10.1016/j.matlet.2022.132568",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Xijing University",
+   "Wuhan Institute of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "2827e3e048505bfb",
   "title": "Performance, Reaction Pathway and Kinetics of the Enhanced Dechlorination Degradation of 2,4-Dichlorophenol by Fe/Ni Nanoparticles Supported on Attapulgite Disaggregated by a Ball Milling–Freezing Process",
   "authors": [
@@ -4889,6 +6455,33 @@
   "added": "2026-07-27"
  },
  {
+  "id": "f38a51ac360b49fa",
+  "title": "Effects of Mechanical Alloying on Ni-Rich NiTi Shape Memory Alloys Produced by Hot Isostatic Pressing",
+  "authors": [
+   "Ümit Zeybek",
+   "Serdar Karaoğlu"
+  ],
+  "journal": "Russian Journal of Non-Ferrous Metals",
+  "publisher": "Pleiades Publishing",
+  "published": "2022-06-01",
+  "year": 2022,
+  "doi": "10.3103/s1067821222030130",
+  "url": "https://doi.org/10.3103/s1067821222030130",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Kastamonu University",
+   "Ege University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "ec65b1c586352f9b",
   "title": "Mechanochemical Synthesis of Nanodispersed Compositions on the Base of Zn, Ce and Mo Oxides",
   "authors": [],
@@ -4944,6 +6537,33 @@
   "added": "2026-07-27"
  },
  {
+  "id": "df72d7fce86b4f8a",
+  "title": "UV Degradation Influence on the Selected Physical Properties of Extruded PVC/Ceramic Composites",
+  "authors": [
+   "Aneta Tor-Świątek",
+   "Łukasz Garbacz"
+  ],
+  "journal": "Advances in Science and Technology – Research Journal",
+  "publisher": "Society of Polish Mechanical Engineers and Technicians",
+  "published": "2022-06-01",
+  "year": 2022,
+  "doi": "10.12913/22998624/150400",
+  "url": "https://doi.org/10.12913/22998624/150400",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Lublin University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "c5560d8e9ef7d23f",
   "title": "DDQ in mechanochemical C–N coupling reactions",
   "authors": [
@@ -4974,6 +6594,34 @@
    "Homi Bhabha National Institute"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "b9a85c9b2d0a3230",
+  "title": "Toughening and Highly-sensitive Mechanochromism Achieved by a Dynamic Covalent Mechanophore and Multi-network Strategy",
+  "authors": [
+   "拓馬 渡部",
+   "Takuma Watabe",
+   "大輔 青木",
+   "Daisuke Aoki",
+   "英幸 大塚",
+   "HIDEYUKI OTSUKA"
+  ],
+  "journal": "Institutional Repositories DataBase (IRDB)",
+  "publisher": "National Institute of Informatics",
+  "published": "2022-06-01",
+  "year": 2022,
+  "doi": "",
+  "url": "http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100887513",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores"
+  ],
+  "tags": [
+   "Mechanophores"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
  },
  {
   "id": "aa8935582c899979",
@@ -5013,6 +6661,32 @@
   "added": "2026-07-27"
  },
  {
+  "id": "a6815ee6878c7f00",
+  "title": "ENGINEERING SUPERHYDROPHOBIC BEHAVIOR IN 3D-PRINTED STAINLESS STEEL COMPOSITES",
+  "authors": [
+   "Budan, Justin M."
+  ],
+  "journal": "Calhoun: The Naval Postgraduate School Institutional Archive (Naval Postgraduate School)",
+  "publisher": "Naval Postgraduate School",
+  "published": "2022-06-01",
+  "year": 2022,
+  "doi": "",
+  "url": "https://hdl.handle.net/10945/70641",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "Milling"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "a6608f1f445f7f7b",
   "title": "Isolation and Characterization of Cellulose Nanofiber ObtainedFrom Agriculture Waste",
   "authors": [
@@ -5040,6 +6714,39 @@
    "National University of Science and Technology"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "9dd4df1fff170cc1",
+  "title": "Microstructure Investigation of Mechanically Alloyed 316L-6Al-0.5Y 2 O 3 Oxide Dispersion Strengthened Austenitic Steel Powder",
+  "authors": [
+   "Abu Khalid Rivai",
+   "Kandias Ahmad Muzaqi Nafsah Pratama",
+   "Bambang Sugeng"
+  ],
+  "journal": "Journal of Physics Conference Series",
+  "publisher": "IOP Publishing",
+  "published": "2022-06-01",
+  "year": 2022,
+  "doi": "10.1088/1742-6596/2243/1/012064",
+  "url": "https://doi.org/10.1088/1742-6596/2243/1/012064",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "Mechanical Alloying",
+   "Mechanosynthesis",
+   "Milling"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "National Nuclear Energy Agency of Indonesia",
+   "National Research and Innovation Agency"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "936ad8fa3586bfe2",

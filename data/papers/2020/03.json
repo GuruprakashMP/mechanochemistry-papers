@@ -1,5 +1,35 @@
 [
  {
+  "id": "e437e28d69c108f5",
+  "title": "Mechanochemical and Thermal Treatment for Surface Functionalization to Reduce the Activation Temperature of In-Ga-Zn-O Thin-film Transistors",
+  "authors": [
+   "I. Sak Lee",
+   "Young Jun Tak",
+   "Byung Ha Kang",
+   "Hyukjoon Yoo",
+   "Sujin Jung",
+   "Hyun Jae Kim"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "publisher": "American Chemical Society",
+  "published": "2020-03-31",
+  "year": 2020,
+  "doi": "10.1021/acsami.9b22831",
+  "url": "https://doi.org/10.1021/acsami.9b22831",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Yonsei University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "5b80ae4187728a60",
   "title": "Mechanochemical Synthesis of Main Group Compounds and Materials",
   "authors": [
@@ -21,6 +51,122 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-07-27"
+ },
+ {
+  "id": "30eb38c353b3d432",
+  "title": "Catalytic Room‐Temperature C−N Coupling of Amides and Isocyanates by Using Mechanochemistry",
+  "authors": [
+   "Gandrath Dayaker",
+   "Davin Tan",
+   "Naomi Biggins",
+   "Asha Shelam",
+   "Jean‐Louis Do",
+   "Athanassios D. Katsenis",
+   "Tomislav Friščić"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2020-03-28",
+  "year": 2020,
+  "doi": "10.1002/cssc.201902576",
+  "url": "https://doi.org/10.1002/cssc.201902576",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Solvent-Free"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Centre in Green Chemistry and Catalysis",
+   "McGill University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "aa89cfc6f6a63f67",
+  "title": "Development of Synthetic Methods for Organoboron Compounds Using Transition-Metal-Catalysis and Mechanochemistry [an abstract of dissertation and a summary of dissertation review]",
+  "authors": [
+   "Yadong Pang"
+  ],
+  "journal": "Hokkaido University Collection of Scholarly and Academic Papers (Hokkaido University)",
+  "publisher": "Hokkaido University",
+  "published": "2020-03-25",
+  "year": 2020,
+  "doi": "",
+  "url": "http://hdl.handle.net/2115/78310",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "72e8cba3c798b568",
+  "title": "Development of Synthetic Methods for Organoboron Compounds Using Transition-Metal-Catalysis and Mechanochemistry",
+  "authors": [
+   "Yadong Pang"
+  ],
+  "journal": "Hokkaido University Collection of Scholarly and Academic Papers (Hokkaido University)",
+  "publisher": "Hokkaido University",
+  "published": "2020-03-25",
+  "year": 2020,
+  "doi": "10.14943/doctoral.k14022",
+  "url": "https://doi.org/10.14943/doctoral.k14022",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Mechanochemistry",
+   "Solvent-Free",
+   "Suzuki Coupling"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "89381bccc5494c18",
+  "title": "Synthesis of highly stable Fe/FeOx@citrate colloids with strong magnetic response by mechanochemistry and coprecipitation for biomedical and environmental applications",
+  "authors": [
+   "Guillermo Arturo Muñoz Medina",
+   "M. B. Fernández van Raap",
+   "Diego F. Coral",
+   "Diego Muraca",
+   "F. H. Sánchez"
+  ],
+  "journal": "Journal of Magnetism and Magnetic Materials",
+  "publisher": "Elsevier BV",
+  "published": "2020-03-24",
+  "year": 2020,
+  "doi": "10.1016/j.jmmm.2020.166759",
+  "url": "https://doi.org/10.1016/j.jmmm.2020.166759",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Consejo Nacional de Investigaciones Científicas y Técnicas",
+   "Instituto de Física La Plata",
+   "Universidad Nacional de La Plata",
+   "University of Cauca",
+   "Universidade Estadual de Campinas (UNICAMP)"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "16a3f97c5aec0840",
@@ -105,5 +251,183 @@
    "Deutsches Elektronen-Synchrotron DESY"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "3522ad559c6278a8",
+  "title": "Development by Mechanochemistry of La0.8Sr0.2Ga0.8Mg0.2O2.8 Electrolyte for SOFCs",
+  "authors": [
+   "F.J. García-García",
+   "Yunqing Tang",
+   "F.J. Gotor",
+   "M.J. Sayagués"
+  ],
+  "journal": "Materials",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2020-03-18",
+  "year": 2020,
+  "doi": "10.3390/ma13061366",
+  "url": "https://doi.org/10.3390/ma13061366",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling",
+   "Perovskites"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Universidad de Sevilla",
+   "Institut de Recerca en Energia de Catalunya",
+   "Instituto de Ciencia de Materiales de Sevilla"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5f2f72346358dbc8",
+  "title": "Direct 17 O Isotopic Labeling of Oxides\\nUsing Mechanochemistry",
+  "authors": [
+   "Chia‐Hsin Chen",
+   "Emeline Gaillard",
+   "Frédéric Mentink‐Vigier",
+   "Kuizhi Chen",
+   "Zhehong Gan",
+   "Philippe Gaveau",
+   "Bertrand Rebière",
+   "Romain Berthelot",
+   "Pierre Florian",
+   "Christian Bonhomme",
+   "Mark E. Smith",
+   "Thomas‐Xavier Métro",
+   "Bruno Alonso",
+   "Danielle Laurencin"
+  ],
+  "journal": "Lancaster EPrints (Lancaster University)",
+  "publisher": "Lancaster University",
+  "published": "2020-03-13",
+  "year": 2020,
+  "doi": "10.1021/acs.inorgchem.0c00208.s001",
+  "url": "https://doi.org/10.1021/acs.inorgchem.0c00208.s001",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 59,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "1be07ec90117cb2f",
+  "title": "Direct 17 O Isotopic Labeling of Oxides Using Mechanochemistry",
+  "authors": [
+   "Chia‐Hsin Chen",
+   "Emeline Gaillard",
+   "Frédéric Mentink‐Vigier",
+   "Kuizhi Chen",
+   "Zhehong Gan",
+   "Philippe Gaveau",
+   "Bertrand Rebière",
+   "Romain Berthelot",
+   "Pierre Florian",
+   "Christian Bonhomme",
+   "Mark E. Smith",
+   "Thomas‐Xavier Métro",
+   "Bruno Alonso",
+   "Danielle Laurencin"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2020-03-13",
+  "year": 2020,
+  "doi": "10.1021/acs.inorgchem.0c00208",
+  "url": "https://doi.org/10.1021/acs.inorgchem.0c00208",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Centre National de la Recherche Scientifique",
+   "Université de Montpellier",
+   "Florida State University",
+   "National High Magnetic Field Laboratory",
+   "Université d'Orléans",
+   "Conditions Extrêmes et Matériaux Haute Température et Irradiation",
+   "Sorbonne Université",
+   "Chimie de la Matière Condensée de Paris",
+   "University of Southampton"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "dad53bbc43cac82a",
+  "title": "Solvent-free synthesis of mesoporous platinum-aluminum oxide via mechanochemistry: Toward selective hydrogenation of nitrobenzene to aniline",
+  "authors": [
+   "Siyang Nie",
+   "Shize Yang",
+   "Pengfei Zhang"
+  ],
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "published": "2020-03-05",
+  "year": 2020,
+  "doi": "10.1016/j.ces.2020.115619",
+  "url": "https://doi.org/10.1016/j.ces.2020.115619",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Solvent-Free"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Shanghai Jiao Tong University",
+   "Brookhaven National Laboratory"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "67b3a85f5bf6ca39",
+  "title": "Mechanochemical Synthesis of a Fluorescein-Based Sensor for the Selective Detection and Removal of Hg 2+ Ions in Industrial Effluents",
+  "authors": [
+   "Reena V. Rathod",
+   "Smritilekha Bera",
+   "Prasenjit Maity",
+   "Dhananjoy Mondal"
+  ],
+  "journal": "ACS Omega",
+  "publisher": "American Chemical Society",
+  "published": "2020-03-04",
+  "year": 2020,
+  "doi": "10.1021/acsomega.9b03885",
+  "url": "https://doi.org/10.1021/acsomega.9b03885",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Central University of Gujarat",
+   "National Forensic Sciences University"
+  ],
+  "added": "2026-07-28"
  }
 ]
