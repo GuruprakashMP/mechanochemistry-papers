@@ -173,6 +173,34 @@
   "added": "2026-07-28"
  },
  {
+  "id": "ecf7ee889e005ef9",
+  "title": "Remanence enhancement in mechanically alloyed isotropic Nd(Fe, Mo)12Nx compounds",
+  "authors": [
+   "Yiaofu Xiao",
+   "Qi Zeng",
+   "Shengzhi Dong",
+   "Run Wang"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.1063/1.367672",
+  "url": "https://doi.org/10.1063/1.367672",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Science and Technology Beijing"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "e4852d7a805d23e5",
   "title": "Alloying of silver-tin powders by ball milling",
   "authors": [],
@@ -192,6 +220,36 @@
   ],
   "relevance_score": 52,
   "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e1d5b75eb28f2d2d",
+  "title": "On the Stability and Structure of Zr-Cu and Zr-Ti-Cu Alloys",
+  "authors": [
+   "Vesna Radojević",
+   "K. Chattopadhyay",
+   "P. Bhattacharya",
+   "M. Davidović"
+  ],
+  "journal": "Diffusion and defect data, solid state data. Part B, Solid state phenomena/Solid state phenomena",
+  "publisher": "Scientific.net",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.4028/www.scientific.net/ssp.61-62.109",
+  "url": "https://doi.org/10.4028/www.scientific.net/ssp.61-62.109",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Amorphous Alloys",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Indian Institute of Science Bangalore",
+   "Vinča Institute of Nuclear Sciences"
+  ],
   "added": "2026-07-28"
  },
  {
@@ -297,6 +355,68 @@
   "added": "2026-07-28"
  },
  {
+  "id": "ceb7272112c3ec4c",
+  "title": "Magnetic viscosity and coercivity analysis in mechanically alloyed and melt-spun NdDyFeB magnets",
+  "authors": [
+   "Valquı́ria Villas-Boas",
+   "J. M. González",
+   "F. Cebollada",
+   "M.F. Rossignol",
+   "David Taylor",
+   "D. Givord"
+  ],
+  "journal": "Journal of Magnetism and Magnetic Materials",
+  "publisher": "Elsevier BV",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.1016/s0304-8853(97)01159-1",
+  "url": "https://doi.org/10.1016/s0304-8853(97)01159-1",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidade de São Paulo",
+   "Consejo Superior de Investigaciones Científicas",
+   "Instituto de Ciencia de Materiales de Madrid",
+   "Centre National de la Recherche Scientifique",
+   "Institut Néel"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c3520a4d0fdd4508",
+  "title": "Mathematical modelling of the mechanical alloying kinetics",
+  "authors": [
+   "S.K. Pabi",
+   "Debdulal Das",
+   "Tridib Mahapatra",
+   "I. Manna"
+  ],
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.1016/s1359-6454(98)00035-4",
+  "url": "https://doi.org/10.1016/s1359-6454(98)00035-4",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Indian Institute of Technology Kharagpur"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "bffce50a0aa986d8",
   "title": "Structural configuration and magnetic effects in as-milled and annealed nanocrystalline iron",
   "authors": [
@@ -360,6 +480,56 @@
   "added": "2026-07-28"
  },
  {
+  "id": "8de0110c4809a19c",
+  "title": "Boron in mechanically alloyed titanium-boron nitride",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.1016/s0026-0657(98)80214-2",
+  "url": "https://doi.org/10.1016/s0026-0657(98)80214-2",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Raman"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8d96d2f8500b983a",
+  "title": "Synthesis of NiAl–TiC nanocomposite by mechanical alloying elemental powders",
+  "authors": [
+   "Lan Zhou",
+   "J.T. Guo",
+   "Guangming Fan"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.1016/s0921-5093(98)00576-0",
+  "url": "https://doi.org/10.1016/s0921-5093(98)00576-0",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "83cdf4f27645bdc9",
   "title": "Mechanochemical Synthesis of Fe–S Materials",
   "authors": [
@@ -388,6 +558,44 @@
   "relevance_score": 46,
   "affiliations": [
    "Technical University of Denmark"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8099171729d68673",
+  "title": "Formation and interface structure of TiC particles in dispersion-strengthened Cu alloys",
+  "authors": [
+   "Gerhard Dehm",
+   "J. Thomas",
+   "Joachim Mayer",
+   "Thomas Weißgärber",
+   "W. Püsche",
+   "C. Sauer"
+  ],
+  "journal": "Philosophical magazine. A/Philosophical magazine. A. Physics of condensed matter. Structure, defects and mechanical properties",
+  "publisher": "Taylor & Francis",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.1080/01418619808214268",
+  "url": "https://doi.org/10.1080/01418619808214268",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Twin-Screw Extrusion",
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Extrusion",
+   "In-Situ",
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Max Planck Society",
+   "Technion – Israel Institute of Technology",
+   "Technische Universität Dresden"
   ],
   "added": "2026-07-28"
  },
@@ -450,6 +658,94 @@
   "added": "2026-07-28"
  },
  {
+  "id": "6de5ad0ab3ea38e8",
+  "title": "Preparation and thermal stability of ceramic/metallic glass composites prepared by mechanical alloying",
+  "authors": [
+   "I.-R. Lu",
+   "C. Moelle",
+   "A. Sagel",
+   "Rainer Wunderlich",
+   "John H. Perepezko",
+   "H.-J. Fecht"
+  ],
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.1016/s0167-577x(97)00269-3",
+  "url": "https://doi.org/10.1016/s0167-577x(97)00269-3",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Technische Universität Berlin",
+   "Universität Ulm",
+   "University of Wisconsin–Madison"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "60063b054342f875",
+  "title": "Alumina–alloy nanocomposite powders by mechanosynthesis",
+  "authors": [
+   "Dominique Osso",
+   "Olivier Tillement",
+   "G. Le Caër",
+   "A. Mocellin"
+  ],
+  "journal": "Journal of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.1023/a:1004343806144",
+  "url": "https://doi.org/10.1023/a:1004343806144",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5e1c38c3addbd6c0",
+  "title": "Reversible processes and magnetic viscosity of nanocrystalline permanent magnets",
+  "authors": [
+   "D.R. Cornejo",
+   "Valquı́ria Villas-Boas",
+   "F.P. Missell"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.1063/1.367784",
+  "url": "https://doi.org/10.1063/1.367784",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Universidade de São Paulo"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "51417d749f949fcc",
   "title": "Morphology of electrodeposited lead dendrites",
   "authors": [],
@@ -470,6 +766,36 @@
   ],
   "relevance_score": 61,
   "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "4c5cbdeb7e0cf0c7",
+  "title": "Mechanical alloying of BiSb semiconducting alloys",
+  "authors": [
+   "R. Martin-Lopez",
+   "B. Lenoir",
+   "Xavier Devaux",
+   "A. Dauscher",
+   "H. Scherrer"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.1016/s0921-5093(98)00495-x",
+  "url": "https://doi.org/10.1016/s0921-5093(98)00495-x",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Lorraine"
+  ],
   "added": "2026-07-28"
  },
  {
@@ -498,6 +824,34 @@
   "added": "2026-07-28"
  },
  {
+  "id": "49b2c13a286bba50",
+  "title": "Electrical properties of Ga and ZnS doped ZnO prepared by mechanical alloying",
+  "authors": [
+   "B. A. Cook",
+   "J. L. Harringa",
+   "Cronin B. Vining"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.1063/1.367445",
+  "url": "https://doi.org/10.1063/1.367445",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Iowa State University",
+   "Ames National Laboratory"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "3f20cf8206bdaa48",
   "title": "Selective leaching of metals from mechanically activated sulphides",
   "authors": [
@@ -518,6 +872,29 @@
    "Mechanochemistry"
   ],
   "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "3b2317525105f060",
+  "title": "Synthesis of by Mechanical Alloying",
+  "authors": [
+   "Kun-Chul Shin"
+  ],
+  "journal": "Journal of Materials Science Letters",
+  "publisher": "Springer Science+Business Media",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.1023/a:1026456421321",
+  "url": "https://doi.org/10.1023/a:1026456421321",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
   "affiliations": [],
   "added": "2026-07-28"
  },
@@ -595,6 +972,40 @@
   "relevance_score": 46,
   "affiliations": [
    "Australian National University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "220a62eab4eceeb3",
+  "title": "Mechanically alloyed nanocomposite magnets (invited)",
+  "authors": [
+   "P.G. McCormick",
+   "W.F. Miao",
+   "Paul A. Smith",
+   "Jun Ding",
+   "R. A. Street"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.1063/1.367772",
+  "url": "https://doi.org/10.1063/1.367772",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "The University of Western Australia",
+   "Carnegie Mellon University",
+   "Trinity College Dublin",
+   "National University of Singapore"
   ],
   "added": "2026-07-28"
  },
@@ -710,6 +1121,36 @@
   ],
   "relevance_score": 40,
   "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "016d52a02ce31088",
+  "title": "Analysis of magnetic behavior of exchange-enhanced SmFeCo magnets",
+  "authors": [
+   "M. Dahlgren",
+   "R. Größinger",
+   "D.R. Cornejo",
+   "F.P. Missell"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1998-06-01",
+  "year": 1998,
+  "doi": "10.1063/1.367773",
+  "url": "https://doi.org/10.1063/1.367773",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "TU Wien",
+   "Universidade de São Paulo"
+  ],
   "added": "2026-07-28"
  }
 ]

@@ -57,6 +57,38 @@
   "added": "2026-07-28"
  },
  {
+  "id": "658ac4d390b55f89",
+  "title": "A comparison of the magnetic properties and deformation behaviour of Nd-Fe-B magnets made from melt-spun, mechanically alloyed and HDDR powders",
+  "authors": [
+   "A. Kirchner",
+   "W. Grünberger",
+   "Oliver Gutfleisch",
+   "V. Neu",
+   "K.-H. Müller",
+   "L. Schultz"
+  ],
+  "journal": "Journal of Physics D Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "1998-07-21",
+  "year": 1998,
+  "doi": "10.1088/0022-3727/31/14/008",
+  "url": "https://doi.org/10.1088/0022-3727/31/14/008",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Leibniz Institute for Solid State and Materials Research",
+   "University of Birmingham"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "fcbdd63ad4c507fa",
   "title": "Structural and magnetic properties of ball milled copper ferrite",
   "authors": [
@@ -86,6 +118,34 @@
    "Universidade de São Paulo",
    "Technical University of Denmark"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e6ddbdc01e0f1088",
+  "title": "Processing of Aluminum Alloys Containing Displacement Reaction Products",
+  "authors": [
+   "Michael T. Stawovy"
+  ],
+  "journal": "VTechWorks (Virginia Tech)",
+  "publisher": "Virginia Tech",
+  "published": "1998-07-15",
+  "year": 1998,
+  "doi": "",
+  "url": "http://scholar.lib.vt.edu/theses/available/etd-04252000-20050009/",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding",
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Mechanical Alloying",
+   "Milling",
+   "Milling Parameters"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -174,6 +234,33 @@
   "relevance_score": 46,
   "affiliations": [
    "Ruđer Bošković Institute"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e7df22bdf79365ee",
+  "title": "The Microstructure of Oxidized Consolidated Nanocrystalline NiAl",
+  "authors": [
+   "Timothy Chen",
+   "JM Hampikian"
+  ],
+  "journal": "Microscopy and Microanalysis",
+  "publisher": "Oxford University Press",
+  "published": "1998-07-01",
+  "year": 1998,
+  "doi": "10.1017/s1431927600022844",
+  "url": "https://doi.org/10.1017/s1431927600022844",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Georgia Institute of Technology"
   ],
   "added": "2026-07-28"
  },
@@ -483,6 +570,35 @@
   "added": "2026-07-28"
  },
  {
+  "id": "926fa12561ebc3e4",
+  "title": "The structure of amorphous Se–S prepared by mechanical alloying",
+  "authors": [
+   "Toshiharu Fukunaga",
+   "Syuichi Kajikawa",
+   "Yuji Hokari",
+   "Uichiro Mizutani"
+  ],
+  "journal": "Journal of Non-Crystalline Solids",
+  "publisher": "Elsevier BV",
+  "published": "1998-07-01",
+  "year": 1998,
+  "doi": "10.1016/s0022-3093(98)00520-1",
+  "url": "https://doi.org/10.1016/s0022-3093(98)00520-1",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kyoto University",
+   "Nagoya University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "9047c5a869701197",
   "title": "Phase Transformations Induced in Magnetite by High Energy Ball Milling",
   "authors": [],
@@ -506,6 +622,100 @@
   ],
   "relevance_score": 78,
   "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8e77e544bba7e015",
+  "title": "Sintering behaviour of mechanically alloyed and coprecipitated 12Ce–PSZ powders",
+  "authors": [
+   "S. Maschio",
+   "A. Bachiorrini",
+   "E. Lucchini"
+  ],
+  "journal": "Journal of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "1998-07-01",
+  "year": 1998,
+  "doi": "10.1023/a:1013262103187",
+  "url": "https://doi.org/10.1023/a:1013262103187",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Udine"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "82b40c832f9e2eb2",
+  "title": "Influence of rhenium on the microstructures and mechanical properties of a mechanically alloyed oxide dispersion-strengthened nickel-base superalloy",
+  "authors": [
+   "Hyen-Seok Ko",
+   "Kyung W. Paik",
+   "L. J. Park",
+   "Y. G. Kim",
+   "John H. Tundermann"
+  ],
+  "journal": "Journal of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "1998-07-01",
+  "year": 1998,
+  "doi": "10.1023/a:1013293515482",
+  "url": "https://doi.org/10.1023/a:1013293515482",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Korea Advanced Institute of Science and Technology",
+   "Agency for Defense Development",
+   "Kyungil University",
+   "Huntington University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "79b1da60179a0590",
+  "title": "Reaction Synthesis of Titanium Silicides via Self‐Propagating Reaction Kinetics",
+  "authors": [
+   "B.K. Yen",
+   "Tatsuhiko Aizawa",
+   "Junji Kihara"
+  ],
+  "journal": "Journal of the American Ceramic Society",
+  "publisher": "Wiley",
+  "published": "1998-07-01",
+  "year": 1998,
+  "doi": "10.1111/j.1151-2916.1998.tb02574.x",
+  "url": "https://doi.org/10.1111/j.1151-2916.1998.tb02574.x",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Mechanism & Kinetics",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Mechanically Induced",
+   "Milling",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "IBM Research - Almaden",
+   "The University of Tokyo",
+   "American Ceramic Society",
+   "Himeji University"
+  ],
   "added": "2026-07-28"
  },
  {
@@ -537,6 +747,32 @@
   "relevance_score": 61,
   "affiliations": [
    "University of Pittsburgh"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7075b412927ea9db",
+  "title": "Synthesis of 7075 Al/SiC particulate composite powders by mechanical alloying",
+  "authors": [
+   "Revathi Sankar",
+   "Paramanand Singh"
+  ],
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "published": "1998-07-01",
+  "year": 1998,
+  "doi": "10.1016/s0167-577x(98)00026-3",
+  "url": "https://doi.org/10.1016/s0167-577x(98)00026-3",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Indian Institute of Technology Madras"
   ],
   "added": "2026-07-28"
  },
@@ -712,6 +948,41 @@
   "added": "2026-07-28"
  },
  {
+  "id": "436e61023f93fa2f",
+  "title": "Magnetic properties and structure of nanocrystalline Fe70Al30 alloy prepared by mechanosynthesis",
+  "authors": [
+   "E. Jartych",
+   "J.K. Żurawicz",
+   "D. Oleszak",
+   "M. Pękała",
+   "Jan Sarzyński",
+   "M. Budzyński"
+  ],
+  "journal": "Journal of Magnetism and Magnetic Materials",
+  "publisher": "Elsevier BV",
+  "published": "1998-07-01",
+  "year": 1998,
+  "doi": "10.1016/s0304-8853(98)00090-0",
+  "url": "https://doi.org/10.1016/s0304-8853(98)00090-0",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanosynthesis",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Institute of Physics",
+   "Lublin University of Technology",
+   "Warsaw University of Technology",
+   "University of Warsaw",
+   "Maria Curie-Skłodowska University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "3b2123ab78ffadd9",
   "title": "Energetic approach to kinetics of batch ball milling",
   "authors": [
@@ -823,6 +1094,36 @@
   "relevance_score": 63,
   "affiliations": [
    "North Carolina State University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "048637740143602d",
+  "title": "Magnetotransport and magnetism in granular EuS-Co and EuS-Ag nanocomposites prepared by mechanical alloying",
+  "authors": [
+   "C.E. O'Connor",
+   "Feng Li",
+   "Candace T. Seip",
+   "Jinke Tang"
+  ],
+  "journal": "IEEE Transactions on Magnetics",
+  "publisher": "IEEE Magnetics Society",
+  "published": "1998-07-01",
+  "year": 1998,
+  "doi": "10.1109/20.706402",
+  "url": "https://doi.org/10.1109/20.706402",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "University of New Orleans"
   ],
   "added": "2026-07-28"
  }

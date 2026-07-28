@@ -1,5 +1,33 @@
 [
  {
+  "id": "fea751c37460ef6c",
+  "title": "Phase transformations and systems driven far from equilibrium",
+  "authors": [
+   "E. Ma",
+   "M. Atzmon",
+   "Pascal Bellon",
+   "R. Trivedi"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1998-12-31",
+  "year": 1998,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/323431",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Phase Transformation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "f1b4dc22cb332cd5",
   "title": "ChemInform Abstract: Mechanochemical Reaction Between Sulfur and Ilmenite.",
   "authors": [
@@ -87,6 +115,36 @@
   "added": "2026-07-28"
  },
  {
+  "id": "d4c029bcdf2fa952",
+  "title": "Intergranular Corrosion Resistance of 2014 Aluminium Alloys Reinforced with Ni 3 Al",
+  "authors": [
+   "P.B. da Silva-Maia",
+   "F. Velasco",
+   "César Edil da Costa",
+   "Walter Contreras Zapata",
+   "J. M. Torralba"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "1998-12-15",
+  "year": 1998,
+  "doi": "10.4028/www.scientific.net/msf.299-300.279",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.299-300.279",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Universidade do Estado de Santa Catarina",
+   "Universidad Carlos III de Madrid"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "b9e40b64c842ee67",
   "title": "Effect of Wax Addition on Monel Synthesis by High Energy Milling",
   "authors": [
@@ -117,6 +175,64 @@
    "Universidade Federal do ABC",
    "Centro Universitário FEI"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "35722c4c0f6ca781",
+  "title": "Production of Bimetallic Carbides by Mechanical Alloying for Catalysis",
+  "authors": [
+   "A. Machado Alves",
+   "Ruben Rosenthal",
+   "Victor Teixeira da Silva"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "1998-12-15",
+  "year": 1998,
+  "doi": "10.4028/www.scientific.net/msf.299-300.121",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.299-300.121",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Ball-to-Powder Ratio",
+   "Catalyst",
+   "Mechanical Alloying",
+   "Milling",
+   "Milling Parameters",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "1a31bcfd9bf52628",
+  "title": "Mechanical Alloying of High Performance Aluminum Alloys",
+  "authors": [
+   "Renato Mazzini Callegaro",
+   "Júlio César",
+   "L.D. Schaffer"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "1998-12-15",
+  "year": 1998,
+  "doi": "10.4028/www.scientific.net/msf.299-300.486",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.299-300.486",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -152,6 +268,58 @@
    "Institut de Ciència de Materials de Barcelona",
    "Comisión Nacional de Energía Atómica"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "fc9770a40cf1a732",
+  "title": "In Situ Mössbauer Effect Studies of the Electrochemical Reaction of Lithium with Mechanically Alloyed Sn2Fe",
+  "authors": [
+   "Ou Mao",
+   "R. A. Dunlap",
+   "I. A. Courtney",
+   "J. R. Dahn"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1149/1.1838936",
+  "url": "https://doi.org/10.1149/1.1838936",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Dalhousie University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "dffecabe881732b5",
+  "title": "Synthesis and consolidation of mechanically alloyed iron-chromium powders",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1016/s0026-0657(99)80101-5",
+  "url": "https://doi.org/10.1016/s0026-0657(99)80101-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Metal Powders"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -213,6 +381,72 @@
   "affiliations": [
    "Shanghai University"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "cb2c406ff02b0a24",
+  "title": "Sintered nickel steel matrix composites produced by mechanical alloying",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1016/s0026-0657(99)80141-6",
+  "url": "https://doi.org/10.1016/s0026-0657(99)80141-6",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c5456a17e6c2c598",
+  "title": "Improvement of silver-tin electrical contact alloy by mechanical alloying",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1016/s0026-0657(99)80150-7",
+  "url": "https://doi.org/10.1016/s0026-0657(99)80150-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c3fd48442ee7d640",
+  "title": "Tensile properties of mechanically alloyed oxide dispersion strengthened iron alloys Part 2 – Physical interpretation of yield strength",
+  "authors": [
+   "A. Y. Badmos",
+   "H. K. D. H. Bhadeshia"
+  ],
+  "journal": "Materials Science and Technology",
+  "publisher": "Maney Publishing",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1179/mst.1998.14.12.1221",
+  "url": "https://doi.org/10.1179/mst.1998.14.12.1221",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -315,6 +549,30 @@
   "added": "2026-07-28"
  },
  {
+  "id": "a3937fe25198d03f",
+  "title": "Processing of silver-aluminium by mechanical alloying",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1016/s0026-0657(99)80153-2",
+  "url": "https://doi.org/10.1016/s0026-0657(99)80153-2",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Mechanical Alloying",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "9fb4808595427648",
   "title": "Mechanochemical reactions in the system FeTiO 3 –Si",
   "authors": [
@@ -337,6 +595,37 @@
   "relevance_score": 46,
   "affiliations": [
    "Australian National University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8af0dac64bf2fe69",
+  "title": "High-temperature stability of nanocrystalline structure in a TiAl alloy prepared by mechanical alloying and hot isostatic pressing",
+  "authors": [
+   "O.N. Senkov",
+   "N. Srisukhumbowornchai",
+   "M. Lütfi Öveçoğlu",
+   "F. H. Froes"
+  ],
+  "journal": "Journal of materials research/Pratt's guide to venture capital sources",
+  "publisher": "Springer Nature",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1557/jmr.1998.0463",
+  "url": "https://doi.org/10.1557/jmr.1998.0463",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Idaho",
+   "Center for Advanced Energy Studies",
+   "Istanbul Technical University"
   ],
   "added": "2026-07-28"
  },
@@ -392,6 +681,35 @@
   ],
   "relevance_score": 70,
   "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7110f071086707a5",
+  "title": "Microstructure and Mechanical Behavior of Mechanically Alloyed ODS Ni-Base Superalloy for Aerospace Gas Turbine Application",
+  "authors": [
+   "L. J. Park",
+   "Ho Jin Ryu",
+   "Soon Hyung Hong",
+   "Yong-Gil Kim"
+  ],
+  "journal": "Advanced Performance Materials",
+  "publisher": "Maney Publishing",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1023/a:1008653015451",
+  "url": "https://doi.org/10.1023/a:1008653015451",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Pohang University of Science and Technology",
+   "Korea Advanced Institute of Science and Technology"
+  ],
   "added": "2026-07-28"
  },
  {
@@ -510,6 +828,33 @@
   "added": "2026-07-28"
  },
  {
+  "id": "209d3eac825d75eb",
+  "title": "Synthesis of-TiAl Based Alloy by Mechanical Alloying and Reactive Hot Isostatic Pressing",
+  "authors": [
+   "He Huang",
+   "Pekka V. Virtanen",
+   "T. Tiainen"
+  ],
+  "journal": "Journal of Materials Engineering and Performance",
+  "publisher": "Springer Science+Business Media",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1361/105994998770347369",
+  "url": "https://doi.org/10.1361/105994998770347369",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tampere University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "10b2cbebc3fb47b7",
   "title": "Nano-sized amorphous Cu–Zr alloy particles prepared by mechanochemical reaction",
   "authors": [
@@ -617,6 +962,29 @@
   "affiliations": [
    "University of Maryland, Baltimore County"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "07d81412c5c92056",
+  "title": "Titanium aluminide composites from combustion reaction processing",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1016/s0026-0657(99)80110-6",
+  "url": "https://doi.org/10.1016/s0026-0657(99)80110-6",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
   "added": "2026-07-28"
  }
 ]

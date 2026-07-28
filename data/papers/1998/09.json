@@ -27,6 +27,33 @@
   "added": "2026-07-28"
  },
  {
+  "id": "5c6a4598d0846304",
+  "title": "ChemInform Abstract: Mechanically Alloyed Nanocomposite Magnets",
+  "authors": [
+   "P.G. McCormick",
+   "W.F. Miao",
+   "Paul A. Smith",
+   "Jing Ding",
+   "R. A. Street"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1998-09-29",
+  "year": 1998,
+  "doi": "10.1002/chin.199839292",
+  "url": "https://doi.org/10.1002/chin.199839292",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "9ba40b4878b438e6",
   "title": "Dynamic viscoelastic properties and thermal properties of Ni powder-epoxy resin composites",
   "authors": [
@@ -51,6 +78,63 @@
   "relevance_score": 45,
   "affiliations": [
    "Yamagata University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f202f28c86ef57a0",
+  "title": "Recent Developments in mechanical alloying and mechanical activation",
+  "authors": [
+   "Éric Gaffet",
+   "G. Le Caër"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "1998-09-24",
+  "year": 1998,
+  "doi": "",
+  "url": "https://hal.science/hal-05386542",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanical Activation",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 56,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut Jean Lamour",
+   "Université de Lorraine"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "efd924bede4baceb",
+  "title": "MechanoSynthesis : State of the Art and Perspectives",
+  "authors": [
+   "Éric Gaffet"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "1998-09-08",
+  "year": 1998,
+  "doi": "",
+  "url": "https://hal.science/hal-05386557",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut Jean Lamour",
+   "Université de Lorraine"
   ],
   "added": "2026-07-28"
  },
@@ -237,6 +321,34 @@
   "added": "2026-07-28"
  },
  {
+  "id": "b9c4c8cfdef749b9",
+  "title": "Characterizations of mechanically alloyed Ti–Zr–Cu–Ni powders",
+  "authors": [
+   "X.D Liu",
+   "M. Nagumo∥",
+   "Minoru Umemoto"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1016/s0921-5093(98)00693-5",
+  "url": "https://doi.org/10.1016/s0921-5093(98)00693-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Waseda University",
+   "Toyohashi University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "b7fd4afd14f6b6b8",
   "title": "Electrochemical behavior of nanocrystalline Ti2RuFe alloy prepared by high energy ball-milling",
   "authors": [
@@ -268,6 +380,159 @@
   "added": "2026-07-28"
  },
  {
+  "id": "b6eabfffa6c6720e",
+  "title": "Influence of microstructure and texture on mechanical properties of aluminium alloy 2124 + 5%SiC particulate composites",
+  "authors": [
+   "J. B. Shamsul",
+   "C. Hammond",
+   "Robert F. Cochrane",
+   "A. J. Shakesheff"
+  ],
+  "journal": "Materials Science and Technology",
+  "publisher": "Maney Publishing",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1179/mst.1998.14.9-10.949",
+  "url": "https://doi.org/10.1179/mst.1998.14.9-10.949",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b6a13ce44e38658f",
+  "title": "Mechanical alloying for the effective dispersion of sub-micron SiCp reinforcements in Al–Li alloy composite",
+  "authors": [
+   "Freddy Boey",
+   "Zhen Yuan",
+   "K.A. Khor"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1016/s0921-5093(98)00566-8",
+  "url": "https://doi.org/10.1016/s0921-5093(98)00566-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nanyang Technological University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "afeb70404be50cae",
+  "title": "Enhanced mechanical properties of an Al based metal matrix composite prepared using mechanical alloying",
+  "authors": [
+   "Li Lü",
+   "M.O. Lai",
+   "Charmaine Ng"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1016/s0921-5093(98)00676-5",
+  "url": "https://doi.org/10.1016/s0921-5093(98)00676-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National University of Singapore"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9f9c632e8417fe56",
+  "title": "Microstructure of shock consolidated mechanically alloyed Nb-Al powders",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1016/s0026-0657(98)80289-0",
+  "url": "https://doi.org/10.1016/s0026-0657(98)80289-0",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9d2a1fb8ead089ca",
+  "title": "Forging behaviour and properties of metal matrix composites based on mechanically alloyed AI-Mg-Li alloy",
+  "authors": [
+   "C. M. Styles",
+   "P.D. Pitcher"
+  ],
+  "journal": "Materials Science and Technology",
+  "publisher": "Maney Publishing",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1179/mst.1998.14.9-10.913",
+  "url": "https://doi.org/10.1179/mst.1998.14.9-10.913",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9bc294698ab7a1fa",
+  "title": "Theoretical studies of diamond mechanosynthesis reactions",
+  "authors": [
+   "Stephen P. Walch",
+   "Ralph C. Merkle"
+  ],
+  "journal": "Nanotechnology",
+  "publisher": "IOP Publishing",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1088/0957-4484/9/3/020",
+  "url": "https://doi.org/10.1088/0957-4484/9/3/020",
+  "source": "openalex",
+  "categories": [
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "DFT",
+   "Mechanosynthesis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Ames Research Center",
+   "Palo Alto Research Center"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "93cc1d61b53ab810",
   "title": "Investigation of the effects of milling ceramic targets on the optical and electrical properties of BST thin films deposited by RF sputtering",
   "authors": [
@@ -295,6 +560,94 @@
   "relevance_score": 42,
   "affiliations": [
    "DEVCOM Army Research Laboratory"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8d2b9f351aab7d7d",
+  "title": "Mechanical alloying and sintering of aluminium reinforced with SiC nanopowders produced by plasma-enhanced chemical-vapour deposition",
+  "authors": [
+   "João Paulo de Campos da Costa",
+   "Joaquim Fort",
+   "Ludo Froyen",
+   "G. Viera",
+   "E. Bertrán"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "",
+  "url": "https://lirias.kuleuven.be/handle/123456789/192655",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "869611d5cd63aadd",
+  "title": "Preparation of n-type Bi–Sb–Te thermoelectric material by mechanical alloying",
+  "authors": [
+   "R. Martin-Lopez",
+   "B. Lenoir",
+   "A. Dauscher",
+   "H. Scherrer",
+   "S. Scherrer"
+  ],
+  "journal": "Solid State Communications",
+  "publisher": "Elsevier BV",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1016/s0038-1098(98)00370-6",
+  "url": "https://doi.org/10.1016/s0038-1098(98)00370-6",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Lorraine"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "77834df4f8a4ef98",
+  "title": "Formation of W-Re Solid Solution by Mechanical Alloying",
+  "authors": [
+   "F. H. Froes",
+   "Curtis Clark",
+   "C. Suryanarayana",
+   "E.G. Baburaj",
+   "Boris D. Bryskin"
+  ],
+  "journal": "Materials and Manufacturing Processes",
+  "publisher": "Taylor & Francis",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1080/10426919808935291",
+  "url": "https://doi.org/10.1080/10426919808935291",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "University of Idaho"
   ],
   "added": "2026-07-28"
  },

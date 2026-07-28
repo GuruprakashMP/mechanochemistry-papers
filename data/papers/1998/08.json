@@ -30,6 +30,33 @@
   "added": "2026-07-28"
  },
  {
+  "id": "e56de97dbfd9c2b2",
+  "title": "Electrochemical properties of Mg 2 Ni and Mg 2 Ni 2 prepared by mechanical alloying",
+  "authors": [
+   "C. Lenain",
+   "L. Aymard",
+   "J.-M. Tarascon"
+  ],
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1998-08-26",
+  "year": 1998,
+  "doi": "10.1007/s100080050102",
+  "url": "https://doi.org/10.1007/s100080050102",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Université de Picardie Jules Verne"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "e870ee47e2d8f7d3",
   "title": "ChemInform Abstract: Mechanochemical Synthesis of Dicalcium Ferrite with the Perovskite Structure.",
   "authors": [
@@ -85,6 +112,34 @@
   "relevance_score": 46,
   "affiliations": [
    "Hebrew University of Jerusalem"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "494d22a1781bf8b8",
+  "title": "Investigations of the solid state reaction process in mechanically alloyed Zr-Al-Cu-Ni bulk metallic glasses by analytical transmission electron microscopy",
+  "authors": [
+   "M. Seidel",
+   "M. Reibold",
+   "J. Eckert"
+  ],
+  "journal": "Fresenius Journal of Analytical Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1998-08-03",
+  "year": 1998,
+  "doi": "10.1007/s002160051009",
+  "url": "https://doi.org/10.1007/s002160051009",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Solid-State Reaction"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Leibniz Institute for Solid State and Materials Research"
   ],
   "added": "2026-07-28"
  },
@@ -326,6 +381,64 @@
   "added": "2026-07-28"
  },
  {
+  "id": "9292f0c45b29ab08",
+  "title": "Synthesis of a nanocrystalline W–25 wt.% Re alloy by mechanical alloying",
+  "authors": [
+   "Eugene Ivanov",
+   "C. Suryanarayana",
+   "Boris D. Bryskin"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1998-08-01",
+  "year": 1998,
+  "doi": "10.1016/s0921-5093(98)00620-0",
+  "url": "https://doi.org/10.1016/s0921-5093(98)00620-0",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Grove City College",
+   "Colorado School of Mines"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "903c870da590ecd7",
+  "title": "Improved Mg-based alloys for hydrogen storage",
+  "authors": [
+   "K. Sapru",
+   "L Ming",
+   "Ned Stetson",
+   "John Evans"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1998-08-01",
+  "year": 1998,
+  "doi": "10.2172/305613",
+  "url": "https://doi.org/10.2172/305613",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Grinding",
+   "Hydrogen Storage",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "8fe8c2882d39adca",
   "title": "Correlation of powder characteristics of talc during Planetary Ball Milling with the impact energy of the balls simulated by the Particle Element Method",
   "authors": [
@@ -543,6 +656,142 @@
   ],
   "relevance_score": 52,
   "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "33dea8ad23eb38eb",
+  "title": "Densification behavior of mechanically alloyed W-Cu composite powders by the double rearrangement process",
+  "authors": [
+   "Jin-Chun Kim",
+   "Sung-Soo Ryu",
+   "Young Do Kim",
+   "In-Hyung Moon"
+  ],
+  "journal": "Scripta Materialia",
+  "publisher": "Elsevier BV",
+  "published": "1998-08-01",
+  "year": 1998,
+  "doi": "10.1016/s1359-6462(98)00232-2",
+  "url": "https://doi.org/10.1016/s1359-6462(98)00232-2",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hanyang University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2a70363cf67dfe8d",
+  "title": "Giant magnetoresistance in mechanically alloyed Ag-Cu-Fe alloys",
+  "authors": [
+   "Philip Nash",
+   "R. B. Schwarz",
+   "M. F. Hundley"
+  ],
+  "journal": "Nanostructured Materials",
+  "publisher": "Elsevier BV",
+  "published": "1998-08-01",
+  "year": 1998,
+  "doi": "10.1016/s0965-9773(98)00134-2",
+  "url": "https://doi.org/10.1016/s0965-9773(98)00134-2",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Los Alamos National Laboratory"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "1a7c2b9099834e23",
+  "title": "Microstructural Study of a Mechanically Alloyed ODS Superalloy",
+  "authors": [
+   "Mohammad Mujahid",
+   "Catherine Gater",
+   "J. W. Martin"
+  ],
+  "journal": "Journal of Materials Engineering and Performance",
+  "publisher": "Springer Science+Business Media",
+  "published": "1998-08-01",
+  "year": 1998,
+  "doi": "10.1361/105994998770347684",
+  "url": "https://doi.org/10.1361/105994998770347684",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Oxford",
+   "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "186ec3b11fba4289",
+  "title": "Tensile properties of mechanically alloyed oxide dispersion strengthened iron alloys Part 1 - Neural networkmodels",
+  "authors": [
+   "A. Y. Badmos",
+   "H. K. D. H. Bhadeshia",
+   "David Mackay"
+  ],
+  "journal": "Materials Science and Technology",
+  "publisher": "Maney Publishing",
+  "published": "1998-08-01",
+  "year": 1998,
+  "doi": "10.1179/mst.1998.14.8.793",
+  "url": "https://doi.org/10.1179/mst.1998.14.8.793",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "150cfacb732fa476",
+  "title": "Structures, properties and responses to heat treatment of Cu–Y alloys prepared by mechanical alloying",
+  "authors": [
+   "Li Tan",
+   "Y. Li",
+   "S. C. Ng",
+   "Li Lü"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "1998-08-01",
+  "year": 1998,
+  "doi": "10.1016/s0925-8388(98)00487-3",
+  "url": "https://doi.org/10.1016/s0925-8388(98)00487-3",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National University of Singapore"
+  ],
   "added": "2026-07-28"
  },
  {

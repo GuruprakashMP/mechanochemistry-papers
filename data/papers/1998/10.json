@@ -1,5 +1,63 @@
 [
  {
+  "id": "58a170f13042b472",
+  "title": "Center of Excellence for Materials Research",
+  "authors": [
+   "Akhtar S. Khan"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1998-10-28",
+  "year": 1998,
+  "doi": "10.21236/ada391299",
+  "url": "https://doi.org/10.21236/ada391299",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "3c9961f81c74d33d",
+  "title": "Surface Characterization of Cu−M (M = Ti, Zr, or Hf) Alloy Powder Catalysts",
+  "authors": [
+   "Árpàd Molnár",
+   "I. Bertóti",
+   "János Szépvölgyi",
+   "G. Mulas",
+   "Giorgio Cocco"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "1998-10-21",
+  "year": 1998,
+  "doi": "10.1021/jp982209t",
+  "url": "https://doi.org/10.1021/jp982209t",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Sassari",
+   "Institute of Materials and Environmental Chemistry",
+   "Hungarian Academy of Sciences",
+   "HUN-REN Research Centre for Natural Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "63460b910885df30",
   "title": "INVESTIGATION ON THE DEFORMATION AND ENERGY TRANSFER OF POWDERS DURING MECHANICAL ALLOVING",
   "authors": [
@@ -143,6 +201,67 @@
   "added": "2026-07-28"
  },
  {
+  "id": "eedc64a9e20a9a7b",
+  "title": "Mechanical properties of extruded Bi85Sb15 alloy prepared by mechanical alloying",
+  "authors": [
+   "R. Martin-Lopez",
+   "S. A. Zayakin",
+   "B. Lenoir",
+   "F. Brochin",
+   "A. Dauscher",
+   "H. Scherrer"
+  ],
+  "journal": "Philosophical Magazine Letters",
+  "publisher": "Taylor & Francis",
+  "published": "1998-10-01",
+  "year": 1998,
+  "doi": "10.1080/095008398177850",
+  "url": "https://doi.org/10.1080/095008398177850",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e8e5609daf2e4acf",
+  "title": "X-ray diffraction and Mossbauer characterization of attrition-milled nanostructured iron and iron-nitrogen powders",
+  "authors": [
+   "J. Rawers",
+   "Dianne Cook",
+   "Tae kim"
+  ],
+  "journal": "Philosophical magazine. A/Philosophical magazine. A. Physics of condensed matter. Structure, defects and mechanical properties",
+  "publisher": "Taylor & Francis",
+  "published": "1998-10-01",
+  "year": 1998,
+  "doi": "10.1080/01418619808239968",
+  "url": "https://doi.org/10.1080/01418619808239968",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Metal Powders",
+   "Nanostructured"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "United States Department of the Interior",
+   "Dominion University College",
+   "Old Dominion University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "e7d7b80913b869b1",
   "title": "Preparation of nitrides dispersed Al–Ti alloy by reactive ball milling in N2 gas",
   "authors": [
@@ -191,6 +310,136 @@
    "Mechanochemistry"
   ],
   "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c6c182feec89323a",
+  "title": "Sintering of mechanically alloyed nanostructured tungsten-copper alloys",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1998-10-01",
+  "year": 1998,
+  "doi": "10.1016/s0026-0657(98)80374-3",
+  "url": "https://doi.org/10.1016/s0026-0657(98)80374-3",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanostructured",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a67f4f4d9380c34c",
+  "title": "Phase transformation and magnetic properties of mechanically alloyed NdFe12−xMoxNy",
+  "authors": [
+   "Shaolong Tang",
+   "Xin Jin",
+   "B.W Wang",
+   "Z. Q. Jin",
+   "S.Y Zhang",
+   "Youwei Du"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "1998-10-01",
+  "year": 1998,
+  "doi": "10.1016/s0925-8388(98)00667-7",
+  "url": "https://doi.org/10.1016/s0925-8388(98)00667-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Phase Transformation"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Xiangtan University",
+   "Nanjing University",
+   "Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9a422b4a32c2aa8e",
+  "title": "Investigation of the fracture characteristics of lamellar nanocomposites and in situ-formed composites designed for high temperature service: Volume 1 -- NB-based materials development. Final report, 1 September 1995--31 October 1998",
+  "authors": [
+   "D. L. Davidson",
+   "Kai-Wing Chan"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1998-10-01",
+  "year": 1998,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/339452",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8a25c417261fe5e6",
+  "title": "Investigation of the Fracture Characteristics of Lamellar Nanocomposites and in Situ-Formed Composites Designed for High Temperature Service. Volume 1: Nb-Based Materials Development",
+  "authors": [
+   "D. L. Davidson",
+   "Kwai S. Chan"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1998-10-01",
+  "year": 1998,
+  "doi": "",
+  "url": "https://apps.dtic.mil/dtic/tr/fulltext/u2/a356569.pdf",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "879e17f4e2e39c1c",
+  "title": "Suitability of mechanically alloyed powders for injection moulding",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1998-10-01",
+  "year": 1998,
+  "doi": "10.1016/s0026-0657(98)80389-5",
+  "url": "https://doi.org/10.1016/s0026-0657(98)80389-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
   "affiliations": [],
   "added": "2026-07-28"
  },
@@ -250,6 +499,34 @@
   "added": "2026-07-28"
  },
  {
+  "id": "594e5d974b5a0a58",
+  "title": "Microstructural study of mechanically alloyed aluminium with nanometer size silicon carbide powder",
+  "authors": [
+   "José Endereço Baracho da Costa",
+   "Joaquim Fort",
+   "P. Roura",
+   "G. Viera",
+   "E. Bertrán",
+   "Ludo Froyen"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1998-10-01",
+  "year": 1998,
+  "doi": "",
+  "url": "https://lirias.kuleuven.be/handle/123456789/193045",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "4d273e453cfa0f90",
   "title": "Direct synthesis of Mg2FeH6 by mechanical alloying",
   "authors": [
@@ -275,6 +552,38 @@
   "affiliations": [
    "Hydro-Québec",
    "National Institute for Materials Science"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "44b51917a77498ea",
+  "title": "Electrode characteristics of nanocrystalline AB5 compounds prepared by mechanical alloying",
+  "authors": [
+   "Z. Chen",
+   "Yu-Ming Su",
+   "Mengmeng Lu",
+   "Dong Zhou",
+   "P. Huang"
+  ],
+  "journal": "Materials Research Bulletin",
+  "publisher": "Elsevier BV",
+  "published": "1998-10-01",
+  "year": 1998,
+  "doi": "10.1016/s0025-5408(98)00134-2",
+  "url": "https://doi.org/10.1016/s0025-5408(98)00134-2",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Central South University",
+   "Hunan University",
+   "Chinese Academy of Sciences"
   ],
   "added": "2026-07-28"
  },
@@ -328,6 +637,61 @@
   "added": "2026-07-28"
  },
  {
+  "id": "39a081d6cc03e0c7",
+  "title": "Electrochemical characteristics of an amorphous Mg0.9V0.1Ni alloy prepared by mechanical alloying",
+  "authors": [
+   "Shinji Nohara",
+   "Kazuki Hamasaki",
+   "Shu Guo Zhang",
+   "Hiroshi Inoue",
+   "Chiaki Iwakura"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "1998-10-01",
+  "year": 1998,
+  "doi": "10.1016/s0925-8388(98)00736-1",
+  "url": "https://doi.org/10.1016/s0925-8388(98)00736-1",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Osaka Prefecture University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "26b10c9c251ca4e5",
+  "title": "Effect of mechanical alloying on selective laser sintering of WC-9Co hard metal powder",
+  "authors": [
+   "Tahar Laoui",
+   "Ludo Froyen",
+   "Jean-Pierre Kruth"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1998-10-01",
+  "year": 1998,
+  "doi": "",
+  "url": "https://lirias.kuleuven.be/handle/123456789/165128",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Metal Powders"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "1afb32186c9087d5",
   "title": "Effect of ball milling materials and methods on powder processing of Bi2223 superconductors",
   "authors": [
@@ -360,6 +724,58 @@
    "Australian Nuclear Science and Technology Organisation",
    "University of Wollongong"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0e3b66599f02ebb8",
+  "title": "Advanced Ni3(Si,Ti) intermetallic materials by mechanical alloying and reactive hot isostatic pressing",
+  "authors": [
+   "S. Van Dyck",
+   "Ludo Froyen",
+   "Lucas Delaey",
+   "L. Buekenhout"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1998-10-01",
+  "year": 1998,
+  "doi": "",
+  "url": "https://lirias.kuleuven.be/handle/123456789/193051",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0a0bb0a2f1ecbc1c",
+  "title": "Formation and catalytic activity of amorphous Ni 50 Pd 40 Si 10 alloy powder by mechanical alloying",
+  "authors": [
+   "H. F. Zhang",
+   "Jun Li",
+   "Qi Song",
+   "Z.Q. Hu"
+  ],
+  "journal": "Journal of materials research/Pratt's guide to venture capital sources",
+  "publisher": "Springer Nature",
+  "published": "1998-10-01",
+  "year": 1998,
+  "doi": "10.1557/jmr.1998.0380",
+  "url": "https://doi.org/10.1557/jmr.1998.0380",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-28"
  }
 ]
