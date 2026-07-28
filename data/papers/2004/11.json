@@ -36,6 +36,64 @@
   "added": "2026-07-28"
  },
  {
+  "id": "695d30f6beee0970",
+  "title": "Mechanism of low-temperature θ-CuGa2 phase formation in Cu-Ga alloys by mechanical alloying",
+  "authors": [
+   "Soon-Jik Hong",
+   "C. Suryanarayana"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2004-11-22",
+  "year": 2004,
+  "doi": "10.1063/1.1808243",
+  "url": "https://doi.org/10.1063/1.1808243",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling",
+   "Milling Parameters"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "University of Central Florida"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2f980de2982d5492",
+  "title": "Polypropylene degradation control during reactive extrusion",
+  "authors": [
+   "Sheng-Hong Pong",
+   "Chuan-Pin Lu",
+   "Ming-Chih Wang",
+   "Shih-Hsuan Chiu"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "2004-11-22",
+  "year": 2004,
+  "doi": "10.1002/app.21275",
+  "url": "https://doi.org/10.1002/app.21275",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "National Taiwan University of Science and Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "bd93acc8c44a3378",
   "title": "Recycled hardmetal-based powders for thermal spray",
   "authors": [
@@ -155,6 +213,36 @@
   "added": "2026-07-28"
  },
  {
+  "id": "d6136ddcfced04fc",
+  "title": "X – ray diffraction and Mossbauer investigation of mechanically alloyed Fe – Ni",
+  "authors": [
+   "Rabah Hamzaoui",
+   "O. El Kedim",
+   "Jean-Marc Grenèche",
+   "Éric Gaffet"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "2004-11-14",
+  "year": 2004,
+  "doi": "",
+  "url": "https://hal.science/hal-05390989",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut Jean Lamour",
+   "Université de Lorraine"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "604e1ccd250fa066",
   "title": "Controlled Reduction of NiO Using Reactive Ball Milling under Hydrogen Atmosphere Leading to Ni−NiO Nanocomposites",
   "authors": [
@@ -191,6 +279,71 @@
    "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
    "CEA Grenoble",
    "University of Delaware"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "138a14e4f062cae9",
+  "title": "Pressure-induced effects on the structural properties of iron selenides produced by mechano-synthesis",
+  "authors": [
+   "Carlos Eduardo Maduro de Campos",
+   "J.C. de Lima",
+   "T.A. Grandi",
+   "K.D. Machado",
+   "J. P. Itié",
+   "A. Polian"
+  ],
+  "journal": "Journal of Physics Condensed Matter",
+  "publisher": "IOP Publishing",
+  "published": "2004-11-13",
+  "year": 2004,
+  "doi": "10.1088/0953-8984/16/47/003",
+  "url": "https://doi.org/10.1088/0953-8984/16/47/003",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling",
+   "Milling Parameters",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Universidade Federal de Santa Catarina",
+   "Sorbonne Université"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "dc2578a4a4c91b4b",
+  "title": "Microstructural evolution during mechanical alloying of Mg and Ni",
+  "authors": [
+   "Paula Rojas",
+   "S. Ordóñez",
+   "Daniel Serafini",
+   "Alejandro Zúñiga",
+   "Enrique J. Lavernia"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2004-11-12",
+  "year": 2004,
+  "doi": "10.1016/j.jallcom.2004.08.081",
+  "url": "https://doi.org/10.1016/j.jallcom.2004.08.081",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of California, Davis",
+   "Universidad de Santiago de Chile"
   ],
   "added": "2026-07-28"
  },
@@ -351,6 +504,98 @@
   "added": "2026-07-28"
  },
  {
+  "id": "03d7240ab253b613",
+  "title": "Hydriding kinetics of the La1.5Ni0.5Mg17–H system prepared by mechanical alloying",
+  "authors": [
+   "Qian Li",
+   "Kuo-Chih Chou",
+   "Lin Qin",
+   "Lijun Jiang",
+   "Feng Zhan"
+  ],
+  "journal": "Journal of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "2004-11-10",
+  "year": 2004,
+  "doi": "10.1023/b:jmsc.0000047542.93940.8c",
+  "url": "https://doi.org/10.1023/b:jmsc.0000047542.93940.8c",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Science and Technology Beijing"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "563143c6a6699a52",
+  "title": "Mechanism and kinetics of solid-state amorphization by mechanical alloying of Al 65 Cu 35−x Nb x",
+  "authors": [
+   "I. Manna",
+   "Pratyush Kiran Nandi",
+   "P.M.G. Nambissan"
+  ],
+  "journal": "The Philosophical Magazine A Journal of Theoretical Experimental and Applied Physics",
+  "publisher": "Taylor & Francis",
+  "published": "2004-11-09",
+  "year": 2004,
+  "doi": "10.1080/14786430412331283613",
+  "url": "https://doi.org/10.1080/14786430412331283613",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Saha Institute of Nuclear Physics"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b0495bdc8f9d72d1",
+  "title": "Quasicrystal formation in mechanically alloyed Zr–Ti–Nb–Cu–Ni–Al glassy powders",
+  "authors": [
+   "S. Scudino",
+   "C. Mickel",
+   "L. Schultz",
+   "J. Eckert",
+   "Xiaoyun Yang",
+   "D.J. Sordelet"
+  ],
+  "journal": "Applied Physics Letters",
+  "publisher": "American Institute of Physics",
+  "published": "2004-11-08",
+  "year": 2004,
+  "doi": "10.1063/1.1818734",
+  "url": "https://doi.org/10.1063/1.1818734",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Leibniz Institute for Solid State and Materials Research",
+   "Technische Universität Darmstadt",
+   "Iowa State University",
+   "Ames National Laboratory"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "5ecc0afbbdece58a",
   "title": "Finite size effects and spin transition in ball-milled γ-(FeMn)30Cu70 nanostructured alloys",
   "authors": [
@@ -507,6 +752,33 @@
   "affiliations": [
    "Semenov Institute of Chemical Physics",
    "Lomonosov Moscow State University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f200bc8c2d4a79e3",
+  "title": "Mechanical alloying of FeCo Nanocrystalline magnetic powders",
+  "authors": [
+   "Hao Li",
+   "R.V. Ramanujan"
+  ],
+  "journal": "Journal of Electronic Materials",
+  "publisher": "Springer Science+Business Media",
+  "published": "2004-11-01",
+  "year": 2004,
+  "doi": "10.1007/s11664-004-0155-1",
+  "url": "https://doi.org/10.1007/s11664-004-0155-1",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Nanyang Technological University"
   ],
   "added": "2026-07-28"
  },
@@ -718,6 +990,34 @@
   "added": "2026-07-28"
  },
  {
+  "id": "7869b4b88bf785d5",
+  "title": "Thermoelectric Properties of Skutterudite CoSb3 Fabricated by Mechanical Alloying Process",
+  "authors": [
+   "문관 최",
+   "경원 조",
+   "순철 어",
+   "일호 김"
+  ],
+  "journal": "Korean Journal of Materials Research",
+  "publisher": "Materials Research Society of Korea",
+  "published": "2004-11-01",
+  "year": 2004,
+  "doi": "10.3740/mrsk.2004.14.11.802",
+  "url": "https://doi.org/10.3740/mrsk.2004.14.11.802",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Phase Transformation"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "493d83be22900b15",
   "title": "Mechanochemical Synthesis of Magnesium Aluminate Spinel Powder at Room Temperature",
   "authors": [
@@ -751,6 +1051,65 @@
   "added": "2026-07-28"
  },
  {
+  "id": "39d4d2dff26df92d",
+  "title": "Tribochemistry of Overbased Calcium Detergents Studied by ToF-SIMS and Other Surface Analyses",
+  "authors": [
+   "L. Cizaire",
+   "Jean-Michel Martin",
+   "E. Gresser",
+   "N. Truong Dinh",
+   "C. Héau"
+  ],
+  "journal": "Tribology Letters",
+  "publisher": "Springer Science+Business Media",
+  "published": "2004-11-01",
+  "year": 2004,
+  "doi": "10.1007/s11249-004-8078-9",
+  "url": "https://doi.org/10.1007/s11249-004-8078-9",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Tribochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "École Centrale de Lyon",
+   "Total (France)",
+   "Laboratoire Leprince-Ringuet"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "26cda0c48fe0e912",
+  "title": "Modelling of flow and chemistry in twin screw extruders",
+  "authors": [
+   "Bruno Vergnes",
+   "Françoise Berzin"
+  ],
+  "journal": "Plastics Rubber and Composites Macromolecular Engineering",
+  "publisher": "Taylor & Francis",
+  "published": "2004-11-01",
+  "year": 2004,
+  "doi": "10.1179/174328904x24916",
+  "url": "https://doi.org/10.1179/174328904x24916",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Centre de Mise en Forme des Matériaux"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "1cd468770a27ef35",
   "title": "Mechanochemical synthesis of amorphous solid electrolytes using SiS2 and various lithium compounds",
   "authors": [
@@ -776,6 +1135,67 @@
   "relevance_score": 46,
   "affiliations": [
    "Osaka Prefecture University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "123b368a8bd88216",
+  "title": "Study of amorphous Co56Nb22Sn22 alloy prepared by mechanical alloying",
+  "authors": [
+   "T.A. Grandi",
+   "J.C. de Lima",
+   "Carlos Eduardo Maduro de Campos",
+   "K.D. Machado",
+   "G.L.F. Fraga"
+  ],
+  "journal": "Journal of Non-Crystalline Solids",
+  "publisher": "Elsevier BV",
+  "published": "2004-11-01",
+  "year": 2004,
+  "doi": "10.1016/j.jnoncrysol.2004.08.245",
+  "url": "https://doi.org/10.1016/j.jnoncrysol.2004.08.245",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidade Federal de Santa Catarina",
+   "Universidade Federal do Rio Grande do Sul"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0f4f7f9867d27c9e",
+  "title": "Study of the Thermoplastic Wheat Starch Cationisation Reaction under Molten Condition",
+  "authors": [
+   "Ali Ayoub",
+   "Françoise Berzin",
+   "Lan Tighzert",
+   "Christophe Bliard"
+  ],
+  "journal": "Starch - Stärke",
+  "publisher": "Wiley",
+  "published": "2004-11-01",
+  "year": 2004,
+  "doi": "10.1002/star.200300272",
+  "url": "https://doi.org/10.1002/star.200300272",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Reims Champagne-Ardenne",
+   "Centre des Matériaux"
   ],
   "added": "2026-07-28"
  },

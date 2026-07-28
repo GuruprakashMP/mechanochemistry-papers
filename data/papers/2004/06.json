@@ -31,6 +31,34 @@
   "added": "2026-07-28"
  },
  {
+  "id": "461ce5203955508b",
+  "title": "Structural properties of Cr–Fe–Mn alloys prepared by mechanical alloying",
+  "authors": [
+   "Gang Shen",
+   "Xueming Ma",
+   "Wangzhou Shi"
+  ],
+  "journal": "Physica B Condensed Matter",
+  "publisher": "Elsevier BV",
+  "published": "2004-06-29",
+  "year": 2004,
+  "doi": "10.1016/j.physb.2004.05.016",
+  "url": "https://doi.org/10.1016/j.physb.2004.05.016",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Shanghai University",
+   "East China Normal University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "81850515808f0dc5",
   "title": "Nanophases in mechanochemically synthesized AgI–CuI system: structure, phase stability and phase transitions",
   "authors": [
@@ -172,6 +200,36 @@
   "added": "2026-07-28"
  },
  {
+  "id": "672c96a8a1093dce",
+  "title": "Magnetic studies of Sn2+–Sn4+-substituted barium hexaferrites synthesized by mechanical alloying",
+  "authors": [
+   "Álvaro González-Ángeles",
+   "G. Mendoza-Suárez",
+   "A. Grusková",
+   "Rastislav Dosoudil",
+   "Raul Ortega-Zempoalteca"
+  ],
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "published": "2004-06-23",
+  "year": 2004,
+  "doi": "10.1016/j.matlet.2004.05.017",
+  "url": "https://doi.org/10.1016/j.matlet.2004.05.017",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Instituto Tecnológico de Saltillo",
+   "Slovak University of Technology in Bratislava"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "a47a05f5bdfd3543",
   "title": "Effects of grinding of the feldspar in the sintering using a planetary ball mill",
   "authors": [
@@ -229,6 +287,37 @@
    "University of Belgrade",
    "Serbian Academy of Sciences and Arts",
    "Laboratoire de physique des Solides"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2f25e5b239b3cf54",
+  "title": "Effect of nickel content and milling parameters on martensitic transformation of Fe–Ni during mechanical alloying",
+  "authors": [
+   "Lihui Zhu",
+   "Q.-W. Huang",
+   "H. F. Zhao"
+  ],
+  "journal": "Scripta Materialia",
+  "publisher": "Elsevier BV",
+  "published": "2004-06-22",
+  "year": 2004,
+  "doi": "10.1016/j.scriptamat.2004.05.041",
+  "url": "https://doi.org/10.1016/j.scriptamat.2004.05.041",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Shanghai University",
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Ceramics"
   ],
   "added": "2026-07-28"
  },
@@ -328,6 +417,65 @@
   "added": "2026-07-28"
  },
  {
+  "id": "ba2e6f3f7d62ef76",
+  "title": "Comparative analysis of mechanisms and kinetics of mechanical alloying in Fe–Al and Fe–Si systems",
+  "authors": [
+   "E. P. Yelsukov",
+   "A. L. Ulyanov",
+   "Г. А. Дорофеев"
+  ],
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "published": "2004-06-21",
+  "year": 2004,
+  "doi": "10.1016/j.actamat.2004.05.041",
+  "url": "https://doi.org/10.1016/j.actamat.2004.05.041",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "3de69dcba12920d2",
+  "title": "Current status of ductile tungsten alloy development by mechanical alloying",
+  "authors": [
+   "Yasuhiro Ishijima",
+   "Hiroaki Kurishita",
+   "Kunio Yubuta",
+   "H. Arakawa",
+   "Masashi Hasegawa",
+   "Yutaka Hiraoka",
+   "Tomohiro Takida",
+   "Katsushi Takebe"
+  ],
+  "journal": "Journal of Nuclear Materials",
+  "publisher": "Elsevier BV",
+  "published": "2004-06-21",
+  "year": 2004,
+  "doi": "10.1016/j.jnucmat.2004.04.306",
+  "url": "https://doi.org/10.1016/j.jnucmat.2004.04.306",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tohoku University",
+   "Institute for Materials Research, Tohoku University",
+   "Okayama University of Science"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "974f3fbac17df883",
   "title": "A New Form of Nanosized SrTiO 3 Material for Near-Human-Body Temperature Oxygen Sensing Applications",
   "authors": [
@@ -357,6 +505,33 @@
    "Nanyang Technological University",
    "Institute of Materials Research and Engineering",
    "Xi'an Jiaotong University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9c674fff4a215fe1",
+  "title": "Formation of Nb3Sn using mechanically alloyed NbSn powder",
+  "authors": [
+   "Swati Patankar",
+   "F. H. Froes"
+  ],
+  "journal": "Solid State Sciences",
+  "publisher": "Elsevier BV",
+  "published": "2004-06-18",
+  "year": 2004,
+  "doi": "10.1016/j.solidstatesciences.2004.03.038",
+  "url": "https://doi.org/10.1016/j.solidstatesciences.2004.03.038",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Idaho",
+   "Center for Advanced Energy Studies"
   ],
   "added": "2026-07-28"
  },
@@ -652,6 +827,38 @@
   "added": "2026-07-28"
  },
  {
+  "id": "889646fcbec030b7",
+  "title": "Effect of Mechanical Alloying and Sintering on Ni–Ti Powders",
+  "authors": [
+   "S.K. Sadrnezhaad",
+   "Amirali Selahi"
+  ],
+  "journal": "Materials and Manufacturing Processes",
+  "publisher": "Taylor & Francis",
+  "published": "2004-06-11",
+  "year": 2004,
+  "doi": "10.1081/amp-120038656",
+  "url": "https://doi.org/10.1081/amp-120038656",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Attritor Mill",
+   "Mechanical Alloying",
+   "Milling",
+   "Milling Parameters"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Sharif University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "38e5bbd0a8a565a2",
   "title": "Preparation and characterization of Fe substituted CoSb3 skutterudite by mechanical alloying and annealing",
   "authors": [
@@ -677,6 +884,39 @@
   "relevance_score": 46,
   "affiliations": [
    "Huazhong University of Science and Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9b9c368173375fa1",
+  "title": "Preparation and thermal stability of mechanically alloyed Ni–Zr–Ti–Y amorphous powders",
+  "authors": [
+   "Chung-Kwei Lin",
+   "Chien-Chung Wang",
+   "Rong-Ruey Jeng",
+   "Yu-Lom Lin",
+   "Chien-Hung Yeh",
+   "Jinn P. Chu",
+   "Pee-Yew Lee"
+  ],
+  "journal": "Intermetallics",
+  "publisher": "Elsevier BV",
+  "published": "2004-06-09",
+  "year": 2004,
+  "doi": "10.1016/j.intermet.2004.05.003",
+  "url": "https://doi.org/10.1016/j.intermet.2004.05.003",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Chung Shan Institute of Science and Technology",
+   "Feng Chia University",
+   "National Taiwan Ocean University"
   ],
   "added": "2026-07-28"
  },
@@ -744,6 +984,34 @@
   "added": "2026-07-28"
  },
  {
+  "id": "860274028a4f3bd3",
+  "title": "The development and stability of Y–Ti–O nanoclusters in mechanically alloyed Fe–Cr based ferritic alloys",
+  "authors": [
+   "M.J. Alinger",
+   "G.R. Odette",
+   "D. Hoelzer"
+  ],
+  "journal": "Journal of Nuclear Materials",
+  "publisher": "Elsevier BV",
+  "published": "2004-06-08",
+  "year": 2004,
+  "doi": "10.1016/j.jnucmat.2004.04.042",
+  "url": "https://doi.org/10.1016/j.jnucmat.2004.04.042",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of California, Santa Barbara",
+   "Oak Ridge National Laboratory"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "560c32f8ae30f92e",
   "title": "Cobalt Ferrite Nanoparticles Prepared by Coprecipitation/Mechanochemical Treatment",
   "authors": [
@@ -771,6 +1039,37 @@
   "relevance_score": 55,
   "affiliations": [
    "Central South University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9035521cdde42f85",
+  "title": "Formation mechanism and nanocrystalline phase transformation of molybdenum disilicide by mechanical alloying",
+  "authors": [
+   "Pengchao Kang",
+   "ZhongDa Yin"
+  ],
+  "journal": "Nanotechnology",
+  "publisher": "IOP Publishing",
+  "published": "2004-06-05",
+  "year": 2004,
+  "doi": "10.1088/0957-4484/15/7/025",
+  "url": "https://doi.org/10.1088/0957-4484/15/7/025",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Mechanism & Kinetics",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling",
+   "Nanocrystalline",
+   "Phase Transformation"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Harbin Institute of Technology"
   ],
   "added": "2026-07-28"
  },
@@ -872,6 +1171,68 @@
   "added": "2026-07-28"
  },
  {
+  "id": "022284547e8f61d0",
+  "title": "Phase transformation and thermal stability of mechanically alloyed W–Ni–Fe composite materials",
+  "authors": [
+   "Zhongwu Zhang",
+   "Jing-En Zhou",
+   "Shengqi Xi",
+   "Guang Ran",
+   "Pengliang Li"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2004-06-02",
+  "year": 2004,
+  "doi": "10.1016/j.msea.2004.02.039",
+  "url": "https://doi.org/10.1016/j.msea.2004.02.039",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Phase Transformation"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Xi'an Jiaotong University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ecca64a436ceb6f0",
+  "title": "Identification of rheological and structural characteristics of foamable poly(ethylene terephthalate) by reactive extrusion",
+  "authors": [
+   "M. Xanthos",
+   "Chengpeng Wan",
+   "R. Dhavalikar",
+   "GP Karayannidis",
+   "Dimitrios Ν. Bikiaris"
+  ],
+  "journal": "Polymer International",
+  "publisher": "Wiley",
+  "published": "2004-06-01",
+  "year": 2004,
+  "doi": "10.1002/pi.1526",
+  "url": "https://doi.org/10.1002/pi.1526",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "New Jersey Institute of Technology",
+   "Aristotle University of Thessaloniki"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "e49489557e9d312b",
   "title": "Preparation and Electrochemical Hydrogen Storage of the Nanocrystalline LaMg 12 Alloy with Ni Powders",
   "authors": [
@@ -934,6 +1295,56 @@
   "relevance_score": 58,
   "affiliations": [
    "Tohoku University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c53180a607d25f67",
+  "title": "Fabrication of Composite Powders by Mechanical Alloying of Magnetite-M (M = Ti, Al) Systems",
+  "authors": [],
+  "journal": "Journal of Korean Powder Metallurgy Institute",
+  "publisher": "The Korean Powder Metallurgy & Materials Institute",
+  "published": "2004-06-01",
+  "year": 2004,
+  "doi": "10.4150/kpmi.2004.11.3.247",
+  "url": "https://doi.org/10.4150/kpmi.2004.11.3.247",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "bd5afc35362c1deb",
+  "title": "Thermomagnetic monitoring of nanocomposite formation in mechanically alloyed Nd-Fe-B alloys",
+  "authors": [
+   "H. W. Kwon",
+   "I. C. Jeong"
+  ],
+  "journal": "physica status solidi (a)",
+  "publisher": "Wiley",
+  "published": "2004-06-01",
+  "year": 2004,
+  "doi": "10.1002/pssa.200304655",
+  "url": "https://doi.org/10.1002/pssa.200304655",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling",
+   "Milling Parameters"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Pukyong National University"
   ],
   "added": "2026-07-28"
  },

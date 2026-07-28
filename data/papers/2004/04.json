@@ -1,5 +1,54 @@
 [
  {
+  "id": "e6a0005341810144",
+  "title": "PHYSICS BASED MODELING AND CONTROL OF REACTIVE EXTRUSION",
+  "authors": [
+   "Paul F. Elkouss"
+  ],
+  "journal": "University Libraries (University of Maryland)",
+  "publisher": "University of Maryland, College Park",
+  "published": "2004-04-30",
+  "year": 2004,
+  "doi": "",
+  "url": "http://hdl.handle.net/1903/1496",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e44f3c24a41edffb",
+  "title": "Tribochemistry of Boundary Lubrication Processes",
+  "authors": [
+   "Ilia A. Buyanovsky",
+   "Zinaida V. Ignatieva",
+   "Ruvim N. Zaslavsky"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2004-04-30",
+  "year": 2004,
+  "doi": "10.1201/9780203021545-17",
+  "url": "https://doi.org/10.1201/9780203021545-17",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Tribochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "c97437f3e2489c42",
   "title": "Hydrogen Storage Properties of Magnesium Base Nanostructured Composite Materials",
   "authors": [
@@ -26,6 +75,29 @@
    "Nanostructured"
   ],
   "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "4862d66ef2fd0a0a",
+  "title": "Tribochemistry",
+  "authors": [
+   "Czeslaw Kajdas"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2004-04-30",
+  "year": 2004,
+  "doi": "10.1201/9780203021545-12",
+  "url": "https://doi.org/10.1201/9780203021545-12",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Tribochemistry"
+  ],
+  "relevance_score": 40,
   "affiliations": [],
   "added": "2026-07-28"
  },
@@ -331,6 +403,33 @@
   "added": "2026-07-28"
  },
  {
+  "id": "afe206e960842b91",
+  "title": "Processing of fine-grained mechanically alloyed FeAl",
+  "authors": [
+   "Helena Skoglund",
+   "Maria Knutson Wedel",
+   "Birger Karlsson"
+  ],
+  "journal": "Intermetallics",
+  "publisher": "Elsevier BV",
+  "published": "2004-04-23",
+  "year": 2004,
+  "doi": "10.1016/j.intermet.2004.03.004",
+  "url": "https://doi.org/10.1016/j.intermet.2004.03.004",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Chalmers University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "50c9f4547ece34f5",
   "title": "Structural and optoelectronic properties of SnO2 nanowires synthesized from ball-milled SnO2 powders",
   "authors": [
@@ -415,6 +514,103 @@
   "relevance_score": 46,
   "affiliations": [
    "Uppsala University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8b8426c2b9a29b80",
+  "title": "Isothermal Pseudo-2D Analysis of Reactive Extrusion in Single-Screw Extruders",
+  "authors": [
+   "Saswata Roy",
+   "Adeniyi Lawal"
+  ],
+  "journal": "Journal of Reinforced Plastics and Composites",
+  "publisher": "SAGE Publishing",
+  "published": "2004-04-21",
+  "year": 2004,
+  "doi": "10.1177/0731684404037045",
+  "url": "https://doi.org/10.1177/0731684404037045",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Stevens Institute of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "77643407f5d2cc27",
+  "title": "New thermoplastic vulcanizate, composed of polypropylene and ethylene–vinyl acetate copolymer crosslinked by tetrapropoxysilane: evolution of the blend morphology with respect to the crosslinking reaction conversion",
+  "authors": [
+   "Agnès Verbois",
+   "Philippe Cassagnau",
+   "Alain Michel",
+   "Jacques Guillet",
+   "Claude Raveyre"
+  ],
+  "journal": "Polymer International",
+  "publisher": "Wiley",
+  "published": "2004-04-21",
+  "year": 2004,
+  "doi": "10.1002/pi.1428",
+  "url": "https://doi.org/10.1002/pi.1428",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Université Claude Bernard Lyon 1",
+   "Centre National de la Recherche Scientifique",
+   "Ingenierie des Materiaux polymeres",
+   "Université Jean Monnet"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "38805de3d453f78e",
+  "title": "Properties and in vivo investigation of nanocrystalline hydroxyapatite obtained by mechanical alloying",
+  "authors": [
+   "C.C. Silva",
+   "Alexandre Gonçalves Pinheiro",
+   "Ricardo Santos Oliveira",
+   "J.C. Góes",
+   "Norberto Aranha",
+   "L.R. de Oliveira",
+   "A. S. B. Sombra"
+  ],
+  "journal": "Materials Science and Engineering C",
+  "publisher": "Elsevier BV",
+  "published": "2004-04-19",
+  "year": 2004,
+  "doi": "10.1016/j.msec.2004.02.004",
+  "url": "https://doi.org/10.1016/j.msec.2004.02.004",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Universidade Federal do Ceará",
+   "Centro Universitário de Araraquara",
+   "Universidade Estadual Paulista (Unesp)",
+   "Universidade de Ribeirão Preto"
   ],
   "added": "2026-07-28"
  },
@@ -504,6 +700,38 @@
   "affiliations": [
    "University of Zagreb",
    "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a530f146e8b073ec",
+  "title": "Preparation of cationic wheat starch by twin‐screw reactive extrusion",
+  "authors": [
+   "A. Tara",
+   "Françoise Berzin",
+   "Lan Tighzert",
+   "Bruno Vergnes"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "2004-04-12",
+  "year": 2004,
+  "doi": "10.1002/app.20449",
+  "url": "https://doi.org/10.1002/app.20449",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Université de Reims Champagne-Ardenne",
+   "Centre National de la Recherche Scientifique",
+   "Centre de Mise en Forme des Matériaux",
+   "École Nationale Supérieure des Mines de Paris"
   ],
   "added": "2026-07-28"
  },
@@ -632,6 +860,98 @@
   "added": "2026-07-28"
  },
  {
+  "id": "2c3eada7915fcaba",
+  "title": "Comparison of maleic anhydride grafting onto powder and granular polypropylene in the melt by reactive extrusion",
+  "authors": [
+   "Yılser Güldoğan",
+   "Sinan Eğri",
+   "Zakır M. O. Rzaev",
+   "Erhan Pişkın"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "2004-04-05",
+  "year": 2004,
+  "doi": "10.1002/app.20304",
+  "url": "https://doi.org/10.1002/app.20304",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Hacettepe University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "757c0f2bd1a8c226",
+  "title": "Structures and hot deformation of Al–V2O5 mechanically alloyed composite",
+  "authors": [
+   "L. Błaż",
+   "Z. Sierpiński",
+   "M. Tumidajewicz",
+   "Junichi Kaneko",
+   "Makoto Sugamata"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2004-04-02",
+  "year": 2004,
+  "doi": "10.1016/j.jallcom.2003.10.092",
+  "url": "https://doi.org/10.1016/j.jallcom.2003.10.092",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "AGH University of Krakow",
+   "Nihon University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f1e365d0cb32fdbb",
+  "title": "STRUCTURE AND THERMAL STABILITY OF MECHANICALLY ALLOYED Al-Co-Ni ALLOYS",
+  "authors": [
+   "W. Maziarz",
+   "J. Dutkiewicz",
+   "J. Eckert",
+   "P. Vermaut",
+   "R. Portier"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2004-04-01",
+  "year": 2004,
+  "doi": "10.1142/9789812702913_0045",
+  "url": "https://doi.org/10.1142/9789812702913_0045",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Institute of Metallurgy and Materials Science",
+   "Polish Academy of Sciences",
+   "Leibniz Institute for Solid State and Materials Research",
+   "Chimie ParisTech",
+   "Sorbonne Université"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "cbc3ba300220c2cb",
   "title": "Effects of size distribution on flotation kinetics of Turkish sphalerite",
   "authors": [
@@ -721,6 +1041,37 @@
   "added": "2026-07-28"
  },
  {
+  "id": "7f8891e750f487b9",
+  "title": "Formation of a fibrillar morphology of crosslinked epoxy in a polystyrene continuous phase by reactive extrusion",
+  "authors": [
+   "Françoise Fenouillot",
+   "Hervé Perier-Camby"
+  ],
+  "journal": "Polymer Engineering and Science",
+  "publisher": "Wiley",
+  "published": "2004-04-01",
+  "year": 2004,
+  "doi": "10.1002/pen.20057",
+  "url": "https://doi.org/10.1002/pen.20057",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Extrusion",
+   "In-Situ",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Ingenierie des Materiaux polymeres",
+   "Institut National des Sciences Appliquées de Lyon"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "7041b81ebfb5d177",
   "title": "Magnetic properties of ball-milled TbFe2 and TbFe2B",
   "authors": [
@@ -769,6 +1120,31 @@
    "Mechanochemistry"
   ],
   "relevance_score": 62,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "56d3f8f887c538eb",
+  "title": "Characteristics of Snack-like Products from Twin-screw Extrusion of Corn Flour or Wheat Flour Blended with Tuna Flesh",
+  "authors": [
+   "Hyun Jung Kim",
+   "Byongki Kim"
+  ],
+  "journal": "Food Science and Biotechnology",
+  "publisher": "Springer Science+Business Media",
+  "published": "2004-04-01",
+  "year": 2004,
+  "doi": "",
+  "url": "http://dspace.kci.go.kr/handle/kci/119661",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 49,
   "affiliations": [],
   "added": "2026-07-28"
  },
