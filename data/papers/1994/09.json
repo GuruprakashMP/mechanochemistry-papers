@@ -1,5 +1,58 @@
 [
  {
+  "id": "e6730a6f2cb52c82",
+  "title": "Mechanical Alloying Processing with Application to Structural Materials.",
+  "authors": [
+   "T. H. Courtney"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1994-09-26",
+  "year": 1994,
+  "doi": "10.21236/ada290788",
+  "url": "https://doi.org/10.21236/ada290788",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Mechanosynthesis",
+   "Milling"
+  ],
+  "relevance_score": 59,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f3fdd2cb19692b15",
+  "title": "ChemInform Abstract: Microstructure and Mechanical Properties of Mechanically Alloyed Intermetallic Mg2Si‐Al Alloys.",
+  "authors": [
+   "G. Frommeyer",
+   "S. Beer",
+   "Kersten von Oldenburg"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-09-20",
+  "year": 1994,
+  "doi": "10.1002/chin.199438008",
+  "url": "https://doi.org/10.1002/chin.199438008",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Max-Planck-Institut für Nachhaltige Materialien"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "6610c57389c40070",
   "title": "Diagenetic Differentiated Mechanochemical Structures",
   "authors": [
@@ -46,6 +99,114 @@
   "added": "2026-07-28"
  },
  {
+  "id": "1add1f76dd401129",
+  "title": "Chemical modification of poly(styrene‐ co ‐maleic anhydride) with primary N ‐alkylamines by reactive extrusion",
+  "authors": [
+   "I. Vermeesch",
+   "G. Groeninckx"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "1994-09-06",
+  "year": 1994,
+  "doi": "10.1002/app.1994.070531011",
+  "url": "https://doi.org/10.1002/app.1994.070531011",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "KU Leuven"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ffe5bd10ea6839af",
+  "title": "High temperature performance of dispersion-strengthened AlTi alloys prepared by mechanical alloying",
+  "authors": [
+   "Kwang-Min Lee",
+   "In-Hyung Moon"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1994-09-01",
+  "year": 1994,
+  "doi": "10.1016/0921-5093(94)90940-7",
+  "url": "https://doi.org/10.1016/0921-5093(94)90940-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hanyang University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "fc41e42aa1f4198a",
+  "title": "Tribochemistry at lubricated interfaces",
+  "authors": [
+   "V. Novotný",
+   "Xiaohe Pan",
+   "Charanjit S. Bhatia"
+  ],
+  "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+  "publisher": "American Institute of Physics",
+  "published": "1994-09-01",
+  "year": 1994,
+  "doi": "10.1116/1.578960",
+  "url": "https://doi.org/10.1116/1.578960",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Tribochemistry"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "IBM Research - Almaden"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f7b4722ac6e8c13c",
+  "title": "Microstructure of mechanically alloyed Al-In alloys",
+  "authors": [
+   "Koji Uenishi",
+   "H. Kawaguchi",
+   "K. F. Kobayashi"
+  ],
+  "journal": "Journal of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "1994-09-01",
+  "year": 1994,
+  "doi": "10.1007/bf00356535",
+  "url": "https://doi.org/10.1007/bf00356535",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "d504b4d926007534",
   "title": "Dynamics of the Goodwin-Trainor mechanochemical model",
   "authors": [
@@ -71,6 +232,109 @@
    "École Nationale Supérieure Agronomique de Toulouse",
    "Département Biologie et Amélioration des Plantes"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ce4a45ab31bc4660",
+  "title": "Modification of Polypropylene by Maleic Anhydride",
+  "authors": [
+   "J. Ma. Ga. Martínez",
+   "J. Taranco",
+   "O. Laguna",
+   "Emilia P. Collar"
+  ],
+  "journal": "International Polymer Processing",
+  "publisher": "De Gruyter",
+  "published": "1994-09-01",
+  "year": 1994,
+  "doi": "10.3139/217.940246",
+  "url": "https://doi.org/10.3139/217.940246",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Instituto de Ciencia y Tecnología de Polímeros"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c96d99922c7ee053",
+  "title": "Structural features of mechanically alloyed aluminium-iron-nickel alloys",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-09-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)91987-9",
+  "url": "https://doi.org/10.1016/0026-0657(94)91987-9",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c860ad1a0ccb839c",
+  "title": "AN RTD DETERMINATION METHOD FOR EXTRUSION COOKING",
+  "authors": [
+   "J. Peng",
+   "H.E. Huff",
+   "Fushing Hsieh"
+  ],
+  "journal": "Journal of Food Processing and Preservation",
+  "publisher": "Wiley",
+  "published": "1994-09-01",
+  "year": 1994,
+  "doi": "10.1111/j.1745-4549.1994.tb00251.x",
+  "url": "https://doi.org/10.1111/j.1745-4549.1994.tb00251.x",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "University of Missouri"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c6c212c1660a7175",
+  "title": "Effect of Twin-Screw Extrusion on Physical Properties and Dietary Fiber Content of Extrudates from Barley/Corn Blends",
+  "authors": [
+   "Won Jong Lee",
+   "Paul Schwarz"
+  ],
+  "journal": "Food Science and Biotechnology",
+  "publisher": "Springer Science+Business Media",
+  "published": "1994-09-01",
+  "year": 1994,
+  "doi": "",
+  "url": "http://www.dbpia.co.kr/Article/1628127",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -104,6 +368,55 @@
    "Institute of Technical Sciences of SASA",
    "The University of Osaka"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "72ce5d0229ccffe3",
+  "title": "Formation of polymer/ceramic composite grain boundary capacitors by mechanical alloying",
+  "authors": [
+   "Shannon L. Namboodri",
+   "Hongyi Zhou",
+   "A. Aning",
+   "Ronald Kander"
+  ],
+  "journal": "Polymer",
+  "publisher": "Elsevier BV",
+  "published": "1994-09-01",
+  "year": 1994,
+  "doi": "10.1016/0032-3861(94)90580-0",
+  "url": "https://doi.org/10.1016/0032-3861(94)90580-0",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Virginia Tech"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "6ab37b6abd58dc12",
+  "title": "Magneto-pulsed treatment of sintered pseudo-alloyed materials",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-09-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)91970-4",
+  "url": "https://doi.org/10.1016/0026-0657(94)91970-4",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -160,6 +473,84 @@
    "Slovak Academy of Sciences",
    "Czech Academy of Sciences",
    "Czech Academy of Sciences, J. Heyrovský Institute of Physical Chemistry"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5a8379539b666eb2",
+  "title": "Structural and magnetic properties of mechanically alloyed Smx(Fe1−yCoy)100−x nitrides",
+  "authors": [
+   "Liu Wei",
+   "Qun Wang",
+   "X. K. Sun",
+   "Zhao Xin-guo",
+   "Zhang Zhi-dong",
+   "Xiao Qun-feng",
+   "Zhao Tong",
+   "Yu-Chun Chuang"
+  ],
+  "journal": "Solid State Communications",
+  "publisher": "Elsevier BV",
+  "published": "1994-09-01",
+  "year": 1994,
+  "doi": "10.1016/0038-1098(94)90435-9",
+  "url": "https://doi.org/10.1016/0038-1098(94)90435-9",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "International Centre for Materials Physics"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5247e26de04f2740",
+  "title": "Effect of mechanical alloying and consolidation on structure of aluminium composites",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-09-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)91982-8",
+  "url": "https://doi.org/10.1016/0026-0657(94)91982-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "4521dee9da337f2f",
+  "title": "Nanotechnology: basic concepts and definitions",
+  "authors": [
+   "Tanja Kaehler"
+  ],
+  "journal": "Clinical Chemistry",
+  "publisher": "American Association for Clinical Chemistry",
+  "published": "1994-09-01",
+  "year": 1994,
+  "doi": "10.1093/clinchem/40.9.1797b",
+  "url": "https://doi.org/10.1093/clinchem/40.9.1797b",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Apple (United States)"
   ],
   "added": "2026-07-28"
  },
@@ -256,6 +647,27 @@
   "added": "2026-07-28"
  },
  {
+  "id": "1ffe49dab5a765b3",
+  "title": "Tribological behaviour of mechanically alloyed aluminium-iron-chromium alloys",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-09-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)91991-7",
+  "url": "https://doi.org/10.1016/0026-0657(94)91991-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "136feb28c1fc191a",
   "title": "Effect of Mechanochemical Degradation on Rheological Behavior of PVC",
   "authors": [
@@ -278,6 +690,33 @@
   "relevance_score": 46,
   "affiliations": [
    "Chengdu University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0bc646b8621226ec",
+  "title": "Magnetic properties of mechanically alloyed Fe3Sn",
+  "authors": [
+   "Chung-Long Pan",
+   "M.P. Hung",
+   "Y.H. Chang"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1994-09-01",
+  "year": 1994,
+  "doi": "10.1016/0921-5093(94)90938-5",
+  "url": "https://doi.org/10.1016/0921-5093(94)90938-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Cheng Kung University"
   ],
   "added": "2026-07-28"
  }

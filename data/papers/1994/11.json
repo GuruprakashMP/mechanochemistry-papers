@@ -1,5 +1,60 @@
 [
  {
+  "id": "f858e4f1279c0628",
+  "title": "ChemInform Abstract: Synthesis of Cr7C3 and Cr3C2 by Mechanical Alloying.",
+  "authors": [
+   "Leyao Li",
+   "J. Tang"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-11-22",
+  "year": 1994,
+  "doi": "10.1002/chin.199447019",
+  "url": "https://doi.org/10.1002/chin.199447019",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of New Orleans"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7afdd898f04a5c13",
+  "title": "Formation mechanism of TiC by mechanical alloying",
+  "authors": [
+   "Z. G. Liu",
+   "Jiayu Guo",
+   "L. L. Ye",
+   "G. S. Li",
+   "Z.Q. Hu"
+  ],
+  "journal": "Applied Physics Letters",
+  "publisher": "American Institute of Physics",
+  "published": "1994-11-21",
+  "year": 1994,
+  "doi": "10.1063/1.112596",
+  "url": "https://doi.org/10.1063/1.112596",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 43,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "a4d463b4e4d7a882",
   "title": "Electronic properties and microstructure of Si76Ge23.95P0.05 alloys produced by mechanical alloying",
   "authors": [
@@ -96,6 +151,35 @@
   "added": "2026-07-28"
  },
  {
+  "id": "a589cfcf0f24ec2b",
+  "title": "Influence of nitrogen content on coercivity in remanence-enhanced mechanically alloyed Sm-Fe-N",
+  "authors": [
+   "Kane M. O’Donnell",
+   "C. Kuhrt",
+   "J. M. D. Coey"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1994-11-15",
+  "year": 1994,
+  "doi": "10.1063/1.358029",
+  "url": "https://doi.org/10.1063/1.358029",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanostructured"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "Siemens (Germany)",
+   "Trinity College Dublin"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "9d13e905589e9ed3",
   "title": "Magnetic and magnetotransport properties of granular Cu85Fe15 prepared by mechanical alloying",
   "authors": [
@@ -129,6 +213,65 @@
   "added": "2026-07-28"
  },
  {
+  "id": "77209c2de017bfb2",
+  "title": "Microstructure and magnetic properties of mechanically alloyed anisotropic Nd-Fe-B",
+  "authors": [
+   "J. Wecker",
+   "H. Cerva",
+   "C. Kuhrt",
+   "K. Schnitzke",
+   "L. Schultz"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1994-11-15",
+  "year": 1994,
+  "doi": "10.1063/1.358292",
+  "url": "https://doi.org/10.1063/1.358292",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Siemens (Germany)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "725d5b3f5251f34a",
+  "title": "Phases and phase stabilities of Fe3 X alloys ( X =Al, As, Ge, In, Sb, Si, Sn, Zn) prepared by mechanical alloying",
+  "authors": [
+   "C. Bansal",
+   "Z. Q. Gao",
+   "L. B. Hong",
+   "Brent Fultz"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1994-11-15",
+  "year": 1994,
+  "doi": "10.1063/1.358375",
+  "url": "https://doi.org/10.1063/1.358375",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "California Institute of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "1a1e7fc62dcea2b2",
   "title": "Extended x-ray-absorption fine-structure studies of heat-treated fcc-Fe50Cu50 powders processed via high-energy ball milling",
   "authors": [
@@ -158,6 +301,34 @@
   "affiliations": [
    "Consejo Superior de Investigaciones Científicas",
    "United States Naval Research Laboratory"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d9db7b6ce0b77959",
+  "title": "Characterization of polyamide 6 made by reactive extrusion. II. Analysis of microstructure",
+  "authors": [
+   "Peter Hornsby",
+   "J. F. Tung"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "1994-11-14",
+  "year": 1994,
+  "doi": "10.1002/app.1994.070540709",
+  "url": "https://doi.org/10.1002/app.1994.070540709",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Materials Technology (United Kingdom)",
+   "Brunel University of London"
   ],
   "added": "2026-07-28"
  },
@@ -215,6 +386,100 @@
   "added": "2026-07-28"
  },
  {
+  "id": "b5d605e73cdbd328",
+  "title": "Mössbauer study of phase formation in mechanically alloyed AlFe and AlFeMn powders",
+  "authors": [
+   "X.P. Niu",
+   "Antoine F. Mulaba-Bafubiandi",
+   "Ludo Froyen",
+   "L. Delaey",
+   "C. Peytour"
+  ],
+  "journal": "Scripta Metallurgica et Materialia",
+  "publisher": "Pergamon Press",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "10.1016/0956-716x(94)90568-1",
+  "url": "https://doi.org/10.1016/0956-716x(94)90568-1",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "KU Leuven",
+   "Renault (France)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b2256f3ac3f4084a",
+  "title": "Investigation of Amorphization of Nb-Si Alloys by Mechanical Alloying",
+  "authors": [
+   "Bing Li",
+   "Xueming Ma",
+   "Lin Liu",
+   "Zhenzhong Qi",
+   "Yuanda Dong"
+  ],
+  "journal": "Chinese Physics Letters",
+  "publisher": "Institute of Physics",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "10.1088/0256-307x/11/11/007",
+  "url": "https://doi.org/10.1088/0256-307x/11/11/007",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Academia Sinica",
+   "Shanghai University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a25d98d124862bd9",
+  "title": "Solid state amorphization by mechanical alloying—An atomistic model",
+  "authors": [
+   "Y. Chakk",
+   "S. Berger",
+   "B. Z. Weiss",
+   "E.T. Brook-Levinson"
+  ],
+  "journal": "Acta Metallurgica et Materialia",
+  "publisher": "Elsevier BV",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "10.1016/0956-7151(94)90433-2",
+  "url": "https://doi.org/10.1016/0956-7151(94)90433-2",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Technion – Israel Institute of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "9c52714efdf90cfc",
   "title": "The effect of mill power on the selection function for tumbling and vibration ball mills",
   "authors": [
@@ -267,6 +532,31 @@
   "added": "2026-07-28"
  },
  {
+  "id": "8d1f7fe5731101dc",
+  "title": "Preparation of nitride-dispersion-strengthened iron by mechanical alloying",
+  "authors": [
+   "Anatoly Popovich"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "10.1016/0925-8388(94)90836-2",
+  "url": "https://doi.org/10.1016/0925-8388(94)90836-2",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Far Eastern Federal University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "88ddf22ba7c84b9c",
   "title": "Thermal behaviour of amorphous CuxZr1−x powders synthesized by mechanical alloying",
   "authors": [
@@ -290,6 +580,33 @@
   "affiliations": [
    "Kindai University"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7e118b371fe24d48",
+  "title": "High Temperature Creep in Mechanically Alloyed Al-C-O Alloys",
+  "authors": [
+   "F. Dobeš",
+   "K. Kuchařová",
+   "A. Orlová",
+   "K. Milic̆ka",
+   "J. Čadek"
+  ],
+  "journal": "International Journal of Materials Research (formerly Zeitschrift fuer Metallkunde)",
+  "publisher": "De Gruyter",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "10.1515/ijmr-1994-851114",
+  "url": "https://doi.org/10.1515/ijmr-1994-851114",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -347,6 +664,33 @@
   "relevance_score": 42,
   "affiliations": [
    "University of Bern"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "53f0c31fa47953d9",
+  "title": "Fabrication of Al3Ti intermetallic compound via mechanical alloying and pseudo-HIP processing",
+  "authors": [
+   "Liandong Zhang",
+   "Jing Shi",
+   "Jiyong Jin"
+  ],
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "10.1016/0167-577x(94)90194-5",
+  "url": "https://doi.org/10.1016/0167-577x(94)90194-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Dalian University of Technology"
   ],
   "added": "2026-07-28"
  },
@@ -417,6 +761,90 @@
    "University of Bologna",
    "University of Sassari"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2bbb7caa97bdf696",
+  "title": "Nitrogenation behaviour and thermostability of mechanically alloyed Sm12.5Fe87.5 nitride",
+  "authors": [
+   "Liu Wei",
+   "Q. Wang",
+   "Xia Sun",
+   "Zhao Xin-guo",
+   "Zhang Zhi-dong",
+   "Xiao Qun-feng",
+   "Zhao Tong",
+   "Yu-Chun Chuang"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "10.1016/0925-8388(94)90850-8",
+  "url": "https://doi.org/10.1016/0925-8388(94)90850-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institute of Metal Research",
+   "International Centre for Materials Physics"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "11334adc5955d9cd",
+  "title": "Magnetic properties of mechanically alloyed nanocrystalline fcc Cu50Fe50 during thermal decomposition",
+  "authors": [
+   "O. Drbohlav",
+   "A.R. Yavari"
+  ],
+  "journal": "Journal of Magnetism and Magnetic Materials",
+  "publisher": "Elsevier BV",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "10.1016/0304-8853(94)90708-0",
+  "url": "https://doi.org/10.1016/0304-8853(94)90708-0",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "01fdb3e4d5ce8920",
+  "title": "Simulated Tribochemistry: An Atomic-Scale View of the Wear of Diamond",
+  "authors": [
+   "Judith A. Harrison",
+   "Donald W. Brenner"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "10.1021/ja00102a006",
+  "url": "https://doi.org/10.1021/ja00102a006",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Tribochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-28"
  }
 ]

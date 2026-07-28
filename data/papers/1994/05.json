@@ -60,6 +60,31 @@
   "added": "2026-07-28"
  },
  {
+  "id": "d04e1ce0ca5bc1f7",
+  "title": "Structure and magnetic properties of mechanically alloyed SmFe2",
+  "authors": [
+   "Clive D. Milham"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1994-05-15",
+  "year": 1994,
+  "doi": "10.1063/1.355628",
+  "url": "https://doi.org/10.1063/1.355628",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "The University of Western Australia"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "c7cbbd8d9974cdbc",
   "title": "Fe-Al2O3 nanocomposites prepared by high-energy ball milling",
   "authors": [
@@ -151,6 +176,45 @@
   "added": "2026-07-28"
  },
  {
+  "id": "2143c60b22fd8203",
+  "title": "Giant magnetoresistance and induced exchange anisotropy in mechanically alloyed Co30Ag70",
+  "authors": [
+   "K. Ounadjela",
+   "Andrew B. Herr",
+   "R. Poinsot",
+   "J. M. D. Coey",
+   "Andrew Fagan",
+   "C. R. Staddon",
+   "D. Daniel",
+   "J. F. Gregg",
+   "S.M. Thompson",
+   "K. O’Grady",
+   "S. J. Grieves"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1994-05-15",
+  "year": 1994,
+  "doi": "10.1063/1.356781",
+  "url": "https://doi.org/10.1063/1.356781",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Institut de Physique et Chimie des Matériaux de Strasbourg",
+   "Trinity College Dublin",
+   "University of Oxford",
+   "University of York",
+   "University College of the North"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "0e893c777dd107b6",
   "title": "Nanocomposite formation in the Fe3O4-Zn system by reaction milling",
   "authors": [
@@ -207,6 +271,29 @@
   "added": "2026-07-28"
  },
  {
+  "id": "f880e3acc92cf893",
+  "title": "Phase transformations in mechanically alloyed niobiumgold and metastable phases",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92220-9",
+  "url": "https://doi.org/10.1016/0026-0657(94)92220-9",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Phase Transformation"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "f7c327fa06d39eda",
   "title": "Mechanically induced atomic disorder and phase transformation in intermetallic compounds",
   "authors": [
@@ -231,6 +318,84 @@
   "affiliations": [
    "VSL Dutch Metrology Institute",
    "University of Amsterdam"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f540fe980e3dfe92",
+  "title": "Structures of mechanically alloyed titaniumaluminiumchromium alloy after sintering",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92227-6",
+  "url": "https://doi.org/10.1016/0026-0657(94)92227-6",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f1761fad9a754c24",
+  "title": "Synthesis of amorphous and metastable Ti40Al60 alloys by mechanical alloying of elemental powders",
+  "authors": [
+   "Wei Guo",
+   "A. Iasonna",
+   "M. Magini",
+   "S. Martelli",
+   "F. Padella"
+  ],
+  "journal": "Journal of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1007/bf00363438",
+  "url": "https://doi.org/10.1007/bf00363438",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ed4f6a4d879a9c03",
+  "title": "Metastable b.c.c. and amorphous Ni produced by mechanical alloying and chemical leaching",
+  "authors": [
+   "Salah A. Makhlouf",
+   "K. Sumiyama",
+   "E. Ivanov",
+   "H. Yamauchi",
+   "Takehiko Hihara",
+   "K. Suzuki"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0921-5093(94)90828-1",
+  "url": "https://doi.org/10.1016/0921-5093(94)90828-1",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tohoku University"
   ],
   "added": "2026-07-28"
  },
@@ -314,6 +479,121 @@
   "added": "2026-07-28"
  },
  {
+  "id": "d6bbb2d0b19ebb5a",
+  "title": "Effects of ambient temperature and acceleration on various mechanical alloying products: MgAlZn quasicrystals, NiZr amorphous alloys and amorphous Se",
+  "authors": [
+   "Tsunehiro Takeuchi",
+   "T. Koyano",
+   "Makoto Utsumi",
+   "Toshiharu Fukunaga",
+   "Kantaro Kaneko",
+   "Uichiro Mizutani"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0921-5093(94)90198-8",
+  "url": "https://doi.org/10.1016/0921-5093(94)90198-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Amorphous Alloys",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Nagoya University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d28e1a8080ec20df",
+  "title": "Magnetic Properties of Mechanically Alloyed Al-doped Fe 3 Sn",
+  "authors": [
+   "Chi-Wen Pan",
+   "Yen-Hwei Chang",
+   "Ming-Pan Hung Ming-Pan Hung"
+  ],
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1143/jjap.33.2544",
+  "url": "https://doi.org/10.1143/jjap.33.2544",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "National Cheng Kung University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "cfc0e4dee7104c9b",
+  "title": "Transmission electron microscopy characterization of mechanically alloyed NiAl powder and hot-pressed product",
+  "authors": [
+   "Sung Gyu Pyo",
+   "Nack J. Kim",
+   "Philip Nash"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0921-5093(94)90825-7",
+  "url": "https://doi.org/10.1016/0921-5093(94)90825-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Pohang University of Science and Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "cee69432f94d0e4a",
+  "title": "Ordering of chemically disordered Ni3Al and Ni3Ge prepared by mechanical alloying",
+  "authors": [
+   "K. Aoki",
+   "X.-M. Wang",
+   "A. Memezawa",
+   "T. Masumoto"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0921-5093(94)90233-x",
+  "url": "https://doi.org/10.1016/0921-5093(94)90233-x",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tohoku University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "ced4330cef28896d",
   "title": "Mechanical alloying process of metal-B (M ≡ Ti, Zr) powder mixture",
   "authors": [
@@ -340,6 +620,91 @@
    "Tohoku Institute of Technology",
    "Tohoku University"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c56511cf76326927",
+  "title": "Influence of mechanical alloying and heat treatment conditions on microstructures of nickel silicide",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92226-8",
+  "url": "https://doi.org/10.1016/0026-0657(94)92226-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "bbec45c4fabe749b",
+  "title": "Double mechanical alloying of aluminiumironmanganese alloys",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92192-x",
+  "url": "https://doi.org/10.1016/0026-0657(94)92192-x",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "bb3f7853bd41e271",
+  "title": "Synthesis of molybdenum and tungsten disilicides by mechanical alloying",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92230-6",
+  "url": "https://doi.org/10.1016/0026-0657(94)92230-6",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Amorphous Alloys",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ba66f4dfcf1b3b22",
+  "title": "Superplastic deformation in mechanically alloyed aluminium alloy",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92194-6",
+  "url": "https://doi.org/10.1016/0026-0657(94)92194-6",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -370,6 +735,32 @@
   "added": "2026-07-28"
  },
  {
+  "id": "ad38e32f4a4966f9",
+  "title": "Direct evidence of nanocrystal enhanced complete mutual solubility in mechanically alloyed CoCu powders",
+  "authors": [
+   "Jianyu Huang",
+   "Yukun Wu",
+   "A. He",
+   "H.Q. Ye"
+  ],
+  "journal": "Nanostructured Materials",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0965-9773(94)90139-2",
+  "url": "https://doi.org/10.1016/0965-9773(94)90139-2",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "ab423d5e6a65b634",
   "title": "A model for thermal properties of liquid phase sintered composites",
   "authors": [],
@@ -387,6 +778,27 @@
    "Ball Milling"
   ],
   "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "aa8a2a474ac350a8",
+  "title": "Synthesis of metastable phases in niobium-aluminium alloys by mechanical alloying",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92200-4",
+  "url": "https://doi.org/10.1016/0026-0657(94)92200-4",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
   "affiliations": [],
   "added": "2026-07-28"
  },
@@ -471,6 +883,33 @@
   "added": "2026-07-28"
  },
  {
+  "id": "9889e6dd4ba625e9",
+  "title": "Fabrication of bulk amorphous alloy by rolling of mechanically alloyed AlCr powders",
+  "authors": [
+   "Keisuke Uenishi",
+   "Kojiro F. Kobayashi"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0921-5093(94)90824-9",
+  "url": "https://doi.org/10.1016/0921-5093(94)90824-9",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Amorphous Alloys",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "93831fc627abf2f0",
   "title": "Amorphization of TiZr powders by mechanical alloying in H2, N2 and O2 atmospheres",
   "authors": [
@@ -496,6 +935,88 @@
   "relevance_score": 55,
   "affiliations": [
    "Tohoku University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "92321c032dee35f4",
+  "title": "Structural evolutions of NiTi systems caused by mechanical alloying in different atmospheres",
+  "authors": [
+   "K.Y. Wang",
+   "Tongde Shen",
+   "Hui Jiang",
+   "M.X. Quan",
+   "Wanghe Wei"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0921-5093(94)90196-1",
+  "url": "https://doi.org/10.1016/0921-5093(94)90196-1",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "91cce5890c783183",
+  "title": "A new phase in AlNiTi alloys made from mechanically alloyed powders",
+  "authors": [
+   "J. Gerardo Cabañas-Moreno",
+   "Tsuyoshi Itsukaichi",
+   "Minoru Umemoto"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0921-5093(94)90831-1",
+  "url": "https://doi.org/10.1016/0921-5093(94)90831-1",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Instituto Politécnico Nacional",
+   "Toyohashi University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7e4925c98eb19455",
+  "title": "X-ray diffraction study of mechanically alloyed amorphous-crystalline titanium silicides",
+  "authors": [
+   "Ν. Zotov",
+   "D. Parlapanski"
+  ],
+  "journal": "Journal of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1007/bf00356838",
+  "url": "https://doi.org/10.1007/bf00356838",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Bulgarian Academy of Sciences",
+   "University of Mining and Geology \"Saint Ivan Rilski\""
   ],
   "added": "2026-07-28"
  },
@@ -657,6 +1178,27 @@
   "added": "2026-07-28"
  },
  {
+  "id": "6802e15a9f5601fb",
+  "title": "Microstructural change during sintering of mechanically alloyed titaniumaluminium alloy",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92204-7",
+  "url": "https://doi.org/10.1016/0026-0657(94)92204-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "6801b13eb0fc77c7",
   "title": "Effects of the atmosphere on the mechanical alloying process of Al25at.%Ti mixed powder",
   "authors": [
@@ -680,6 +1222,88 @@
   "relevance_score": 46,
   "affiliations": [
    "The University of Osaka"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "56000f80d69f6760",
+  "title": "Reactive extrusion: A new tool for the diversification of polymeric materials",
+  "authors": [
+   "Morand Lambla"
+  ],
+  "journal": "Macromolecular Symposia",
+  "publisher": "Wiley",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1002/masy.19940830107",
+  "url": "https://doi.org/10.1002/masy.19940830107",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Institut Charles Sadron"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "494ee4253840f6fc",
+  "title": "Acrylated polyurethanes by reactive extrusion",
+  "authors": [
+   "S. Coudray",
+   "Jean-Pierre Pascault",
+   "Mohamed Taha"
+  ],
+  "journal": "Polymer Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1007/bf00973908",
+  "url": "https://doi.org/10.1007/bf00973908",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut National des Sciences Appliquées de Lyon"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "45b077340cdc7e75",
+  "title": "Mechanical alloying of high-strength copper alloys containing TiB2 and Al2O3 dispersoid particles",
+  "authors": [
+   "C. Biselli",
+   "D.G. Morris",
+   "Nicholas X. Randall"
+  ],
+  "journal": "Scripta Metallurgica et Materialia",
+  "publisher": "Pergamon Press",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0956-716x(94)90267-4",
+  "url": "https://doi.org/10.1016/0956-716x(94)90267-4",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Neuchâtel"
   ],
   "added": "2026-07-28"
  },
@@ -791,6 +1415,31 @@
   "added": "2026-07-28"
  },
  {
+  "id": "320f968b51f5db99",
+  "title": "Super-saturated Solid Solutions in the Ti-Al System Formed by Mechanical Alloying and by Mechanical Attrition",
+  "authors": [
+   "Gero Walkowiak",
+   "Thomas Sell",
+   "H. Mehrer"
+  ],
+  "journal": "International Journal of Materials Research (formerly Zeitschrift fuer Metallkunde)",
+  "publisher": "De Gruyter",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1515/ijmr-1994-850509",
+  "url": "https://doi.org/10.1515/ijmr-1994-850509",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "31acb6abdeb510a0",
   "title": "Phase evolution and formation process of compound during ball milling of TiSi powder mixtures",
   "authors": [
@@ -819,6 +1468,233 @@
   "added": "2026-07-28"
  },
  {
+  "id": "317ec40f51150e37",
+  "title": "Structure and thermodynamic properties of nanocrystalline face centred cubic metals prepared by mechanical alloying",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92223-3",
+  "url": "https://doi.org/10.1016/0026-0657(94)92223-3",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2f9388f5c104cb59",
+  "title": "A study of the glass-forming range in the ternary TiNiAl system by mechanical alloying",
+  "authors": [
+   "R. Nagarajan",
+   "S. Ranganathan"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0921-5093(94)90186-4",
+  "url": "https://doi.org/10.1016/0921-5093(94)90186-4",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Indian Institute of Science Bangalore"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "25e6ac2403490235",
+  "title": "Studies of MgAlPd icosahedral quasicrystals and approximant crystals synthesized by the mechanical alloying process",
+  "authors": [
+   "Tsunehiro Takeuchi",
+   "Y. Yamada",
+   "Toshiharu Fukunaga",
+   "Uichiro Mizutani"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0921-5093(94)90749-8",
+  "url": "https://doi.org/10.1016/0921-5093(94)90749-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nagoya University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2316593361b50d4b",
+  "title": "The amorphous to icosahedral phase transformation in mechanically alloyed Al75Cu15V10 powder",
+  "authors": [
+   "Nobuo Asahi",
+   "Seiji Noguchi",
+   "Kazuhisa Matsumura"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0921-5093(94)90747-1",
+  "url": "https://doi.org/10.1016/0921-5093(94)90747-1",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Phase Transformation"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Tokyo University of Science"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "1e2b741a4416322a",
+  "title": "Microstructure and Mechanical Properties of Mechanically Alloyed Intermetallic Me,Si-Al Alloys",
+  "authors": [
+   "G. Frommeyer",
+   "S. Beer",
+   "Kersten von Oldenburg"
+  ],
+  "journal": "International Journal of Materials Research (formerly Zeitschrift fuer Metallkunde)",
+  "publisher": "De Gruyter",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1515/ijmr-1994-850516",
+  "url": "https://doi.org/10.1515/ijmr-1994-850516",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "18549b442f1d4f7e",
+  "title": "Formation of metastable aluminium alloys by mechanical alloying",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92190-3",
+  "url": "https://doi.org/10.1016/0026-0657(94)92190-3",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "16737eed5d01c11f",
+  "title": "NUMERICAL COUPLING OF MULTIPLE-REGION SIMULATIONS TO STUDY TRANSPORT IN A TWIN-SCREW EXTRUDER",
+  "authors": [
+   "T. Sastrohartono",
+   "Yogesh Jaluria",
+   "Mukund V. Karwe"
+  ],
+  "journal": "Numerical Heat Transfer Part A Applications",
+  "publisher": "Taylor & Francis",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1080/10407789408955965",
+  "url": "https://doi.org/10.1080/10407789408955965",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Rutgers, The State University of New Jersey"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "10df05373636e123",
+  "title": "Effects of milling conditions on particle sizes in mechanically alloyed powders",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92222-5",
+  "url": "https://doi.org/10.1016/0026-0657(94)92222-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0dba45e381e00dca",
+  "title": "Application of DSC in mechanically alloyed Al powders",
+  "authors": [
+   "NI Xiao-ping",
+   "Ludo Froyen",
+   "Lucas Delaey"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "",
+  "url": "https://lirias.kuleuven.be/handle/123456789/193919",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "035595b75fb4771b",
   "title": "Production of nanocrystals by high energy ball milling",
   "authors": [],
@@ -841,6 +1717,33 @@
   ],
   "relevance_score": 78,
   "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "03474d7574a17b07",
+  "title": "Degree of amorphization of mechanically alloyed Fe77.5B15Si7.5 powders determined by magnetic measurements",
+  "authors": [
+   "Nobuhiko Kunitomi"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1994-05-01",
+  "year": 1994,
+  "doi": "10.1016/0921-5093(94)90850-8",
+  "url": "https://doi.org/10.1016/0921-5093(94)90850-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Hiroshima Institute of Technology"
+  ],
   "added": "2026-07-28"
  }
 ]

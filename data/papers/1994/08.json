@@ -1,5 +1,33 @@
 [
  {
+  "id": "41ebe8479ae8d4e3",
+  "title": "EFFECTS OF MILLING CONDITIONS ON STRUCTURAL CHANGE AND AMORPHISATION RATE OF Ni-Ti POWDERS IN MECHANICAL ALLOYING PROCESS",
+  "authors": [
+   "Liang Guoxian",
+   "Erde Wang"
+  ],
+  "journal": "Cailiao yanjiu xuebao",
+  "publisher": "Acta Metallurgica Sinica",
+  "published": "1994-08-25",
+  "year": 1994,
+  "doi": "",
+  "url": "https://www.cjmr.org/EN/abstract/abstract16211.shtml",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "29ffbd81b90a42b4",
   "title": "Synthesis and structural properties of new metallic phases exhibiting non-crystallographic symmetries",
   "authors": [
@@ -24,6 +52,35 @@
   ],
   "relevance_score": 45,
   "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "286ba9370e810f69",
+  "title": "Characterization of polyamide 6 made by reactive extrusion. I. Synthesis and characterization of properties",
+  "authors": [
+   "Peter Hornsby",
+   "J. F. Tung",
+   "Karnik Tarverdi"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "1994-08-15",
+  "year": 1994,
+  "doi": "10.1002/app.1994.070530705",
+  "url": "https://doi.org/10.1002/app.1994.070530705",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Materials Technology (United Kingdom)",
+   "Brunel University of London"
+  ],
   "added": "2026-07-28"
  },
  {
@@ -81,6 +138,60 @@
   "added": "2026-07-28"
  },
  {
+  "id": "ce8e2c9278b407d8",
+  "title": "A rheological evaluation of linear and branched controlled‐rheology polypropylenes",
+  "authors": [
+   "Costas Tzoganakis"
+  ],
+  "journal": "The Canadian Journal of Chemical Engineering",
+  "publisher": "Wiley",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1002/cjce.5450720425",
+  "url": "https://doi.org/10.1002/cjce.5450720425",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Waterloo"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c8877944f9e777b6",
+  "title": "Synthesis of nanocrystalline Al5Fe2 by mechanical alloying",
+  "authors": [
+   "D.K. Mukhopadhyay",
+   "C. Suryanarayana",
+   "F. H. Froes"
+  ],
+  "journal": "Scripta Metallurgica et Materialia",
+  "publisher": "Pergamon Press",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1016/0956-716x(94)90292-5",
+  "url": "https://doi.org/10.1016/0956-716x(94)90292-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Idaho"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "a70efe7322bbaaa2",
   "title": "Ball milling of Co70 Fe8Si9B13 amorphous ribbon, crystallized ribbon and a mixture of pure crystalline powders",
   "authors": [
@@ -130,6 +241,92 @@
   "affiliations": [
    "Takeda (Japan)",
    "University of Yamanashi"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "67740d698db3d972",
+  "title": "Dissolution of iron to copper in Fe 60 Cu 40 alloy by mechanical alloying and subsequent decomposition",
+  "authors": [
+   "Yang Yuan-zheng",
+   "MA Xueming",
+   "Wang Gen-miao",
+   "Yuanda Dong",
+   "Zhuang Yuzhi"
+  ],
+  "journal": "Acta Physica Sinica (Overseas Edition)",
+  "publisher": "IOP Publishing",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1088/1004-423x/3/8/002",
+  "url": "https://doi.org/10.1088/1004-423x/3/8/002",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "South China University of Technology",
+   "Shanghai University",
+   "University of Science and Technology of China",
+   "Academia Sinica"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5bf73db62a227b57",
+  "title": "Development of microstructures of high grain aspect ratio during zone annealing of oxide dispersion strengthened superalloys",
+  "authors": [
+   "Mohammad Mujahid",
+   "J.W. Martin"
+  ],
+  "journal": "Materials Science and Technology",
+  "publisher": "Maney Publishing",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1179/mst.1994.10.8.703",
+  "url": "https://doi.org/10.1179/mst.1994.10.8.703",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "47f1f70cc805aa29",
+  "title": "Thermodynamic properties of mechanically alloyed nickel and aluminum powders",
+  "authors": [
+   "Li Lü",
+   "M.O. Lai",
+   "Sam Zhang"
+  ],
+  "journal": "Materials Research Bulletin",
+  "publisher": "Elsevier BV",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1016/0025-5408(94)90009-4",
+  "url": "https://doi.org/10.1016/0025-5408(94)90009-4",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National University of Singapore",
+   "Nanyang Technological University"
   ],
   "added": "2026-07-28"
  },

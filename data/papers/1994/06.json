@@ -1,5 +1,31 @@
 [
  {
+  "id": "fff2f6310633780f",
+  "title": "A study of the microstructure of mechanically alloyed FCC-Fe 50 Cu 50",
+  "authors": [
+   "J. Z. Jiang",
+   "F T Chen"
+  ],
+  "journal": "Journal of Physics Condensed Matter",
+  "publisher": "IOP Publishing",
+  "published": "1994-06-27",
+  "year": 1994,
+  "doi": "10.1088/0953-8984/6/26/001",
+  "url": "https://doi.org/10.1088/0953-8984/6/26/001",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Liverpool"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "17f26ad13f8f19e8",
   "title": "Physics of mechanical alloying in planetary ball mill and horizontal road mill : Kinematic approach",
   "authors": [
@@ -151,6 +177,62 @@
   "added": "2026-07-28"
  },
  {
+  "id": "e4cc04892d52fbe5",
+  "title": "Tribological studies of some N and S heterocyclic compounds in lithium grease",
+  "authors": [
+   "T. Sonamani Singh",
+   "Aditya Bhan",
+   "C. V. Chandrasekharan"
+  ],
+  "journal": "Indian Journal of Engineering and Materials Sciences",
+  "publisher": "",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "",
+  "url": "http://nopr.niscair.res.in/bitstream/123456789/29954/1/IJEMS%201%283%29%20173-177.pdf",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Tribochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c7eed13ddfb09ea7",
+  "title": "Mechano-chemical model: Reaction temperatures in a concentrated contact",
+  "authors": [
+   "Stephen M. Hsu",
+   "Ming Shen",
+   "E. E. Klaus",
+   "H. S. Cheng",
+   "Paul I. Lacey"
+  ],
+  "journal": "Wear",
+  "publisher": "Elsevier BV",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1016/0043-1648(94)90184-8",
+  "url": "https://doi.org/10.1016/0043-1648(94)90184-8",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Institute of Standards and Technology",
+   "Pennsylvania State University",
+   "Northwestern University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "c63ead37d98d3185",
   "title": "Conditions of palladium oxide formation caused by mechanochemical reaction",
   "authors": [
@@ -176,6 +258,137 @@
    "Quality and Reliability (Greece)",
    "E Ink (South Korea)"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ad22d1aaa96ad32d",
+  "title": "Non-equilibrium processing — Rapid solidification and mechanical alloying",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92063-x",
+  "url": "https://doi.org/10.1016/0026-0657(94)92063-x",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ab3213664ae6b4b0",
+  "title": "Molecular Nanomachines: Physical Principles and Implementation Strategies",
+  "authors": [
+   "K. Eric Drexler"
+  ],
+  "journal": "Annual Review of Biophysics and Biomolecular Structure",
+  "publisher": "Annual Reviews",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1146/annurev.bb.23.060194.002113",
+  "url": "https://doi.org/10.1146/annurev.bb.23.060194.002113",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Mechanosynthesis",
+   "Supramolecular"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Institute for Molecular Manufacturing"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a570d91b504b7bb2",
+  "title": "Methods for evaluation of surface roughness on PM products",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92123-7",
+  "url": "https://doi.org/10.1016/0026-0657(94)92123-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9cea1dc3db45976e",
+  "title": "Production and properties of age-hardening copper-chromium alloy",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92081-8",
+  "url": "https://doi.org/10.1016/0026-0657(94)92081-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9ab265c297e467c9",
+  "title": "Status of development anti-friction materials",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92124-5",
+  "url": "https://doi.org/10.1016/0026-0657(94)92124-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "952360923f308dd2",
+  "title": "High temperature mechanical properties of nickel aluminide with additions of boron",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92115-6",
+  "url": "https://doi.org/10.1016/0026-0657(94)92115-6",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -236,6 +449,90 @@
   "added": "2026-07-28"
  },
  {
+  "id": "86478eb2b975cf36",
+  "title": "Ordering versus disordering tendencies in mechanically alloyed (NixFe1−x)Al alloys",
+  "authors": [
+   "H. Schröpf",
+   "C. Kuhrt",
+   "Eduard Arzt",
+   "L. Schultz"
+  ],
+  "journal": "Scripta Metallurgica et Materialia",
+  "publisher": "Pergamon Press",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1016/0956-716x(94)90310-7",
+  "url": "https://doi.org/10.1016/0956-716x(94)90310-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Siemens (Germany)",
+   "Max Planck Society",
+   "Leibniz Institute for Neurobiology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7e90af20ce8f47c0",
+  "title": "Preparation of 6.5wt% Si-Fe by mechanical alloying",
+  "authors": [
+   "O. Kohmoto",
+   "Naoya Yamaguchi",
+   "Taketoshi Mori"
+  ],
+  "journal": "Journal of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1007/bf00356666",
+  "url": "https://doi.org/10.1007/bf00356666",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Okayama University",
+   "TDK (Japan)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "741b36d505bb9850",
+  "title": "A review of high speed steels made by powder metallurgy methods",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92110-5",
+  "url": "https://doi.org/10.1016/0026-0657(94)92110-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "696fa48e21c2fd78",
   "title": "Effects of atmosphere in the mechanical alloying of nickel-zirconium by ball milling",
   "authors": [],
@@ -256,6 +553,27 @@
    "Milling"
   ],
   "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "60957436a09eb033",
+  "title": "Preparation of niobium and niobium-aluminium nitrides by mechanical alloying in nitrogen",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92117-2",
+  "url": "https://doi.org/10.1016/0026-0657(94)92117-2",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
   "affiliations": [],
   "added": "2026-07-28"
  },
@@ -286,6 +604,56 @@
   "affiliations": [
    "Dalian University of Technology",
    "Institute of Metal Research"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5c10aa71d233b490",
+  "title": "Mechanical alloying of iron-aluminium intermetallic materials",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92111-3",
+  "url": "https://doi.org/10.1016/0026-0657(94)92111-3",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "52849c827672b230",
+  "title": "Joining method of ceramic/metal shaft with high heat resistance",
+  "authors": [
+   "Hiroaki Makino",
+   "Katsunori Yamada",
+   "Nobuo Kamiya",
+   "Shigetaka Wada"
+  ],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1016/0026-0657(94)92121-0",
+  "url": "https://doi.org/10.1016/0026-0657(94)92121-0",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Toyota Motor Corporation (Switzerland)",
+   "Toyota Central Research and Development Laboratories (Japan)"
   ],
   "added": "2026-07-28"
  },

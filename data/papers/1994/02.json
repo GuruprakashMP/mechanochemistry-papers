@@ -29,6 +29,63 @@
   "added": "2026-07-28"
  },
  {
+  "id": "b6c5dde52f09d612",
+  "title": "Nanostructure of mechanically alloyed zinc-bonded Sm2Fe17N x magnets",
+  "authors": [
+   "C. Kuhrt",
+   "H. Cerva",
+   "L. Schultz"
+  ],
+  "journal": "Applied Physics Letters",
+  "publisher": "American Institute of Physics",
+  "published": "1994-02-07",
+  "year": 1994,
+  "doi": "10.1063/1.111017",
+  "url": "https://doi.org/10.1063/1.111017",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Siemens (Germany)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "eae06d33ef01dde4",
+  "title": "Mössbauer effect evidence for disordering induced by mechanical alloying in the Fe-Si system",
+  "authors": [
+   "M. Abdellaoui",
+   "Éric Gaffet",
+   "C. Djéga-Mariadassou",
+   "T. Barradi"
+  ],
+  "journal": "Journal de Physique IV (Proceedings)",
+  "publisher": "Springer Science+Business Media",
+  "published": "1994-02-01",
+  "year": 1994,
+  "doi": "10.1051/jp4:1994339",
+  "url": "https://doi.org/10.1051/jp4:1994339",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris-Sud",
+   "Supélec"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "e18f9f339eb88390",
   "title": "A piston‐action ball mill for the rapid preparation of plant and soil samples for the automated analysis of nitrogen ( 15 N) and carbon ( 13 C)",
   "authors": [
@@ -82,6 +139,31 @@
   "added": "2026-07-28"
  },
  {
+  "id": "dc9496bc598ef91f",
+  "title": "Effect of alloying addition on structure and thermal stability of Ti40Al60 prepared by mechanical alloying",
+  "authors": [
+   "Wei Guo",
+   "S. Martelli",
+   "M. Magini"
+  ],
+  "journal": "Acta Metallurgica et Materialia",
+  "publisher": "Elsevier BV",
+  "published": "1994-02-01",
+  "year": 1994,
+  "doi": "10.1016/0956-7151(94)90496-0",
+  "url": "https://doi.org/10.1016/0956-7151(94)90496-0",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "c47eebf37bb40594",
   "title": "Simulation of charge motion in ball mills. Part 1: experimental verifications",
   "authors": [
@@ -104,6 +186,40 @@
   "relevance_score": 40,
   "affiliations": [
    "University of Utah"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "bdd6dfa2ad6a45ab",
+  "title": "Mécanosynthèse de composés et de composites nanocristallins",
+  "authors": [
+   "G. Le Caër",
+   "R. De Araujo Pontes",
+   "Dominique Osso",
+   "Sylvie Bégin-Colin",
+   "P. Matteazzi"
+  ],
+  "journal": "Journal de Physique IV (Proceedings)",
+  "publisher": "Springer Science+Business Media",
+  "published": "1994-02-01",
+  "year": 1994,
+  "doi": "10.1051/jp4:1994332",
+  "url": "https://doi.org/10.1051/jp4:1994332",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Grinding",
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "École Nationale Supérieure des Mines de Paris",
+   "University of Udine"
   ],
   "added": "2026-07-28"
  },
@@ -399,6 +515,34 @@
   "added": "2026-07-28"
  },
  {
+  "id": "22b885210fe1aa8a",
+  "title": "Specialties production by an innovative extrusion system",
+  "authors": [
+   "Alfredo Addeo",
+   "C. Morandi",
+   "A. Vezzoli"
+  ],
+  "journal": "Macromolecular Symposia",
+  "publisher": "Wiley",
+  "published": "1994-02-01",
+  "year": 1994,
+  "doi": "10.1002/masy.19940780126",
+  "url": "https://doi.org/10.1002/masy.19940780126",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Lombardia Informatica (Italy)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "195a20fd6011bcd2",
   "title": "Mechanically induced radical pair formation in porphyrin—quinone and related donor—acceptor mixtures. Unusual stability and zero-field splittings",
   "authors": [
@@ -454,6 +598,33 @@
   "relevance_score": 55,
   "affiliations": [
    "Instituto Venezolano de Investigaciones Científicas"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "13e2b509abb73994",
+  "title": "Simulation of non‐isothermal flow in modular co‐rotating twin screw extrusion",
+  "authors": [
+   "James L. White",
+   "Ziyun Chen"
+  ],
+  "journal": "Polymer Engineering and Science",
+  "publisher": "Wiley",
+  "published": "1994-02-01",
+  "year": 1994,
+  "doi": "10.1002/pen.760340309",
+  "url": "https://doi.org/10.1002/pen.760340309",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Akron"
   ],
   "added": "2026-07-28"
  }
