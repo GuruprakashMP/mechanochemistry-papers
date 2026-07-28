@@ -25,6 +25,40 @@
   "added": "2026-07-28"
  },
  {
+  "id": "e1530ee691a51d18",
+  "title": "Compositional Analysis of Ni-Zr Powder during Amorphization by Mechanical Alloying",
+  "authors": [
+   "A.W. Weeber",
+   "H. Bakker",
+   "H. J. M. Heijligers",
+   "G. F Bastin"
+  ],
+  "journal": "Europhysics Letters (EPL)",
+  "publisher": "Institute of Physics",
+  "published": "1987-06-15",
+  "year": 1987,
+  "doi": "10.1209/0295-5075/3/12/003",
+  "url": "https://doi.org/10.1209/0295-5075/3/12/003",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Amorphization",
+   "Amorphous Alloys",
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Amsterdam",
+   "Eindhoven University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "b5a8355143fb386b",
   "title": "A retaliatory role for algal projectiles, with implications for the mechanochemistry of diatom gliding motility",
   "authors": [
@@ -46,6 +80,37 @@
   "relevance_score": 40,
   "affiliations": [
    "University of Manitoba"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "84435f6dfe85986d",
+  "title": "Formation of amorphous Ni-Zr alloys by mechanical alloying of mixtures of the intermetallic compounds Ni11Zr9 and NiZr2",
+  "authors": [
+   "P. Y. Lee",
+   "C.C. Koch"
+  ],
+  "journal": "Applied Physics Letters",
+  "publisher": "American Institute of Physics",
+  "published": "1987-06-01",
+  "year": 1987,
+  "doi": "10.1063/1.98252",
+  "url": "https://doi.org/10.1063/1.98252",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Amorphization",
+   "Amorphous Alloys",
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "North Carolina State University"
   ],
   "added": "2026-07-28"
  },
@@ -76,6 +141,28 @@
   "affiliations": [
    "University of Utah"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "64eb82c0a17dd1e6",
+  "title": "Aluminium Alloys by Mechanical Alloying",
+  "authors": [],
+  "journal": "Aircraft Engineering and Aerospace Technology",
+  "publisher": "Emerald Publishing Limited",
+  "published": "1987-06-01",
+  "year": 1987,
+  "doi": "10.1108/eb036460",
+  "url": "https://doi.org/10.1108/eb036460",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-28"
  }
 ]

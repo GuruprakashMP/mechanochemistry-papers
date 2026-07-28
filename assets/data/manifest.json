@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-28 21:25 UTC",
- "total": 62760,
+ "generated": "2026-07-28 22:18 UTC",
+ "total": 63083,
  "years": [
   {
    "year": 2026,
@@ -199,17 +199,27 @@
   },
   {
    "year": 1987,
-   "count": 80,
+   "count": 113,
    "file": "papers-1987.json"
   },
   {
+   "year": 1986,
+   "count": 89,
+   "file": "papers-1986.json"
+  },
+  {
+   "year": 1985,
+   "count": 83,
+   "file": "papers-1985.json"
+  },
+  {
    "year": 1984,
-   "count": 1,
+   "count": 62,
    "file": "papers-1984.json"
   },
   {
    "year": 1983,
-   "count": 1,
+   "count": 58,
    "file": "papers-1983.json"
   }
  ]

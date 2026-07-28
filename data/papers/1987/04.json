@@ -1,5 +1,64 @@
 [
  {
+  "id": "64780627f7b2228a",
+  "title": "Superconducting Transition Temperature of Mechanically Alloyed Amorphous NiZr",
+  "authors": [
+   "L. Schultz",
+   "E. Hellstern",
+   "Anton Thoma"
+  ],
+  "journal": "Europhysics Letters (EPL)",
+  "publisher": "Institute of Physics",
+  "published": "1987-04-15",
+  "year": 1987,
+  "doi": "10.1209/0295-5075/3/8/010",
+  "url": "https://doi.org/10.1209/0295-5075/3/8/010",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Siemens (Germany)",
+   "Friedrich-Alexander-Universität Erlangen-Nürnberg"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "59ee62b6aa3eedf9",
+  "title": "Formation and properties of NdFeB prepared by mechanical alloying and solid-state reaction",
+  "authors": [
+   "L. Schultz",
+   "J. Wecker",
+   "E. Hellstern"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1987-04-15",
+  "year": 1987,
+  "doi": "10.1063/1.338708",
+  "url": "https://doi.org/10.1063/1.338708",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Siemens (Germany)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "b7bfc729f13ea073",
   "title": "Mechanochemical preparation and thermal stability of γ-Fe2O3 derived from γ-FeOOH",
   "authors": [
@@ -52,6 +111,31 @@
    "Eindhoven University of Technology",
    "Philips (Netherlands)"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "147f488c57eb30ef",
+  "title": "A Fundamental Study of P/M (Powder Metallurgy) Processed Elevated Temperature Aluminum Alloys.",
+  "authors": [
+   "A. Lawley",
+   "M. J. Koczak"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1987-04-01",
+  "year": 1987,
+  "doi": "",
+  "url": "https://apps.dtic.mil/sti/pdfs/ADA181380.pdf",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
   "added": "2026-07-28"
  }
 ]

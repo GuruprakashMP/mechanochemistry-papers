@@ -1,5 +1,63 @@
 [
  {
+  "id": "dac623fa577a7574",
+  "title": "Mössbauer effect on mechanically alloyed Fe-Zr glasses",
+  "authors": [
+   "C. Michaelsen",
+   "E. Hellstern"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1987-07-01",
+  "year": 1987,
+  "doi": "10.1063/1.339168",
+  "url": "https://doi.org/10.1063/1.339168",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Göttingen",
+   "Siemens (Germany)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d5704c39c05872d9",
+  "title": "Study of the mechanism of amorphization by mechanical alloying",
+  "authors": [
+   "Frank Petzoldt",
+   "Bernd Scholz",
+   "H.-D. Kunze"
+  ],
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "published": "1987-07-01",
+  "year": 1987,
+  "doi": "10.1016/0167-577x(87)90111-x",
+  "url": "https://doi.org/10.1016/0167-577x(87)90111-x",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Fraunhofer Institute for Manufacturing Technology and Advanced Materials"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "d3f0fab85c941bb0",
   "title": "Relationship between breakage parameters and process variables in ball milling — An industrial case study",
   "authors": [

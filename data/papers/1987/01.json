@@ -31,6 +31,31 @@
   "added": "2026-07-28"
  },
  {
+  "id": "755a31a5c8b4bab5",
+  "title": "Fracture characteristics of Al-4 pct Mg mechanically alloyed with SiC",
+  "authors": [
+   "D. L. Davidson"
+  ],
+  "journal": "Metallurgical Transactions A",
+  "publisher": "Springer Science+Business Media",
+  "published": "1987-01-12",
+  "year": 1987,
+  "doi": "10.1007/bf02647083",
+  "url": "https://doi.org/10.1007/bf02647083",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Southwest Research Institute"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "64e9c55984840d89",
   "title": "Contractile behavior of electrically activated mechanochemical polymer actuators.",
   "authors": [
@@ -106,6 +131,60 @@
   ],
   "relevance_score": 52,
   "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f6c77cfbdceccc1e",
+  "title": "Hot extrusion of B2 iron aluminide powders",
+  "authors": [
+   "Susan Diane Hlavin Strothers",
+   "K. Vedula"
+  ],
+  "journal": "NASA Technical Reports Server (NASA)",
+  "publisher": "NASA Headquarters",
+  "published": "1987-01-01",
+  "year": 1987,
+  "doi": "",
+  "url": "https://ntrs.nasa.gov/search.jsp?R=19880049933",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Case Western Reserve University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f45963a48fa6f09d",
+  "title": "Dehydriding kinetics of a mechanically alloyed mixture with a composition Mg2Ni",
+  "authors": [
+   "Myoung Youp Song"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "1987-01-01",
+  "year": 1987,
+  "doi": "10.1016/0360-3199(87)90123-6",
+  "url": "https://doi.org/10.1016/0360-3199(87)90123-6",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Laboratoire de Réactivité et Chimie des Solides",
+   "Laboratoire de Chimie"
+  ],
   "added": "2026-07-28"
  },
  {
@@ -367,6 +446,31 @@
   "added": "2026-07-28"
  },
  {
+  "id": "a74bae11c9ba1eb3",
+  "title": "Preparation and properties of dispersion strengthened Cu-Al2O3 powder using Al-alkoxide.",
+  "authors": [
+   "Yoshiro Arami",
+   "Hiroshi Korekawa",
+   "Osamu Iwatsu"
+  ],
+  "journal": "Journal of the Japan Society of Powder and Powder Metallurgy",
+  "publisher": "",
+  "published": "1987-01-01",
+  "year": 1987,
+  "doi": "10.2497/jjspm.34.264",
+  "url": "https://doi.org/10.2497/jjspm.34.264",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "a45847ab6bf4a0a9",
   "title": "The effects of grinding of ZnO powder. IV. The effect of dry-grinding on ESR spectra of ZnO powder.",
   "authors": [
@@ -526,6 +630,32 @@
   "affiliations": [
    "Shizuoka University"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "753681768ad03782",
+  "title": "Preparation of some aluminum alloys by mechanical alloying and their mechanical properties.",
+  "authors": [
+   "Toshimasa Morooka",
+   "Eiji Yuasa"
+  ],
+  "journal": "Journal of Japan Institute of Light Metals",
+  "publisher": "Japan Institute of Light Metals",
+  "published": "1987-01-01",
+  "year": 1987,
+  "doi": "10.2464/jilm.37.683",
+  "url": "https://doi.org/10.2464/jilm.37.683",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -717,6 +847,29 @@
   "affiliations": [
    "Nagoya Institute of Technology"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5bfedb72002dd72d",
+  "title": "Development of mechanically alloyed products for advanced materials applications",
+  "authors": [
+   "R. M. Haeberle"
+  ],
+  "journal": "Mater. Soc.; (United States)",
+  "publisher": "",
+  "published": "1987-01-01",
+  "year": 1987,
+  "doi": "10.1016/j.bjoms.2019.02.010",
+  "url": "https://doi.org/10.1016/j.bjoms.2019.02.010",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -1081,6 +1234,35 @@
   ],
   "relevance_score": 46,
   "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "186d6e64ab981bfc",
+  "title": "Study of Mechanically Alloyed, Amorphous Co–Zr and Ni–Zr Powders by Superconductivity Measurements",
+  "authors": [
+   "Anton Thoma",
+   "G. Saemann-Ischenko",
+   "L. Schultz",
+   "E. Hellstern"
+  ],
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "1987-01-01",
+  "year": 1987,
+  "doi": "10.7567/jjaps.26s3.977",
+  "url": "https://doi.org/10.7567/jjaps.26s3.977",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+   "Siemens (Germany)"
+  ],
   "added": "2026-07-28"
  },
  {

@@ -1,5 +1,61 @@
 [
  {
+  "id": "0b3a2566187e8244",
+  "title": "Superplasticity: A Fundamental Investigation on Deformation Mechanism and Cavitation Phenomena.",
+  "authors": [
+   "Arati Chokshi",
+   "Thomas R. Bieler",
+   "A.K. Mukherjee"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1987-02-28",
+  "year": 1987,
+  "doi": "10.21236/ada179651",
+  "url": "https://doi.org/10.21236/ada179651",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Cavitation",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ebd95a55a9b30fa5",
+  "title": "Ultrasonic study of mechanically alloyed Co40Sn60",
+  "authors": [
+   "A. Hikata",
+   "M. J. McKenna",
+   "C. Elbaum"
+  ],
+  "journal": "Applied Physics Letters",
+  "publisher": "American Institute of Physics",
+  "published": "1987-02-23",
+  "year": 1987,
+  "doi": "10.1063/1.98179",
+  "url": "https://doi.org/10.1063/1.98179",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Ultrasonic"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Brown University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "e280d4fb613722ae",
   "title": "Mechanisms of antioxidant action: Mechanochemical transformation products of 2,2,6,6–tetramethyl-4–hydroxypiperidinoxyl in polypropylene",
   "authors": [
@@ -82,6 +138,33 @@
   "added": "2026-07-28"
  },
  {
+  "id": "b14807758cd7908f",
+  "title": "High temperature deformation of rapid solidification processed/mechanically alloyed AlTi Alloys",
+  "authors": [
+   "G. S. Murty",
+   "M. J. Koczak",
+   "William E. Frazier"
+  ],
+  "journal": "Scripta Metallurgica",
+  "publisher": "Pergamon Press",
+  "published": "1987-02-01",
+  "year": 1987,
+  "doi": "10.1016/0036-9748(87)90424-8",
+  "url": "https://doi.org/10.1016/0036-9748(87)90424-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Drexel University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "a46b146aebfe257d",
   "title": "A comparison of barton-pot and ball-mill processes for making leady oxide",
   "authors": [
@@ -107,6 +190,32 @@
   "added": "2026-07-28"
  },
  {
+  "id": "7d14fe8b3e9d0a07",
+  "title": "Consolidation processing parameters and alternative processing methods for powder metallurgy Al-Cu-Mg-X-X alloys",
+  "authors": [
+   "Krishnan K. Sankaran"
+  ],
+  "journal": "NASA Technical Reports Server (NASA)",
+  "publisher": "NASA Headquarters",
+  "published": "1987-02-01",
+  "year": 1987,
+  "doi": "",
+  "url": "http://hdl.handle.net/2060/19870010971",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Astronautics Corporation of America"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "2241f780164ee79e",
   "title": "Mechanochemistry of inorganic solids",
   "authors": [
@@ -128,6 +237,31 @@
   "relevance_score": 40,
   "affiliations": [
    "Institute of Solid State Chemistry"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0354a89922d167f3",
+  "title": "Mechanical Alloying of Brittle Components",
+  "authors": [
+   "Robert Murray Davis"
+  ],
+  "journal": "JOM",
+  "publisher": "Springer Science+Business Media",
+  "published": "1987-02-01",
+  "year": 1987,
+  "doi": "10.1007/bf03259480",
+  "url": "https://doi.org/10.1007/bf03259480",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "North Carolina State University"
   ],
   "added": "2026-07-28"
  }

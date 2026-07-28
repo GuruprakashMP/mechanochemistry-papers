@@ -1,5 +1,69 @@
 [
  {
+  "id": "b4901dfdd92e133b",
+  "title": "Structural development during mechanical alloying of crystalline niobium and tin powders",
+  "authors": [
+   "M. S. Kim",
+   "C.C. Koch"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1987-10-15",
+  "year": 1987,
+  "doi": "10.1063/1.339314",
+  "url": "https://doi.org/10.1063/1.339314",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying",
+   "Milling",
+   "Milling Media",
+   "Milling Parameters"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "North Carolina State University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f47499bcac8da1d0",
+  "title": "Glass formation in mechanically alloyed transition-metal-Zr alloys",
+  "authors": [
+   "E. Hellstern",
+   "L. Schultz"
+  ],
+  "journal": "Philosophical Magazine B",
+  "publisher": "Taylor & Francis",
+  "published": "1987-10-01",
+  "year": 1987,
+  "doi": "10.1080/13642818708221330",
+  "url": "https://doi.org/10.1080/13642818708221330",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying",
+   "Milling",
+   "Milling Parameters"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Siemens (Germany)",
+   "Siemens Healthineers (Germany)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "aada0bf4a3808362",
   "title": "Mechanochemical preparation and degradation of LiCoO2",
   "authors": [
@@ -23,6 +87,32 @@
   "relevance_score": 46,
   "affiliations": [
    "University of Córdoba"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a224836f8e88a0a5",
+  "title": "The formation and thermal stability of amorphous Ni-Nb alloy powder synthesized by mechanical alloying",
+  "authors": [
+   "P.Y. Lee",
+   "C.C. Koch"
+  ],
+  "journal": "Journal of Non-Crystalline Solids",
+  "publisher": "Elsevier BV",
+  "published": "1987-10-01",
+  "year": 1987,
+  "doi": "10.1016/s0022-3093(87)80263-6",
+  "url": "https://doi.org/10.1016/s0022-3093(87)80263-6",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "North Carolina State University"
   ],
   "added": "2026-07-28"
  }
