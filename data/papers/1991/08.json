@@ -1,5 +1,33 @@
 [
  {
+  "id": "57fb10188b5bcf25",
+  "title": "X-RAY INVESTIGATION OF METAL REDUCTION BY MECHANICAL ALLOYING AND SOLID STATE REACTION",
+  "authors": [
+   "N. G. DANIELIAN",
+   "S. K. JANAZIAN",
+   "V. V. Melnichenko"
+  ],
+  "journal": "Modern Physics Letters B",
+  "publisher": "World Scientific",
+  "published": "1991-08-30",
+  "year": 1991,
+  "doi": "10.1142/s0217984991001659",
+  "url": "https://doi.org/10.1142/s0217984991001659",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Solid-State Reaction"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "National Academy of Sciences of Armenia"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "f683269a229cd57e",
   "title": "Calorimetric evidence for polymorphous constraints on metastable Zr-Al phase formation by mechanical alloying",
   "authors": [
@@ -28,6 +56,64 @@
   "relevance_score": 74,
   "affiliations": [
    "University of Michigan"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5f662c98ce04ab4a",
+  "title": "SLOW BURNING TRANSITION INTO DETONATION IN MoS 2 − Mg MIXTURE AS A RESULT OF MECHANICAL ALLOYING",
+  "authors": [
+   "N. G. DANIELIAN",
+   "S. K. JANAZIAN",
+   "V. V. Melnichenko",
+   "N. S. YENIKOLOPIAN"
+  ],
+  "journal": "Modern Physics Letters B",
+  "publisher": "World Scientific",
+  "published": "1991-08-20",
+  "year": 1991,
+  "doi": "10.1142/s0217984991001593",
+  "url": "https://doi.org/10.1142/s0217984991001593",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Academy of Sciences of Armenia",
+   "Institute of Synthetic Polymeric Materials"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f38e783a787201bd",
+  "title": "Preparation of amorphous TiSi alloys by mechanical alloying",
+  "authors": [
+   "D. Parlapanski",
+   "S. Denev",
+   "Svetlana Ruseva",
+   "E. Gatev"
+  ],
+  "journal": "Journal of the Less Common Metals",
+  "publisher": "Elsevier BV",
+  "published": "1991-08-01",
+  "year": 1991,
+  "doi": "10.1016/0022-5088(91)90146-u",
+  "url": "https://doi.org/10.1016/0022-5088(91)90146-u",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Mining and Geology \"Saint Ivan Rilski\"",
+   "Institute of Chemical Engineering"
   ],
   "added": "2026-07-28"
  },
@@ -86,6 +172,35 @@
   "added": "2026-07-28"
  },
  {
+  "id": "8e6858bd6febac42",
+  "title": "Comparison of steam injection cooking versus twin-screw extrusion of pearl cornstarch for encapsulation of chloroacetanilide herbicides",
+  "authors": [
+   "R. E. Wing",
+   "Merle E. Carr",
+   "D. Trimnell",
+   "William M. Doane"
+  ],
+  "journal": "Journal of Controlled Release",
+  "publisher": "Elsevier BV",
+  "published": "1991-08-01",
+  "year": 1991,
+  "doi": "10.1016/0168-3659(91)90003-v",
+  "url": "https://doi.org/10.1016/0168-3659(91)90003-v",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "National Center for Agricultural Utilization Research"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "8422c3093b076ea6",
   "title": "Comparison of glass formation by mechanical alloying and solid-state interdiffusion in NiZr composites",
   "authors": [
@@ -109,6 +224,57 @@
   "relevance_score": 46,
   "affiliations": [
    "Siemens (Germany)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "6fcbe892e5e5a579",
+  "title": "Chemical Processes Applied to Reactive Extrusion of Polymers",
+  "authors": [
+   "S. Bruce Brown"
+  ],
+  "journal": "Annual Review of Materials Science",
+  "publisher": "Annual Reviews",
+  "published": "1991-08-01",
+  "year": 1991,
+  "doi": "10.1146/annurev.ms.21.080191.002205",
+  "url": "https://doi.org/10.1146/annurev.ms.21.080191.002205",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "61ae0bdfaa0629b5",
+  "title": "Microstructure and strength of nanocrystalline copper alloy prepared by mechanical alloying",
+  "authors": [
+   "D.G. Morris",
+   "M.A. Morris"
+  ],
+  "journal": "Acta Metallurgica et Materialia",
+  "publisher": "Elsevier BV",
+  "published": "1991-08-01",
+  "year": 1991,
+  "doi": "10.1016/0956-7151(91)90144-p",
+  "url": "https://doi.org/10.1016/0956-7151(91)90144-p",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Neuchâtel"
   ],
   "added": "2026-07-28"
  },
@@ -171,6 +337,38 @@
   "relevance_score": 61,
   "affiliations": [
    "University of Amsterdam"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "23479fd81aea7ef7",
+  "title": "Amorphization of Co-Nb Magnetic Alloys by Mechanical Alloying",
+  "authors": [
+   "Xueming Ma",
+   "Yue Lanping",
+   "Dong Yuanda"
+  ],
+  "journal": "Chinese Physics Letters",
+  "publisher": "Institute of Physics",
+  "published": "1991-08-01",
+  "year": 1991,
+  "doi": "10.1088/0256-307x/8/8/014",
+  "url": "https://doi.org/10.1088/0256-307x/8/8/014",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying",
+   "Milling",
+   "Milling Parameters"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Academia Sinica"
   ],
   "added": "2026-07-28"
  },

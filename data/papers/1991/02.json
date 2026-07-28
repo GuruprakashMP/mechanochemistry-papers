@@ -1,5 +1,62 @@
 [
  {
+  "id": "d65742166299d217",
+  "title": "ChemInform Abstract: Glass Formation and Extended Solubilities in Mechanically Alloyed Cobalt‐Transition Metal Alloys.",
+  "authors": [
+   "J. Eckert",
+   "L. Schultz",
+   "K. Urban"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1991-02-26",
+  "year": 1991,
+  "doi": "10.1002/chin.199108350",
+  "url": "https://doi.org/10.1002/chin.199108350",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Siemens (Germany)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0dcffe4c8e0c309a",
+  "title": "Structural changes induced by the mechanical alloying of crystalline metal powders",
+  "authors": [
+   "Stefano Enzo",
+   "E. Bonetti",
+   "I. Soletta",
+   "G. Cocco"
+  ],
+  "journal": "Journal of Physics D Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "1991-02-14",
+  "year": 1991,
+  "doi": "10.1088/0022-3727/24/2/018",
+  "url": "https://doi.org/10.1088/0022-3727/24/2/018",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Metal Powders",
+   "Milling",
+   "Milling Parameters"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "d0b02612b2ef03e8",
   "title": "Effects of Temperature and Pressure During Compression on Polymorphic Transformation and Crushing Strength of Chlorpropamide Tablets",
   "authors": [
@@ -25,6 +82,37 @@
   "relevance_score": 45,
   "affiliations": [
    "SHOWA Medical University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "765c616002c3d6c8",
+  "title": "Preparation of a metastable high temperature phase (γ-Dy2S3) and a metastable high pressure phase (γ-Y2S3) by mechanical alloying and mechanical milling",
+  "authors": [
+   "Shibo Han",
+   "K. A. Gschneidner",
+   "B. J. Beaudry"
+  ],
+  "journal": "Scripta Metallurgica et Materialia",
+  "publisher": "Pergamon Press",
+  "published": "1991-02-01",
+  "year": 1991,
+  "doi": "10.1016/0956-716x(91)90181-y",
+  "url": "https://doi.org/10.1016/0956-716x(91)90181-y",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "United States Department of Energy",
+   "Iowa State University",
+   "Ames National Laboratory"
   ],
   "added": "2026-07-28"
  },

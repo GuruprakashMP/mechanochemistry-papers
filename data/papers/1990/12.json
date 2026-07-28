@@ -1,5 +1,204 @@
 [
  {
+  "id": "02862a8756e3f144",
+  "title": "Observation of solid-state amorphization in the immiscible system Cu-Ta",
+  "authors": [
+   "Kenji Sakurai",
+   "Y. Yamada",
+   "Masahisa Ito",
+   "Chung Hyo Lee",
+   "Toshiharu Fukunaga",
+   "Uichiro Mizutani"
+  ],
+  "journal": "Applied Physics Letters",
+  "publisher": "American Institute of Physics",
+  "published": "1990-12-17",
+  "year": 1990,
+  "doi": "10.1063/1.104190",
+  "url": "https://doi.org/10.1063/1.104190",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying",
+   "Reaction Mechanism"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ff9caea97fd12741",
+  "title": "Thermomechanical load and property changes in processing of polymeric materials",
+  "authors": [
+   "Konrad Meissner",
+   "Bernd Poltersdorf"
+  ],
+  "journal": "Advances in Polymer Technology",
+  "publisher": "Wiley",
+  "published": "1990-12-01",
+  "year": 1990,
+  "doi": "10.1002/adv.1990.060100403",
+  "url": "https://doi.org/10.1002/adv.1990.060100403",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Merseburg University of Applied Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "eed609538cdffe73",
+  "title": "The structural applications of mechanical alloying",
+  "authors": [
+   "F. H. Froes"
+  ],
+  "journal": "JOM",
+  "publisher": "Springer Science+Business Media",
+  "published": "1990-12-01",
+  "year": 1990,
+  "doi": "10.1007/bf03220464",
+  "url": "https://doi.org/10.1007/bf03220464",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d00c620a705509c4",
+  "title": "1300 K compressive properties of a reaction milled NiAl–AlN composite",
+  "authors": [
+   "J. Daniel Whittenberger",
+   "Eduard Arzt",
+   "Michael J. Luton"
+  ],
+  "journal": "Journal of materials research/Pratt's guide to venture capital sources",
+  "publisher": "Springer Nature",
+  "published": "1990-12-01",
+  "year": 1990,
+  "doi": "10.1557/jmr.1990.2819",
+  "url": "https://doi.org/10.1557/jmr.1990.2819",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Extrusion",
+   "Milling"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Glenn Research Center",
+   "ExxonMobil (United States)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c0bc0dc6a12dcb83",
+  "title": "Compositional dependence of quasicrystal formation in mechanically alloyed AlCuMn",
+  "authors": [
+   "J. Eckert",
+   "L. Schultz",
+   "K. Urban"
+  ],
+  "journal": "Journal of the Less Common Metals",
+  "publisher": "Elsevier BV",
+  "published": "1990-12-01",
+  "year": 1990,
+  "doi": "10.1016/0022-5088(90)90299-y",
+  "url": "https://doi.org/10.1016/0022-5088(90)90299-y",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Siemens (Germany)",
+   "Forschungszentrum Jülich"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "bab723c0dc092510",
+  "title": "Mechanochemical synthesis of polymer ? complexes on the newly formed surface of lithium fluoride",
+  "authors": [
+   "V. A. Kuznetsov",
+   "A. G. Lipson",
+   "D. M. Sakov",
+   "P. V. Fedenyuk",
+   "A. Shapiro",
+   "I. K. Martynov",
+   "I. A. Gazina",
+   "Yu. P. Toporov"
+  ],
+  "journal": "Russian Chemical Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "1990-12-01",
+  "year": 1990,
+  "doi": "10.1007/bf01184521",
+  "url": "https://doi.org/10.1007/bf01184521",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "A.V. Topchiev Institute of Petrochemical Synthesis"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "987b1bca316b068c",
+  "title": "Progress of Quasicrystal Formation During Mechanical Alloying in Al-Cu-Mn and the Influence of the Milling Intensity /",
+  "authors": [
+   "J. Eckert",
+   "Ludwig Schultz",
+   "Knut Urban"
+  ],
+  "journal": "International Journal of Materials Research (formerly Zeitschrift fuer Metallkunde)",
+  "publisher": "De Gruyter",
+  "published": "1990-12-01",
+  "year": 1990,
+  "doi": "10.1515/ijmr-1990-811202",
+  "url": "https://doi.org/10.1515/ijmr-1990-811202",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "87ece09d772a6f70",
   "title": "Studies of mechanochemical interactions in the tribological behavior of materials",
   "authors": [
@@ -19,6 +218,42 @@
    "Mechanochemistry"
   ],
   "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2ea17d8c088b2668",
+  "title": "Amorphisation and phase transformations in mechanically alloyed Ti–Al powders: electron microscopy investigation",
+  "authors": [
+   "E. Bonetti",
+   "G. Cocco",
+   "Stefano Enzo",
+   "Giovanni Valdré"
+  ],
+  "journal": "Materials Science and Technology",
+  "publisher": "Maney Publishing",
+  "published": "1990-12-01",
+  "year": 1990,
+  "doi": "10.1179/mst.1990.6.12.1258",
+  "url": "https://doi.org/10.1179/mst.1990.6.12.1258",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids",
+   "Ball Milling & Grinding",
+   "Mechanism & Kinetics",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Amorphization",
+   "In-Situ",
+   "Mechanical Alloying",
+   "Milling",
+   "Milling Parameters",
+   "Nanocrystalline",
+   "Phase Transformation"
+  ],
+  "relevance_score": 79,
   "affiliations": [],
   "added": "2026-07-28"
  }

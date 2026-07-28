@@ -1,5 +1,80 @@
 [
  {
+  "id": "d890892737e41bca",
+  "title": "Food Processing by Ultra High Pressure Twin Screw Extrusion",
+  "authors": [
+   "Isao Hayakawa"
+  ],
+  "journal": "Medical Entomology and Zoology",
+  "publisher": "Japan Society of Medical Entomology and Zoology",
+  "published": "1991-12-19",
+  "year": 1991,
+  "doi": "",
+  "url": "http://ci.nii.ac.jp/ncid/BA24276145",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "837fc13792826854",
+  "title": "On mechanisms for solid state amorphizing transformations in metallic materials",
+  "authors": [
+   "I. A. Ovid’ko"
+  ],
+  "journal": "Journal of Physics D Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "1991-12-14",
+  "year": 1991,
+  "doi": "10.1088/0022-3727/24/12/009",
+  "url": "https://doi.org/10.1088/0022-3727/24/12/009",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "dad57f9f27fa5675",
+  "title": "Mechanical properties of AlSiC composites made by resistance sintering of mechanically alloyed powders",
+  "authors": [
+   "Soon-Jik Hong",
+   "P.W. Kao"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1991-12-01",
+  "year": 1991,
+  "doi": "10.1016/0921-5093(91)90821-4",
+  "url": "https://doi.org/10.1016/0921-5093(91)90821-4",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Sun Yat-sen University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "d342fceccb1fc1ad",
   "title": "The formation of metastable phases by mechanical alloying in the aluminum and copper system",
   "authors": [
@@ -23,6 +98,32 @@
   "relevance_score": 46,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "aac556a9cb191460",
+  "title": "The high temperature deformation of mechanically alloyed copper-based alloys",
+  "authors": [
+   "C. Biselli",
+   "D.G. Morris"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1991-12-01",
+  "year": 1991,
+  "doi": "10.1016/0921-5093(91)90818-8",
+  "url": "https://doi.org/10.1016/0921-5093(91)90818-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Neuchâtel"
   ],
   "added": "2026-07-28"
  },
@@ -135,6 +236,35 @@
   "added": "2026-07-28"
  },
  {
+  "id": "6b4929ef62d7fdc6",
+  "title": "Difference between mechanical alloying and mechanical disordering in the amorphization reaction of Al50Ta50 in a rod mill",
+  "authors": [
+   "M. Sherif El-Eskandarany",
+   "Kiyoshi Aoki",
+   "Kenji Suzuki"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "1991-12-01",
+  "year": 1991,
+  "doi": "10.1016/0925-8388(91)90076-8",
+  "url": "https://doi.org/10.1016/0925-8388(91)90076-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Tohoku University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "626d7df2fad0e566",
   "title": "α-Glucuronidase and Other Hemicellulase Activities of Fibrobacter succinogenes S85 Grown on Crystalline Cellulose or Ball-Milled Barley Straw",
   "authors": [
@@ -157,6 +287,83 @@
   "relevance_score": 40,
   "affiliations": [
    "University of Guelph"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "520b6873b95e1f50",
+  "title": "Crystal-to-amorphous phase transition induced by mechanical alloying in the GeSi system",
+  "authors": [
+   "Éric Gaffet",
+   "F. Faudot",
+   "M. Harmelin"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1991-12-01",
+  "year": 1991,
+  "doi": "10.1016/0921-5093(91)90789-p",
+  "url": "https://doi.org/10.1016/0921-5093(91)90789-p",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "3bc510c2f642f4bd",
+  "title": "Modification of corn fiber through chemical treatments in combination with twin-screw extrusion",
+  "authors": [
+   "Lijuan Ning",
+   "R. Villota",
+   "William E. Artz"
+  ],
+  "journal": "Cereal Chemistry",
+  "publisher": "Wiley",
+  "published": "1991-12-01",
+  "year": 1991,
+  "doi": "",
+  "url": "https://europepmc.org/article/AGR/IND92041827",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2cb12edc7c35ed65",
+  "title": "Twin screw extrusion. Technology and principles, J. L. White. Hanser Publishers, Munich, Vienna, New York, 1990, 305 pages, US $78.00, £49.00",
+  "authors": [
+   "D. Feldman"
+  ],
+  "journal": "Journal of Polymer Science Part B Polymer Physics",
+  "publisher": "Wiley",
+  "published": "1991-12-01",
+  "year": 1991,
+  "doi": "10.1002/polb.1991.090291311",
+  "url": "https://doi.org/10.1002/polb.1991.090291311",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Concordia University"
   ],
   "added": "2026-07-28"
  },

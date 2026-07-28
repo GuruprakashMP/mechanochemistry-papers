@@ -30,6 +30,30 @@
   "added": "2026-07-28"
  },
  {
+  "id": "fb3f06d523ba2151",
+  "title": "Amorphization during mechanical alloying (MA) of metal powders",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1991-05-01",
+  "year": 1991,
+  "doi": "10.1016/0026-0657(91)91834-s",
+  "url": "https://doi.org/10.1016/0026-0657(91)91834-s",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying",
+   "Metal Powders"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "d9b1dc395288160f",
   "title": "Estimation of peak temperature reached by particles trapped among colliding balls in the ball-milling process using excessive oxidation of antimony",
   "authors": [
@@ -114,6 +138,105 @@
   "added": "2026-07-28"
  },
  {
+  "id": "ad3ed695ef69eb14",
+  "title": "Development of oxide dispersion strengthened (ODS) alloys by mechanical alloying (MA)",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1991-05-01",
+  "year": 1991,
+  "doi": "10.1016/0026-0657(91)91833-r",
+  "url": "https://doi.org/10.1016/0026-0657(91)91833-r",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "52fee3fe5b555852",
+  "title": "Nanometer-Sized Crystals Formed by the Mechanical Alloying in the Ag-Fe System",
+  "authors": [
+   "J. Kuyama",
+   "Haruyuki Inui",
+   "Susumu Imaoka",
+   "Saburo Nasu",
+   "Keiichi N. Ishihara",
+   "Paul Hideo Shingu"
+  ],
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "1991-05-01",
+  "year": 1991,
+  "doi": "10.1143/jjap.30.l854",
+  "url": "https://doi.org/10.1143/jjap.30.l854",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Kyoto University",
+   "The University of Osaka"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "52115cb159184408",
+  "title": "Structure and properties of Ti aluminide compacts produced by hot pressing mechanically alloyed powder",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1991-05-01",
+  "year": 1991,
+  "doi": "10.1016/0026-0657(91)91830-y",
+  "url": "https://doi.org/10.1016/0026-0657(91)91830-y",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "46e56ef8f6fb7230",
+  "title": "New Ways in the Manufacturing of Finished and Semi-finished Products from Nylon",
+  "authors": [
+   "Walter Michaeli",
+   "U. Berghaus",
+   "Georg Speuser"
+  ],
+  "journal": "International Polymer Processing",
+  "publisher": "De Gruyter",
+  "published": "1991-05-01",
+  "year": 1991,
+  "doi": "10.3139/217.910163",
+  "url": "https://doi.org/10.3139/217.910163",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "3a9b92cb74053c0a",
   "title": "Mechanochemical polymerization in mixtures of diallyl terephthalate and distilled water by ultrasonic irradiation",
   "authors": [
@@ -170,6 +293,59 @@
   "affiliations": [
    "Tohoku University"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "348c75379da5a4fa",
+  "title": "Low Hydrogen Overpotential Nanocrystalline Ni‐Mo Cathodes for Alkaline Water Electrolysis",
+  "authors": [
+   "Jacques Huot",
+   "Michel L. Trudeau",
+   "Robert Schulz"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1991-05-01",
+  "year": 1991,
+  "doi": "10.1149/1.2085778",
+  "url": "https://doi.org/10.1149/1.2085778",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Hydro-Québec"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "021e983e781cb65e",
+  "title": "Structural study of amorphous Zr-Fe-B and Zr-Fe-Si alloys by sup 57 Fe-Moessbauer and magnetization measurements",
+  "authors": [
+   "C. Michaelsen",
+   "L. Schultz"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1991-05-01",
+  "year": 1991,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/7280135",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Amorphous Alloys",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
   "added": "2026-07-28"
  }
 ]

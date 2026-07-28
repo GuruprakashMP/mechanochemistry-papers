@@ -1,5 +1,33 @@
 [
  {
+  "id": "8b93462e400d1d2c",
+  "title": "Mechanically alloyed nanocrystalline Ni-Mo powders: A new technique for producing active electrodes for catalysis",
+  "authors": [
+   "Michel L. Trudeau",
+   "Jacques Huot",
+   "Robert Schulz"
+  ],
+  "journal": "Applied Physics Letters",
+  "publisher": "American Institute of Physics",
+  "published": "1991-06-17",
+  "year": 1991,
+  "doi": "10.1063/1.104779",
+  "url": "https://doi.org/10.1063/1.104779",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Hydro-Québec"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "cb7aa49cf3d1a596",
   "title": "Room‐Temperature Mechanosynthesis of Carbides by Grinding of Elemental Powders",
   "authors": [
@@ -28,6 +56,34 @@
    "Centre National de la Recherche Scientifique",
    "École Nationale Supérieure des Mines de Paris",
    "École Nationale Supérieure des Mines de Nancy"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "bdef756a5f454b31",
+  "title": "Plastic deformation of the intermetallic Al 3 Ti",
+  "authors": [
+   "D.G. Morris",
+   "Reto Lerf"
+  ],
+  "journal": "Philosophical magazine. A/Philosophical magazine. A. Physics of condensed matter. Structure, defects and mechanical properties",
+  "publisher": "Taylor & Francis",
+  "published": "1991-06-01",
+  "year": 1991,
+  "doi": "10.1080/01418619108205577",
+  "url": "https://doi.org/10.1080/01418619108205577",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Neuchâtel"
   ],
   "added": "2026-07-28"
  },

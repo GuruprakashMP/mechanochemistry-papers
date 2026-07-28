@@ -1,5 +1,34 @@
 [
  {
+  "id": "cb0831ca077fd2f0",
+  "title": "Mechanically alloyed Sm-Co materials",
+  "authors": [
+   "J. Wecker",
+   "M. Katter",
+   "L. Schultz"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1991-04-15",
+  "year": 1991,
+  "doi": "10.1063/1.347769",
+  "url": "https://doi.org/10.1063/1.347769",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "Siemens (Germany)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "89b61f0b897f4110",
   "title": "Study of Sm(Co,Fe,Cu,Zr)7.1 magnets produced using a combination of hydrogen decrepitation and ball milling",
   "authors": [
@@ -84,6 +113,77 @@
   "added": "2026-07-28"
  },
  {
+  "id": "cc28033e7b76d0a8",
+  "title": "Pitting corrosion behavior of powder metallurgy mechanically alloyed in-9052",
+  "authors": [
+   "J. F. McIntyre",
+   "R. K. Garrett",
+   "R. K. Conrad"
+  ],
+  "journal": "Metallurgical Transactions A",
+  "publisher": "Springer Science+Business Media",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1007/bf02659004",
+  "url": "https://doi.org/10.1007/bf02659004",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Atlantic University",
+   "Naval Surface Warfare Center"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c4a9d8d090d54136",
+  "title": "Influence of process control agents on the mechanical alloying (MA) of Al alloys",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1016/0026-0657(91)90624-a",
+  "url": "https://doi.org/10.1016/0026-0657(91)90624-a",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "bb44790ff9e2ea0b",
+  "title": "Production of AgSnO2 electrical contact materials by mechanical alloying (MA)",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1016/0026-0657(91)90628-e",
+  "url": "https://doi.org/10.1016/0026-0657(91)90628-e",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "b1cdb54d372a4826",
   "title": "Phase transition induced by ball milling in germanium",
   "authors": [
@@ -108,6 +208,27 @@
    "Saint-Gobain (France)",
    "Centre National de la Recherche Scientifique"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a4dcef51f50e78e3",
+  "title": "Effect of mechanical alloying (MA) on the properties of rapidly solidified (RS) AlFe alloys",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1016/0026-0657(91)90625-b",
+  "url": "https://doi.org/10.1016/0026-0657(91)90625-b",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -137,6 +258,71 @@
   "affiliations": [
    "National Agency for New Technologies, Energy and Sustainable Economic Development"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "91b150117a0ca1b2",
+  "title": "Production of nano-crystalline TiMg alloys by mechanical alloying (MA)",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1016/0026-0657(91)90627-d",
+  "url": "https://doi.org/10.1016/0026-0657(91)90627-d",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8764933e619e19cb",
+  "title": "Re-amorphization of CoSiFeB metallic glass by mechanical alloying (MA)",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1016/0026-0657(91)90623-9",
+  "url": "https://doi.org/10.1016/0026-0657(91)90623-9",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "6fbd037ea6be892a",
+  "title": "Reactions during mechanical alloying (MA)",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1016/0026-0657(91)90626-c",
+  "url": "https://doi.org/10.1016/0026-0657(91)90626-c",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {

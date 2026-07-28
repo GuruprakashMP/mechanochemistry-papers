@@ -1,5 +1,165 @@
 [
  {
+  "id": "209588e96c92e9c7",
+  "title": "Food Extrusion Science and Technology",
+  "authors": [
+   "Jozef L. Kokini",
+   "Chi-Tang Ho",
+   "Mukund V. Karwe"
+  ],
+  "journal": "Medical Entomology and Zoology",
+  "publisher": "Japan Society of Medical Entomology and Zoology",
+  "published": "1991-10-31",
+  "year": 1991,
+  "doi": "",
+  "url": "http://ci.nii.ac.jp/ncid/BA18674799",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Institut Marcel Mauss"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "cc58f089cf924891",
+  "title": "Structural evolution in the mechanically driven solid state amorphizing transformation of metallic alloys",
+  "authors": [
+   "K. Suzuki"
+  ],
+  "journal": "Journal of Physics Condensed Matter",
+  "publisher": "IOP Publishing",
+  "published": "1991-10-21",
+  "year": 1991,
+  "doi": "10.1088/0953-8984/3/42/004",
+  "url": "https://doi.org/10.1088/0953-8984/3/42/004",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Grinding",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Tohoku University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "fe3623e6ec16374b",
+  "title": "Tribochemistry and EP Activity Assessment of Mo—S Complexes on Steel Balls of Different Compositions",
+  "authors": [
+   "T. Sonamani Singh",
+   "V.K. Verma"
+  ],
+  "journal": "Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering",
+  "publisher": "SAGE Publishing",
+  "published": "1991-10-01",
+  "year": 1991,
+  "doi": "10.1243/pime_proc_1991_205_184_02",
+  "url": "https://doi.org/10.1243/pime_proc_1991_205_184_02",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Tribochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Banaras Hindu University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "debb133e2715fd57",
+  "title": "Amorphization reaction during mechanical alloying: Influence of the milling atmospheres",
+  "authors": [
+   "K.Y. Wang",
+   "Tongde Shen",
+   "J.T. Wang",
+   "M.X. Quan"
+  ],
+  "journal": "Scripta Metallurgica et Materialia",
+  "publisher": "Pergamon Press",
+  "published": "1991-10-01",
+  "year": 1991,
+  "doi": "10.1016/0956-716x(91)90005-l",
+  "url": "https://doi.org/10.1016/0956-716x(91)90005-l",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "cbb5288f746ff3d5",
+  "title": "Processing modifiers for PVC and ABS",
+  "authors": [],
+  "journal": "Additives for Polymers",
+  "publisher": "Elsevier BV",
+  "published": "1991-10-01",
+  "year": 1991,
+  "doi": "10.1016/0306-3747(91)90200-6",
+  "url": "https://doi.org/10.1016/0306-3747(91)90200-6",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a937b6a5c53e6519",
+  "title": "BARLEY β‐AMYLASE HYDROLYSIS of STARCH DURING TWIN SCREW EXTRUSION",
+  "authors": [
+   "Vanee Komolprasert",
+   "Robert Y. Ofoli"
+  ],
+  "journal": "Journal of Food Process Engineering",
+  "publisher": "Wiley",
+  "published": "1991-10-01",
+  "year": 1991,
+  "doi": "10.1111/j.1745-4530.1991.tb00074.x",
+  "url": "https://doi.org/10.1111/j.1745-4530.1991.tb00074.x",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Michigan State University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "8d956a664ddbf39b",
   "title": "Integrins as mechanochemical transducers",
   "authors": [
@@ -128,6 +288,34 @@
   ],
   "relevance_score": 45,
   "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2ff052fa4d7766a6",
+  "title": "Fluorescence monitoring of twin screw extrusion",
+  "authors": [
+   "Anthony J. Bur",
+   "Frederick M. Gallant"
+  ],
+  "journal": "Polymer Engineering and Science",
+  "publisher": "Wiley",
+  "published": "1991-10-01",
+  "year": 1991,
+  "doi": "10.1002/pen.760311902",
+  "url": "https://doi.org/10.1002/pen.760311902",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "National Institute of Standards and Technology",
+   "Naval Surface Warfare Center"
+  ],
   "added": "2026-07-28"
  }
 ]

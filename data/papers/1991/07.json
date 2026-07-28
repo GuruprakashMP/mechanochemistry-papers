@@ -1,5 +1,26 @@
 [
  {
+  "id": "f514591266252fa5",
+  "title": "Structure of mechanically alloyed (MA) alloys of Co",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1991-07-01",
+  "year": 1991,
+  "doi": "10.1016/0026-0657(91)91232-u",
+  "url": "https://doi.org/10.1016/0026-0657(91)91232-u",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "e13657c3433088ea",
   "title": "Instability of digoxin in digoxin-amorphous silicon dioxide triturates prepared by solvent deposition and ball milling.",
   "authors": [
@@ -86,6 +107,79 @@
   "added": "2026-07-28"
  },
  {
+  "id": "8caf7439ce480d3f",
+  "title": "Preparation of metastable Yttrium and Dysprosium Sulphides by mechanical alloying (MA) and mechanical milling",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1991-07-01",
+  "year": 1991,
+  "doi": "10.1016/0026-0657(91)91276-c",
+  "url": "https://doi.org/10.1016/0026-0657(91)91276-c",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "89d42f20585c7cf0",
+  "title": "Amorphization of Ni-aluminides by mechanical alloying (MA)",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1991-07-01",
+  "year": 1991,
+  "doi": "10.1016/0026-0657(91)91273-9",
+  "url": "https://doi.org/10.1016/0026-0657(91)91273-9",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "67ff487b353f99c0",
+  "title": "Properties and morphology of polystyrene and linear low density polyethylene polyblend and polyalloy",
+  "authors": [
+   "Jiashen Teh",
+   "Alfred Rudin"
+  ],
+  "journal": "Polymer Engineering and Science",
+  "publisher": "Wiley",
+  "published": "1991-07-01",
+  "year": 1991,
+  "doi": "10.1002/pen.760311407",
+  "url": "https://doi.org/10.1002/pen.760311407",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Waterloo"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "58394e1d5cbdd9b5",
   "title": "Response of starch of different wheat classes to ball milling",
   "authors": [
@@ -107,6 +201,133 @@
    "Milling"
   ],
   "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "485346311095eb9e",
+  "title": "Effect of Thermal Denaturation on the Texturization of Soybean Protein Via Twin-Screw Extrusion",
+  "authors": [
+   "Sverre Dahl",
+   "R. Villota"
+  ],
+  "journal": "Canadian Institute of Food Science and Technology Journal",
+  "publisher": "Elsevier BV",
+  "published": "1991-07-01",
+  "year": 1991,
+  "doi": "10.1016/s0315-5463(91)70037-0",
+  "url": "https://doi.org/10.1016/s0315-5463(91)70037-0",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "University of Illinois Urbana-Champaign"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "33f1ce99b384ecef",
+  "title": "Formation of quasicrystalline and amorphous phases in mechanically alloyed Al-based and TiNi-based alloys",
+  "authors": [
+   "J. Eckert",
+   "L. Schultz",
+   "K. Urban"
+  ],
+  "journal": "Acta Metallurgica et Materialia",
+  "publisher": "Elsevier BV",
+  "published": "1991-07-01",
+  "year": 1991,
+  "doi": "10.1016/0956-7151(91)90235-s",
+  "url": "https://doi.org/10.1016/0956-7151(91)90235-s",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Siemens (Germany)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2b69620c6c092695",
+  "title": "Mechanical alloying (MA) of Ti-Mo alloys and contamination with Fe",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1991-07-01",
+  "year": 1991,
+  "doi": "10.1016/0026-0657(91)91247-4",
+  "url": "https://doi.org/10.1016/0026-0657(91)91247-4",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "1cde70900d5e7537",
+  "title": "Hydriding of mechanically alloyed mixtures of magnesium with MnO2, Fe2O3 and NiO",
+  "authors": [
+   "M. Khrussanova",
+   "M. Terzieva",
+   "P. Peshev",
+   "I.G. Konstanchuk",
+   "E. Ivanov"
+  ],
+  "journal": "Materials Research Bulletin",
+  "publisher": "Elsevier BV",
+  "published": "1991-07-01",
+  "year": 1991,
+  "doi": "10.1016/0025-5408(91)90098-7",
+  "url": "https://doi.org/10.1016/0025-5408(91)90098-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Bulgarian Academy of Sciences",
+   "Institute of General and Inorganic Chemistry",
+   "Institute of Solid State Chemistry"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0c6b80aec8ad6550",
+  "title": "Mechanical alloying (MA) spreads its wings",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "1991-07-01",
+  "year": 1991,
+  "doi": "10.1016/0026-0657(91)91275-b",
+  "url": "https://doi.org/10.1016/0026-0657(91)91275-b",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
   "affiliations": [],
   "added": "2026-07-28"
  }
