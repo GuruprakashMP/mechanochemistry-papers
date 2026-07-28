@@ -1,5 +1,36 @@
 [
  {
+  "id": "334fe726a19aab51",
+  "title": "Thermoelectric properties of nanocrystalline (Mg 1− x Zn x ) 3 Sb 2 isostructural solid solutions fabricated by mechanical alloying",
+  "authors": [
+   "H.X. Xin",
+   "Xiaoying Qin",
+   "Junhong Jia",
+   "Chunjun Song",
+   "K X Zhang",
+   "Jian Zhang"
+  ],
+  "journal": "Journal of Physics D Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "2009-07-31",
+  "year": 2009,
+  "doi": "10.1088/0022-3727/42/16/165403",
+  "url": "https://doi.org/10.1088/0022-3727/42/16/165403",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Institute of Solid State Physics"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "19d29a7692e6b772",
   "title": "Characterisation of mechanochemically synthesised alane (AlH3) nanoparticles",
   "authors": [
@@ -51,6 +82,70 @@
   "relevance_score": 46,
   "affiliations": [
    "Isfahan University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8c4460803f8c75b1",
+  "title": "Flammability Studies of a Novel Class of Thermoplastic Elastomer Nanocomposites",
+  "authors": [
+   "Joseph H. Koo",
+   "Khiet Nguyen",
+   "Jason C. Lee",
+   "Wai Ho",
+   "M. Bruns",
+   "Ofodike A. Ezekoye"
+  ],
+  "journal": "Journal of Fire Sciences",
+  "publisher": "SAGE Publishing",
+  "published": "2009-07-30",
+  "year": 2009,
+  "doi": "10.1177/0734904109339616",
+  "url": "https://doi.org/10.1177/0734904109339616",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Extrusion",
+   "Nanoparticles",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "The University of Texas at Austin"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "4a0525fd0ea68d78",
+  "title": "Microstructure and Tensile Properties of Nanostructured and Ultrafine Grained FeMoB Alloys Produced by Spark Plasma Sintering of Mechanically Alloyed Powders",
+  "authors": [
+   "Cinzia Menapace",
+   "S. Libardi",
+   "Mirco D’Incau",
+   "A. Molinari"
+  ],
+  "journal": "Journal of Materials Engineering and Performance",
+  "publisher": "Springer Science+Business Media",
+  "published": "2009-07-29",
+  "year": 2009,
+  "doi": "10.1007/s11665-009-9518-3",
+  "url": "https://doi.org/10.1007/s11665-009-9518-3",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanostructured"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Trento",
+   "Ministry of the Environment and Protection of Land and Sea",
+   "Hesco (United States)"
   ],
   "added": "2026-07-28"
  },
@@ -116,6 +211,129 @@
   "added": "2026-07-28"
  },
  {
+  "id": "b1b9625cac1c86f9",
+  "title": "Sintering studies on Ni–Cu–YSZ SOFC anode cermet processed by mechanical alloying",
+  "authors": [
+   "Thomaz Augusto Guisard Restivo",
+   "Sonia Regina Homem de Mello-Castanho"
+  ],
+  "journal": "Journal of Thermal Analysis and Calorimetry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2009-07-27",
+  "year": 2009,
+  "doi": "10.1007/s10973-009-0330-y",
+  "url": "https://doi.org/10.1007/s10973-009-0330-y",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Centro de Tecnologia Mineral"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "96920849b306ea39",
+  "title": "Structure evolution and phase development of NKN-BNT piezoelectric ceramics",
+  "authors": [
+   "Huiqing Fan",
+   "Laijun Liu"
+  ],
+  "journal": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
+  "publisher": "SPIE",
+  "published": "2009-07-25",
+  "year": 2009,
+  "doi": "10.1117/12.840381",
+  "url": "https://doi.org/10.1117/12.840381",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Piezo- & Tribocatalysis",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Piezoelectric",
+   "Polymorphism"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Northwestern Polytechnical University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "882904d396bd3903",
+  "title": "Hydrogen embrittlement assisted by ball-milling to obtain AlCuFe nanoparticles",
+  "authors": [
+   "C. Patiño-Carachure",
+   "E. García-De León",
+   "C. Ángeles-Chávez",
+   "Rodrigo Esparza",
+   "G. Rosas"
+  ],
+  "journal": "Journal of Non-Crystalline Solids",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-25",
+  "year": 2009,
+  "doi": "10.1016/j.jnoncrysol.2009.06.019",
+  "url": "https://doi.org/10.1016/j.jnoncrysol.2009.06.019",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling",
+   "Nanoparticles"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Universidad Michoacana de San Nicolás de Hidalgo",
+   "Universidad Nacional Autónoma de México",
+   "Mexican Institute of Petroleum"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "6802ae674d8bd384",
+  "title": "Defect formation during high-energy ball milling in TiO2 and its relation to the photocatalytic activity",
+  "authors": [
+   "Roger Amade",
+   "Paul Heitjans",
+   "Sylvio Indris",
+   "M. Finger",
+   "A. Haeger",
+   "D. Hesse"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-25",
+  "year": 2009,
+  "doi": "10.1016/j.jphotochem.2009.07.015",
+  "url": "https://doi.org/10.1016/j.jphotochem.2009.07.015",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "Milling"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Leibniz University Hannover"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "53f099561d8ca35a",
   "title": "Multiferroic bismuth manganite prepared by mechanochemical synthesis",
   "authors": [
@@ -144,6 +362,71 @@
    "Institute for Multidisciplinary Research",
    "Institute of Technical Sciences of SASA",
    "Jožef Stefan Institute"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a7146b60e8522735",
+  "title": "HSQC-NMR analysis of lignin in woody ( Eucalyptus globulus and Picea abies ) and non-woody ( Agave sisalana ) ball-milled plant materials at the gel state 10 th EWLP, Stockholm, Sweden, August 25–28, 2008",
+  "authors": [
+   "Jorge Rencoret",
+   "Gisela Marques",
+   "Ana Gutiérrez",
+   "Lidia Nieto",
+   "J. Ignacio Santos",
+   "Jesús Jiménez-Barbero",
+   "Ángel T. Martínez",
+   "José C. del Río"
+  ],
+  "journal": "Holzforschung",
+  "publisher": "De Gruyter",
+  "published": "2009-07-23",
+  "year": 2009,
+  "doi": "10.1515/hf.2009.070",
+  "url": "https://doi.org/10.1515/hf.2009.070",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Ball Milling",
+   "In-Situ"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "Instituto de Recursos Naturales y Agrobiología de Sevilla",
+   "Centro de Investigaciones Biológicas Margarita Salas"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "41d215df8ec8c124",
+  "title": "Study on Ru2Al5 prepared by mechanical alloying and subsequent heat treatment",
+  "authors": [
+   "Fudong Bai",
+   "Zongxia Chai",
+   "Kai Qi",
+   "Tingju Li",
+   "Lianhai Lü"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-23",
+  "year": 2009,
+  "doi": "10.1016/j.jallcom.2009.07.069",
+  "url": "https://doi.org/10.1016/j.jallcom.2009.07.069",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Dalian University of Technology",
+   "Dalian University"
   ],
   "added": "2026-07-28"
  },
@@ -179,6 +462,252 @@
   "added": "2026-07-28"
  },
  {
+  "id": "231392eaa16a5442",
+  "title": "Properties of Poly(lactic acid)/Poly(butylene adipate- co -terephthalate)/Nanoparticle Ternary Composites",
+  "authors": [
+   "Long Jiang",
+   "Bo Liu",
+   "Jinwen Zhang"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2009-07-23",
+  "year": 2009,
+  "doi": "10.1021/ie900576f",
+  "url": "https://doi.org/10.1021/ie900576f",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Extrusion",
+   "Nanoparticles",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Washington State University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "15e308eb1d0c7b58",
+  "title": "Microstructure and hardness of Mg‐based composites reinforced with Mg 2 Si particles",
+  "authors": [
+   "Mustafa Aydin",
+   "Cem Özgür",
+   "Osman Şan"
+  ],
+  "journal": "Rare Metals",
+  "publisher": "Springer Science+Business Media",
+  "published": "2009-07-23",
+  "year": 2009,
+  "doi": "10.1007/s12598-009-0070-y",
+  "url": "https://doi.org/10.1007/s12598-009-0070-y",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Kütahya Dumlupınar Üniversitesi"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8dafeff0c79ddb9b",
+  "title": "Investigation on measuring the fill level of an industrial ball mill based on the vibration characteristics of the mill shell",
+  "authors": [
+   "Peng Huang",
+   "Minping Jia",
+   "Binglin Zhong"
+  ],
+  "journal": "Minerals Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-22",
+  "year": 2009,
+  "doi": "10.1016/j.mineng.2009.06.008",
+  "url": "https://doi.org/10.1016/j.mineng.2009.06.008",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Southeast University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b2a403fd3e249b08",
+  "title": "Multiparticle Reaction Function of Ball-Milled MgH 2 Powders",
+  "authors": [
+   "Ádám Révész"
+  ],
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "2009-07-21",
+  "year": 2009,
+  "doi": "10.1143/jjap.48.076511",
+  "url": "https://doi.org/10.1143/jjap.48.076511",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Eötvös Loránd University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "49bf416bede435da",
+  "title": "Tribological properties of WSe 2 nanorods as additives",
+  "authors": [
+   "Jing Yang",
+   "Haijun Yao",
+   "Y. Q. Liu",
+   "Maobin Wei",
+   "Yanan Liu",
+   "Y. J. Zhang",
+   "Y. X. Wang"
+  ],
+  "journal": "Crystal Research and Technology",
+  "publisher": "Wiley",
+  "published": "2009-07-21",
+  "year": 2009,
+  "doi": "10.1002/crat.200900160",
+  "url": "https://doi.org/10.1002/crat.200900160",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Jilin Normal University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e8f2090310912285",
+  "title": "Electrochemical Characteristics of Carbon-coated Si/Cu/graphite Composite Anode",
+  "authors": [
+   "Hyung Sun Kim"
+  ],
+  "journal": "Bulletin of the Korean Chemical Society",
+  "publisher": "Wiley",
+  "published": "2009-07-20",
+  "year": 2009,
+  "doi": "10.5012/bkcs.2009.30.7.1607",
+  "url": "https://doi.org/10.5012/bkcs.2009.30.7.1607",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling",
+   "Raman"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b2bd73b75ec907df",
+  "title": "Effects of ultrasound in coating nano‐precipitated CaCO 3 with stearic acid",
+  "authors": [
+   "Kien-Woh Kow",
+   "E.C. Abdullah",
+   "A. R. Aziz"
+  ],
+  "journal": "Asia-Pacific Journal of Chemical Engineering",
+  "publisher": "Wiley",
+  "published": "2009-07-20",
+  "year": 2009,
+  "doi": "10.1002/apj.342",
+  "url": "https://doi.org/10.1002/apj.342",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling",
+   "Ultrasonic",
+   "Ultrasound"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "University of Malaya"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "168fd579239a445f",
+  "title": "Cross-Laboratory Experimental Study of Non-Noble-Metal Electrocatalysts for the Oxygen Reduction Reaction",
+  "authors": [
+   "Frédéric Jaouen",
+   "Juan Herranz",
+   "Michel Lefèvre",
+   "Jean-Pol Dodelet",
+   "Ulrike I. Kramm",
+   "Iris Herrmann",
+   "Peter Bogdanoff",
+   "Jun Maruyama",
+   "Toru Nagaoka",
+   "Arnd Garsuch",
+   "J. R. Dahn",
+   "Tim S. Olson",
+   "Svitlana Pylypenko",
+   "Plamen Atanassov",
+   "E. A. Ustinov"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "publisher": "American Chemical Society",
+  "published": "2009-07-20",
+  "year": 2009,
+  "doi": "10.1021/am900219g",
+  "url": "https://doi.org/10.1021/am900219g",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Catalyst",
+   "Milling",
+   "Planetary Ball Mill"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Institut National de la Recherche Scientifique"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "c809dc2c1a5cb891",
   "title": "Contribution of materials chemistry to the knowledge of macro-defect-free (MDF) materials",
   "authors": [
@@ -201,6 +730,66 @@
   "affiliations": [
    "Slovak Academy of Sciences",
    "Institute of Inorganic Chemistry of the Slovak Academy of Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a0e23e044330874f",
+  "title": "The effect of sintering time on the densification and mechanical properties of a mechanically alloyed Cr–Mn–N stainless steel",
+  "authors": [
+   "E. Salahinejad",
+   "Rasool Amini",
+   "M. Marasi",
+   "M.J. Hadianfard"
+  ],
+  "journal": "Materials & Design (1980-2015)",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-19",
+  "year": 2009,
+  "doi": "10.1016/j.matdes.2009.07.024",
+  "url": "https://doi.org/10.1016/j.matdes.2009.07.024",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Shiraz University",
+   "Shiraz University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9913a0bb4e4d3c57",
+  "title": "Effects of mechanical alloying on the hydrogen storage properties of the Mg76Ti12Fe12−xNix (x=4, 8) materials",
+  "authors": [
+   "M. Lucaci",
+   "A. R. Biriş",
+   "Radu L. Orban",
+   "Gabriela Sbarcea",
+   "Violeta Tsakiris"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-17",
+  "year": 2009,
+  "doi": "10.1016/j.jallcom.2009.07.037",
+  "url": "https://doi.org/10.1016/j.jallcom.2009.07.037",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Hydrogen Storage",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "National Institute for Research and Development of Isotopic and Molecular Technologies",
+   "Technical University of Cluj-Napoca"
   ],
   "added": "2026-07-28"
  },
@@ -266,6 +855,211 @@
   "affiliations": [
    "University of Cagliari",
    "University of Sassari"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "df2af860a4597f4b",
+  "title": "Compressive Strength and Expansion of Blended Cement Mortar Containing Palm Oil Fuel Ash",
+  "authors": [
+   "Weerachart Tangchirapat",
+   "Chai Jaturapitakkul",
+   "Kraiwood Kiattikomol"
+  ],
+  "journal": "Journal of Materials in Civil Engineering",
+  "publisher": "American Society of Civil Engineers",
+  "published": "2009-07-16",
+  "year": 2009,
+  "doi": "10.1061/(asce)0899-1561(2009)21:8(426)",
+  "url": "https://doi.org/10.1061/(asce)0899-1561(2009)21:8(426)",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Khon Kaen University",
+   "King Mongkut's University of Technology Thonburi"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "33f892e9a40aedb4",
+  "title": "The effects of feed size distribution on a run-of-mine ball mill",
+  "authors": [
+   "Roger Gordon Leighton"
+  ],
+  "journal": "University of the Witwatersrand, Johannesburg Institutional Repository on DSpace (University of the Witwatersrand, Johannesburg)",
+  "publisher": "University of the Witwatersrand",
+  "published": "2009-07-16",
+  "year": 2009,
+  "doi": "",
+  "url": "http://hdl.handle.net/10539/7094",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "bd2bf825c0d73140",
+  "title": "gem -Dichlorocyclopropanes as Abundant and Efficient Mechanophores in Polybutadiene Copolymers under Mechanical Stress",
+  "authors": [
+   "Jeremy M. Lenhardt",
+   "Ashley L. Black",
+   "Stephen L. Craig"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2009-07-15",
+  "year": 2009,
+  "doi": "10.1021/ja9036548",
+  "url": "https://doi.org/10.1021/ja9036548",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Mechanically Induced",
+   "Mechanophores",
+   "Sonication",
+   "Ultrasonic"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Duke University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "96aafeb7a5062f1a",
+  "title": "Index",
+  "authors": [
+   "В.В. Хартон"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2009-07-15",
+  "year": 2009,
+  "doi": "10.1002/9783527627868.index",
+  "url": "https://doi.org/10.1002/9783527627868.index",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "University of Aveiro"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9372d1dac7cd1400",
+  "title": "Design and Production of Spex Type Mechanical Alloying Machine and Research of Milling Ability Spex Tipi Mekanik Alaşımlama Cihazının Tasarımı İmalatı ve Öğütme Kabiliyetinin İncelenmesi",
+  "authors": [
+   "HASAN HÜSEYİN KAYA"
+  ],
+  "journal": "Kocaeli Üniversitesi - AVESİS",
+  "publisher": "",
+  "published": "2009-07-15",
+  "year": 2009,
+  "doi": "",
+  "url": "https://avesis.kocaeli.edu.tr/publication/details/835e0124-deed-44b8-84d4-af4908db650c/oai",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "3469c9e941cb503a",
+  "title": "Liquid Crystalline Polymer Blends as a Route to Self-Reinforcing Nanocomposites",
+  "authors": [
+   "K. A. Narh"
+  ],
+  "journal": "Journal of Reinforced Plastics and Composites",
+  "publisher": "SAGE Publishing",
+  "published": "2009-07-15",
+  "year": 2009,
+  "doi": "10.1177/0731684408079427",
+  "url": "https://doi.org/10.1177/0731684408079427",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "New Jersey Institute of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "93af5f01d45b9a7b",
+  "title": "The influence of a compatibilizer on the thermal and dynamic mechanical properties of PEEK/carbon nanotube composites",
+  "authors": [
+   "Ana M. Díez-Pascual",
+   "Mohammed Naffakh",
+   "Marián A. Gómez-Fatou",
+   "C. Marco",
+   "Gary Ellis",
+   "José M. González-Domínguez",
+   "Alejandro Ansón-Casaos",
+   "M.T. Martı́nez",
+   "Yadienka Martinez-Rubi",
+   "Benoît Simard",
+   "Behnam Ashrafi"
+  ],
+  "journal": "Nanotechnology",
+  "publisher": "IOP Publishing",
+  "published": "2009-07-14",
+  "year": 2009,
+  "doi": "10.1088/0957-4484/20/31/315707",
+  "url": "https://doi.org/10.1088/0957-4484/20/31/315707",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring",
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Extrusion",
+   "Milling",
+   "Synchrotron"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Consejo Superior de Investigaciones Científicas",
+   "Instituto de Ciencia y Tecnología de Polímeros",
+   "Instituto de Carboquímica",
+   "Steacie Institute for Molecular Sciences"
   ],
   "added": "2026-07-28"
  },
@@ -338,6 +1132,138 @@
   "added": "2026-07-28"
  },
  {
+  "id": "6a8bfa47c84da7a5",
+  "title": "In situ synchrotron X-ray diffraction experiments on Al–15%BN mechanically alloyed powder: Observation of AlN nanoparticles precipitation and enhanced thermal stability of nanostructured Al matrix",
+  "authors": [
+   "I. Lonardelli",
+   "M. Zadra",
+   "Gloria Ischia",
+   "Juan Gómez Barreiro",
+   "Mauro Bortolotti",
+   "A. Molinari"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-12",
+  "year": 2009,
+  "doi": "10.1016/j.jallcom.2009.07.024",
+  "url": "https://doi.org/10.1016/j.jallcom.2009.07.024",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanical Alloying",
+   "Nanoparticles",
+   "Nanostructured",
+   "Synchrotron"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "University of Trento",
+   "Planetary Science Institute"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0f22f24ccfde85a2",
+  "title": "Rationale of lead immobilization by ball milling in synthetic soils and remediation of heavy metals contaminated tailings",
+  "authors": [
+   "Selena Montinaro",
+   "Alessandro Concas",
+   "Massimo Pisu",
+   "Giacomo Cao"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-12",
+  "year": 2009,
+  "doi": "10.1016/j.cej.2009.07.005",
+  "url": "https://doi.org/10.1016/j.cej.2009.07.005",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Consorzio Interuniversitario Nazionale La Chimica Per L'Ambiente",
+   "Center for Advanced Studies Research and Development in Sardinia",
+   "University of Cagliari"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "de19f14ff11b3134",
+  "title": "In-situ TiC particle reinforced Ti–Al matrix composites: Powder preparation by mechanical alloying and Selective Laser Melting behavior",
+  "authors": [
+   "Dongdong Gu",
+   "Zhiyang Wang",
+   "Yifu Shen",
+   "Qin Li",
+   "Yufang Li"
+  ],
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-11",
+  "year": 2009,
+  "doi": "10.1016/j.apsusc.2009.07.008",
+  "url": "https://doi.org/10.1016/j.apsusc.2009.07.008",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nanjing University of Aeronautics and Astronautics"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "cf88153ccc5b3d05",
+  "title": "Influence of mechanical activation on the structure of ultrafine BaTiO3 powders",
+  "authors": [
+   "Vera P. Pavlović",
+   "V.P. Pavlović",
+   "Dragana Popović",
+   "Jugoslav Krstić",
+   "Jablan Dojčilović",
+   "Biljana Babić",
+   "Vladimir B. Pavlović"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-11",
+  "year": 2009,
+  "doi": "10.1016/j.jallcom.2009.07.008",
+  "url": "https://doi.org/10.1016/j.jallcom.2009.07.008",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanical Activation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Belgrade",
+   "Institute of Chemistry, Technology and Metallurgy",
+   "Institute of Economic Sciences",
+   "Vinča Institute of Nuclear Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "fad1c2dedfcc558a",
   "title": "Effect of Ca/P ratio and milling material on the mechanochemical preparation of hydroxyapaptite",
   "authors": [
@@ -396,6 +1322,38 @@
   "added": "2026-07-28"
  },
  {
+  "id": "b057943a7659b7d9",
+  "title": "Photoluminescence Properties of Nanophosphors Modified by Planetary Ball Mill",
+  "authors": [
+   "Jung-Hoo Shin",
+   "Sungwoo Choi",
+   "Seong-Hyeon Hong",
+   "Soon-Jae Kwon",
+   "Soo-Yeon Seo",
+   "Hyun-Sik Kim"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2009-07-10",
+  "year": 2009,
+  "doi": "10.1149/ma2009-02/44/3205",
+  "url": "https://doi.org/10.1149/ma2009-02/44/3205",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Planetary Ball Mill"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Seoul National University",
+   "Samsung (South Korea)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "76b770b625b72707",
   "title": "Photoactivity of mechanochemically prepared nanoparticulate titanium dioxide investigated by EPR spectroscopy",
   "authors": [
@@ -426,6 +1384,388 @@
   "added": "2026-07-28"
  },
  {
+  "id": "32c73ac1a7b60f2b",
+  "title": "Mechanosynthesis, Sinterability and Conductivity of Modified La 10-x (Si , B , P) 6 O 27{plus minus}δ Solid Electrolytes",
+  "authors": [
+   "J.R. Frade",
+   "C.M. Fernandes",
+   "Xu Le",
+   "Filipe M. Figueiredo"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2009-07-10",
+  "year": 2009,
+  "doi": "10.1149/ma2009-02/12/1248",
+  "url": "https://doi.org/10.1149/ma2009-02/12/1248",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Aveiro"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0bf75d72b356fa1c",
+  "title": "Calibration of the Carbon Coating of LiFePO 4 Particle Prepared by Mechanosynthesis",
+  "authors": [
+   "Charlotte Benoit-Moez",
+   "Sylvain Franger",
+   "A. Mauger",
+   "François Gendron",
+   "C. Julien"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2009-07-10",
+  "year": 2009,
+  "doi": "10.1149/ma2009-02/8/548",
+  "url": "https://doi.org/10.1149/ma2009-02/8/548",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Université Paris-Saclay",
+   "Sorbonne Université",
+   "Délégation Paris 6"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "057ebb5780eecba9",
+  "title": "Preparation and properties of mechanically alloyed and electrochemically etched porous Ti–6Al–4V",
+  "authors": [
+   "J. Jakubowicz",
+   "G. Adamek"
+  ],
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-10",
+  "year": 2009,
+  "doi": "10.1016/j.elecom.2009.07.014",
+  "url": "https://doi.org/10.1016/j.elecom.2009.07.014",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Poznań University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f2712f65f2f50861",
+  "title": "Synthesis of Al–Y–Ni–Co composites by mechanical alloying and consecutive spark-plasma sintering",
+  "authors": [
+   "J.S. Kim",
+   "Ivan Povstugar",
+   "Pyuck-Pa Choi",
+   "E. P. Yelsukov",
+   "Yong-Soon Kwon"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-09",
+  "year": 2009,
+  "doi": "10.1016/j.jallcom.2009.06.193",
+  "url": "https://doi.org/10.1016/j.jallcom.2009.06.193",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Ulsan",
+   "Max-Planck-Institut für Nachhaltige Materialien"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f18474f567c2c4c9",
+  "title": "Halloysite–epoxy nanocomposites with improved particle dispersion through ball mill homogenisation and chemical treatments",
+  "authors": [
+   "Shiqiang Deng",
+   "Jianing Zhang",
+   "Lin Ye"
+  ],
+  "journal": "Composites Science and Technology",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-09",
+  "year": 2009,
+  "doi": "10.1016/j.compscitech.2009.07.001",
+  "url": "https://doi.org/10.1016/j.compscitech.2009.07.001",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Technology Sydney",
+   "The University of Sydney",
+   "Hong Kong Polytechnic University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "bda3998357cb45a1",
+  "title": "Fabrication of High Performance PM Nanocrystalline Bulk AA2124",
+  "authors": [
+   "Hanadi G. Salem",
+   "A. Sadek"
+  ],
+  "journal": "Journal of Materials Engineering and Performance",
+  "publisher": "Springer Science+Business Media",
+  "published": "2009-07-09",
+  "year": 2009,
+  "doi": "10.1007/s11665-009-9507-6",
+  "url": "https://doi.org/10.1007/s11665-009-9507-6",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "Milling",
+   "Nanocrystalline",
+   "Nanostructured"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "American University in Cairo"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "131dff58cb217e20",
+  "title": "Reactive extrusion for the synthesis of nylon 12 and maleated low‐density polyethylene blends via the anionic ring‐opening polymerization of lauryllactam",
+  "authors": [
+   "Libo Du",
+   "Guisheng Yang"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "2009-07-08",
+  "year": 2009,
+  "doi": "10.1002/app.30293",
+  "url": "https://doi.org/10.1002/app.30293",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Extrusion",
+   "In-Situ",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "fa023d9e96ff7639",
+  "title": "A comparison of electrochemical performance of natural graphite sulfurized by ball-milling and heat-treating as an anode for lithium ion batteries",
+  "authors": [
+   "Mi Lu",
+   "Yanyan Tian",
+   "Yong Yang"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-06",
+  "year": 2009,
+  "doi": "10.1016/j.electacta.2009.06.079",
+  "url": "https://doi.org/10.1016/j.electacta.2009.06.079",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Binzhou University",
+   "Xiamen University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5bf2271d451c13b6",
+  "title": "Heterogeneous Fe/Al agglomerates prepared by high-energy ball milling",
+  "authors": [
+   "Sébastien Paris",
+   "Éric Gaffet",
+   "Frédéric Bernard"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "2009-07-06",
+  "year": 2009,
+  "doi": "",
+  "url": "https://hal.science/hal-05398347",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "Milling"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut Jean Lamour",
+   "Université de Lorraine"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d4f9a3d45de8e4ae",
+  "title": "Microstructural characterization of nanocrystalline SiC synthesized by high-energy ball-milling",
+  "authors": [
+   "Bishnupada Ghosh",
+   "S.K. Pradhan"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-05",
+  "year": 2009,
+  "doi": "10.1016/j.jallcom.2009.06.170",
+  "url": "https://doi.org/10.1016/j.jallcom.2009.06.170",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Bankura University",
+   "University of Burdwan"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c66c73b79891f441",
+  "title": "Control of carbon loss during synthesis of WC powder through ball milling of WO3–C–2Al mixture",
+  "authors": [
+   "Masoud Sakaki",
+   "M. Sh. Bafghi",
+   "Jalil Vahdati Khaki",
+   "Q. Zhang",
+   "Fumio Saito"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-05",
+  "year": 2009,
+  "doi": "10.1016/j.jallcom.2009.06.169",
+  "url": "https://doi.org/10.1016/j.jallcom.2009.06.169",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Tohoku University",
+   "Iran University of Science and Technology",
+   "Ferdowsi University of Mashhad"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5d01579f2092fd33",
+  "title": "Synthesis and characterization of nanocrystalline NiTi by mechanical alloying",
+  "authors": [
+   "S. Tria",
+   "O. Elkedim",
+   "F. Bernard"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "2009-07-05",
+  "year": 2009,
+  "doi": "",
+  "url": "https://hal.science/hal-00437787",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Franche-Comté Électronique Mécanique Thermique et Optique - Sciences et Technologies"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2bcaf1b649cf60a1",
+  "title": "Synthesis and characterization of Mg2Ni prepared by mechanical alloying : effects of substitution of Mn for Ni",
+  "authors": [
+   "Lihua Huang",
+   "O. Elkedim",
+   "V. Moutarlier"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "2009-07-05",
+  "year": 2009,
+  "doi": "",
+  "url": "https://hal.science/hal-00437784",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Franche-Comté Électronique Mécanique Thermique et Optique - Sciences et Technologies"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "1bcaab8edd82da00",
   "title": "Characterization of cobalt oxide nanocatalysts prepared by microemulsion with different surfactants, reduction by hydrazine and mechanochemical method",
   "authors": [
@@ -452,6 +1792,39 @@
    "Egyptian Petroleum Research Institute",
    "City of Scientific Research and Technological Applications",
    "National Water Research Center"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a741e8155c5ea293",
+  "title": "Magnetic behavior of nanocrystalline ErCo 2",
+  "authors": [
+   "Sitikantha D. Das",
+   "Niharika Mohapatra",
+   "Kartik K. Iyer",
+   "Rudheer Bapat",
+   "E. V. Sampathkumaran"
+  ],
+  "journal": "Journal of Physics Condensed Matter",
+  "publisher": "IOP Publishing",
+  "published": "2009-07-03",
+  "year": 2009,
+  "doi": "10.1088/0953-8984/21/29/296004",
+  "url": "https://doi.org/10.1088/0953-8984/21/29/296004",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling",
+   "Nanocrystalline",
+   "Nanoparticles"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Tata Institute of Fundamental Research"
   ],
   "added": "2026-07-28"
  },
@@ -530,6 +1903,37 @@
   "added": "2026-07-28"
  },
  {
+  "id": "fbf75409084efcf9",
+  "title": "Reversibility of Al/Ti Modified LiBH 4",
+  "authors": [
+   "Didier Blanchard",
+   "Qing Shi",
+   "Chris Boothroyd",
+   "Tejs Vegge"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1021/jp9031892",
+  "url": "https://doi.org/10.1021/jp9031892",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Hydrogen Storage",
+   "Milling"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Technical University of Denmark"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "e64ee8b67c131327",
   "title": "Mechanochemical transformations of natural gas hydrates",
   "authors": [
@@ -556,6 +1960,59 @@
    "Russian Academy of Sciences",
    "Siberian Branch of the Russian Academy of Sciences",
    "Institute of Oil and Gas Problems of the Siberian Branch of the RAS"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e58cd4e9562aacc7",
+  "title": "Synthesis and Physical Properties of Mo7Re13C synthesized by the solid state method using planetary ball mill machine",
+  "authors": [
+   "真知子 杉山"
+  ],
+  "journal": "Institutional Repositories DataBase (IRDB)",
+  "publisher": "National Institute of Informatics",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "",
+  "url": "https://chuo-u.repo.nii.ac.jp/records/5127",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Planetary Ball Mill"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e342ecb1c35f72c7",
+  "title": "Functionalization Effects on the Electrical Properties of Multi-Walled Carbon Nanotube-Polyacrylamide Composites",
+  "authors": [
+   "Seema Awasthi",
+   "Kalpana Awasthi",
+   "Rajesh Kumar",
+   "O.N. Srivastava"
+  ],
+  "journal": "Journal of Nanoscience and Nanotechnology",
+  "publisher": "American Scientific Publishers",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1166/jnn.2009.1160",
+  "url": "https://doi.org/10.1166/jnn.2009.1160",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Banaras Hindu University"
   ],
   "added": "2026-07-28"
  },
@@ -588,6 +2045,60 @@
   "added": "2026-07-28"
  },
  {
+  "id": "c254e43149034ca5",
+  "title": "Effect of grinding aids on the kinetics of fine grinding energy consumed of calcite powders by a stirred ball mill",
+  "authors": [
+   "Heekyu Choi",
+   "Woong Lee",
+   "Seong-Soo Kim"
+  ],
+  "journal": "Advanced Powder Technology",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1016/j.apt.2009.01.002",
+  "url": "https://doi.org/10.1016/j.apt.2009.01.002",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Grinding"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Changwon National University",
+   "Gyeongsang National University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ad0c388669f3bcd3",
+  "title": "Hydrogen storage Properties of Graphite Intercalated with Lithium by Mechanical Alloying",
+  "authors": [
+   "A. Takasaki",
+   "Roxana Ferdousi Era"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "",
+  "url": "https://shibaura.pure.elsevier.com/en/publications/hydrogen-storage-properties-of-graphite-intercalated-with-lithium",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Hydrogen Storage",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "abd1b3f0fa48c703",
   "title": "Shock compression of reactive powder mixtures",
   "authors": [
@@ -610,6 +2121,421 @@
   "relevance_score": 42,
   "affiliations": [
    "Georgia Institute of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a9a244c16fcd635f",
+  "title": "Mechanically Driven Interstitial Atoms Redistributions and Steel Alloying",
+  "authors": [
+   "J. Foct"
+  ],
+  "journal": "steel research international",
+  "publisher": "Wiley",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.2374/sri09sp051",
+  "url": "https://doi.org/10.2374/sri09sp051",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Lille"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9be91da89dfcaa2e",
+  "title": "Product flow rate control in ball mill grinding process using fuzzy logic controller",
+  "authors": [
+   "Xing-Gang Wu",
+   "Mingzhe Yuan",
+   "Haibin Yu"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1109/icmlc.2009.5212373",
+  "url": "https://doi.org/10.1109/icmlc.2009.5212373",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Grinding"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Shenyang Institute of Automation",
+   "Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8a74f5f5ea361d0d",
+  "title": "High-pressure phase transformation of nanometric ZnSb prepared by mechanical alloying",
+  "authors": [
+   "Daniela Menegon Trichês",
+   "Sérgio Michielon de Souza",
+   "J.C. de Lima",
+   "T.A. Grandi",
+   "Carlos Eduardo Maduro de Campos",
+   "A. Polian",
+   "J. P. Itié",
+   "F. Baudelet",
+   "J. C. Chervin"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1063/1.3158523",
+  "url": "https://doi.org/10.1063/1.3158523",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Phase Transformation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidade Federal de Santa Catarina",
+   "Centre National de la Recherche Scientifique",
+   "Sorbonne Université",
+   "Institut de minéralogie, de physique des matériaux et de cosmochimie",
+   "Synchrotron soleil"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7ab8fab2ad5ce96e",
+  "title": "Synthesis process of Mg–Ti BCC alloys by means of ball milling",
+  "authors": [
+   "Kohta Asano",
+   "Hirotoshi Enoki",
+   "Etsuo Akiba"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1016/j.jallcom.2009.06.140",
+  "url": "https://doi.org/10.1016/j.jallcom.2009.06.140",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "National Institute of Advanced Industrial Science and Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "79203fbc5b5c1595",
+  "title": "X-ray Absorption Spectroscopic Study on Valence State and Local Atomic Structure of Transition Metal Oxides Doped in MgH 2",
+  "authors": [
+   "Nobuko Hanada",
+   "Takayuki Ichikawa",
+   "Shigehito Isobe",
+   "Tessui Nakagawa",
+   "Kazuhiko Tokoyoda",
+   "Tetsuo Honma",
+   "Hironobu Fujii",
+   "Yoshitsugu Kojima"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1021/jp901859f",
+  "url": "https://doi.org/10.1021/jp901859f",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Hiroshima University",
+   "Japan Synchrotron Radiation Research Institute"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "72fd2338c86e9ad2",
+  "title": "Characterization of Oxide Nano-clusters in Mechanically Alloyed Nickel Alloys",
+  "authors": [
+   "J. Bentley",
+   "D. Hoelzer"
+  ],
+  "journal": "Microscopy and Microanalysis",
+  "publisher": "Oxford University Press",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1017/s1431927609095786",
+  "url": "https://doi.org/10.1017/s1431927609095786",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Oak Ridge National Laboratory"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "72130f7cba5a03b5",
+  "title": "Formation of Nano-Quasicrystalline Decagonal Phase in the Al 70 Cu 10 Co 5 Ni 15 System by High Energy Ball Milling",
+  "authors": [
+   "Thakur Prasad Yadav",
+   "N.K. Mukhopadhyay",
+   "M.A. Shaz",
+   "R. S. Tiwari",
+   "O. N. Srivastava"
+  ],
+  "journal": "Journal of Nanoscience and Nanotechnology",
+  "publisher": "American Scientific Publishers",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1166/jnn.2009.1130",
+  "url": "https://doi.org/10.1166/jnn.2009.1130",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Banaras Hindu University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "71164c55c4bf9d5d",
+  "title": "Magnetic ordering in the fine particles of some bulk Pauli paramagnets",
+  "authors": [
+   "Sitikantha D. Das",
+   "S. Narayana Jammalamadaka",
+   "Kartik K. Iyer",
+   "E. V. Sampathkumaran"
+  ],
+  "journal": "Physical Review B",
+  "publisher": "American Physical Society",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1103/physrevb.80.024401",
+  "url": "https://doi.org/10.1103/physrevb.80.024401",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "Milling"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Tata Institute of Fundamental Research"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "69ed5cfdae10152e",
+  "title": "Effect of nano Y-TZP addition in ZrO2-Nb2O5 system using high-energy ball milling",
+  "authors": [
+   "Flavio Silveira",
+   "Maria do Carmo de Andrade Nono",
+   "José Vitor C. Souza",
+   "Sérgio Luiz Mineiro"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "",
+  "url": "https://www.osti.gov/etdeweb/biblio/22549049",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "Milling",
+   "Phase Transformation"
+  ],
+  "relevance_score": 69,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "63ddb39bd1cde246",
+  "title": "Particle Characterization by X‐Ray Powder Diffraction",
+  "authors": [
+   "Michael Herrmann",
+   "Ulrich Förter-Barth",
+   "P. B. Kempa",
+   "H. Kröber"
+  ],
+  "journal": "Chemical Engineering & Technology",
+  "publisher": "Wiley",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1002/ceat.200900069",
+  "url": "https://doi.org/10.1002/ceat.200900069",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Cocrystallization",
+   "Cocrystals",
+   "Milling"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Fraunhofer Institute for Chemical Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "515b18f9e0e2ebf9",
+  "title": "The application research of several methods in the ball mill pulverizing system",
+  "authors": [
+   "Jie Su",
+   "Lan-Zhen Zhang",
+   "Cui Yong-le",
+   "Xin Zeng"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1109/icmlc.2009.5212156",
+  "url": "https://doi.org/10.1109/icmlc.2009.5212156",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "North China Electric Power University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "444d65f3df1eb9b8",
+  "title": "DSM Elastomers presents Keltan processing additive for rubber",
+  "authors": [],
+  "journal": "Additives for Polymers",
+  "publisher": "Elsevier BV",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1016/s0306-3747(09)70118-6",
+  "url": "https://doi.org/10.1016/s0306-3747(09)70118-6",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "397c952958baa4b5",
+  "title": "Effect of Hydrogen on Martensitic Transformation of TiNi Shape Memory Alloy Produced by Mechanical Alloying",
+  "authors": [
+   "Takeshi Saito",
+   "A. Takasaki"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "",
+  "url": "https://shibaura.pure.elsevier.com/en/publications/effect-of-hydrogen-on-martensitic-transformation-of-tini-shape-me",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2c5cbd1721d111b0",
+  "title": "Improvement of Surface Exfoliation Behavior by Helium-ion Bombardment of a Tungsten Alloy Fabricated by Mechanical Alloying",
+  "authors": [
+   "Takayuki Ogawa",
+   "Akira Hasegawa",
+   "Hiroaki Kurishita",
+   "Shuhei Nogami"
+  ],
+  "journal": "Journal of Nuclear Science and Technology",
+  "publisher": "Taylor & Francis",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1080/18811248.2007.9711578",
+  "url": "https://doi.org/10.1080/18811248.2007.9711578",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tohoku University",
+   "Institute for Materials Research, Tohoku University"
   ],
   "added": "2026-07-28"
  },
@@ -638,6 +2564,68 @@
   ],
   "relevance_score": 48,
   "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "1a503cac9ab711c3",
+  "title": "The influences of annealing temperature on the microstructure and electric properties of ZnO varistors",
+  "authors": [
+   "Liaoying Zheng",
+   "Yao Zheng",
+   "Guorong Li"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1109/icpadm.2009.5252286",
+  "url": "https://doi.org/10.1109/icpadm.2009.5252286",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "Milling"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Shanghai Institute of Ceramics",
+   "State Key Laboratory of High Performance Ceramics and Superfine Microstructure"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "08de380bf7fce3fc",
+  "title": "Effects of Raw Material Content on Efficiency of TiN Synthesized by Reactive Ball Milling Ti and Urea",
+  "authors": [
+   "Sun Jin-Feng",
+   "Xiaopu Li",
+   "Baoyan Liang",
+   "Yucheng Zhao",
+   "Mingzhi Wang"
+  ],
+  "journal": "Chinese Physics Letters",
+  "publisher": "Institute of Physics",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "10.1088/0256-307x/26/7/078102",
+  "url": "https://doi.org/10.1088/0256-307x/26/7/078102",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling",
+   "Milling Parameters"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Yanshan University"
+  ],
   "added": "2026-07-28"
  },
  {
@@ -703,6 +2691,37 @@
    "Chinese Academy of Sciences",
    "Changchun Institute of Optics, Fine Mechanics and Physics"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0122c67b583e324d",
+  "title": "Crystallography properties of solid solution of NaSr{sub 2}(NiNb{sub 4})O{sub 15-{delta}s}tructure of tetragonal tungsten bronze; Propriedades cristalograficas da solucao de NaSr{sub 2}(NiNb{sub 4})O{sub 15-{delta}} de estrutura tetragonal tungstenio bronze",
+  "authors": [
+   "C Polini",
+   "S A Dantas",
+   "C Mikaro",
+   "Alan R. F. Lima",
+   "Marcos A.L. Nobre",
+   "Silvania Lanfredi"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "2009-07-01",
+  "year": 2009,
+  "doi": "",
+  "url": "https://www.osti.gov/etdeweb/biblio/21513772",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "Milling"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
   "added": "2026-07-28"
  }
 ]
