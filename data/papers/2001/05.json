@@ -32,6 +32,38 @@
   "added": "2026-07-28"
  },
  {
+  "id": "0de21f1cc5aeb3b4",
+  "title": "Sulfur Compounds Reduce Potato Toxins during Extrusion Cooking",
+  "authors": [
+   "Iwan Surjawan",
+   "Michael P. Dougherty",
+   "Rodney J. Bushway",
+   "Alfred A. Bushway",
+   "Jack Briggs",
+   "Mary Ellen Camire"
+  ],
+  "journal": "Journal of Agricultural and Food Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2001-05-30",
+  "year": 2001,
+  "doi": "10.1021/jf010087n",
+  "url": "https://doi.org/10.1021/jf010087n",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "University of Kentucky",
+   "University of Maine"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "c6b81d04ddf02baa",
   "title": "ChemInform Abstract: A Design and Development of Novel Polymeric Prodrugs Prepared by Mechanochemical Solid‐State Polymerization",
   "authors": [
@@ -198,6 +230,34 @@
   "added": "2026-07-28"
  },
  {
+  "id": "f2b77d71002730b1",
+  "title": "Hydrogen desorption behavior from magnesium hydrides synthesized by reactive mechanical alloying",
+  "authors": [
+   "F.C. Gennari",
+   "Facundo J. Castro",
+   "G. Urretavizcaya"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0925-8388(00)01460-2",
+  "url": "https://doi.org/10.1016/s0925-8388(00)01460-2",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centro Científico Tecnológico - Patagonia Norte",
+   "Bariloche Atomic Centre"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "f0634fd5d57b7c6c",
   "title": "Nano-sized amorphous alumina particles obtained by ball milling ZnO and Al powder mixture",
   "authors": [
@@ -314,6 +374,97 @@
   "added": "2026-07-28"
  },
  {
+  "id": "d7ac932ddf5a0304",
+  "title": "Appearance of ferromagnetism in f.c.c. solid solutions of binary and ternary Fe–Cu-based systems prepared by mechanical alloying technique",
+  "authors": [
+   "Hidetoshi Ino",
+   "Kei Hayashi",
+   "T. Otsuka",
+   "Daisuke Isobe",
+   "Kazuto Tokumitsu",
+   "K. Oda"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0921-5093(00)01608-7",
+  "url": "https://doi.org/10.1016/s0921-5093(00)01608-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hosei University",
+   "The University of Tokyo",
+   "Tokyo University of Science"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d672a19871c5db7d",
+  "title": "Filled grades of chemically modified poly(ethylene terephthalate)",
+  "authors": [
+   "Regina Jezi�rska",
+   "Witold Zieliński"
+  ],
+  "journal": "Macromolecular Symposia",
+  "publisher": "Wiley",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1002/1521-3900(200105)169:1<97::aid-masy97>3.0.co;2-y",
+  "url": "https://doi.org/10.1002/1521-3900(200105)169:1<97::aid-masy97>3.0.co;2-y",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Łukasiewicz Research Network - Industrial Chemistry Institute"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d0c3991000fe2f57",
+  "title": "Fabrication of NiTi intermetallic compound coating made by laser plasma hybrid spraying of mechanically alloyed powders",
+  "authors": [
+   "Hitoshi Hiraga",
+   "Takashi Inoue",
+   "S. Kamado",
+   "Yo Kojima",
+   "Akira Matsunawa",
+   "Hirofumi Shimura"
+  ],
+  "journal": "Surface and Coatings Technology",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0257-8972(01)00994-x",
+  "url": "https://doi.org/10.1016/s0257-8972(01)00994-x",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Nagaoka University of Technology",
+   "The University of Osaka",
+   "Japan Science and Technology Agency"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "d05d4be8120affa4",
   "title": "Reaction ball milling of systems involving ionic bonds",
   "authors": [
@@ -343,6 +494,61 @@
   "added": "2026-07-28"
  },
  {
+  "id": "c9689a40f586b3a5",
+  "title": "Study of Mg-M (M=Co, Ni and Fe) mixture elaborated by reactive mechanical alloying: hydrogen sorption properties",
+  "authors": [
+   "Jean-Louis Bobet"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0360-3199(00)00082-3",
+  "url": "https://doi.org/10.1016/s0360-3199(00)00082-3",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut de Chimie de la Matière Condensée de Bordeaux"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c94ad9f2d26a61bb",
+  "title": "Effects of Ti–V substitution on electrochemical and structural characteristics of MgNi alloy prepared by mechanical alloying",
+  "authors": [
+   "Chiaki Iwakura",
+   "Ryuji Shin-ya",
+   "Keisuke Miyanohara",
+   "Shinji Nohara",
+   "Hiroshi Inoue"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0013-4686(01)00513-8",
+  "url": "https://doi.org/10.1016/s0013-4686(01)00513-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Osaka Prefecture University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "c9385c86ad19df7f",
   "title": "Mechanochemical Synthesis and SHS of Diborides of Titanium and Zirconium",
   "authors": [
@@ -366,6 +572,34 @@
   "affiliations": [
    "Bulgarian Academy of Sciences",
    "Institute of General and Inorganic Chemistry"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c8c0dddd2dbc0937",
+  "title": "Development of nano-sized (icosahedral phase + (Ti,Zr) solid solution) two phase microstructures by mechanical alloying",
+  "authors": [
+   "So Young Yi",
+   "K.B Kim",
+   "W.T Kim",
+   "D.H Kim"
+  ],
+  "journal": "Scripta Materialia",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s1359-6462(01)00790-4",
+  "url": "https://doi.org/10.1016/s1359-6462(01)00790-4",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Yonsei University"
   ],
   "added": "2026-07-28"
  },
@@ -424,6 +658,103 @@
   "relevance_score": 40,
   "affiliations": [
    "Universidad Nacional de La Plata"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c41d5971dce2af91",
+  "title": "Magnetic Properties of the Mechanically Alloyed (Fe0.85Mn0.15)0.3Cu0.7 System",
+  "authors": [
+   "J. Restrepo",
+   "A. L. Morales",
+   "J. M. González",
+   "G. A. Pérez Alcázar",
+   "Adán Moisés García Medina",
+   "C. A. Barrero",
+   "J. Tobón",
+   "Gloria Isabel Quintero Pérez",
+   "O. Arnache",
+   "Juan David Betancur",
+   "Marco A. Giraldo"
+  ],
+  "journal": "Hyperfine Interactions",
+  "publisher": "Springer Science+Business Media",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1023/a:1013871510593",
+  "url": "https://doi.org/10.1023/a:1013871510593",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Universidad de Antioquia",
+   "Instituto de Ciencia de Materiales de Madrid",
+   "Institute of Magnetism",
+   "Universidad del Valle"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "bc3c201da67fd686",
+  "title": "Mössbauer spectra and magnetic properties of mechanically alloyed SmFe11−xCoxTi",
+  "authors": [
+   "Lotfi Bessais",
+   "C. Djéga-Mariadassou",
+   "Jean-Marc Grenèche"
+  ],
+  "journal": "Journal of Magnetism and Magnetic Materials",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0304-8853(00)00859-3",
+  "url": "https://doi.org/10.1016/s0304-8853(00)00859-3",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris-Est Créteil",
+   "Institut de Chimie et des Matériaux Paris-Est",
+   "Laboratoire de Chimie Physique",
+   "University of Maine"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b9b5c07942c47441",
+  "title": "The Mechanisms of Combustion and Continuous Reactions during Mechanical Alloying",
+  "authors": [
+   "Nicholas J. Calos",
+   "Jennifer S. Forrester",
+   "G. B. Schaffer"
+  ],
+  "journal": "Journal of Solid State Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1006/jssc.2001.9107",
+  "url": "https://doi.org/10.1006/jssc.2001.9107",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "The University of Queensland",
+   "University of Newcastle Australia"
   ],
   "added": "2026-07-28"
  },
@@ -522,6 +853,32 @@
   "added": "2026-07-28"
  },
  {
+  "id": "acdf111c3941dad1",
+  "title": "STRUCTURE OF Fe 2 Ti CRYSTALLIZED FROM AMORPHOUS Al - Fe - Ti ALLOY OBTAINED BY MECHANICAL ALLOYING",
+  "authors": [
+   "M. Krasnowski",
+   "M. Psoda"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1142/9789812811325_0035",
+  "url": "https://doi.org/10.1142/9789812811325_0035",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Warsaw University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "a67c94297f2eaf63",
   "title": "THE EVOLUTION OF SUBSTRUCTURE IN 50% Ni +50% Nb POWDER MIXTURE DURING BALL MILLING",
   "authors": [
@@ -605,6 +962,33 @@
   "added": "2026-07-28"
  },
  {
+  "id": "9d64c5ca417ac70b",
+  "title": "Mechanical alloying of Fe–B powders",
+  "authors": [
+   "Ratnesh Gupta",
+   "Ajay Gupta"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0921-5093(00)01445-3",
+  "url": "https://doi.org/10.1016/s0921-5093(00)01445-3",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Devi Ahilya Vishwavidyalaya",
+   "UGC DAE Consortium for Scientific Research"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "9b309812d0a41840",
   "title": "Thermal and electrical behavior of γ-Bi2VO5.5 and f-Bi2VO5 oxides obtained from mechanochemically activated precursors",
   "authors": [
@@ -666,6 +1050,93 @@
   "added": "2026-07-28"
  },
  {
+  "id": "8d5caf80e2e2ef24",
+  "title": "Mechanical alloying of Al–Cu–Fe elemental powders",
+  "authors": [
+   "P. Barua",
+   "B.S. Murty",
+   "V. Srinivas"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0921-5093(00)01621-x",
+  "url": "https://doi.org/10.1016/s0921-5093(00)01621-x",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Indian Institute of Technology Kharagpur"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8459085467654248",
+  "title": "Magnetic properties of amorphous Co2−xFexGe alloys synthesized by mechanical alloying",
+  "authors": [
+   "R.N. Bhowmik",
+   "R. Ranganathan",
+   "Subhajit Sarkar",
+   "C. Bansal"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0921-5093(00)01744-5",
+  "url": "https://doi.org/10.1016/s0921-5093(00)01744-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Saha Institute of Nuclear Physics",
+   "University of Hyderabad"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7a20c9264756729a",
+  "title": "Nanocrystalline LaNi4.2Al0.8 prepared by mechanical alloying and annealing and its hydride formation",
+  "authors": [
+   "M. Jurczyk",
+   "K. Smardz",
+   "W. Rajewski",
+   "L. Smardz"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0921-5093(00)01946-8",
+  "url": "https://doi.org/10.1016/s0921-5093(00)01946-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Poznań University of Technology",
+   "Institute of Molecular Physics of the Polish Academy of Sciences",
+   "Polish Academy of Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "77d5a73e634f5a3e",
   "title": "Analysis of milling energy in synthesis and formation mechanisms of molybdenum disilicide by mechanical alloying",
   "authors": [
@@ -692,6 +1163,30 @@
    "Central South University",
    "Xiangtan University"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "73da22cf378ddd08",
+  "title": "Nano-structured materials via bulk mechanical alloying",
+  "authors": [
+   "Tatsuhiko Aizawa",
+   "Katsuyoshi Kondoh"
+  ],
+  "journal": "Scripta Materialia",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s1359-6462(01)00797-7",
+  "url": "https://doi.org/10.1016/s1359-6462(01)00797-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -746,6 +1241,36 @@
    "University of Maryland, Baltimore County",
    "Slovak Academy of Sciences",
    "Institute of Geotechnics of the Slovak Academy of Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "662205f6a7e29d0d",
+  "title": "Nanostructured titanium-aluminides and their composites formed by combustion synthesis of mechanically alloyed powders",
+  "authors": [
+   "Koji Uenishi",
+   "T. Matsubara",
+   "M. Kambara",
+   "K. F. Kobayashi"
+  ],
+  "journal": "Scripta Materialia",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s1359-6462(01)00881-8",
+  "url": "https://doi.org/10.1016/s1359-6462(01)00881-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanostructured"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "The University of Osaka",
+   "University of Cambridge"
   ],
   "added": "2026-07-28"
  },
@@ -839,6 +1364,37 @@
   "relevance_score": 46,
   "affiliations": [
    "Sofia University \"St. Kliment Ohridski\""
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "51234fd9af057543",
+  "title": "Grafting of Methylenebutanedioic Acid to Low-Density Polyethylene in the Course of Reactive Extrusion, Initiated with Carborane-Containing Peroxides",
+  "authors": [
+   "Yu. M. Krivoguz",
+   "А. P. Yuvchenko",
+   "T. D. Zvereva",
+   "С. С. Песецкий"
+  ],
+  "journal": "Russian Journal of Applied Chemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1023/a:1012769707152",
+  "url": "https://doi.org/10.1023/a:1012769707152",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "National Academy of Sciences of Belarus",
+   "Institute of Mechanics of Metal-Polymer Systems",
+   "Institute of Chemistry of New Materials of the National Academy of Sciences of Belarus"
   ],
   "added": "2026-07-28"
  },
@@ -988,6 +1544,33 @@
   "added": "2026-07-28"
  },
  {
+  "id": "498c64d62139cb8a",
+  "title": "TEM AND X-RAY DIFFRACTION STUDIES OF STRUCTURE CHANGES DURING MECHANICAL ALLOYING OF TiAl AND TiAlMn ALLOYS",
+  "authors": [
+   "W. Maziarz",
+   "J. Dutkiewicz"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1142/9789812811325_0063",
+  "url": "https://doi.org/10.1142/9789812811325_0063",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Institute of Metallurgy and Materials Science",
+   "Polish Academy of Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "486a4247339422d2",
   "title": "High-Energy Ball Milling of Some Intermetallics",
   "authors": [
@@ -1082,6 +1665,122 @@
   "added": "2026-07-28"
  },
  {
+  "id": "41decba39706840f",
+  "title": "Thermodynamic and magnetic properties of multicomponent (Fe,Ni)70Zr10B20 amorphous alloy powders made by mechanical alloying",
+  "authors": [
+   "Y.J Liu",
+   "I.T.H. Chang",
+   "M. R. Lees"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0921-5093(00)01613-0",
+  "url": "https://doi.org/10.1016/s0921-5093(00)01613-0",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Amorphous Alloys",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Birmingham",
+   "University of Warwick"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "3b3ccf5db531ebf1",
+  "title": "Hydrogen storage properties of the mechanically alloyed LaNi5-based materials",
+  "authors": [
+   "G. Liang",
+   "Jacques Huot",
+   "Robert Schulz"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0925-8388(01)00929-x",
+  "url": "https://doi.org/10.1016/s0925-8388(01)00929-x",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Hydrogen Storage",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Hydro-Québec"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "344eeabd771499f2",
+  "title": "Giant magnetoresistive properties of FexAu100−x alloys produced by mechanical alloying",
+  "authors": [
+   "L.M. Socolovsky",
+   "F. H. Sánchez",
+   "Paul Hideo Shingu"
+  ],
+  "journal": "Journal of Magnetism and Magnetic Materials",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0304-8853(01)00002-6",
+  "url": "https://doi.org/10.1016/s0304-8853(01)00002-6",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad Nacional de La Plata",
+   "Kyoto University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "341719043b0f46ce",
+  "title": "Structural evolution during heat treatment of mechanically alloyed Al–Cu–Fe–(Si) alloys",
+  "authors": [
+   "Ki Buem Kim",
+   "Suk Hwan Kim",
+   "Won Tae Kim",
+   "Do-Hyang Kim",
+   "Kyung Tae Hong"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0921-5093(00)01584-7",
+  "url": "https://doi.org/10.1016/s0921-5093(00)01584-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Yonsei University",
+   "Chongshin University",
+   "Korea Institute of Science and Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "33137abac8a5c386",
   "title": "Synthesis of nanocrystalline copper–tungsten alloys by mechanical alloying",
   "authors": [
@@ -1108,6 +1807,62 @@
   "affiliations": [
    "Defence Metallurgical Research Laboratory",
    "Indian Institute of Technology Bombay"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "26f1c99e66de160b",
+  "title": "Formation of nano-sized Ti68Fe26Si6 icosahedral quasicrystalline phase by rapid quenching and mechanical alloying",
+  "authors": [
+   "Jong-Heon Lee",
+   "Ki Buem Kim",
+   "Jung-Suk Lee",
+   "Do Hyang Kim",
+   "Won Tae Kim"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0921-5093(00)01583-5",
+  "url": "https://doi.org/10.1016/s0921-5093(00)01583-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Yonsei University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "19a37eb2625792d1",
+  "title": "Application of effective potential formalism to mechanical alloying in Ag–Cu and Cu–Fe systems",
+  "authors": [
+   "N. Ravishankar",
+   "T.A. Abinandanan",
+   "K. Chattopadhyay"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2001-05-01",
+  "year": 2001,
+  "doi": "10.1016/s0921-5093(00)01484-2",
+  "url": "https://doi.org/10.1016/s0921-5093(00)01484-2",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Indian Institute of Science Bangalore"
   ],
   "added": "2026-07-28"
  },

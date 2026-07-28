@@ -26,6 +26,36 @@
   "added": "2026-07-28"
  },
  {
+  "id": "ae0cc6babed7b983",
+  "title": "Anomalous Phase Inversion in Polymer Blends Prepared by Cryogenic Mechanical Alloying",
+  "authors": [
+   "A. P. Smith",
+   "Harald Ade",
+   "Steven D. Smith",
+   "Carl C. Koch",
+   "Richard J. Spontak"
+  ],
+  "journal": "Macromolecules",
+  "publisher": "American Chemical Society",
+  "published": "2001-02-16",
+  "year": 2001,
+  "doi": "10.1021/ma001151p",
+  "url": "https://doi.org/10.1021/ma001151p",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "North Carolina State University",
+   "Procter & Gamble (United States)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "64ba7a971ab59985",
   "title": "Microstructural and magnetic characterization of nanostructured α-Fe 2 O 3 and CuO mixtures obtained by ball milling",
   "authors": [
@@ -59,6 +89,34 @@
    "Universidad Nacional de La Plata",
    "Brazilian Synchrotron Light Laboratory",
    "Centro Brasileiro de Pesquisas Físicas"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "fc8f90b7e3baf073",
+  "title": "Optical properties of Bi12SiO20 (BSO) and Bi12TiO20 (BTO) obtained by mechanical alloying",
+  "authors": [
+   "Igor F. Vasconcelos",
+   "M. A. Pimenta",
+   "A. S. B. Sombra"
+  ],
+  "journal": "Journal of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1023/a:1004804000723",
+  "url": "https://doi.org/10.1023/a:1004804000723",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Departamento de Ciência e Tecnologia",
+   "Universidade Federal de Minas Gerais"
   ],
   "added": "2026-07-28"
  },
@@ -97,6 +155,32 @@
    "Centre National de la Recherche Scientifique",
    "École Nationale Supérieure des Mines de Nancy"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f9ac99fb012cd71b",
+  "title": "Thermal stability of nanocrystalline fcc and hcp Ni(Si) synthesized by mechanical alloying of Ni 90 Si 10",
+  "authors": [
+   "Moni Kanchan Datta",
+   "S.K. Pabi",
+   "B.S. Murty"
+  ],
+  "journal": "Philosophical Magazine Letters",
+  "publisher": "Taylor & Francis",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1080/095008301300006717",
+  "url": "https://doi.org/10.1080/095008301300006717",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -157,6 +241,69 @@
   "added": "2026-07-28"
  },
  {
+  "id": "eb53372976a67ae5",
+  "title": "Fractionated crystallization in blends of functionalized poly(tetrafluoroethylene) and polyamide",
+  "authors": [
+   "Liane Häußler",
+   "Gisela Pompe",
+   "D. Lehmann",
+   "Uwe Lappan"
+  ],
+  "journal": "Macromolecular Symposia",
+  "publisher": "Wiley",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1002/1521-3900(200102)164:1<411::aid-masy411>3.0.co;2-h",
+  "url": "https://doi.org/10.1002/1521-3900(200102)164:1<411::aid-masy411>3.0.co;2-h",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Extrusion",
+   "In-Situ",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Leibniz Institute of Polymer Research"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e42418dc1ade1aa4",
+  "title": "The thermal expansion coefficient of mechanically alloyed Al-Cu-Fe quasicrystalline powders",
+  "authors": [
+   "Alexander M. Korsunsky",
+   "Alexey I. Salimon",
+   "I. Pape",
+   "A. M. Polyakov",
+   "Andrew N. Fitch"
+  ],
+  "journal": "Scripta Materialia",
+  "publisher": "Elsevier BV",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1016/s1359-6462(00)00595-9",
+  "url": "https://doi.org/10.1016/s1359-6462(00)00595-9",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Oxford",
+   "Science Oxford",
+   "National University of Science and Technology",
+   "European Synchrotron Radiation Facility"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "c6ee9c970c8cd913",
   "title": "HREM observations of the synthesized process of nano-sized SiC by ball milling of Si and C mixed powders",
   "authors": [
@@ -211,6 +358,35 @@
   "relevance_score": 72,
   "affiliations": [
    "Universidade Federal de São Carlos"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "adb07aab87973f73",
+  "title": "Production of Al-Fe-Nb-Si Alloys by Mechanical Alloying and Hot Extrusion",
+  "authors": [
+   "Rodrigo Estevam Coelho",
+   "Francisco Ambrózio Filho"
+  ],
+  "journal": "Key engineering materials",
+  "publisher": "Trans Tech Publications",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.4028/www.scientific.net/kem.189-191.555",
+  "url": "https://doi.org/10.4028/www.scientific.net/kem.189-191.555",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Instituto Federal da Bahia",
+   "Centro Universitário FEI"
   ],
   "added": "2026-07-28"
  },
@@ -307,6 +483,35 @@
   "added": "2026-07-28"
  },
  {
+  "id": "9607025ec21ea46b",
+  "title": "Hydrogen evolution on hot and cold consolidated Ni–Mo alloys produced by mechanical alloying",
+  "authors": [
+   "P. Kędzierzawski",
+   "D. Oleszak",
+   "M. Janik-Czachor"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1016/s0921-5093(00)01672-5",
+  "url": "https://doi.org/10.1016/s0921-5093(00)01672-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institute of Physical Chemistry",
+   "Polish Academy of Sciences",
+   "Warsaw University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "9562ae6f43c1a880",
   "title": "Decomposition of Polytetrafluoroethylene by Grinding with Strontium Oxide",
   "authors": [
@@ -331,6 +536,63 @@
   ],
   "relevance_score": 67,
   "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8fbe7dcb7830a1c1",
+  "title": "Cu-Mo Alloys Obtained by Mechanical Alloying",
+  "authors": [
+   "J. Cornejo",
+   "Verónica Martínez",
+   "S. Ordóñez"
+  ],
+  "journal": "Key engineering materials",
+  "publisher": "Trans Tech Publications",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.4028/www.scientific.net/kem.189-191.561",
+  "url": "https://doi.org/10.4028/www.scientific.net/kem.189-191.561",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Santiago de Chile",
+   "Universidad Andrés Bello"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8c37077fe61b854d",
+  "title": "Mechanical alloying during cryomilling of a 5000 Al alloy/AlN powder: the effect of contamination",
+  "authors": [
+   "C. Goujon",
+   "Patrice Goeuriot",
+   "P. Delcroix",
+   "G. Le Caër"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1016/s0925-8388(00)01303-7",
+  "url": "https://doi.org/10.1016/s0925-8388(00)01303-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Mines Saint-Étienne",
+   "Centre National de la Recherche Scientifique"
+  ],
   "added": "2026-07-28"
  },
  {
@@ -392,6 +654,32 @@
   "added": "2026-07-28"
  },
  {
+  "id": "849bcb2877471f5c",
+  "title": "Thermal stability of nano-RuAl produced by mechanical alloying",
+  "authors": [
+   "K.W. Liu",
+   "Frank Mücklich"
+  ],
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1016/s1359-6454(00)00340-2",
+  "url": "https://doi.org/10.1016/s1359-6454(00)00340-2",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Saarland University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "75801962c723d6dc",
   "title": "Motor Proteins --- Mechanochemical Energy Transduction on the Microscopic Scale",
   "authors": [
@@ -412,6 +700,36 @@
   ],
   "relevance_score": 40,
   "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7341102245addb00",
+  "title": "Synthesis and properties of cubic zirconia–alumina composite by mechanical alloying",
+  "authors": [
+   "Namhee Kwon",
+   "Gyeung-Ho Kim",
+   "Hyunmi Song",
+   "Hong-Lim Lee"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1016/s0921-5093(00)01376-9",
+  "url": "https://doi.org/10.1016/s0921-5093(00)01376-9",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Yonsei University",
+   "Korea Institute of Ceramic Engineering and Technology",
+   "Korea Institute of Science and Technology"
+  ],
   "added": "2026-07-28"
  },
  {
@@ -444,6 +762,63 @@
    "Istituto Nazionale per la Fisica della Materia",
    "University of Bologna",
    "Ferrari (Italy)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "71b6482229f83c68",
+  "title": "Effect of addition of multifunctional monomers on one-step reactive extrusion of PP/PS blends",
+  "authors": [
+   "Xu-Ming Xie",
+   "Xiao Zheng"
+  ],
+  "journal": "Materials & Design (1980-2015)",
+  "publisher": "Elsevier BV",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1016/s0261-3069(00)00028-5",
+  "url": "https://doi.org/10.1016/s0261-3069(00)00028-5",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Tsinghua University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5bc78a0e62918833",
+  "title": "Study of Alpha-Sigma Phase Transformation in Mechanically Alloyed Fe-Cr-Sn Alloys",
+  "authors": [
+   "B. F. O. Costa",
+   "G. Le Ca�r",
+   "N. Ayres de Campos"
+  ],
+  "journal": "physica status solidi (a)",
+  "publisher": "Wiley",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1002/1521-396x(200102)183:2<235::aid-pssa235>3.0.co;2-z",
+  "url": "https://doi.org/10.1002/1521-396x(200102)183:2<235::aid-pssa235>3.0.co;2-z",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Phase Transformation"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Coimbra",
+   "Centre National de la Recherche Scientifique"
   ],
   "added": "2026-07-28"
  },
@@ -501,6 +876,36 @@
   "affiliations": [
    "University of Idaho",
    "UES (United States)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "44edbd5efa559138",
+  "title": "Structural evolution of the Ti70Ni15Al15 powders prepared by mechanical alloying",
+  "authors": [
+   "K.B. Kim",
+   "So Young Yi",
+   "S.H. Kim",
+   "W.T. Kim",
+   "D.H. Kim"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1016/s0921-5093(00)01473-8",
+  "url": "https://doi.org/10.1016/s0921-5093(00)01473-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Yonsei University",
+   "Chongshin University"
   ],
   "added": "2026-07-28"
  },
@@ -740,6 +1145,68 @@
   "relevance_score": 46,
   "affiliations": [
    "Institute of Synthetic Polymeric Materials"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0f6343b5ea83e0c7",
+  "title": "An analytical ultra-high vacuum tribometer: application to tribochemistry in metal rolling",
+  "authors": [
+   "Matthieu Boehm",
+   "C. Grossiord",
+   "Th. Le Mogne",
+   "J. M. Martin"
+  ],
+  "journal": "Revue de Métallurgie",
+  "publisher": "Dunod",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1051/metal:2001168",
+  "url": "https://doi.org/10.1051/metal:2001168",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Tribochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0f1134d5288152d5",
+  "title": "Solid solubility of carbon in copper mechanically alloyed",
+  "authors": [
+   "T. Yamane",
+   "Hirotaka Okubo",
+   "Koji Hisayuki",
+   "Nobuhiro Oki",
+   "Masaaki Konishi",
+   "M. Komatsu",
+   "Y. Minamino",
+   "Yuichiro Koizumi",
+   "M. Kiritani",
+   "S. J. Kim"
+  ],
+  "journal": "Journal of Materials Science Letters",
+  "publisher": "Springer Science+Business Media",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1023/a:1006701708039",
+  "url": "https://doi.org/10.1023/a:1006701708039",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hiroshima Institute of Technology",
+   "The University of Osaka",
+   "Kumoh National Institute of Technology"
   ],
   "added": "2026-07-28"
  },

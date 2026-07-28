@@ -1,5 +1,37 @@
 [
  {
+  "id": "d704616cfbb29608",
+  "title": "MATERIAL PROCESSING VIA AN INTEGRATED MECHANICAL AND THERMAL ACTIVATION PROCESS",
+  "authors": [
+   "Leon L. Shaw"
+  ],
+  "journal": "Materials and Manufacturing Processes",
+  "publisher": "Taylor & Francis",
+  "published": "2001-06-30",
+  "year": 2001,
+  "doi": "10.1081/amp-100107383",
+  "url": "https://doi.org/10.1081/amp-100107383",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Mechanism & Kinetics",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Amorphous Alloys",
+   "Mechanical Activation",
+   "Mechanical Alloying",
+   "Milling",
+   "Nanocrystalline",
+   "Nanostructured"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "University of Connecticut"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "a4532060045a7d64",
   "title": "Mechanochemical Solid-State Polymerization (X) : The Influence of Copolymer Structure in Copolymeric Prodrugs on the Nature of Drug Release.",
   "authors": [
@@ -51,6 +83,62 @@
   "affiliations": [
    "University of Maryland, College Park",
    "Rice University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8ec71dad92e106e5",
+  "title": "Study of compatibilization of HDPE–PET blends by adding grafted or statistical copolymers",
+  "authors": [
+   "N. Torres",
+   "Jean-Jacques Robin",
+   "B. Boutevin"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "2001-06-12",
+  "year": 2001,
+  "doi": "10.1002/app.1678",
+  "url": "https://doi.org/10.1002/app.1678",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Laboratoire de Chimie"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "56da537aafa7bd7a",
+  "title": "Reactive processing of polyethylenes on a single screw extruder",
+  "authors": [
+   "Sheela Kumari Isac",
+   "K. E. George"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "2001-06-12",
+  "year": 2001,
+  "doi": "10.1002/app.1695",
+  "url": "https://doi.org/10.1002/app.1695",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Cochin University of Science and Technology"
   ],
   "added": "2026-07-28"
  },
@@ -169,6 +257,35 @@
   "added": "2026-07-28"
  },
  {
+  "id": "648905c830035498",
+  "title": "Reactive extrusion of polycaprolactone compounds containing wood flour and lignin",
+  "authors": [
+   "Hansjörg Nitz",
+   "Hinnerk Semke",
+   "Rüdiger Landers",
+   "Rolf Mülhaupt"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "2001-06-06",
+  "year": 2001,
+  "doi": "10.1002/app.1628",
+  "url": "https://doi.org/10.1002/app.1628",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Freiburg"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "fd03f9c6398a084d",
   "title": "A Mechanistic Model for Ncd Directionality",
   "authors": [
@@ -224,6 +341,32 @@
   "affiliations": [
    "National University of Science and Technology",
    "Semenov Institute of Chemical Physics"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f711c34e2ee9ed45",
+  "title": "PET/R-PP/PC blends by two-stage reactive extrusion: effect of polypropylene reactively functionalized with an oxazoline group on morphology and mechanical properties",
+  "authors": [
+   "R. Jeziórska"
+  ],
+  "journal": "Macromolecular Symposia",
+  "publisher": "Wiley",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1002/1521-3900(200106)170:1<21::aid-masy21>3.0.co;2-f",
+  "url": "https://doi.org/10.1002/1521-3900(200106)170:1<21::aid-masy21>3.0.co;2-f",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Łukasiewicz Research Network - Industrial Chemistry Institute"
   ],
   "added": "2026-07-28"
  },
@@ -285,6 +428,61 @@
   "relevance_score": 72,
   "affiliations": [
    "Nanyang Technological University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e9190efe0c4659bb",
+  "title": "Electric discharge compaction of metal powders",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1016/s0026-0657(01)80333-7",
+  "url": "https://doi.org/10.1016/s0026-0657(01)80333-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanical Alloying",
+   "Metal Powders",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e683c9a7ce31e8b0",
+  "title": "Evaluation of properties and microstructure of non-heat treatable Al–Mg–Li–C–O alloys with variable Li concentration",
+  "authors": [
+   "W.J. Vine",
+   "P.D. Pitcher",
+   "Andrew Tarrant"
+  ],
+  "journal": "Materials Science and Technology",
+  "publisher": "Maney Publishing",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1179/026708301101510500",
+  "url": "https://doi.org/10.1179/026708301101510500",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Powder Metallurgy",
+   "Scale-up"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Defence Science and Technology Agency"
   ],
   "added": "2026-07-28"
  },
@@ -352,6 +550,36 @@
   "added": "2026-07-28"
  },
  {
+  "id": "da97ea26e7914f3f",
+  "title": "Glassy magnetic behavior in nanocrystalline mechanically alloyed Fe–W–Ag",
+  "authors": [
+   "J. A. De Toro",
+   "Miguel A. Arranz",
+   "Antonio J. Barbero",
+   "M. A. López de la Torre",
+   "José Manuel Suárez Riveiro"
+  ],
+  "journal": "Journal of Magnetism and Magnetic Materials",
+  "publisher": "Elsevier BV",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1016/s0304-8853(01)00159-7",
+  "url": "https://doi.org/10.1016/s0304-8853(01)00159-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Castilla-La Mancha"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "cca9fb5647c64c59",
   "title": "Optimization of the Ball-Milling Parameters for the Synthesis of Amorphous MgNi Alloy Used as Negative Electrode in Ni-MH Batteries",
   "authors": [
@@ -384,6 +612,31 @@
    "Hydro-Québec",
    "Université du Québec à Trois-Rivières"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c8935ddd0b9ed8ae",
+  "title": "Liquid phase sintering of compacts of elemental Al-Si-Cu powders",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1016/s0026-0657(01)80341-6",
+  "url": "https://doi.org/10.1016/s0026-0657(01)80341-6",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling",
+   "Nanoparticles",
+   "Nanostructured"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
@@ -516,6 +769,32 @@
   "added": "2026-07-28"
  },
  {
+  "id": "8a6ad14086ff47bb",
+  "title": "Mechanical alloying gaining ground in high-tech material development",
+  "authors": [
+   "Rohit Soni"
+  ],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1016/s0026-0657(01)80317-9",
+  "url": "https://doi.org/10.1016/s0026-0657(01)80317-9",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "74b82a9e22049c7e",
   "title": "Synthesis of Dense TiB 2 ‐TiN Nanocrystalline Composites through Mechanical and Field Activation",
   "authors": [
@@ -551,6 +830,37 @@
   "added": "2026-07-28"
  },
  {
+  "id": "6cf851170e65c38e",
+  "title": "Influences of oxide phases on the coercivity of mechanically alloyed multicomponent Fe-based amorphous alloys",
+  "authors": [
+   "Y.J Liu",
+   "I.T.H. Chang",
+   "M. R. Lees"
+  ],
+  "journal": "Scripta Materialia",
+  "publisher": "Elsevier BV",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1016/s1359-6462(01)00962-9",
+  "url": "https://doi.org/10.1016/s1359-6462(01)00962-9",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Amorphous Alloys",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Swansea University",
+   "University of Wales",
+   "University of Birmingham",
+   "University of Warwick"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "61c87f4d0a05197c",
   "title": "Mechanochemical Polymer Modification Using Vibratory and Ultrasonic Milling Technique",
   "authors": [
@@ -577,6 +887,42 @@
   "relevance_score": 61,
   "affiliations": [
    "Clausthal University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5ff4c4d125fd689f",
+  "title": "Synthesis of Nanocrystalline CaNi 5 -Based Alloys and Use for Metal Hydride Electrode",
+  "authors": [
+   "Guo Xian Liang",
+   "Stéphane Ruggeri",
+   "C. Lenain",
+   "Houshang Alamdari",
+   "Jacques Huot",
+   "Lionel Roué",
+   "Robert Schulz"
+  ],
+  "journal": "Journal of Metastable and Nanocrystalline Materials",
+  "publisher": "",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.4028/www.scientific.net/jmnm.11.71",
+  "url": "https://doi.org/10.4028/www.scientific.net/jmnm.11.71",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Hydrogen Storage",
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Hydro-Québec",
+   "Institut National de la Recherche Scientifique",
+   "Université Laval",
+   "Université du Québec à Trois-Rivières"
   ],
   "added": "2026-07-28"
  },
@@ -733,6 +1079,114 @@
   "added": "2026-07-28"
  },
  {
+  "id": "45ecaf817edb3e1e",
+  "title": "Structure and Magnetic Properties of Mechanically Alloyed Sm(Fe, Ti)7 Compounds and Their Nitrides",
+  "authors": [
+   "H. T. Kim"
+  ],
+  "journal": "Journal of Magnetics",
+  "publisher": "The Korean Magnetics Society",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "",
+  "url": "http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=E1MGAB_2001_v6n2_57",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "41e0426a70850e42",
+  "title": "On‐line ultrasonic measurements of methyl methacrylate polymerization for application to reactive extrusion",
+  "authors": [
+   "Christopher Kiehl",
+   "Lih-Long Chu",
+   "Keith Letz",
+   "Kyonsuku Min"
+  ],
+  "journal": "Polymer Engineering and Science",
+  "publisher": "Wiley",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1002/pen.10808",
+  "url": "https://doi.org/10.1002/pen.10808",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion",
+   "Ultrasonic"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Akron"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "3f19eac82a145379",
+  "title": "Structure and magnetic property of amorphous Fe-Ni particles prepared by mechanical alloying",
+  "authors": [
+   "Shiyue Xu",
+   "Zhengming He",
+   "Zhongcheng Wang",
+   "Zhengming Zhang",
+   "Jianhua Zhang",
+   "Minjian Zhong"
+  ],
+  "journal": "Journal of Shanghai University (English Edition)",
+  "publisher": "Springer Nature",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1007/s11741-001-0012-x",
+  "url": "https://doi.org/10.1007/s11741-001-0012-x",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Shanghai University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "3abf05ea49178462",
+  "title": "Mechanical properties of Fe-Cr prepared by mechanical alloying",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1016/s0026-0657(01)80343-x",
+  "url": "https://doi.org/10.1016/s0026-0657(01)80343-x",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling",
+   "Milling Parameters"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "35d762d81646f504",
   "title": "Characteristics of mechanical alloying of Zn-Al-based alloys",
   "authors": [
@@ -824,6 +1278,57 @@
   "added": "2026-07-28"
  },
  {
+  "id": "23d76d685b7999d6",
+  "title": "The influence of grain size and dispersoids on the quench hardening of a mechanically alloyed Fe-40Al intermetallic",
+  "authors": [
+   "M.A. Montealegre",
+   "M.A. Morris",
+   "J.L. González-Carrasco",
+   "D.G. Morris"
+  ],
+  "journal": "Scripta Materialia",
+  "publisher": "Elsevier BV",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1016/s1359-6462(01)00945-9",
+  "url": "https://doi.org/10.1016/s1359-6462(01)00945-9",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0d4151c428700f2b",
+  "title": "REACTIVE BLENDING OF INCOMPATIBLE POLYMER SYSTEMS CONTAINING POLYAMIDE AND PET",
+  "authors": [
+   "E. Haberstroh",
+   "Sven Prollius"
+  ],
+  "journal": "Journal of Polymer Engineering",
+  "publisher": "De Gruyter",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1515/polyeng.2001.21.2-3.239",
+  "url": "https://doi.org/10.1515/polyeng.2001.21.2-3.239",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
   "id": "0c858eabc993b36c",
   "title": "Synthesis and structural characteristics of LiCoO2 powders prepared by mechanical alloying of LiOH·H2O and Co(OH)2",
   "authors": [
@@ -846,6 +1351,138 @@
   "relevance_score": 46,
   "affiliations": [
    "Hanyang University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0c8538cc090831a3",
+  "title": "Mechanical alloying of FeNiCuMo powders in a planetary mill",
+  "authors": [
+   "R.C. Ivănuş"
+  ],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1016/s0026-0657(01)80391-x",
+  "url": "https://doi.org/10.1016/s0026-0657(01)80391-x",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanical Alloying",
+   "Phase Transformation",
+   "Planetary Mill"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Craiova"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0577fea783d7e09d",
+  "title": "Functionalization of isotactic polypropylene with maleic anhydride by reactive extrusion: mechanism of melt grafting",
+  "authors": [
+   "Dean Shi",
+   "Jinghui Yang",
+   "Zhanhai Yao",
+   "Yong Wang",
+   "Hongliang Huang",
+   "Jing Wu",
+   "Jinghua Yin",
+   "Giovanna Costa"
+  ],
+  "journal": "Polymer",
+  "publisher": "Elsevier BV",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1016/s0032-3861(01)00069-6",
+  "url": "https://doi.org/10.1016/s0032-3861(01)00069-6",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Changchun Institute of Applied Chemistry",
+   "State Key Laboratory of Polymer Physics and Chemistry",
+   "Istituto di Chimica Biomolecolare"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0264beee5ca8e4f5",
+  "title": "Crystallization of mechanically alloyed amorphous Zr-Al-Ni-Cu-Ag alloy",
+  "authors": [
+   "Qiansheng Zhang",
+   "H. F. Zhang",
+   "Keqiang Qiu",
+   "A. M. Wang",
+   "B.Z. Ding",
+   "Z.Q. Hu"
+  ],
+  "journal": "Journal of Materials Science Letters",
+  "publisher": "Springer Science+Business Media",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1023/a:1010979921727",
+  "url": "https://doi.org/10.1023/a:1010979921727",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Institute of Metal Research"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "004f3730d4fb7969",
+  "title": "Crystallochemical aspects of solid state reactions in mechanically alloyed Al–Cu–Fe quasicrystalline powders",
+  "authors": [
+   "Alexey I. Salimon",
+   "Alexander M. Korsunsky",
+   "Е.В. Шелехов",
+   "Т. А. Свиридова",
+   "S.D. Kaloshkin",
+   "VV Tcherdyntsev",
+   "Yu. V. Baldokhin"
+  ],
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "published": "2001-06-01",
+  "year": 2001,
+  "doi": "10.1016/s1359-6454(01)00077-5",
+  "url": "https://doi.org/10.1016/s1359-6454(01)00077-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Solid-State Reaction"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "National University of Science and Technology",
+   "University of Oxford",
+   "Science Oxford",
+   "Semenov Institute of Chemical Physics"
   ],
   "added": "2026-07-28"
  }

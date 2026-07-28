@@ -30,6 +30,38 @@
   "added": "2026-07-28"
  },
  {
+  "id": "483b791a51f74939",
+  "title": "Magnetic relaxation in the nanoscale granular alloy Fe 20 Cu 20 Ag 60",
+  "authors": [
+   "Daniel Ucko",
+   "Quentin A. Pankhurst",
+   "L. Fernández Barquı́n",
+   "J. Rodrı́guez Fernández",
+   "S. F. J. Cox"
+  ],
+  "journal": "Physical review. B, Condensed matter",
+  "publisher": "American Physical Society",
+  "published": "2001-08-23",
+  "year": 2001,
+  "doi": "10.1103/physrevb.64.104433",
+  "url": "https://doi.org/10.1103/physrevb.64.104433",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline",
+   "Synchrotron"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University College London"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "2654955096ef4fb8",
   "title": "Coercivity and squareness enhancement in ball-milled hard magnetic–antiferromagnetic composites",
   "authors": [
@@ -64,6 +96,65 @@
   "added": "2026-07-28"
  },
  {
+  "id": "d74d2f1555dd31f8",
+  "title": "Modification of Polyethylenes by Reactive Extrusion",
+  "authors": [
+   "Sheelakumari Isac"
+  ],
+  "journal": "INFLIBNET",
+  "publisher": "",
+  "published": "2001-08-18",
+  "year": 2001,
+  "doi": "",
+  "url": "https://dyuthi.cusat.ac.in/purl/2299",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "055f2888ce3c8af9",
+  "title": "Nonequilibrium magnetic dynamics in mechanically alloyed materials",
+  "authors": [
+   "J. A. De Toro",
+   "M. A. López de la Torre",
+   "Miguel A. Arranz",
+   "José Manuel Suárez Riveiro",
+   "J. L. Martı́nez",
+   "P. Palade",
+   "G. Filoti"
+  ],
+  "journal": "Physical review. B, Condensed matter",
+  "publisher": "American Physical Society",
+  "published": "2001-08-15",
+  "year": 2001,
+  "doi": "10.1103/physrevb.64.094438",
+  "url": "https://doi.org/10.1103/physrevb.64.094438",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "University of Castilla-La Mancha",
+   "Consejo Superior de Investigaciones Científicas",
+   "National Institute of Materials Physics"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "a7d9c08eb79702f6",
   "title": "The Reaction of Fullerene C 60 with Phthalazine: The Mechanochemical Solid-State Reaction Yielding a New C 60 Dimer versus the Liquid-Phase Reaction Affording an Open-Cage Fullerene",
   "authors": [
@@ -94,6 +185,38 @@
   "added": "2026-07-28"
  },
  {
+  "id": "fc768f6dbeb3568b",
+  "title": "RMS Strain 〈ε〉½ Variation Vs Grain Refining During Annealing of Co50Ti50 Synthesized By AM-SPS",
+  "authors": [
+   "R. Martínez-Sánchez",
+   "L. Béjar",
+   "Francisco Espinosa-Magaña",
+   "J. Gerardo Cabañas-Moreno",
+   "A. Duarte-Möller",
+   "S.D. De la Torre"
+  ],
+  "journal": "Microscopy and Microanalysis",
+  "publisher": "Oxford University Press",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1017/s1431927600032426",
+  "url": "https://doi.org/10.1017/s1431927600032426",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Centro de Investigación en Materiales Avanzados",
+   "Instituto Politécnico Nacional"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "f7c65c38b7a188cb",
   "title": "Study of the Process of Mechanochemical Activation to Obtain Aurivillius Oxides with n=1",
   "authors": [
@@ -118,6 +241,36 @@
   "relevance_score": 46,
   "affiliations": [
    "Instituto de Ciencia de Materiales de Madrid"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f527240ccac99644",
+  "title": "Grain Growth in the Nanocrystalline W–Cu and Cu–Pb Composite Powders Prepared by Mechanical Alloying",
+  "authors": [
+   "In Hyung Moon",
+   "Sung-Soo Ryu",
+   "Soon-Wook Kim",
+   "Dong Mook Won",
+   "Won Suck Jang"
+  ],
+  "journal": "International Journal of Materials Research (formerly Zeitschrift fuer Metallkunde)",
+  "publisher": "De Gruyter",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1515/ijmr-2001-0177",
+  "url": "https://doi.org/10.1515/ijmr-2001-0177",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Hanyang University"
   ],
   "added": "2026-07-28"
  },
@@ -187,6 +340,187 @@
   "added": "2026-07-28"
  },
  {
+  "id": "e6a626f21846b3a1",
+  "title": "Sliding behaviour of nanophased AISI M2 tool steel obtained by mechanomaking and hot isostatic pressing",
+  "authors": [
+   "Lorella Ceschini",
+   "V. Porcarelli",
+   "P. Matteazzi"
+  ],
+  "journal": "Materials Science and Technology",
+  "publisher": "Maney Publishing",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1179/026708301101510816",
+  "url": "https://doi.org/10.1179/026708301101510816",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanosynthesis",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Bologna",
+   "University of Udine"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e66c1b6bdcd1122e",
+  "title": "The study on the electrochemical performance of mechanically alloyed MgâTiâNi-based ternary and quaternary hydrogen storage electrode alloys",
+  "authors": [
+   "Yong Zhang"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1016/s0360-3199(01)00025-8",
+  "url": "https://doi.org/10.1016/s0360-3199(01)00025-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Hydrogen Storage",
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Zhejiang University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "cbfa06168cc5d14c",
+  "title": "Molecular characterization and rheological properties of modified poly(ethylene terephthalate) obtained by reactive extrusion",
+  "authors": [
+   "Quốc Tuần Nguyễn",
+   "Sonia Japon",
+   "A. Luciani",
+   "Y. Leterrier",
+   "Jan-Anders E. Månson"
+  ],
+  "journal": "Polymer Engineering and Science",
+  "publisher": "Wiley",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1002/pen.10830",
+  "url": "https://doi.org/10.1002/pen.10830",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9ed469a78a2bb3c3",
+  "title": "The invariant laws of the amorphization processes by mechanical alloying",
+  "authors": [
+   "Francesco Delogu",
+   "L. Schiffini",
+   "G. Cocco"
+  ],
+  "journal": "Philosophical magazine. A/Philosophical magazine. A. Physics of condensed matter. Structure, defects and mechanical properties",
+  "publisher": "Taylor & Francis",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1080/01418610010019107",
+  "url": "https://doi.org/10.1080/01418610010019107",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Cocrystals & Pharmaceutical Solids",
+   "Mechanism & Kinetics",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Amorphization",
+   "Impact Energy",
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Sassari",
+   "University of Cagliari"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9e9be9d80d524aee",
+  "title": "Dynamic deformation behavior of an oxide-dispersed tungsten heavy alloy fabricated by mechanical alloying",
+  "authors": [
+   "Sang-Hyun Park",
+   "Dong-Kuk Kim",
+   "Sunghak Lee",
+   "Ho Jin Ryu",
+   "Soon Hyung Hong"
+  ],
+  "journal": "Metallurgical and Materials Transactions A",
+  "publisher": "Springer Science+Business Media",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1007/s11661-001-0013-1",
+  "url": "https://doi.org/10.1007/s11661-001-0013-1",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Pohang University of Science and Technology",
+   "Pohang Iron and Steel (South Korea)",
+   "Korea Atomic Energy Research Institute",
+   "Korea Advanced Institute of Science and Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9d5077411eb11f05",
+  "title": "Isothermal Crystallization and Crystallization Morphology of Non-cross-linking Linear Low-density Polyethylene-grafted-acrylic acid",
+  "authors": [
+   "Zhanhai Yao",
+   "Yang Jinghui",
+   "Yin Jinghua"
+  ],
+  "journal": "International Journal of Polymeric Materials",
+  "publisher": "Taylor & Francis",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1080/00914030108035099",
+  "url": "https://doi.org/10.1080/00914030108035099",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Changchun Institute of Applied Chemistry",
+   "State Key Laboratory of Polymer Physics and Chemistry"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "9b58d3c8fbb62656",
   "title": "Localized amorphization in SiC induced by ball milling",
   "authors": [
@@ -244,6 +578,69 @@
   "added": "2026-07-28"
  },
  {
+  "id": "8fdf7dccbbda4d11",
+  "title": "Location of deuterium atoms absorbed in nanocrystalline graphite prepared by mechanical alloying",
+  "authors": [
+   "Toshiharu Fukunaga",
+   "Keiji Itoh",
+   "Shin-ichi Orimo",
+   "Masakazu Aoki",
+   "Hironobu Fujii"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1016/s0925-8388(01)01420-7",
+  "url": "https://doi.org/10.1016/s0925-8388(01)01420-7",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Kyoto University",
+   "Kyoto University of Education",
+   "Hiroshima University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8d465054bb9245c5",
+  "title": "Twin-screw extrusion of cassava starch and isolated soybean protein blends",
+  "authors": [
+   "Yoon Kil Chang",
+   "Jorge Minoru Hashimoto",
+   "R. Moura-Alcioli",
+   "Fernando Martínez-Bustos"
+  ],
+  "journal": "Food / Nahrung",
+  "publisher": "Wiley",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1002/1521-3803(20010801)45:4<234::aid-food234>3.0.co;2-r",
+  "url": "https://doi.org/10.1002/1521-3803(20010801)45:4<234::aid-food234>3.0.co;2-r",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Universidade Estadual de Campinas (UNICAMP)",
+   "Instituto de Tecnologia de Alimentos",
+   "Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "8248d08f2bc5fc27",
   "title": "Lead zirconate titanate ceramics derived from oxide mixture treated by a high-energy ball milling process",
   "authors": [
@@ -272,6 +669,42 @@
   "relevance_score": 72,
   "affiliations": [
    "Nanyang Technological University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "786870ec6cd91e86",
+  "title": "The Atmosphere and Milling Devices Effect on the Activation Energy for Crystallization of a Partially Amorphized Ni-MO Alloy",
+  "authors": [
+   "R. Martínez-Sánchez",
+   "I. Estrada-Guel",
+   "L. Béjar",
+   "Francisco Espinosa-Magaña",
+   "David Jaramillo Vigueras",
+   "A. Duarte-Möller",
+   "S.D. De la Torre"
+  ],
+  "journal": "Microscopy and Microanalysis",
+  "publisher": "Oxford University Press",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1017/s1431927600032438",
+  "url": "https://doi.org/10.1017/s1431927600032438",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Centro de Investigación en Materiales Avanzados",
+   "Instituto Politécnico Nacional"
   ],
   "added": "2026-07-28"
  },
@@ -305,6 +738,39 @@
    "Centre National de la Recherche Scientifique",
    "Université de Lille",
    "Laboratoire de Physique des Lasers, Atomes et Molécules"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5f0ec5887dbbc146",
+  "title": "Synthesis of Nanocrystalline B2 Structured (Ru, Ir) Al in the Ternary Ru–Al–Ir System by Mechanical Alloying and its Thermal Stability",
+  "authors": [
+   "K. W. Liu",
+   "Frank Mücklich",
+   "W. Pitschke",
+   "R. Birringer",
+   "K. Wetzig"
+  ],
+  "journal": "International Journal of Materials Research (formerly Zeitschrift fuer Metallkunde)",
+  "publisher": "De Gruyter",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1515/ijmr-2001-0168",
+  "url": "https://doi.org/10.1515/ijmr-2001-0168",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Milling",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Saarland University",
+   "Leibniz Institute for Solid State and Materials Research"
   ],
   "added": "2026-07-28"
  },
@@ -364,6 +830,36 @@
   "added": "2026-07-28"
  },
  {
+  "id": "2b72a75e1d38f5d6",
+  "title": "Stability of ferromagnetism in FCC Fe–Cu–Au alloys prepared by mechanical alloying",
+  "authors": [
+   "Hidetoshi Ino",
+   "Masayuki Kincho",
+   "K. Oda",
+   "Kazuto Tokumitsu"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1016/s0921-5093(00)01868-2",
+  "url": "https://doi.org/10.1016/s0921-5093(00)01868-2",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hosei University",
+   "Tokyo University of Science",
+   "The University of Tokyo"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "20bc62cc9069631c",
   "title": "Mechanism of mechanical crystallization of amorphous Fe–Mo–Si–B alloy",
   "authors": [
@@ -395,6 +891,37 @@
   "affiliations": [
    "National University of Singapore",
    "Jilin University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "1e135bf92adbb4c1",
+  "title": "Formation of nanocrystalline B2-structured (Ru,Ni)Al in the ternary Ru–Al–Ni system by mechanical alloying and its thermal stability",
+  "authors": [
+   "K.W Liu",
+   "Frank Mücklich",
+   "W. Pitschke",
+   "R. Birringer",
+   "K. Wetzig"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1016/s0921-5093(00)02039-6",
+  "url": "https://doi.org/10.1016/s0921-5093(00)02039-6",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanical Alloying",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Saarland University",
+   "Leibniz Institute for Solid State and Materials Research"
   ],
   "added": "2026-07-28"
  },
