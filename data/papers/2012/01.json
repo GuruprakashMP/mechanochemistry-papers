@@ -1922,6 +1922,36 @@
   "added": "2026-07-28"
  },
  {
+  "id": "60eacac0e90ba07d",
+  "title": "Mechanosynthesis of supersaturated solid solutions of Sn in near-equiatomic bcc FeCo",
+  "authors": [
+   "J Loureiro",
+   "B. F. O. Costa",
+   "G. Le Caër"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2012-01-06",
+  "year": 2012,
+  "doi": "10.1016/j.jallcom.2011.12.036",
+  "url": "https://doi.org/10.1016/j.jallcom.2011.12.036",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Coimbra",
+   "Centre National de la Recherche Scientifique",
+   "Institut de Physique de Rennes",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "e1207be4401baf65",
   "title": "Ball-milled NaA zeolite seeds with submicron size for growth of NaA zeolite membranes",
   "authors": [
@@ -15260,6 +15290,45 @@
   "added": "2026-07-28"
  },
  {
+  "id": "595013e53f8497ff",
+  "title": "Nanostructured BiMnO3+δ obtained at ambient pressure: analysis of its multiferroicity",
+  "authors": [
+   "A. Castro",
+   "Covadonga Correas",
+   "Octavio Peña",
+   "A.R. Landa-Cánovas",
+   "Miguel Algueró",
+   "Harvey Amorín",
+   "Mickaël Dollé",
+   "E. Vila",
+   "Teresa Hungrı́a"
+  ],
+  "journal": "Journal of Materials Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2012-01-01",
+  "year": 2012,
+  "doi": "10.1039/c2jm15991k",
+  "url": "https://doi.org/10.1039/c2jm15991k",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanosynthesis",
+   "Nanocrystalline",
+   "Nanostructured"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Instituto de Ciencia de Materiales de Madrid",
+   "Institut des Sciences Chimiques de Rennes",
+   "Université de Rennes",
+   "Centre National de la Recherche Scientifique",
+   "Centre d’Élaboration de Matériaux et d’Études Structurales"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "58dfd2a984962b37",
   "title": "SOFT SENSOR MODELING OF MILL LOAD BASED ON FEATURE SELECTION USING SYNERGY INTERVAL PLS",
   "authors": [
@@ -17696,6 +17765,35 @@
   "added": "2026-07-28"
  },
  {
+  "id": "3f16a34b5f2009ce",
+  "title": "Mechanosynthesis of solid electrolytes for lithium-ion batteries — Li ion transport properties of garnet-type Al-doped Li7La3Zr2O12",
+  "authors": [
+   "André Düvel",
+   "Alexander Kuhn",
+   "L. Robben",
+   "Martin Wilkening",
+   "Paul Heitjans"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2012-01-01",
+  "year": 2012,
+  "doi": "",
+  "url": "https://graz.pure.elsevier.com/en/publications/mechanosynthesis-of-solid-electrolytes-for-lithium-ion-batteries-",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Leibniz University Hannover"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "3ef943f96c273257",
   "title": "Mechanical-chemical synthesis Ba0.77Sr0.23TiO3",
   "authors": [
@@ -18735,6 +18833,50 @@
   "affiliations": [
    "Sharif University of Technology",
    "Materials and Energy Research Center"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "32c1913b24de274a",
+  "title": "Mechanosynthesis of nanocrystalline fayalite, Fe2SiO4",
+  "authors": [
+   "V. Šepelák",
+   "M. Myndyk",
+   "Martin Fábian",
+   "Klebson Lucenildo Da Silva",
+   "Armin Feldhoff",
+   "Dirk Мenzel",
+   "M. Ghafari",
+   "Horst Hahn",
+   "Paul Heitjans",
+   "Klaus Dieter Becker"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2012-01-01",
+  "year": 2012,
+  "doi": "10.1039/c2cc36370d",
+  "url": "https://doi.org/10.1039/c2cc36370d",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanosynthesis",
+   "Nanocrystalline",
+   "Nanoparticles",
+   "Nanostructured"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Karlsruhe Institute of Technology",
+   "Leibniz University Hannover",
+   "Institute of Nanotechnology",
+   "Technische Universität Dresden",
+   "Slovak Academy of Sciences",
+   "Institute of Geotechnics of the Slovak Academy of Sciences",
+   "Universidade Estadual de Maringá",
+   "Technische Universität Braunschweig"
   ],
   "added": "2026-07-28"
  },
@@ -20285,6 +20427,35 @@
   "affiliations": [
    "Yancheng Institute of Technology"
   ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "17f06c271222a26f",
+  "title": "Structural Stability of Clean and Passivated Nanodiamonds having Ledge, Step, or Corner Features",
+  "authors": [
+   "Denis Tarasov",
+   "Ekaterina Izotova",
+   "Diana Alisheva",
+   "Н. И. Акберова",
+   "Robert A. Freitas"
+  ],
+  "journal": "Journal of Computational and Theoretical Nanoscience",
+  "publisher": "American Scientific Publishers",
+  "published": "2012-01-01",
+  "year": 2012,
+  "doi": "10.1166/jctn.2012.2009",
+  "url": "https://doi.org/10.1166/jctn.2012.2009",
+  "source": "openalex",
+  "categories": [
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "DFT",
+   "Mechanosynthesis",
+   "Molecular Dynamics"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
   "added": "2026-07-28"
  },
  {
