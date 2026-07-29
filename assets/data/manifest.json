@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-28 23:11 UTC",
- "total": 63301,
+ "generated": "2026-07-29 00:52 UTC",
+ "total": 63652,
  "years": [
   {
    "year": 2026,
@@ -244,8 +244,53 @@
   },
   {
    "year": 1978,
-   "count": 28,
+   "count": 34,
    "file": "papers-1978.json"
+  },
+  {
+   "year": 1977,
+   "count": 47,
+   "file": "papers-1977.json"
+  },
+  {
+   "year": 1976,
+   "count": 40,
+   "file": "papers-1976.json"
+  },
+  {
+   "year": 1975,
+   "count": 32,
+   "file": "papers-1975.json"
+  },
+  {
+   "year": 1974,
+   "count": 39,
+   "file": "papers-1974.json"
+  },
+  {
+   "year": 1973,
+   "count": 41,
+   "file": "papers-1973.json"
+  },
+  {
+   "year": 1972,
+   "count": 40,
+   "file": "papers-1972.json"
+  },
+  {
+   "year": 1971,
+   "count": 41,
+   "file": "papers-1971.json"
+  },
+  {
+   "year": 1970,
+   "count": 38,
+   "file": "papers-1970.json"
+  },
+  {
+   "year": 1969,
+   "count": 27,
+   "file": "papers-1969.json"
   }
  ]
 }
