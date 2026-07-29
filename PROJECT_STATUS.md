@@ -1,6 +1,6 @@
 # Project Status
 
-_Last updated: 2026-07-27 (initial build)_
+_Last updated: 2026-07-29 (backfill complete: 63,827 papers)_
 
 ## Completed
 
@@ -20,13 +20,18 @@ _Last updated: 2026-07-27 (initial build)_
       Hanusa, Suslick, Kubota, Ito, Borchardt, Colacino, Crawford, Jones,
       Emmerling, Halasz, Boldyreva, Boldyrev, Balaz, Hernandez, Garcia,
       Stolle, Wang, Browne, Porcheddu
-- [x] Unit tests adapted to the domain and passing
-
-## In progress
-
-- [ ] First live pipeline run + relevance inspection
-- [ ] Publish repo `GuruprakashMP/mechanochemistry-papers`, enable Pages
-- [ ] Historical backfill 1960→2026 via year-batched workflow runs
+- [x] Unit tests adapted to the domain and passing (40 tests)
+- [x] First live pipeline run + relevance inspection (caught/fixed a
+      mechanobiology false positive: single incidental "mechanochemical
+      sensor" in glycocalyx/virology abstracts now penalised out)
+- [x] Published: repo `GuruprakashMP/mechanochemistry-papers`, GitHub Pages
+      live at https://guruprakashmp.github.io/mechanochemistry-papers/
+- [x] Daily workflow at 05:00 UTC collects, classifies, rebuilds, commits
+      (verified green end-to-end in CI)
+- [x] **Historical backfill 1960→2026 COMPLETE (2026-07-29): 63,827 papers**
+      across ~20 year-batched workflow runs driven by a local monitor, plus
+      the full pioneer sweep (+838). Every year confirmed clean (INCOMPLETE
+      years auto-re-run from the committed fetch-side checkpoint).
 
 ## Ongoing (automatic, no maintenance)
 
