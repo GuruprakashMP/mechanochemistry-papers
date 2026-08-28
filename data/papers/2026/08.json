@@ -1,5 +1,72 @@
 [
  {
+  "id": "a9c64707df051cdd",
+  "title": "Influence of flow-type-dependent matrix rheology on droplet breakup in twin-screw extruded polymer blends",
+  "authors": [
+   "Michele Giglio",
+   "Gaetano D’Avino",
+   "Massimiliano M. Villone",
+   "Gianni Marchetti",
+   "Pier Luca Maffettone"
+  ],
+  "journal": "Rheologica Acta",
+  "publisher": "Springer Science+Business Media",
+  "published": "2026-08-28",
+  "year": 2026,
+  "doi": "10.1007/s00397-026-01596-1",
+  "url": "https://doi.org/10.1007/s00397-026-01596-1",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-08-28"
+ },
+ {
+  "id": "eab639a152462af6",
+  "title": "Mechanochemical pyrophosphate bond formation en route to 7-methylguanosine mRNA cap analogs",
+  "authors": [
+   "Barbara Seroka",
+   "Bartosz Majewski",
+   "Michał Sienkiewicz",
+   "Karol Wolosewicz",
+   "Mikołaj Chromiński",
+   "Jacek Jemielity",
+   "Joanna Kowalska",
+   "Marek R. Baranowski",
+   "Ryszard Łaźny"
+  ],
+  "journal": "Scientific Reports",
+  "publisher": "Nature Portfolio",
+  "published": "2026-08-27",
+  "year": 2026,
+  "doi": "10.1038/s41598-026-68056-x",
+  "url": "https://doi.org/10.1038/s41598-026-68056-x",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling",
+   "Solvent-Free"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Białystok",
+   "Century Therapeutics (United States)",
+   "United Technologies Corporation (Poland)",
+   "University of Warsaw"
+  ],
+  "added": "2026-08-28"
+ },
+ {
   "id": "986e103fc10b4ded",
   "title": "Mechanochemical Integration of Incompatible Reaction Environments for the One-Pot Synthesis of Structurally Diverse N-Heterocycles.",
   "authors": [
@@ -31,6 +98,166 @@
   "relevance_score": 86,
   "affiliations": [],
   "added": "2026-08-13"
+ },
+ {
+  "id": "90a3ee154bf66524",
+  "title": "The Effect of Ligand Reactivity and Carrier Mechanics on Thiol-Mediated Cellular Uptake for miRNA Nano-Drugs.",
+  "authors": [
+   "Zhuang Zhang",
+   "Hui Wang",
+   "Hao Zhang",
+   "Zhenkuan Cao",
+   "Zehui Liu",
+   "Siying Li",
+   "Hongda Wang",
+   "Yuping Shan"
+  ],
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "publisher": "",
+  "published": "2026-08-27",
+  "year": 2026,
+  "doi": "10.1002/advs.77389",
+  "url": "https://doi.org/10.1002/advs.77389",
+  "source": "pubmed",
+  "categories": [
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Molecular Dynamics"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-08-28"
+ },
+ {
+  "id": "89f3ef6707f8740f",
+  "title": "Квантово-топологический морфогенез: Синтез биоэлектрических кодов Левина и автоволновой механохимии Белинцева в парадигме Панхондриома / Quantum-Topological Morphogenesis: Synthesis of Levin's Bioelectric Codes and Belintsev's Autowave Mechanochemistry within the Panchondriome Paradigm",
+  "authors": [
+   "Konstantin D. Pisarenko"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-08-27",
+  "year": 2026,
+  "doi": "10.5281/zenodo.22134118",
+  "url": "https://doi.org/10.5281/zenodo.22134118",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-08-28"
+ },
+ {
+  "id": "7521f2a136a33d86",
+  "title": "Maximizing Active Site Density in Tin Single‐Site Catalysts for Selective Carbon Dioxide to Formate Electroreduction",
+  "authors": [
+   "Katharina Potemkin",
+   "Soressa Abera Chala",
+   "Chia-Yu Chang",
+   "Keseven Lakshmanan",
+   "Meng-Che Tsai",
+   "Tobias Rios Studer",
+   "Elnaz Ebrahimi",
+   "Nico Achenbach",
+   "Rongji Liu",
+   "Johannes Biskupek",
+   "Ute Kaiser",
+   "Bing-Joe Hwang",
+   "Carsten Streb"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-08-27",
+  "year": 2026,
+  "doi": "10.1002/anie.7872408",
+  "url": "https://doi.org/10.1002/anie.7872408",
+  "source": "openalex",
+  "categories": [
+   "Computational & Data-Driven",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "DFT",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "National Taiwan University of Science and Technology",
+   "National University of Tainan",
+   "Technische Hochschule Ulm",
+   "National Synchrotron Radiation Research Center"
+  ],
+  "added": "2026-08-28"
+ },
+ {
+  "id": "fd02c6666db1e062",
+  "title": "PBAT-Based Biodegradable Foams as Lightweight Alternatives to Expanded Polystyrene: Effect of Blend Composition on Rheology, Foaming Behavior and Cellular Morphology",
+  "authors": [
+   "Desole Maria Pia",
+   "Gianluca Palangio",
+   "Annamaria Gisario",
+   "M. Barletta"
+  ],
+  "journal": "Sustainability",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-08-26",
+  "year": 2026,
+  "doi": "10.3390/su18178748",
+  "url": "https://doi.org/10.3390/su18178748",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Sapienza University of Rome",
+   "Da Volterra (France)"
+  ],
+  "added": "2026-08-28"
+ },
+ {
+  "id": "db4bef0f44847d95",
+  "title": "Mechanochemical Synthesis, Electronic Structure, and Photovoltaic Potential of Lead-Free Hybrid Halocobaltates (CH3NH3)2CoX4 (X = Cl, Br)",
+  "authors": [
+   "Pablo Garrido",
+   "Karem Gallardo",
+   "Rodrigo Castillo"
+  ],
+  "journal": "Inorganics",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-08-26",
+  "year": 2026,
+  "doi": "10.3390/inorganics14090229",
+  "url": "https://doi.org/10.3390/inorganics14090229",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "PXRD",
+   "Solvent-Free"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Universidad Católica del Norte",
+   "Universidad Autónoma de Chile",
+   "Pontificia Universidad Católica de Chile"
+  ],
+  "added": "2026-08-28"
  },
  {
   "id": "cf3a862274356e04",
@@ -95,6 +322,89 @@
   "added": "2026-08-27"
  },
  {
+  "id": "af2da70e9b9d4f6e",
+  "title": "Resonant Acoustic Mixing for Sustainable Mechanochemical Organic Synthesis and Catalysis: Method Development and Applications",
+  "authors": [
+   "Alice Nanni"
+  ],
+  "journal": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
+  "publisher": "King Abdullah University of Science and Technology",
+  "published": "2026-08-26",
+  "year": 2026,
+  "doi": "10.25781/kaust-xx7s6",
+  "url": "https://doi.org/10.25781/kaust-xx7s6",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Scale-up",
+   "Green & Solvent-Free Chemistry",
+   "Organic Mechanosynthesis",
+   "Computational & Data-Driven",
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Amide Bond Formation",
+   "Catalyst",
+   "Cross-Coupling",
+   "High-Throughput",
+   "In-Situ",
+   "Mechanochemistry",
+   "Milling",
+   "Organic Synthesis",
+   "Peptide Synthesis",
+   "Resonant Acoustic Mixing",
+   "Scale-up",
+   "Solvent-Free"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "King Abdullah University of Science and Technology"
+  ],
+  "added": "2026-08-28"
+ },
+ {
+  "id": "8a7896c88e469266",
+  "title": "Heterophase Engineering of Mechanochemically‐Synthesised All‐Inorganic Ternary Copper Iodide for Tuneable White Light Emission",
+  "authors": [
+   "Jaeyoon Cho",
+   "Yongjin Kim",
+   "Jae Il Kim",
+   "Woo Hyeon Jeong",
+   "Fan-Cheng Kong",
+   "Jeongjae Lee",
+   "Kyeong-Yoon Baek",
+   "Hyeonmin Choi",
+   "Takhee Lee",
+   "Philip C. Y. Chow",
+   "Bo Ram Lee",
+   "Keehoon Kang"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2026-08-26",
+  "year": 2026,
+  "doi": "10.1002/adfm.77963",
+  "url": "https://doi.org/10.1002/adfm.77963",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling",
+   "Milling Parameters"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Seoul National University",
+   "Sungkyunkwan University",
+   "University of Hong Kong",
+   "Harvard University Press"
+  ],
+  "added": "2026-08-28"
+ },
+ {
   "id": "7e6701e325b51e32",
   "title": "Bright broadband red-emitting antimony-based halide with a seesaw configuration toward white light-emitting diodes.",
   "authors": [
@@ -153,6 +463,68 @@
   "relevance_score": 50,
   "affiliations": [],
   "added": "2026-08-27"
+ },
+ {
+  "id": "421b752cd027e612",
+  "title": "pH-regulated surface chemistry of nano-biochar for selective silver ion reduction: the pivotal role of superoxide radicals",
+  "authors": [
+   "Shiguo Gu",
+   "Dandan Wang",
+   "Tongtong Wang",
+   "Wei Zhu"
+  ],
+  "journal": "Biochar",
+  "publisher": "",
+  "published": "2026-08-26",
+  "year": 2026,
+  "doi": "10.1007/s42773-026-00651-7",
+  "url": "https://doi.org/10.1007/s42773-026-00651-7",
+  "source": "semanticscholar",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling",
+   "Nanoparticles"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-08-28"
+ },
+ {
+  "id": "3153d31ca58124e5",
+  "title": "Milled to order: toward predictive mechanochemistry of halide perovskites",
+  "authors": [
+   "Susan A. Rigter",
+   "Loreta A. Muscarella"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-08-26",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2608.26312v1",
+  "source": "arxiv",
+  "categories": [
+   "Mechanism & Kinetics",
+   "Green & Solvent-Free Chemistry",
+   "Mechanical Alloying & Materials",
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanical Activation",
+   "Mechanochemistry",
+   "Milling",
+   "Perovskites",
+   "Solvent-Free"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-08-28"
  },
  {
   "id": "e2565dbf397344d0",
