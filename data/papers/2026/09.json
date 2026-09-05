@@ -31,6 +31,104 @@
   "added": "2026-09-01"
  },
  {
+  "id": "5a7ef690fc48f3d5",
+  "title": "Mechanochemical Synthesis of Flexible Ionic Covalent Organic Frameworks With Antibacterial Activity.",
+  "authors": [
+   "Chiming Li",
+   "Renliang Wang",
+   "Rujian Jiang",
+   "Zeyang Li",
+   "Xianyin Dai",
+   "Zhehao Yuan",
+   "Yinghua Jin",
+   "Yanqing Ge",
+   "Wei Zhang"
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-09-04",
+  "year": 2026,
+  "doi": "10.1002/anie.5966944",
+  "url": "https://doi.org/10.1002/anie.5966944",
+  "source": "pubmed",
+  "categories": [
+   "MOF & Framework Mechanosynthesis",
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "COFs",
+   "Mechanochemistry",
+   "Solvent-Free"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-09-05"
+ },
+ {
+  "id": "05803fc1845e0fd3",
+  "title": "Sustainable MOFs from waste PET: bridging polymer recycling with advanced material applications",
+  "authors": [
+   "Qingshan Yang",
+   "Chongwen Ran",
+   "Yanshen Gao",
+   "Yumeng Hua",
+   "Chaolei Liu",
+   "Shuang Xia",
+   "Shiyun Li",
+   "Xuecheng Chen"
+  ],
+  "journal": "Greenverse Science",
+  "publisher": "",
+  "published": "2026-09-04",
+  "year": 2026,
+  "doi": "10.20517/greenvsci.2026.16",
+  "url": "https://doi.org/10.20517/greenvsci.2026.16",
+  "source": "openalex",
+  "categories": [
+   "MOF & Framework Mechanosynthesis",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "MOFs",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-09-05"
+ },
+ {
+  "id": "da32cedc147c416d",
+  "title": "Repeated Thermomechanical Reprocessing of PA6/Graphene Nanoplatelets Nanocomposites",
+  "authors": [
+   "Sarab Ahmed",
+   "Ian A. Kinloch",
+   "Mark A. Bissett"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-03",
+  "year": 2026,
+  "doi": "10.1021/acssuschemeng.6c07214",
+  "url": "https://doi.org/10.1021/acssuschemeng.6c07214",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Extrusion",
+   "Grinding",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Manchester",
+   "Henry Royce Institute"
+  ],
+  "added": "2026-09-05"
+ },
+ {
   "id": "a6a391d343113ab9",
   "title": "Liquid Metal-Assisted Large-Scale Exfoliation of Boron Nanosheet for High-Performance CO2 Electroreduction.",
   "authors": [
@@ -64,6 +162,35 @@
   "added": "2026-09-04"
  },
  {
+  "id": "7e7a9bea93bc2617",
+  "title": "Melt Quenching Process for the Synthesis of Na5MSi4O12-Type Compounds, Sodium-Ion Conducting Solid Electrolytes",
+  "authors": [
+   "Anna Michalak",
+   "Urvashi Urvashi",
+   "M. Anji Reddy"
+  ],
+  "journal": "ACS Omega",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-03",
+  "year": 2026,
+  "doi": "10.1021/acsomega.6c08181",
+  "url": "https://doi.org/10.1021/acsomega.6c08181",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling",
+   "Solid-State Synthesis"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Swansea University"
+  ],
+  "added": "2026-09-05"
+ },
+ {
   "id": "6d6b0b7b6e4c3c65",
   "title": "Synthesis-controlled structure-kinetics relationships in Ti 3 C 2 T x /ZIF-67 MXene-MOF hybrids for electrochemical energy storage.",
   "authors": [
@@ -88,6 +215,33 @@
   "relevance_score": 51,
   "affiliations": [],
   "added": "2026-09-04"
+ },
+ {
+  "id": "45a4d576f377bd0c",
+  "title": "Introduction to Atomic Force Microscopy and Its Applications in Mechanochemistry and Tribochemistry",
+  "authors": [
+   "Yuguang Cai",
+   "James Batteas"
+  ],
+  "journal": "Elsevier eBooks",
+  "publisher": "Elsevier BV",
+  "published": "2026-09-03",
+  "year": 2026,
+  "doi": "10.1016/b978-0-443-30138-4.00119-9",
+  "url": "https://doi.org/10.1016/b978-0-443-30138-4.00119-9",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Tribochemistry"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Texas A&M University"
+  ],
+  "added": "2026-09-05"
  },
  {
   "id": "3fe12c730f0495a0",
@@ -119,6 +273,38 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-09-04"
+ },
+ {
+  "id": "7911e1f678521adf",
+  "title": "Catalyst Identity Matters: Molecular Ag(I)–BIAN Complexes Outperform Ag Nanoparticles in High-Current CO2 Electroreduction",
+  "authors": [
+   "Sankitkumar Vala",
+   "Dominik Krisch",
+   "David Pilz",
+   "Simon Offenthaler",
+   "Wolfgang Schoefberger"
+  ],
+  "journal": "ACS Omega",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-02",
+  "year": 2026,
+  "doi": "10.1021/acsomega.6c02628",
+  "url": "https://doi.org/10.1021/acsomega.6c02628",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanochemistry",
+   "Nanoparticles"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Johannes Kepler University of Linz"
+  ],
+  "added": "2026-09-05"
  },
  {
   "id": "1e17d6b12b888c6f",
