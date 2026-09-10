@@ -31,6 +31,34 @@
   "added": "2026-09-01"
  },
  {
+  "id": "0f4ec7c35651414a",
+  "title": "Mechanochemical Unzipping and Force-Free Rezipping of Poly(endo-tricyclodecadiene) via Cascade Radical Reactivity.",
+  "authors": [
+   "Vittal Bhat",
+   "Ke Zheng",
+   "Ulysse J Gross",
+   "Yan Xia"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "",
+  "published": "2026-09-09",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c13644",
+  "url": "https://doi.org/10.1021/jacs.6c13644",
+  "source": "pubmed",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Mechanophores",
+   "Polymer Mechanochemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-09-10"
+ },
+ {
   "id": "f083595a9284bd7c",
   "title": "Solvent-free mechanochemical synthesis of superabsorbent polymers derived from paramylon and zein.",
   "authors": [
@@ -63,6 +91,168 @@
   "relevance_score": 61,
   "affiliations": [],
   "added": "2026-09-09"
+ },
+ {
+  "id": "e831ae817db4279d",
+  "title": "Redox-Modulated σ-Bond Reactivity in a Radical-Anion Dimer.",
+  "authors": [
+   "Bhatta SR",
+   "Gillen JH",
+   "Jayaweera AT",
+   "Hasan F",
+   "Merenkov DP",
+   "Zhao H",
+   "Asgari S",
+   "Winter AH",
+   "Bejger CM."
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-09-08",
+  "year": 2026,
+  "doi": "10.1002/anie.1174732",
+  "url": "https://doi.org/10.1002/anie.1174732",
+  "source": "europepmc",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "Ball Milling",
+   "DFT",
+   "Milling"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-09-10"
+ },
+ {
+  "id": "bc78c10136a17035",
+  "title": "Terahertz Spectroscopic Characterization of a Daidzein-Piperazine Crystalline Solid Form Prepared by Liquid-Assisted Grinding",
+  "authors": [
+   "Zhipeng Wang",
+   "Haofei Sun",
+   "Hailin Cui",
+   "Shengbo Zhang",
+   "Bo Su",
+   "Cunlin Zhang"
+  ],
+  "journal": "Applied Sciences",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-09-08",
+  "year": 2026,
+  "doi": "10.3390/app16188902",
+  "url": "https://doi.org/10.3390/app16188902",
+  "source": "openalex",
+  "categories": [
+   "Liquid-Assisted Grinding",
+   "Ball Milling & Grinding",
+   "Computational & Data-Driven",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "DFT",
+   "Grinding",
+   "Liquid-Assisted Grinding",
+   "PXRD"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Ministry of Education of the People's Republic of China",
+   "Capital Normal University"
+  ],
+  "added": "2026-09-10"
+ },
+ {
+  "id": "645d1abb5eec9dad",
+  "title": "Synthesis methods effects on performance and aging of cobalt-free (CrMnFeNiAl)3O4 high-entropy oxide nanoparticles as lithium-ion battery anodes",
+  "authors": [
+   "Maryam Hemmati Saznaghi",
+   "Kamran Dehghani",
+   "Sepideh Amjad-Iranagh",
+   "Aliasghar Sadeghi Ghazvini"
+  ],
+  "journal": "Scientific Reports",
+  "publisher": "Nature Portfolio",
+  "published": "2026-09-08",
+  "year": 2026,
+  "doi": "10.1038/s41598-026-70351-6",
+  "url": "https://doi.org/10.1038/s41598-026-70351-6",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Nanoparticles"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Amirkabir University of Technology",
+   "Tarbiat Modares University"
+  ],
+  "added": "2026-09-10"
+ },
+ {
+  "id": "49bedb7fac2f41ce",
+  "title": "Recent Progress in Mechanochemical Organocatalysis",
+  "authors": [
+   "Tibor Peňaška",
+   "Zuzana Mravíková",
+   "Mária Mečiarová",
+   "Radovan Šebesta"
+  ],
+  "journal": "European Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2026-09-08",
+  "year": 2026,
+  "doi": "10.1002/ejoc.70836",
+  "url": "https://doi.org/10.1002/ejoc.70836",
+  "source": "openalex",
+  "categories": [
+   "Organic Mechanosynthesis",
+   "Ball Milling & Grinding",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Aldol Reaction",
+   "Catalyst",
+   "Grinding",
+   "Heterocycle Synthesis",
+   "Mechanochemistry",
+   "Milling",
+   "Organic Synthesis",
+   "Organocatalysis"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Comenius University Bratislava"
+  ],
+  "added": "2026-09-10"
+ },
+ {
+  "id": "2269223218a35f59",
+  "title": "Breathing and moving vesicles in a geometric mechanochemical model",
+  "authors": [
+   "Alexander Meiners",
+   "Hannes Uecker"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-09-08",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2609.09360v1",
+  "source": "arxiv",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-09-10"
  },
  {
   "id": "07816cb8654b197c",
@@ -198,6 +388,43 @@
   "added": "2026-09-08"
  },
  {
+  "id": "863dac8b5725de92",
+  "title": "Reactive Molecular Dynamics Simulations of Mechanochemical Ammonia Production",
+  "authors": [
+   "Muhammad Aulia Rahman",
+   "Daniele Dini",
+   "James Ewen"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-09-07",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15008447/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15008447/v1",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanocatalysis & Mechanoredox",
+   "Computational & Data-Driven",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Catalyst",
+   "Mechanocatalysis",
+   "Mechanochemistry",
+   "Molecular Dynamics",
+   "Scale-up"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "Universitas Gadjah Mada",
+   "Imperial College London",
+   "University of Bath"
+  ],
+  "added": "2026-09-10"
+ },
+ {
   "id": "2393fda44139ab39",
   "title": "A Modular Tecton Matrix for Mechanosynthesis of Large-Pore Hydrogen-Bonded Organic Frameworks With Programmable Pore Environments.",
   "authors": [
@@ -223,6 +450,38 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-09-08"
+ },
+ {
+  "id": "b886216bd52fec92",
+  "title": "Spiky MnO2 microparticles as an interface-driven mechanochemical antibacterial platform.",
+  "authors": [
+   "Laibo Song",
+   "Yunchao Hu",
+   "Hengjie Liu",
+   "Zhen Jin",
+   "Jinlong Chang",
+   "Wenlong Zhang",
+   "Xianglong Zhu",
+   "Lanqi Jia",
+   "Wu Ren",
+   "Yi Yu"
+  ],
+  "journal": "Journal of colloid and interface science",
+  "publisher": "",
+  "published": "2026-09-06",
+  "year": 2026,
+  "doi": "10.1016/j.jcis.2026.141535",
+  "url": "https://doi.org/10.1016/j.jcis.2026.141535",
+  "source": "pubmed",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-09-10"
  },
  {
   "id": "9103eb628e607ed0",
