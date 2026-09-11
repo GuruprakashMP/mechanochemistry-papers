@@ -31,6 +31,115 @@
   "added": "2026-09-01"
  },
  {
+  "id": "9919952f5eb5d193",
+  "title": "Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene",
+  "authors": [
+   "David Kaiser",
+   "Guobin Jia",
+   "Janis Köster",
+   "Sadegh Ghaderzadeh",
+   "Christian E. Halbig",
+   "Siegfried Eigler",
+   "Andrey Turchanin",
+   "Benjamin Dietzek-Ivanšić",
+   "Arkady V. Krasheninnikov",
+   "Jonathan Plentz",
+   "Elena Besley",
+   "Ute Kaiser"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-09-10",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2609.11459v1",
+  "source": "arxiv",
+  "categories": [
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "Ab Initio",
+   "First-Principles",
+   "Mechanochemistry",
+   "Molecular Dynamics"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-09-11"
+ },
+ {
+  "id": "7195cf3c814c5aae",
+  "title": "Multiscale Investigation of Triboelectric Nanogenerator: An Expanded DFT Calculation Based on Machine Learning",
+  "authors": [
+   "Yuhan Huang",
+   "Mitsuhiro Matsumoto"
+  ],
+  "journal": "ACS Omega",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-09",
+  "year": 2026,
+  "doi": "10.1021/acsomega.6c06130",
+  "url": "https://doi.org/10.1021/acsomega.6c06130",
+  "source": "openalex",
+  "categories": [
+   "Computational & Data-Driven",
+   "Piezo- & Tribocatalysis"
+  ],
+  "tags": [
+   "DFT",
+   "Machine Learning",
+   "Mechanochemistry",
+   "Molecular Dynamics",
+   "Triboelectric"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-09-11"
+ },
+ {
+  "id": "3f7d48cf1134b0b7",
+  "title": "Cinnamoylated Chitosan Derivatives Prepared via Reactive Extrusion: Structure–Property Relationships and Antifungal Activity",
+  "authors": [
+   "I. V. Shelomentsev",
+   "M. A. Khavpachev",
+   "V. V. Potseleev",
+   "P. L. Ivanov",
+   "M. Z. Bekanova",
+   "A. N. Zelenetskii",
+   "Т. А. Akopova"
+  ],
+  "journal": "Russian Journal of Bioorganic Chemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2026-09-09",
+  "year": 2026,
+  "doi": "10.1134/s106816202660251x",
+  "url": "https://doi.org/10.1134/s106816202660251x",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "Green & Solvent-Free Chemistry",
+   "Organic Mechanosynthesis",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amide Bond Formation",
+   "Extrusion",
+   "Mechanochemistry",
+   "Reactive Extrusion",
+   "Solvent-Free",
+   "Supramolecular"
+  ],
+  "relevance_score": 89,
+  "affiliations": [
+   "Institute of Synthetic Polymeric Materials",
+   "Institute of Physical and Organic Chemistry",
+   "Lomonosov Moscow State University"
+  ],
+  "added": "2026-09-11"
+ },
+ {
   "id": "0f4ec7c35651414a",
   "title": "Mechanochemical Unzipping and Force-Free Rezipping of Poly(endo-tricyclodecadiene) via Cascade Radical Reactivity.",
   "authors": [
