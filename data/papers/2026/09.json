@@ -31,6 +31,214 @@
   "added": "2026-09-01"
  },
  {
+  "id": "cbb1864fddc90391",
+  "title": "Mechanochemical Control of Stereospecific Strain Release in Chiral Spiroaziridine Oxindoles with Alkyl Amines.",
+  "authors": [
+   "Ankita Biswas",
+   "Ananda Shankar Mondal",
+   "Ayan Chatterjee",
+   "Subhas Chandra Debnath",
+   "Saumen Hajra"
+  ],
+  "journal": "Organic letters",
+  "publisher": "",
+  "published": "2026-09-11",
+  "year": 2026,
+  "doi": "10.1021/acs.orglett.6c03017",
+  "url": "https://doi.org/10.1021/acs.orglett.6c03017",
+  "source": "pubmed",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 43,
+  "affiliations": [],
+  "added": "2026-09-12"
+ },
+ {
+  "id": "01bcbba3065c7fb2",
+  "title": "Sono- and Mechanochemical Tandem Synthesis of Diversely Functionalized 1,2,4-Thiadiazoles: A Robust and Straightforward Dual Synthetic Approach.",
+  "authors": [
+   "Soma Ghosh",
+   "Debojyoti Mukherjee",
+   "Pintu Karmakar",
+   "Goutam Brahmachari"
+  ],
+  "journal": "The Journal of organic chemistry",
+  "publisher": "",
+  "published": "2026-09-11",
+  "year": 2026,
+  "doi": "10.1021/acs.joc.6c01511",
+  "url": "https://doi.org/10.1021/acs.joc.6c01511",
+  "source": "pubmed",
+  "categories": [
+   "Sonochemistry",
+   "Mechanocatalysis & Mechanoredox",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Catalyst",
+   "Heterocycle Synthesis",
+   "Mechanochemistry",
+   "Sonochemistry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-09-12"
+ },
+ {
+  "id": "ff0073c7e8456886",
+  "title": "Atom-Cluster Synergy in Scalable Fe-Ru Dual-Site Architectures Accelerates Alkaline Hydrogen Evolution.",
+  "authors": [
+   "Baek JH",
+   "Kweon SH",
+   "Cha SG",
+   "Lee SJ",
+   "Baek J",
+   "Kwon DH",
+   "Lee H",
+   "Kwon Y",
+   "Kwak SK",
+   "Baek JB."
+  ],
+  "journal": "Advanced materials (Deerfield Beach, Fla.)",
+  "publisher": "",
+  "published": "2026-09-10",
+  "year": 2026,
+  "doi": "10.1002/adma.74980",
+  "url": "https://doi.org/10.1002/adma.74980",
+  "source": "europepmc",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "In-Situ Monitoring",
+   "Computational & Data-Driven",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "DFT",
+   "In-Situ",
+   "In-Situ Raman",
+   "Mechanochemistry",
+   "Raman",
+   "Solvent-Free",
+   "Time-Resolved"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-09-12"
+ },
+ {
+  "id": "fc2835ad5a204abb",
+  "title": "Contact-Electro-Chemistry",
+  "authors": [
+   "Shaoxin Li",
+   "Di Wei"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-09-10",
+  "year": 2026,
+  "doi": "10.1201/9781042031238-7",
+  "url": "https://doi.org/10.1201/9781042031238-7",
+  "source": "openalex",
+  "categories": [
+   "Piezo- & Tribocatalysis"
+  ],
+  "tags": [
+   "Contact Electrification",
+   "Mechanochemistry",
+   "Tribochemistry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-09-12"
+ },
+ {
+  "id": "b9ebf00ace126140",
+  "title": "Facile One-Pot Synthesis of Au–Pd Core–Shell Nanoparticles with Enhanced Catalytic Performance",
+  "authors": [
+   "Yufen Chen",
+   "Gustavo Madrigal",
+   "Claudio Cazorla",
+   "Bernat Mundet",
+   "Kapil Gupta",
+   "Asier Agrelo-Lestón",
+   "Marina Armengol-Profitós",
+   "Miquel Torras",
+   "Lluís Soler",
+   "Jordi Llorca"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-10",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c04991",
+  "url": "https://doi.org/10.1021/acscatal.6c04991",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Computational & Data-Driven",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "DFT",
+   "Mechanochemistry",
+   "Milling",
+   "Nanoparticles"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Universitat Politècnica de Catalunya",
+   "Institució Catalana de Recerca i Estudis Avançats",
+   "Institut Català de Nanociència i Nanotecnologia",
+   "ALBA Synchrotron (Spain)"
+  ],
+  "added": "2026-09-12"
+ },
+ {
+  "id": "a3928031c7fd4eaa",
+  "title": "Grain-Boundary Electronic Insulation and Interfacial Self-Passivation Synergistic Strategy for High-Performance all-Solid-State Lithium Batteries.",
+  "authors": [
+   "Bai X",
+   "Bai Y",
+   "Su Y",
+   "Zhou Z",
+   "Li X",
+   "Ding H",
+   "Zhang L",
+   "Wang X",
+   "Zhang H",
+   "Liu G",
+   "Yu W",
+   "Dong X",
+   "Wang J."
+  ],
+  "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+  "publisher": "",
+  "published": "2026-09-10",
+  "year": 2026,
+  "doi": "10.1002/smll.75699",
+  "url": "https://doi.org/10.1002/smll.75699",
+  "source": "europepmc",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Ball Milling",
+   "In-Situ",
+   "Milling"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-09-12"
+ },
+ {
   "id": "9919952f5eb5d193",
   "title": "Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene",
   "authors": [
@@ -66,6 +274,103 @@
   "relevance_score": 54,
   "affiliations": [],
   "added": "2026-09-11"
+ },
+ {
+  "id": "45193d3e37cbf9db",
+  "title": "Assessing supply chain resilience and scale-up economics of Kenaf-PLA biocomposites for China automotive markets",
+  "authors": [
+   "Yufei Gong",
+   "Chen Lin",
+   "Peng Li"
+  ],
+  "journal": "Industrial Crops and Products",
+  "publisher": "Elsevier BV",
+  "published": "2026-09-10",
+  "year": 2026,
+  "doi": "10.1016/j.indcrop.2026.124256",
+  "url": "https://doi.org/10.1016/j.indcrop.2026.124256",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Extrusion",
+   "Scale-up",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Inner Mongolia Agricultural University",
+   "Inner Mongolia University",
+   "Fuzhou University",
+   "Qingdao Agricultural University"
+  ],
+  "added": "2026-09-12"
+ },
+ {
+  "id": "3350a9a53ed25c97",
+  "title": "From Conventional Dispersion Strengthening to Core–Shell Reinforcement Architectures in Iron-Based Metal Matrix Composites: A Review",
+  "authors": [
+   "П. М. Корусенко",
+   "V.K. Kudymov",
+   "Vladimir E. Gaishun",
+   "E. G. Zemtsova"
+  ],
+  "journal": "Metals",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-09-10",
+  "year": 2026,
+  "doi": "10.3390/met16091007",
+  "url": "https://doi.org/10.3390/met16091007",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "In-Situ",
+   "Milling",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "St Petersburg University",
+   "Francisk Skorina Gomel State University"
+  ],
+  "added": "2026-09-12"
+ },
+ {
+  "id": "d280739060e92630",
+  "title": "SEPARATION OF FERRIC IONS FROM WASTE AQUEOUS SOLUTION USING SOLVENT EXTRACTION/PRECIPITATION PROCESS WITH DEEP EUTECTIC SOLVENTS AND RESONANT ACCOUSTIC MIXING",
+  "authors": [
+   "Frank Agyemang"
+  ],
+  "journal": "Digital Commons - Montana Tech (Montana Tech of the University of Montana)",
+  "publisher": "Montana Technological University",
+  "published": "2026-09-09",
+  "year": 2026,
+  "doi": "",
+  "url": "https://digitalcommons.mtech.edu/honors_theses/25",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Scale-up",
+   "Ball Milling & Grinding",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling",
+   "Milling Media",
+   "Reaction Kinetics",
+   "Resonant Acoustic Mixing"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-09-12"
  },
  {
   "id": "7195cf3c814c5aae",
