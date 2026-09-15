@@ -31,6 +31,131 @@
   "added": "2026-09-01"
  },
  {
+  "id": "c3872773fcbd91f5",
+  "title": "Development and nutritional evaluation of an extruded grain amaranth-instant porridge as a supplementary food for children under five with moderate acute malnutrition",
+  "authors": [
+   "Amos Steven Mwikwabe",
+   "Haikael David Martin",
+   "Benson Kusirie Mushi",
+   "Dyness Kejo"
+  ],
+  "journal": "Frontiers in Nutrition",
+  "publisher": "Frontiers Media",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.3389/fnut.2026.1895788",
+  "url": "https://doi.org/10.3389/fnut.2026.1895788",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Mikocheni Agricultural Research Institute",
+   "Nelson Mandela African Institution of Science and Technology",
+   "Tanzania Food and Nutrition Center",
+   "University of Dar es Salaam"
+  ],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "6fd523e10fa43b10",
+  "title": "Revisiting the Cocktail Effect in High-Entropy Layered Double Hydroxides: Linear Additivity Rather than Emergent Behavior.",
+  "authors": [
+   "Tosapol Maluangnont",
+   "Saichon Sriphan",
+   "Evgeniy Seliverstov",
+   "Olga Lebedeva",
+   "Sirapat Tiwtusthada",
+   "Piyasan Praserthdam",
+   "Supareak Praserthdam"
+  ],
+  "journal": "Inorganic chemistry",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.inorgchem.6c03678",
+  "url": "https://doi.org/10.1021/acs.inorgchem.6c03678",
+  "source": "pubmed",
+  "categories": [
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "DFT",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "5fd72d054498a9f6",
+  "title": "Activation of Metal Complexes With Ultrasound Waves for Targeted Anticancer Therapy.",
+  "authors": [
+   "Félix Grosjean",
+   "Nicolás Montesdeoca",
+   "Gilles Berger",
+   "Johannes Karges"
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1002/anie.3172220",
+  "url": "https://doi.org/10.1002/anie.3172220",
+  "source": "pubmed",
+  "categories": [
+   "Sonochemistry",
+   "MOF & Framework Mechanosynthesis",
+   "Mechanism & Kinetics",
+   "Piezo- & Tribocatalysis",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Cavitation",
+   "Coordination Polymers",
+   "Mechanochemistry",
+   "Piezoelectric",
+   "Shear Force",
+   "Ultrasound"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "2b61e2e698b07676",
+  "title": "Mechanochemical Green Synthesis, Characterization and Antibacterial Evaluation of the N-Hydroxy-4-Phenylpyridine-2-Carboxamide Ligand and Its Mononuclear Mn (II), Co (II), Ni (II) and Cu (II) Complexes",
+  "authors": [
+   "Priti Kumari",
+   "A.N. Sahay"
+  ],
+  "journal": "International Research Journal of Pure and Applied Chemistry",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.9734/irjpac/2026/v27i51034",
+  "url": "https://doi.org/10.9734/irjpac/2026/v27i51034",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Green Synthesis",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Tilka Manjhi Bhagalpur University"
+  ],
+  "added": "2026-09-15"
+ },
+ {
   "id": "621c1c60ef5725c2",
   "title": "Regioselective N ‐Benzotriazole Substitution Under Mechanochemical Conditions",
   "authors": [
@@ -1075,6 +1200,39 @@
   "added": "2026-09-08"
  },
  {
+  "id": "1bd28c3424f6edbf",
+  "title": "Study on Preparation and Hydration Mechanism of Sand Washing Residue Mud-Based LC3 Cement by Mechanical-Thermal Activation.",
+  "authors": [
+   "Gang Wang",
+   "Keliang Li",
+   "Linhua Jiang",
+   "Junjie Ma",
+   "Yichuan Yan",
+   "Hengjun Hou",
+   "Huanqiang Liu",
+   "Weizhun Jin"
+  ],
+  "journal": "Materials (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-07",
+  "year": 2026,
+  "doi": "10.3390/ma19173802",
+  "url": "https://doi.org/10.3390/ma19173802",
+  "source": "pubmed",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Grinding",
+   "Milling",
+   "Milling Parameters"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "b886216bd52fec92",
   "title": "Spiky MnO2 microparticles as an interface-driven mechanochemical antibacterial platform.",
   "authors": [
@@ -1105,6 +1263,43 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-09-10"
+ },
+ {
+  "id": "a015ef7e114a13f3",
+  "title": "Ball-Milling Processing of Hydrogenated NdFeB Powders from the Recycling of End-of-Life Magnets.",
+  "authors": [
+   "Amanuel Elias Wako",
+   "Pablo Rodríguez",
+   "Beatrice Muzzi",
+   "Giovanna Trevisi",
+   "Laura Grau",
+   "Martin Albino",
+   "Tomaž Tomše",
+   "Benjamin Podmiljsak",
+   "Carlo Burkhardt",
+   "Franca Albertini",
+   "Claudio Sangregorio",
+   "César de Julián Fernández"
+  ],
+  "journal": "Materials (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-06",
+  "year": 2026,
+  "doi": "10.3390/ma19173797",
+  "url": "https://doi.org/10.3390/ma19173797",
+  "source": "pubmed",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling",
+   "Milling Parameters",
+   "Planetary Ball Mill"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "9103eb628e607ed0",
@@ -1902,6 +2097,37 @@
   "relevance_score": 45,
   "affiliations": [],
   "added": "2026-09-08"
+ },
+ {
+  "id": "a12df9e6607042f8",
+  "title": "Novel valorization method of green tides macroalga Ulva rigida using heterogeneous catalysts and mechanochemistry for the production of furan-derived platform molecules",
+  "authors": [
+   "Gabriela Rodríguez-Carballo",
+   "Cristina García-Sancho",
+   "Julia Vega",
+   "Félix L. Figueroa",
+   "Irene Malpartida",
+   "Josefa Mérida-Robles",
+   "Ramón Moreno-Tost"
+  ],
+  "journal": "Algal Research",
+  "publisher": "Elsevier BV",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1016/j.algal.2026.104961",
+  "url": "https://doi.org/10.1016/j.algal.2026.104961",
+  "source": "crossref",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Heterogeneous Catalysis",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "98b901416d4e88d8",
