@@ -1,5 +1,403 @@
 [
  {
+  "id": "99e8b2a8c410e887",
+  "title": "Mechanochemistry via Bead-milling: an Emerging Tool Towards Greener and Scalable Organic Synthesis",
+  "authors": [
+   "Khalil Yamani",
+   "Benjamin Martin"
+  ],
+  "journal": "CHIMIA",
+  "publisher": "Swiss Chemical Society",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.2533/chimia.2026.2026_610",
+  "url": "https://doi.org/10.2533/chimia.2026.2026_610",
+  "source": "crossref",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Organic Mechanosynthesis",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling",
+   "Organic Synthesis",
+   "Solvent-Free"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "db2c4cb85c7cdd53",
+  "title": "Sustainable synthesis of PAR-modified chitosan for selective lead(II) separation from copper(II) in water",
+  "authors": [
+   "Piotr Kotlarczyk",
+   "Łukasz Wujcicki",
+   "Tomasz Mańdok",
+   "Jakub Adámek",
+   "Joanna Kluczka"
+  ],
+  "journal": "Progress on Chemistry and application of Chitin and its Derivatives",
+  "publisher": "",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.15259/pcacd.31.021",
+  "url": "https://doi.org/10.15259/pcacd.31.021",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Sustainable Synthesis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Silesian University of Technology"
+  ],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "d31ed316fc873c8e",
+  "title": "Solid-state Electron Transfer Mechanism Study in Mechanochemistry through Time-Resolved Multimodal Monitoring",
+  "authors": [
+   "Huanxin Zhang",
+   "Nathan Davison",
+   "Tomislav Stolar",
+   "Floriana Tuna",
+   "Conrad A. P. Goodwin",
+   "Franziska Emmerling",
+   "Dominik J. Kubicki",
+   "Erli Lu"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15009597/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15009597/v1",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry",
+   "PXRD",
+   "Time-Resolved"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Birmingham",
+   "Federal Institute For Materials Research and Testing",
+   "University of Manchester"
+  ],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "a83bb4ec85351fac",
+  "title": "Sustainable Conversion of Elemental Sulfur to Fluorescent Luminophore",
+  "authors": [
+   "Joginder Singh",
+   "Aishwarya Tiwari",
+   "Usha Gavel",
+   "Pragadeeswara Venkatamani Gunasekaran",
+   "Arushi Rawat",
+   "Rakesh Kumar Rai",
+   "Narattam Sikdar",
+   "Abhilash Sahu",
+   "Kohsuke Matsumoto",
+   "Osamu Tsutsumi",
+   "Aravind Kumar Rengan",
+   "Ganesan Prabusankar"
+  ],
+  "journal": "ACS Applied Optical Materials",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.1021/acsaom.6c00476",
+  "url": "https://doi.org/10.1021/acsaom.6c00476",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling",
+   "Solvent-Free"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Indian Institute of Technology Hyderabad",
+   "Ritsumeikan University"
+  ],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "a82d5b17960584d7",
+  "title": "Borides: Solid‐State Chemistry",
+  "authors": [
+   "Boniface P. T. Fokwa"
+  ],
+  "journal": "Encyclopedia of Inorganic and Bioinorganic Chemistry",
+  "publisher": "",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.1002/9781119951438.eibc0022.pub3",
+  "url": "https://doi.org/10.1002/9781119951438.eibc0022.pub3",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling",
+   "Nanoparticles",
+   "Synchrotron"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of California, Riverside"
+  ],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "a4a280f62f111ab4",
+  "title": "Covalent organic frameworks enabled solid/quasi-solid state electrolytes for rechargeable batteries: Synthesis, progress, challenges and perspectives",
+  "authors": [
+   "Qi Wang",
+   "Zecong Ye",
+   "Xinyi Huang",
+   "Jihua Tan",
+   "Weizhen Fan",
+   "Jingwei Zhao",
+   "Yanping Huo",
+   "XiJun Xu"
+  ],
+  "journal": "Coordination Chemistry Reviews",
+  "publisher": "Elsevier BV",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.1016/j.ccr.2026.218600",
+  "url": "https://doi.org/10.1016/j.ccr.2026.218600",
+  "source": "openalex",
+  "categories": [
+   "MOF & Framework Mechanosynthesis"
+  ],
+  "tags": [
+   "COFs",
+   "Mechanochemistry",
+   "Porous Materials"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Guangdong University of Technology"
+  ],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "9d56c67434356978",
+  "title": "Facile and Greener Mechanochemical Synthesis of Paracetamol: An Easy-to-Perform and Much-to-Learn Experiment for Secondary and Postsecondary Students",
+  "authors": [
+   "Azharudin Khursheed",
+   "Zaffar Mehraj",
+   "Burhan Mehraj",
+   "Shayista Farooq",
+   "Zarqah Ashraf",
+   "Saira Gulzar",
+   "Humaira Iqbal",
+   "Afzal Hussain",
+   "Mohamed F. Alajmi",
+   "Prince Firdoos Iqbal",
+   "Akhtar H. Malik",
+   "Waheed Ahmad Khanday",
+   "Jahangir Ahmad Rather",
+   "Abdul Haleem Wani",
+   "Waseem A. Wani"
+  ],
+  "journal": "Journal of Chemical Education",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.1021/acs.jchemed.5c01675",
+  "url": "https://doi.org/10.1021/acs.jchemed.5c01675",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Green Chemistry",
+   "Mechanochemistry",
+   "Organic Synthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "King Saud University",
+   "University of Kashmir"
+  ],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "71e030633b5c9d47",
+  "title": "Solid-state, rapid mechanochemical pathway for zinc phthalocyanine-embedded Schiff-Base polymer-TiO2 nanocomposite for LED assisted efficient photochemical remediation of hexavalent chromium",
+  "authors": [
+   "Rajappa S",
+   "Shivarathri PG",
+   "V MP",
+   "V PKM",
+   "Mariswamy VH",
+   "Jahagirdhar BB",
+   "Devendrachari MC",
+   "Kotresh HMN."
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.21203/rs.3.rs-11044040/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-11044040/v1",
+  "source": "europepmc",
+  "categories": [
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "PXRD"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "634d7b6d8b47e8a6",
+  "title": "Mechanochemical Method to Prepare the White Carbon Black Using Coal Gasification Coarse Slag",
+  "authors": [
+   "Xiaohu Quan",
+   "Rui Wu",
+   "Hao Ge",
+   "runhao suo",
+   "jia xue",
+   "Zongyun Jiang",
+   "Zijun He",
+   "Zekai Miao"
+  ],
+  "journal": "Journal of Environmental Engineering",
+  "publisher": "American Society of Civil Engineers",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.1061/joeedu.eeeng-8866",
+  "url": "https://doi.org/10.1061/joeedu.eeeng-8866",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "Ningxia University"
+  ],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "2f2b496eed295eb2",
+  "title": "PS7-11. Black Soldier Fly Larvae in Extruded Diets for Senior Dogs: Effects on Skin Barrier Function and Coat Quality.",
+  "authors": [
+   "McKenzie Cross",
+   "Alison L Tibbs",
+   "Julio C. Mioto",
+   "María R C de Godoy"
+  ],
+  "journal": "Journal of Animal Science",
+  "publisher": "Oxford University Press",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.1093/jas/skag272.461",
+  "url": "https://doi.org/10.1093/jas/skag272.461",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Screw Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Illinois Urbana-Champaign"
+  ],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "1033667df2c494f7",
+  "title": "Synthesis and modification of thin NaSICON solid electrolytes using ion beams",
+  "authors": [
+   "Giovanni Ceccio",
+   "Jiri Vacik",
+   "Ivan Mastronardo",
+   "Clausia D Urso",
+   "Eva Stepanovska",
+   "Romana Miksova"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2609.36758v1",
+  "source": "arxiv",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Planetary Ball Mill"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "c6dd32dafaca5158",
+  "title": "Влияние времени механохимической активации на формирование Fe-Co-MOF и оценка его каталитического воздействия при термическом разложении композиций AP/Al",
+  "authors": [
+   "А.К. Абдрасилова",
+   "Д. Мукталы",
+   "К. Камунур",
+   "Л.А. Мусапирова",
+   "А.Н. Баткал",
+   "М.Т. Ыскак"
+  ],
+  "journal": "Горение и Плазмохимия",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.18321/cpc24(3)361-370",
+  "url": "https://doi.org/10.18321/cpc24(3)361-370",
+  "source": "openalex",
+  "categories": [
+   "MOF & Framework Mechanosynthesis"
+  ],
+  "tags": [
+   "MOFs",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Kazakh-British Technical University"
+  ],
+  "added": "2026-09-30"
+ },
+ {
   "id": "b43b6f00c499f59a",
   "title": "Correlation between Sm 3+ optical absorption and disorder build-up in swift heavy ion-irradiated CeO 2 nanoparticles.",
   "authors": [
@@ -30,6 +428,71 @@
   "relevance_score": 51,
   "affiliations": [],
   "added": "2026-09-29"
+ },
+ {
+  "id": "b3b2f38c937df511",
+  "title": "Microstructural Evolution and Densification Behavior of Ball-Milled AlFeCoNi Medium-Entropy Alloy Consolidated by Conventional Sintering",
+  "authors": [
+   "Reliance Jain",
+   "Rahul Sippy",
+   "Salla Nithyanth Kumar",
+   "Roopesh Sinha",
+   "Man Mohan",
+   "Arvind Kumar Patel",
+   "K. Ganpati Shrinivas Sharma",
+   "Roopendra Kumar Pathak",
+   "Sourabh Kumar Soni",
+   "Sheetal Kumar Dewangan",
+   "Sandeep Jain"
+  ],
+  "journal": "Micro",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.3390/micro6040077",
+  "url": "https://doi.org/10.3390/micro6040077",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 59,
+  "affiliations": [
+   "Ajou University",
+   "SR University",
+   "National Institute of Technology Jamshedpur",
+   "Yeungnam University"
+  ],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "a24731fd0ea646ba",
+  "title": "Mechanochemical Activation and Repair of Printed Photopolymer Networks: Force-Responsive Bonds, Local Chemistry and Verification",
+  "authors": [
+   "Juan Segurola"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.5281/zenodo.23023636",
+  "url": "https://doi.org/10.5281/zenodo.23023636",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Mechanophores"
+  ],
+  "relevance_score": 56,
+  "affiliations": [],
+  "added": "2026-09-30"
  },
  {
   "id": "21b5a48bbe64cfd2",
