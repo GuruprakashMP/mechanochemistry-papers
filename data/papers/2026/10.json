@@ -1,5 +1,63 @@
 [
  {
+  "id": "6e7744cfa7798756",
+  "title": "Mechanochemically Controlled Functionalization of Graphene Microdrums.",
+  "authors": [
+   "Edward J Broker",
+   "Ting Liu",
+   "Riley Davenport",
+   "Yutian Bao",
+   "Andrew M Rappe",
+   "Ashlie Martini",
+   "James D Batteas"
+  ],
+  "journal": "ACS applied materials & interfaces",
+  "publisher": "",
+  "published": "2026-10-15",
+  "year": 2026,
+  "doi": "10.1021/acsami.6c10502",
+  "url": "https://doi.org/10.1021/acsami.6c10502",
+  "source": "pubmed",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanically Induced",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 62,
+  "affiliations": [],
+  "added": "2026-10-15"
+ },
+ {
+  "id": "b743287881f30475",
+  "title": "Ball-milling medium dictates the reconstruction pathway of hydrochar: Coupling pore opening with functionality retention.",
+  "authors": [
+   "Xin Huang",
+   "Chi Zhu",
+   "Guixian Xie",
+   "Huiqiang Ma",
+   "Bo Wang"
+  ],
+  "journal": "Bioresource technology",
+  "publisher": "",
+  "published": "2026-10-14",
+  "year": 2026,
+  "doi": "10.1016/j.biortech.2026.136066",
+  "url": "https://doi.org/10.1016/j.biortech.2026.136066",
+  "source": "pubmed",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-15"
+ },
+ {
   "id": "3024cfaa9604f9ae",
   "title": "Waste Upcycling: Catalytic Approaches and Applications Putting Catalysis at the Service of Circular Economy.",
   "authors": [
@@ -59,6 +117,64 @@
   "added": "2026-10-13"
  },
  {
+  "id": "8cbb1fc5c70cd26d",
+  "title": "Mechanochemical synthesis using hypervalent iodine reagents",
+  "authors": [
+   "Nasser Amri"
+  ],
+  "journal": "Beilstein Journal of Organic Chemistry",
+  "publisher": "Beilstein Institute for the Advancement of Chemical Sciences",
+  "published": "2026-10-13",
+  "year": 2026,
+  "doi": "10.3762/bjoc.22.115",
+  "url": "https://doi.org/10.3762/bjoc.22.115",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Heterocycle Synthesis",
+   "Mechanochemistry",
+   "Solvent-Free"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-15"
+ },
+ {
+  "id": "70cb0fe547c18aca",
+  "title": "Mechanochemical synthesis of a multi-waste-based CaAl layered double hydroxide/biochar composite for phosphate sequestration and recovery",
+  "authors": [
+   "Yanhong Lin",
+   "Yao Tong",
+   "Xiaoyu Liu",
+   "Xue Yang",
+   "Dengfeng Zuo",
+   "Qian Zhang",
+   "Huaizhi Shao",
+   "Zilin Meng"
+  ],
+  "journal": "Journal of Water Process Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-13",
+  "year": 2026,
+  "doi": "10.1016/j.jwpe.2026.111062",
+  "url": "https://doi.org/10.1016/j.jwpe.2026.111062",
+  "source": "openalex",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Shandong University of Technology"
+  ],
+  "added": "2026-10-15"
+ },
+ {
   "id": "3bdbdec3f9d009a3",
   "title": "In situ mechanochemical carbonation enables carbon-negative detoxification and upcycling of municipal solid waste incineration fly ash.",
   "authors": [
@@ -91,6 +207,88 @@
   "relevance_score": 65,
   "affiliations": [],
   "added": "2026-10-14"
+ },
+ {
+  "id": "398af5181bb2df56",
+  "title": "A 2D/2D g-C3N4/BiOBr S-Scheme Heterojunction for Photocatalytic Oxidative Coupling of Benzylamine and Degradation of Tetracycline: Enhanced Charge Separation and Mechanistic Insights",
+  "authors": [
+   "Zhen Li",
+   "Dongmei Wang",
+   "Ruijie Li",
+   "Jing An",
+   "Xingjie Xue",
+   "Yue Yao",
+   "Yan Jiang",
+   "Liao Xiaoyuan",
+   "Dong Jin Yoo",
+   "Shuxiang Lyu"
+  ],
+  "journal": "Catalysts",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-10-13",
+  "year": 2026,
+  "doi": "10.3390/catal16100905",
+  "url": "https://doi.org/10.3390/catal16100905",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry",
+   "Computational & Data-Driven",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Ball Milling",
+   "DFT",
+   "Milling",
+   "Organic Synthesis",
+   "Solvent-Free"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Tianjin University of Science and Technology",
+   "Jeonbuk National University"
+  ],
+  "added": "2026-10-15"
+ },
+ {
+  "id": "74e2f044586fe474",
+  "title": "Rapid mechanochemical dinitrogen fixation for single-atom skeletal editing",
+  "authors": [
+   "Hayoung Shin",
+   "Jihye Park",
+   "Da Hye Lee",
+   "신호선",
+   "Hyeokjun Park",
+   "Yoonsu Park"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-10-12",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15010321/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15010321/v1",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids",
+   "Organic Mechanosynthesis",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Heterocycle Synthesis",
+   "Mechanochemistry",
+   "Organic Synthesis",
+   "Polymorphism"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Korea Advanced Institute of Science and Technology",
+   "Korea Research Institute of Standards and Science",
+   "Measurement Specialties (Germany)",
+   "Industrial Measurement Systems (United States)",
+   "Korea University"
+  ],
+  "added": "2026-10-15"
  },
  {
   "id": "59c973538992653a",
@@ -2034,6 +2232,41 @@
   "relevance_score": 55,
   "affiliations": [],
   "added": "2026-10-02"
+ },
+ {
+  "id": "542f617248314ed9",
+  "title": "Fe-Based Amorphous Microflakes with Deformation-Induced Nanoscale Heterogeneity Prepared by Pulse-Discharge Atomization and Ball Milling for Broadband Microwave Absorption.",
+  "authors": [
+   "Chekai Liu",
+   "Xinghua Wang",
+   "Zonghai Zhao",
+   "Rui Ding",
+   "Yanming Wu",
+   "Chenghui Hu",
+   "Wei Xue",
+   "Jingwu Liu",
+   "Xinghao Wei"
+  ],
+  "journal": "Nanomaterials (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.3390/nano16191242",
+  "url": "https://doi.org/10.3390/nano16191242",
+  "source": "pubmed",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Amorphous Alloys",
+   "Ball Milling",
+   "Milling",
+   "Nanocrystalline"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-10-15"
  },
  {
   "id": "3be773a57671964a",
