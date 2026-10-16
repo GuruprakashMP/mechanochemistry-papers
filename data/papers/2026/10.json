@@ -30,6 +30,65 @@
   "added": "2026-10-15"
  },
  {
+  "id": "0c09516b8afda833",
+  "title": "The Long Run Favours Heat: 7-Year Data Reaffirm Thermal Ablation's Durability Edge Over Mechanochemical Ablation.",
+  "authors": [
+   "Christos Karathanos",
+   "Vangelis Bontinis"
+  ],
+  "journal": "European journal of vascular and endovascular surgery : the official journal of the European Society for Vascular Surgery",
+  "publisher": "",
+  "published": "2026-10-15",
+  "year": 2026,
+  "doi": "10.1016/j.ejvs.2026.10.002",
+  "url": "https://doi.org/10.1016/j.ejvs.2026.10.002",
+  "source": "pubmed",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-10-16"
+ },
+ {
+  "id": "eb98cc27b0ee5046",
+  "title": "Liquid-Crystalline Polymer Alloy Design through Interfacial Reactions Enabled by In Situ Polymerization and Reactive Blending",
+  "authors": [
+   "Gosuke Washino",
+   "Kyoya Tachibana",
+   "Keiichi Kuboyama",
+   "Juri Asada",
+   "Tsuyoshi Takano",
+   "Ryoyu Hifumi",
+   "Ikuyoshi Tomita",
+   "Toshiaki Ougizawa"
+  ],
+  "journal": "Macromolecules",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-14",
+  "year": 2026,
+  "doi": "10.1021/acs.macromol.6c01698",
+  "url": "https://doi.org/10.1021/acs.macromol.6c01698",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Extrusion",
+   "In-Situ",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-10-16"
+ },
+ {
   "id": "b743287881f30475",
   "title": "Ball-milling medium dictates the reconstruction pathway of hydrochar: Coupling pore opening with functionality retention.",
   "authors": [
@@ -56,6 +115,43 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-10-15"
+ },
+ {
+  "id": "86e15490ade3f840",
+  "title": "Site-selective alkali ion alloying in double perovskites via liquid-assisted mechanosynthesis revealed by solid-state NMR",
+  "authors": [
+   "Kaja Glazer",
+   "Julia Wiktor",
+   "Luis Simbari",
+   "Mo El Maoued",
+   "Anya Fairhurst",
+   "Amita Ummadisingu",
+   "Dominik J. Kubicki",
+   "Benjamin M. Gallant"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-10-14",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15008057/v3",
+  "url": "https://doi.org/10.26434/chemrxiv.15008057/v3",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Mechanosynthesis",
+   "Perovskites"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "University of Birmingham",
+   "Chalmers University of Technology",
+   "University College London",
+   "Helmholtz-Zentrum Berlin für Materialien und Energie"
+  ],
+  "added": "2026-10-16"
  },
  {
   "id": "3024cfaa9604f9ae",
@@ -173,6 +269,49 @@
    "Shandong University of Technology"
   ],
   "added": "2026-10-15"
+ },
+ {
+  "id": "6b7e2eb1209f1b0f",
+  "title": "Mechanistic Insights into the Non-Equilibrium Synthesis of Highly Fluorinated Cation-Disordered Rock-Salt Cathodes: Solid-State Thermal vs. Mechanochemical Reactions",
+  "authors": [
+   "Venkata Sai Avvaru",
+   "Seonghun Jeong",
+   "Harshita Lohani",
+   "Sean Alexander Fernandez",
+   "Bora Kalkan",
+   "Camille Molsick-Gibson",
+   "Martin Kunz",
+   "Mateusz Jan Zuba",
+   "Özgenur Kahvecioğlu",
+   "Lauren E. Marbella",
+   "Haegyeom Kim"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-10-13",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15010431/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15010431/v1",
+  "source": "openalex",
+  "categories": [
+   "In-Situ Monitoring",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "In-Situ",
+   "Mechanochemistry",
+   "Milling",
+   "Synchrotron"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Lawrence Berkeley National Laboratory",
+   "SRM University, Andhra Pradesh",
+   "Columbia University",
+   "Advanced Light Source",
+   "Argonne National Laboratory"
+  ],
+  "added": "2026-10-16"
  },
  {
   "id": "3bdbdec3f9d009a3",
@@ -442,6 +581,40 @@
   "relevance_score": 61,
   "affiliations": [],
   "added": "2026-10-12"
+ },
+ {
+  "id": "d8a6948c6ccfcacc",
+  "title": "Green Nanoarchitectonics of Adaptive Electronic Nanomaterials for Biocompatible Biointerfaces and Improved Human Health.",
+  "authors": [
+   "Vrinda Gupta",
+   "Md Faiyazuddin",
+   "Rajni Tanwar",
+   "Pooja Rani",
+   "Sonia Gupta",
+   "Lalit Sharma",
+   "Debasis Mitra",
+   "Dinesh Kumar",
+   "Neeraj Choudhary",
+   "Suresh Babu Kondaveeti",
+   "Gowri Sundaram",
+   "Thomas J Webster"
+  ],
+  "journal": "Nanotechnology, science and applications",
+  "publisher": "",
+  "published": "2026-10-10",
+  "year": 2026,
+  "doi": "10.2147/nsa.s608189",
+  "url": "https://doi.org/10.2147/NSA.S608189",
+  "source": "pubmed",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-16"
  },
  {
   "id": "d8545c984d97e537",
