@@ -1,5 +1,77 @@
 [
  {
+  "id": "eda5cb9cd9d08637",
+  "title": "K2CO3-Promoted CuCl Catalyst for the Direct Synthesis of Trimethoxysilane from Si and CH3OH",
+  "authors": [
+   "Yan Li",
+   "Yongxia Zhu",
+   "Jiajian Gao",
+   "Lili Zhang",
+   "Ziyi Zhong",
+   "Fabing Su"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.1021/acs.iecr.6c02937",
+  "url": "https://doi.org/10.1021/acs.iecr.6c02937",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanocatalysis & Mechanoredox",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Catalyst",
+   "Milling",
+   "Reaction Mechanism"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Institute of Process Engineering",
+   "Shenyang University of Chemical Technology",
+   "Agency for Science, Technology and Research",
+   "Guangdong Technion-Israel Institute of Technology"
+  ],
+  "added": "2026-10-18"
+ },
+ {
+  "id": "e37ea1c82e3d33c2",
+  "title": "Aging Resistance Improvement of Rubber–Plastic-Based TPE-Modified Asphalt System with Different Plastic Types",
+  "authors": [
+   "Liuyang Zhang",
+   "Keliang Yi",
+   "Jianping Xiong",
+   "Nana Mao",
+   "Peikai He",
+   "Peng Xu",
+   "Hao Yang",
+   "Hongyu Zhou",
+   "Yuetan Ma"
+  ],
+  "journal": "Materials",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.3390/ma19204364",
+  "url": "https://doi.org/10.3390/ma19204364",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Changsha University of Science and Technology"
+  ],
+  "added": "2026-10-18"
+ },
+ {
   "id": "bca8e6b8fa5f05eb",
   "title": "Self-organized mechanochemical instabilities drive the emergence of digit tissue morphogenesis",
   "authors": [
@@ -33,6 +105,65 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-10-17"
+ },
+ {
+  "id": "988be2db1b2b19f5",
+  "title": "Precision synthesis and mechanochemical structure–reactivity relationships of mechanophore-bearing polymers with diverse conformations",
+  "authors": [
+   "Seiyoung Yoon",
+   "Javad Tamnanloo",
+   "Ling-Jo Wu",
+   "Kexing Xiao",
+   "Sophia Aracri",
+   "Mark D. Foster",
+   "Tianbo Liu",
+   "Mesfin Tsige",
+   "Junpeng Wang"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.1038/s41467-026-77188-7",
+  "url": "https://doi.org/10.1038/s41467-026-77188-7",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Mechanophores"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-10-18"
+ },
+ {
+  "id": "15b868c690f295a3",
+  "title": "Mechanochemical CH Bond Functionalization in Organic Synthesis",
+  "authors": [
+   "Mainak Banerjee",
+   "Mussarat Shamim",
+   "Ritesh Jha",
+   "Amrita Chatterjee"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.1002/9783527853458.ch6",
+  "url": "https://doi.org/10.1002/9783527853458.ch6",
+  "source": "openalex",
+  "categories": [
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Organic Synthesis"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-10-18"
  },
  {
   "id": "e5ca05831f81a802",
@@ -96,6 +227,37 @@
    "Newcastle University"
   ],
   "added": "2026-10-17"
+ },
+ {
+  "id": "bb6c7e77adbae5c7",
+  "title": "Functional evaluation of loratadine-cyclodextrin complexes: comprehensive solid-state characterisation, biopharmaceutical assessment and stability profiling.",
+  "authors": [
+   "Marijana Pocrnić",
+   "Marek J Potrzebowski",
+   "Mario Jug",
+   "Nives Galić"
+  ],
+  "journal": "RSC advances",
+  "publisher": "",
+  "published": "2026-10-15",
+  "year": 2026,
+  "doi": "10.1039/d6ra08083a",
+  "url": "https://doi.org/10.1039/d6ra08083a",
+  "source": "pubmed",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Ball Milling & Grinding",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Amorphization",
+   "Grinding",
+   "Mechanochemistry",
+   "Solvent-Free"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-10-18"
  },
  {
   "id": "a57a29a57fe4aee6",
@@ -2624,6 +2786,35 @@
    "University of Hong Kong"
   ],
   "added": "2026-10-03"
+ },
+ {
+  "id": "c90de00e51a200f0",
+  "title": "Liquid nitrogen ball-milled mechanochemistry prior to dry heating regulates the multiscale structure and physicochemical properties of corn starch",
+  "authors": [
+   "Chengyi Sun",
+   "Jian Liu",
+   "Lijun Jiang",
+   "Bo Wang",
+   "Fengzhen Chen",
+   "Guihong Zhao"
+  ],
+  "journal": "International Journal of Biological Macromolecules",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.ijbiomac.2026.154893",
+  "url": "https://doi.org/10.1016/j.ijbiomac.2026.154893",
+  "source": "crossref",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-10-18"
  },
  {
   "id": "bf0db2f35f2a1059",
