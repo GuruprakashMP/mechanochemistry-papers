@@ -34,6 +34,32 @@
   "added": "2026-09-02"
  },
  {
+  "id": "db9e42a2cfff54af",
+  "title": "Green and solvent-free mechanochemical production of ester surfactants from cellulose-derived hydroxy acids",
+  "authors": [
+   "Giorgia Crigna",
+   "Juan José Valle-Delgado",
+   "Tuomo Sainio"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.cej.2026.181897",
+  "url": "https://doi.org/10.1016/j.cej.2026.181897",
+  "source": "crossref",
+  "categories": [
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Solvent-Free"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-20"
+ },
+ {
   "id": "ccdae00b68ca7d3c",
   "title": "Predicting the Blaine specific surface area of industrial ball milling of iron ore concentrates using physics-informed and data-driven approaches",
   "authors": [
@@ -497,6 +523,35 @@
   "added": "2026-09-06"
  },
  {
+  "id": "1889ce4788fbc4f7",
+  "title": "Rapid mechanochemical construction of ester-functionalized hyper-crosslinked polymers for efficient sulfamethoxazole adsorption",
+  "authors": [
+   "Lili Zhang",
+   "Shiqi Zhang",
+   "Xinling Cai",
+   "Yijun Wang",
+   "Lin Yao",
+   "Changxin Li",
+   "Huaxin Zhang"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.cej.2026.182270",
+  "url": "https://doi.org/10.1016/j.cej.2026.182270",
+  "source": "crossref",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-20"
+ },
+ {
   "id": "13bc6ece3af8c262",
   "title": "Ti",
   "authors": [
@@ -531,5 +586,38 @@
   "relevance_score": 57,
   "affiliations": [],
   "added": "2026-10-14"
+ },
+ {
+  "id": "1320cd67958ed4d1",
+  "title": "Effect of reinforcement fraction on phase constitution, microstructure and hardness of Al–FeCoCrNiMo composites",
+  "authors": [
+   "Rahul Kundiya",
+   "Salman Sheik",
+   "Velmurugan S.",
+   "Nagesh Kondra",
+   "Shivakar Prasad",
+   "Sushant Waghmare"
+  ],
+  "journal": "Next Nanotechnology",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.nxnano.2026.100885",
+  "url": "https://doi.org/10.1016/j.nxnano.2026.100885",
+  "source": "doaj",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "High-Entropy Alloys",
+   "Milling",
+   "Powder Metallurgy"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-10-20"
  }
 ]
