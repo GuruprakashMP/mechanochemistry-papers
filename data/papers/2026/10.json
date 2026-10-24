@@ -1,5 +1,36 @@
 [
  {
+  "id": "ec9f062b9e4cd7c6",
+  "title": "Copper‐Catalyzed Mechanochemical Racemization of BINOL",
+  "authors": [
+   "Leon Poljanić",
+   "Youssra Haddouch",
+   "Tom Leyssens"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1002/chem.71825",
+  "url": "https://doi.org/10.1002/chem.71825",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Grinding",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "UCLouvain"
+  ],
+  "added": "2026-10-24"
+ },
+ {
   "id": "d76829b618e1eca2",
   "title": "Unifying Time-Independent and Time-Dependent Franck--Condon Pictures in Quantum Mechanochemistry via the Linear Coupling Approximation",
   "authors": [
@@ -21,6 +52,46 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-10-23"
+ },
+ {
+  "id": "bd07f774a7237ea3",
+  "title": "Centrosymmetric Nanomaterials for Bending Vibration Driving Flexocatalysis: Mechano-Chemical Coupling Mechanism and Energy & Environmental Application.",
+  "authors": [
+   "Chen Cheng",
+   "Huilin You",
+   "Taosheng Xu",
+   "Mingsi Li",
+   "Zheng Wu",
+   "Luohong Zhang",
+   "Liangliang Yan",
+   "Zhenxiang Cheng",
+   "Yanmin Jia"
+  ],
+  "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+  "publisher": "",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1002/smll.76324",
+  "url": "https://doi.org/10.1002/smll.76324",
+  "source": "pubmed",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox",
+   "Piezo- & Tribocatalysis",
+   "MOF & Framework Mechanosynthesis",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "MOFs",
+   "Mechanocatalysis",
+   "Mechanochemistry",
+   "Piezocatalysis",
+   "Tribocatalysis",
+   "Ultrasonic",
+   "Ultrasound"
+  ],
+  "relevance_score": 81,
+  "affiliations": [],
+  "added": "2026-10-24"
  },
  {
   "id": "9c6d466b645c5ef4",
@@ -49,6 +120,69 @@
   "relevance_score": 66,
   "affiliations": [],
   "added": "2026-10-23"
+ },
+ {
+  "id": "5b80e221dc2fc533",
+  "title": "Oxidant-Free Mechanochemical N-Arylation of Sulfoximines Using Zero-Valent Copper Powder and Arylboronic Acid.",
+  "authors": [
+   "Tao Fang",
+   "Tingting Fan",
+   "Cong Chen",
+   "Zhixiu Liu",
+   "Baodong Cui",
+   "Yongzheng Chen",
+   "Shiming Zhang"
+  ],
+  "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+  "publisher": "",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1002/chem.71827",
+  "url": "https://doi.org/10.1002/chem.71827",
+  "source": "pubmed",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 65,
+  "affiliations": [],
+  "added": "2026-10-24"
+ },
+ {
+  "id": "11a4910e24e5df76",
+  "title": "Chemo-Mechanically Robust Li-Rich Oxide Cathode Interface Enabled By Ion-Conductive and Antioxidant Binder.",
+  "authors": [
+   "Ning Qin",
+   "Xucheng Lv",
+   "Xinxin Zhu",
+   "Fangchang Zhang",
+   "Wen Luo",
+   "Fei Lv",
+   "Jingjing Guo",
+   "Zhouguang Lu",
+   "Tianpin Wu",
+   "Jun Lu"
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1002/anie.5594912",
+  "url": "https://doi.org/10.1002/anie.5594912",
+  "source": "pubmed",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-24"
  },
  {
   "id": "d1ae29ac9fc816bb",
@@ -363,6 +497,38 @@
   "relevance_score": 55,
   "affiliations": [],
   "added": "2026-10-20"
+ },
+ {
+  "id": "bb854867d9021eb2",
+  "title": "Preparing β-hemihydrate using massive and fibrous high-grade gypsum: from mineral-ore characterization to compressive strength assessment.",
+  "authors": [
+   "Pedro L Guzzo",
+   "Felipe S Martins",
+   "Mateus L Idelfonso",
+   "Carlos D F DE Araújo",
+   "Vanessa L M Lima",
+   "Filipe B M DE Barros",
+   "Marcelo F Gomes",
+   "Áureo O D Machado"
+  ],
+  "journal": "Anais da Academia Brasileira de Ciencias",
+  "publisher": "",
+  "published": "2026-10-19",
+  "year": 2026,
+  "doi": "10.1590/0001-3765202620250475",
+  "url": "https://doi.org/10.1590/0001-3765202620250475",
+  "source": "pubmed",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Grinding",
+   "Milling"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-10-24"
  },
  {
   "id": "941b767b4d607bab",
@@ -1456,6 +1622,36 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-10-15"
+ },
+ {
+  "id": "ac117ff1892c2a52",
+  "title": "Mechanical Flipping of [1]Rotaxanes Toughens Polymer Networks.",
+  "authors": [
+   "Jiaojiao Xie",
+   "Diandian Deng",
+   "Siwen Wang",
+   "Wei Wen",
+   "Lianrui Hu",
+   "Qiuhua Zhao",
+   "Min Zhang"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "",
+  "published": "2026-10-14",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c15261",
+  "url": "https://doi.org/10.1021/jacs.6c15261",
+  "source": "pubmed",
+  "categories": [
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "DFT",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-10-24"
  },
  {
   "id": "86e15490ade3f840",
