@@ -1,5 +1,94 @@
 [
  {
+  "id": "d8a7fa4cdeb79dfb",
+  "title": "The interplay of microstrain, macrostrain, and ligand effects in the electronic structure evolution of nonequilibrium Fe-Ni nanoalloys.",
+  "authors": [
+   "Jiabin Xu",
+   "Ning Chen",
+   "Jiatang Chen",
+   "Yun-Mui Yiu",
+   "Marcus Leung",
+   "Tsun-Kong Sham"
+  ],
+  "journal": "The Journal of chemical physics",
+  "publisher": "",
+  "published": "2026-10-28",
+  "year": 2026,
+  "doi": "10.1063/5.0356705",
+  "url": "https://doi.org/10.1063/5.0356705",
+  "source": "pubmed",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials",
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "Ball Milling",
+   "DFT",
+   "High-Energy Milling",
+   "Mechanical Alloying",
+   "Milling"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
+  "added": "2026-10-28"
+ },
+ {
+  "id": "8c1e1def7910870e",
+  "title": "Three-year Outcomes of Aspiration-assisted Foam Mechanochemical Ablation for Saphenous Vein Insufficiency: A Retrospective Comparative Study",
+  "authors": [
+   "Nikolay Valchev",
+   "Plamen Krastev"
+  ],
+  "journal": "Proceedings of the Bulgarian Academy of Sciences",
+  "publisher": "Prof. Marin Drinov Publishing House of BAS (Bulgarian Academy of Sciences)",
+  "published": "2026-10-28",
+  "year": 2026,
+  "doi": "10.7546/crabs.2026.10.14",
+  "url": "https://doi.org/10.7546/crabs.2026.10.14",
+  "source": "crossref",
+  "categories": [
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Ultrasound"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-28"
+ },
+ {
+  "id": "7c36d47ec2bcc18d",
+  "title": "Mechanochemical unfolding facilitates protein-glutaminase deamidation and charge remodeling of myofibrillar protein to reduce low-salt-induced aggregation tendency",
+  "authors": [
+   "Ningle Yang",
+   "Yating Liu",
+   "Xin Chen",
+   "Zongyun Yang",
+   "Zhen Li",
+   "Yating Xiong",
+   "Xinglian Xu",
+   "Peng Wang"
+  ],
+  "journal": "Current Research in Food Science",
+  "publisher": "Elsevier",
+  "published": "2026-10-28",
+  "year": 2026,
+  "doi": "10.1016/j.crfs.2026.101606",
+  "url": "https://doi.org/10.1016/j.crfs.2026.101606",
+  "source": "doaj",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-10-28"
+ },
+ {
   "id": "2067dc2e73cbbb9b",
   "title": "Metal-Organic Framework Synthesis Strategies for Efficient Encapsulation and Sustained Release of Bioactive Compounds.",
   "authors": [
@@ -35,6 +124,95 @@
   "relevance_score": 69,
   "affiliations": [],
   "added": "2026-10-26"
+ },
+ {
+  "id": "5a5542e420845a62",
+  "title": "Piezocatalytic Therapy for Periodontitis: From Biofilm Disruption to Immunomodulatory Tissue Regeneration",
+  "authors": [
+   "Tian S",
+   "Wang Z",
+   "Gao D",
+   "Li A."
+  ],
+  "journal": "Chem & bio engineering",
+  "publisher": "",
+  "published": "2026-10-27",
+  "year": 2026,
+  "doi": "",
+  "url": "https://europepmc.org/article/PMC/PMC13697938",
+  "source": "europepmc",
+  "categories": [
+   "Piezo- & Tribocatalysis"
+  ],
+  "tags": [
+   "Piezocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-28"
+ },
+ {
+  "id": "e2f9198249719e08",
+  "title": "Parallel mechanochemical synthesis of phenolic drug-poly(lactic acid) conjugates using a multi-tube BenchMixer/vortexer.",
+  "authors": [
+   "Ebqa'ai MA",
+   "Cossette K",
+   "Park L",
+   "Estep MP",
+   "Priyasantha KD",
+   "Abu Anzeh AM",
+   "Tan W",
+   "Dias SBK",
+   "Nelson TL."
+  ],
+  "journal": "RSC advances",
+  "publisher": "",
+  "published": "2026-10-26",
+  "year": 2026,
+  "doi": "10.1039/d6ra07580k",
+  "url": "https://doi.org/10.1039/d6ra07580k",
+  "source": "europepmc",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-10-28"
+ },
+ {
+  "id": "7b37988643915c3c",
+  "title": "Supramolecular Binary Systems of Flavonoids: Design, Structure, and Physicochemical Properties",
+  "authors": [
+   "Urszula Maciołek",
+   "Małgorzata Kosińska-Pezda",
+   "Rafał Typek",
+   "Ewaryst Mendyk",
+   "Anna Eugenia Kozioł"
+  ],
+  "journal": "Crystal Growth & Design",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-26",
+  "year": 2026,
+  "doi": "10.1021/acs.cgd.6c00977",
+  "url": "https://doi.org/10.1021/acs.cgd.6c00977",
+  "source": "openalex",
+  "categories": [
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Cocrystals",
+   "Mechanochemistry",
+   "Supramolecular"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Maria Curie-Skłodowska University",
+   "Rzeszów University of Technology"
+  ],
+  "added": "2026-10-28"
  },
  {
   "id": "544c0cbae57d77ae",
@@ -1371,6 +1549,37 @@
   "added": "2026-10-18"
  },
  {
+  "id": "19c983500786605c",
+  "title": "Degradation-Grafting Mechanochemical Treatment of Recycled Polypropylene as an Asphalt Modifier: Rheological Behavior and Microscopic Mechanisms.",
+  "authors": [
+   "Jun Zhong",
+   "Xiong Xu",
+   "Sha Wu",
+   "Hui Tong",
+   "Shuang Zhou",
+   "Jie Liu",
+   "Song Xu",
+   "Zongwu Chen"
+  ],
+  "journal": "Polymers",
+  "publisher": "",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.3390/polym18202545",
+  "url": "https://doi.org/10.3390/polym18202545",
+  "source": "pubmed",
+  "categories": [
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Reaction Mechanism"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-10-28"
+ },
+ {
   "id": "15b868c690f295a3",
   "title": "Mechanochemical CH Bond Functionalization in Organic Synthesis",
   "authors": [
@@ -2187,6 +2396,33 @@
   "added": "2026-10-15"
  },
  {
+  "id": "7903d7b098773dff",
+  "title": "Some Synthetic Approaches for Copper-Containing Terpyridine-Functionalized Polysiloxane Complexes.",
+  "authors": [
+   "Sofia S Kryukova",
+   "Elena R Votchel",
+   "Sergey V Baykov",
+   "Vadim P Boyarskiy",
+   "Regina M Islamova"
+  ],
+  "journal": "Polymers",
+  "publisher": "",
+  "published": "2026-10-13",
+  "year": 2026,
+  "doi": "10.3390/polym18202506",
+  "url": "https://doi.org/10.3390/polym18202506",
+  "source": "pubmed",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-28"
+ },
+ {
   "id": "70cb0fe547c18aca",
   "title": "Mechanochemical synthesis of a multi-waste-based CaAl layered double hydroxide/biochar composite for phosphate sequestration and recovery",
   "authors": [
@@ -2531,6 +2767,33 @@
   "added": "2026-10-12"
  },
  {
+  "id": "f8f44e73a36c525b",
+  "title": "Mine Tailings as Supplementary Cementitious Materials: Properties, Performance, Mechanochemical Activation, and Challenges.",
+  "authors": [
+   "Kyriaki A Papadopoulou",
+   "Magdalena Rajczakowska",
+   "Lena Alakangas",
+   "Andrzej Cwirzen"
+  ],
+  "journal": "Materials (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-10-10",
+  "year": 2026,
+  "doi": "10.3390/ma19204276",
+  "url": "https://doi.org/10.3390/ma19204276",
+  "source": "pubmed",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-10-28"
+ },
+ {
   "id": "d8a6948c6ccfcacc",
   "title": "Green Nanoarchitectonics of Adaptive Electronic Nanomaterials for Biocompatible Biointerfaces and Improved Human Health.",
   "authors": [
@@ -2762,6 +3025,40 @@
   "relevance_score": 57,
   "affiliations": [],
   "added": "2026-10-10"
+ },
+ {
+  "id": "8b8a345c249bbd8c",
+  "title": "Enhanced Dispersion and Structural Homogeneity in LDPE/Bi2O3/B4C Composites via Cryogenic Ball Milling with Binary-Sized Grinding Media.",
+  "authors": [
+   "Vyacheslav Ivanovich Pavlenko",
+   "Roman Nikolaevich Yastrebinsky",
+   "Natalia Igorevna Cherkashina",
+   "Andrey Ivanovich Gorodov",
+   "Dmitry Sergeevich Romanyuk"
+  ],
+  "journal": "Materials (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-10-09",
+  "year": 2026,
+  "doi": "10.3390/ma19204262",
+  "url": "https://doi.org/10.3390/ma19204262",
+  "source": "pubmed",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanism & Kinetics",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Grinding",
+   "Mechanical Activation",
+   "Mechanochemistry",
+   "Milling",
+   "Ultrasonic"
+  ],
+  "relevance_score": 87,
+  "affiliations": [],
+  "added": "2026-10-28"
  },
  {
   "id": "60d0d513fd38fc89",
