@@ -1,5 +1,64 @@
 [
  {
+  "id": "b02a349dec2ca847",
+  "title": "Increasing the (Re)Activity of MgO for Carbon Capture under Continuous Ball Milling",
+  "authors": [],
+  "journal": "Chemistry of materials : a publication of the American Chemical Society",
+  "publisher": "",
+  "published": "2026-10-30",
+  "year": 2026,
+  "doi": "",
+  "url": "https://europepmc.org/article/PMC/PMC13718985",
+  "source": "europepmc",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-31"
+ },
+ {
+  "id": "b51a551d35ef91aa",
+  "title": "Twin Screw Extrusion Mechanochemical Synthesis of Natural Copolymer Hydrogel: A Swell‐Controlled System for Stimuli‐Responsive Lornoxicam Delivery and In Vitro Cytocompatibility",
+  "authors": [
+   "Aamir Nawaz",
+   "Muhammad Babar Taj",
+   "Amal Altowerqi",
+   "Rana O. Yahya",
+   "Afnan M. Alnajeebi",
+   "Noushi Zaidi",
+   "Ismat Bibi",
+   "Ahmad Raheel"
+  ],
+  "journal": "ChemistrySelect",
+  "publisher": "Wiley",
+  "published": "2026-10-29",
+  "year": 2026,
+  "doi": "10.1002/slct.74955",
+  "url": "https://doi.org/10.1002/slct.74955",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Mechanochemistry",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Islamia University of Bahawalpur",
+   "Taibah University",
+   "University of Jeddah",
+   "King Faisal University"
+  ],
+  "added": "2026-10-31"
+ },
+ {
   "id": "9e7d8ffbaa85d71b",
   "title": "Earth-Abundant Kaolin Derived Antiviral Coating via Triple Synergistic Capture-Inactivate-Block Mechanism.",
   "authors": [
@@ -64,6 +123,32 @@
   "added": "2026-10-30"
  },
  {
+  "id": "5972494d49719668",
+  "title": "Mechanochemical synthesis of heterocycles: a short review",
+  "authors": [
+   "Manouchehr Mamaghani"
+  ],
+  "journal": "Journal of the Iranian Chemical Society",
+  "publisher": "Springer Science+Business Media",
+  "published": "2026-10-29",
+  "year": 2026,
+  "doi": "10.1007/s13738-026-03655-z",
+  "url": "https://doi.org/10.1007/s13738-026-03655-z",
+  "source": "openalex",
+  "categories": [
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Heterocycle Synthesis",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Guilan"
+  ],
+  "added": "2026-10-31"
+ },
+ {
   "id": "fbab0cdeb3db60a5",
   "title": "Cyclobutane-Programmed Sustainable Materials With Service-Induced Self-Reinforcement, Optical Security, and Closed-Loop Chemical Recycling.",
   "authors": [
@@ -98,6 +183,38 @@
   "relevance_score": 61,
   "affiliations": [],
   "added": "2026-10-29"
+ },
+ {
+  "id": "f84e8d251339278d",
+  "title": "Ball‐Milling‐Enabled Pd‐Catalyzed One‐Pot Cross‐Coupling of Aryl Thianthrenium Salts With In Situ Generated Reformatsky Enolates",
+  "authors": [
+   "Tomáš Čarný",
+   "Barbora Steinhüblová",
+   "Maksym Ponedilok",
+   "Radovan Šebesta"
+  ],
+  "journal": "Advanced Synthesis & Catalysis",
+  "publisher": "Wiley",
+  "published": "2026-10-28",
+  "year": 2026,
+  "doi": "10.1002/adsc.70853",
+  "url": "https://doi.org/10.1002/adsc.70853",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Ball Milling",
+   "In-Situ",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Comenius University Bratislava"
+  ],
+  "added": "2026-10-31"
  },
  {
   "id": "e238400eb293f3c1",
@@ -279,6 +396,41 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-10-28"
+ },
+ {
+  "id": "62bad8673c99807b",
+  "title": "Compliance Mismatch Drives Mechanochemical Reactivity in Diels-Alder Reactions",
+  "authors": [
+   "Mark A. Boyer",
+   "Ryan Kwok",
+   "Tzu-Hsuan Chao",
+   "Yeu-Shiuan Ho",
+   "Hopper Nicholas",
+   "Mateusz Marianski",
+   "Daniel P. Tabor"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-10-28",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15011219/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15011219/v1",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores"
+  ],
+  "tags": [
+   "Force-Induced",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Texas A&M University",
+   "The Graduate Center, CUNY",
+   "City University of New York",
+   "Hunter College"
+  ],
+  "added": "2026-10-31"
  },
  {
   "id": "2067dc2e73cbbb9b",
@@ -3036,6 +3188,34 @@
    "Jeonbuk National University"
   ],
   "added": "2026-10-15"
+ },
+ {
+  "id": "8f0ae553ee695d40",
+  "title": "Spray-Coated Macroporous CaCO3-PVA Structures for Radiative Cooling.",
+  "authors": [
+   "Jay Prakash Bijarniya",
+   "Ghulam Yasin",
+   "Ari Seppälä"
+  ],
+  "journal": "ACS omega",
+  "publisher": "",
+  "published": "2026-10-12",
+  "year": 2026,
+  "doi": "10.1021/acsomega.6c08357",
+  "url": "https://doi.org/10.1021/acsomega.6c08357",
+  "source": "pubmed",
+  "categories": [
+   "Ball Milling & Grinding",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling",
+   "Raman"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-31"
  },
  {
   "id": "74e2f044586fe474",
