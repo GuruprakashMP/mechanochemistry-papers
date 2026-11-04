@@ -1,5 +1,62 @@
 [
  {
+  "id": "f2a34004ecb5ad17",
+  "title": "Mechanochemical coupling in lung cancer: how tissue tension drives genomic instability and malignant progression",
+  "authors": [
+   "Wang T",
+   "Xiao Q."
+  ],
+  "journal": "Frontiers in cell and developmental biology",
+  "publisher": "",
+  "published": "2026-11-04",
+  "year": 2026,
+  "doi": "",
+  "url": "https://europepmc.org/article/PMC/PMC13727726",
+  "source": "europepmc",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "5fe279594f169497",
+  "title": "Mechanistic Insights Into the Solid-State Redox Reactions: Role of Organic Piezoelectric Materials.",
+  "authors": [
+   "Bhunia S",
+   "Jana SK",
+   "Patra S",
+   "Mehra L",
+   "Das K",
+   "Maji B",
+   "Reddy CM."
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-11-04",
+  "year": 2026,
+  "doi": "10.1002/anie.9308985",
+  "url": "https://doi.org/10.1002/anie.9308985",
+  "source": "europepmc",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Piezo- & Tribocatalysis"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling",
+   "Piezoelectric"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "411fa05d18dd8cb9",
   "title": "Insights into Azobenzene and Perylenediimide Mechanics from Single-Molecule Force Spectroscopy",
   "authors": [
@@ -29,6 +86,181 @@
    "University of Liège"
   ],
   "added": "2026-10-31"
+ },
+ {
+  "id": "bdfae3bf76f14436",
+  "title": "Mechanochemically covalently functionalized hexagonal boron nitride with proanthocyanidins for high-performance cellulose packaging toward fresh fruit preservation",
+  "authors": [
+   "Aissa FA",
+   "Jiang X",
+   "Tian X."
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.21203/rs.3.rs-10857072/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-10857072/v1",
+  "source": "europepmc",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Mechanochemistry",
+   "Milling",
+   "Solvent-Free"
+  ],
+  "relevance_score": 68,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "ab51df71d00ffa31",
+  "title": "Strain-Glass Dynamics in the Superionic Conductor Na$_3$PS$_4$",
+  "authors": [
+   "Erik S. Lamb",
+   "Nicolò D'Anna",
+   "Phillip Ridley",
+   "Nelson Hua",
+   "Ivan Zaluzhnyy",
+   "James Burrow",
+   "Emilio Escauriza",
+   "Robin Glefke",
+   "Boyan K. Stoychev",
+   "Mingze Wan",
+   "Zhe Ren",
+   "Fabian Westermeier",
+   "Michael Sprung",
+   "Alex Frañó",
+   "Ying Shirley Meng",
+   "Oleg G. Shpyrko"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2611.04547v1",
+  "source": "arxiv",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling",
+   "Polymorphism"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "9a8eb2d26629280a",
+  "title": "Chemometrics-Guided Pharmaceutical Cocrystal Screening: Structural Elucidation and Development of Gemfibrozil-Isonicotinamide Cocrystals",
+  "authors": [
+   "Bruno Arantes Borges",
+   "Cecília C. P. da Silva",
+   "Paulo N. de Souza",
+   "Javier Ellena",
+   "Renato Lajarim Carneiro"
+  ],
+  "journal": "Crystal Growth & Design",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1021/acs.cgd.6c01132",
+  "url": "https://doi.org/10.1021/acs.cgd.6c01132",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Liquid-Assisted Grinding",
+   "Cocrystals & Pharmaceutical Solids",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Cocrystals",
+   "Grinding",
+   "Liquid-Assisted Grinding",
+   "Mechanochemistry",
+   "Neat Grinding",
+   "PXRD",
+   "Pharmaceutical Cocrystals",
+   "Raman"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Universidade Federal de São Carlos",
+   "Hospital Universitário da Universidade de São Paulo"
+  ],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "091e4c484b7f1de7",
+  "title": "Environmental Mechanochemistry: From Force-Induced Reactivity to Aqueous Reaction Platforms",
+  "authors": [
+   "Yuxiang Shi",
+   "Qian Cao",
+   "Chen Xu",
+   "D. Xue",
+   "Lei Li",
+   "Jiashun Cao",
+   "Wei-xian Zhang"
+  ],
+  "journal": "Environmental Science & Technology",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1021/acs.est.6c07345",
+  "url": "https://doi.org/10.1021/acs.est.6c07345",
+  "source": "openalex",
+  "categories": [
+   "Polymer Mechanochemistry & Mechanophores",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Force-Induced",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 59,
+  "affiliations": [
+   "Hohai University",
+   "Tongji University"
+  ],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "6a28efb3c5b0afc5",
+  "title": "Process Window Identification and Physics-Informed Viscosity Modelling for Twin-Screw Extrusion of Graphite Anode Slurries",
+  "authors": [
+   "Paul Guenther",
+   "Andreas Huth",
+   "Mareike Partsch",
+   "Alexander Michaelis"
+  ],
+  "journal": "Batteries",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.3390/batteries12110449",
+  "url": "https://doi.org/10.3390/batteries12110449",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Fraunhofer Institute for Ceramic Technologies and Systems",
+   "Technische Universität Dresden"
+  ],
+  "added": "2026-11-04"
  },
  {
   "id": "62c6865ea9792496",
