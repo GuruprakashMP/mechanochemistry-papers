@@ -1,5 +1,144 @@
 [
  {
+  "id": "c433d15758b08ecc",
+  "title": "Data for \"Anisotropic Shock Compression and Mechanochemistry of Single-Crystal LLM-105: A Reactive Molecular Dynamics Study\"",
+  "authors": [
+   "Daniela Dantas Quintana",
+   "Geng Peng",
+   "Paulo Sergio Branicio"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-11-06",
+  "year": 2026,
+  "doi": "10.5281/zenodo.23993366",
+  "url": "https://doi.org/10.5281/zenodo.23993366",
+  "source": "openalex",
+  "categories": [
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Molecular Dynamics",
+   "ReaxFF"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Southern California"
+  ],
+  "added": "2026-11-08"
+ },
+ {
+  "id": "ae00e5cace002b97",
+  "title": "Robust Iron-based Fischer-Tropsch Catalysts by Direct Joule Synthesis",
+  "authors": [
+   "Amol P. Amrute",
+   "Jose Recatala-Gomez",
+   "Somya Verma",
+   "Puneethkumar Srinivasappa",
+   "Mona Abdelgaid",
+   "Tangsheng Zou",
+   "Seohyeong Lee",
+   "Delwin Tanto",
+   "Pei Ying Moo",
+   "Chun Ki Ng",
+   "Chuandayani Gwie",
+   "Chenguang Zhang",
+   "Zainul Aabdin",
+   "Kristin Aslaug Persson",
+   "Kedar Hippalgaonkar"
+  ],
+  "journal": "Research Square",
+  "publisher": "",
+  "published": "2026-11-06",
+  "year": 2026,
+  "doi": "10.21203/rs.3.rs-11385922/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-11385922/v1",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Agency for Science, Technology and Research",
+   "University of California, Berkeley",
+   "Nanyang Technological University",
+   "Institute of Materials Research and Engineering",
+   "Lawrence Berkeley National Laboratory"
+  ],
+  "added": "2026-11-08"
+ },
+ {
+  "id": "3da4d42da819f7b7",
+  "title": "Crystal Structure and Enhanced Physicochemical Properties of a Famotidine−Saccharin Salt",
+  "authors": [
+   "Takahiro Ichikawa",
+   "Motoki Inoue",
+   "ryuma koketsu",
+   "Takefumi Yamashita",
+   "Takayuki Furuishi",
+   "Etsuo Yonemochi"
+  ],
+  "journal": "Crystal Growth & Design",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-06",
+  "year": 2026,
+  "doi": "10.1021/acs.cgd.6c00430",
+  "url": "https://doi.org/10.1021/acs.cgd.6c00430",
+  "source": "openalex",
+  "categories": [
+   "Liquid-Assisted Grinding",
+   "Ball Milling & Grinding",
+   "Cocrystals & Pharmaceutical Solids"
+  ],
+  "tags": [
+   "Grinding",
+   "Liquid-Assisted Grinding",
+   "Salt Formation"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Hoshi University",
+   "Juntendo University",
+   "International University of Health and Welfare"
+  ],
+  "added": "2026-11-08"
+ },
+ {
+  "id": "1595be178dd271f3",
+  "title": "Kinetics of Solid–Solid Reactions in a Screw Reactor",
+  "authors": [
+   "R.Sriram Rajendra",
+   "Manasi S. Bhavsar",
+   "Amol A. Kulkarni"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-06",
+  "year": 2026,
+  "doi": "10.1021/acs.iecr.6c02370",
+  "url": "https://doi.org/10.1021/acs.iecr.6c02370",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "National Chemical Laboratory",
+   "Council of Scientific and Industrial Research",
+   "Academy of Scientific and Innovative Research"
+  ],
+  "added": "2026-11-08"
+ },
+ {
   "id": "d5c7b8d3b5bbf03f",
   "title": "Green Manufacturing of Iron Fluoride/Fluorinated Carbon Nanocomposite Cathodes from PTFE Waste and Iron Oxides via Mechanochemistry",
   "authors": [
@@ -127,6 +266,40 @@
   "relevance_score": 71,
   "affiliations": [],
   "added": "2026-11-06"
+ },
+ {
+  "id": "9c3ac6b95345f1d6",
+  "title": "Sustainable synthesis of photocatalytic materials for dye degradation in water: recent advances, challenges, and future perspectives",
+  "authors": [
+   "M. A. Ashwini",
+   "Omolola Titilayo Odeyemi"
+  ],
+  "journal": "Materials and Emerging Technologies for Sustainability",
+  "publisher": "",
+  "published": "2026-11-05",
+  "year": 2026,
+  "doi": "10.1142/s306093212630009x",
+  "url": "https://doi.org/10.1142/s306093212630009x",
+  "source": "openalex",
+  "categories": [
+   "Green & Solvent-Free Chemistry",
+   "Reactor Engineering & Scale-up",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Green Chemistry",
+   "Mechanochemistry",
+   "Nanostructured",
+   "Scale-up",
+   "Solvent-Free",
+   "Sustainable Synthesis"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "HUTECH University",
+   "Kwara State University"
+  ],
+  "added": "2026-11-08"
  },
  {
   "id": "62998ed137cb1616",
@@ -305,6 +478,36 @@
    "Frantsevich Institute for Problems in Materials Science"
   ],
   "added": "2026-11-06"
+ },
+ {
+  "id": "848fccc7e1fbc54d",
+  "title": "Evaluation of mechanochemically synthesised fulleretic ZIF-67 MOF composite as a solid-contact in screen-printed ion-selective electrodes.",
+  "authors": [
+   "Sara Krivačić",
+   "Valentina Martinez",
+   "Dora Mendaš",
+   "Krunoslav Užarević",
+   "Matjaž Mazaj",
+   "Bahar Karadeniz",
+   "Petar Kassal"
+  ],
+  "journal": "Talanta",
+  "publisher": "",
+  "published": "2026-11-04",
+  "year": 2026,
+  "doi": "10.1016/j.talanta.2026.130916",
+  "url": "https://doi.org/10.1016/j.talanta.2026.130916",
+  "source": "pubmed",
+  "categories": [
+   "MOF & Framework Mechanosynthesis"
+  ],
+  "tags": [
+   "MOFs",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-11-08"
  },
  {
   "id": "5fe279594f169497",
