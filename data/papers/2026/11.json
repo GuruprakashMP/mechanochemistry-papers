@@ -1,5 +1,101 @@
 [
  {
+  "id": "9c0cb2e44f81f849",
+  "title": "Designed magnetic bio-carbon catalysts from lignin: Concurrent glycerol valorization and efficient catalyst recovery via magnetic harvesting.",
+  "authors": [
+   "Chi Zhang",
+   "Xueru Sheng",
+   "Haiyuan Jia",
+   "Na Li",
+   "Jian Zhang",
+   "Bing Wang",
+   "Haiqiang Shi",
+   "Qingwei Ping",
+   "Ning Li"
+  ],
+  "journal": "International journal of biological macromolecules",
+  "publisher": "",
+  "published": "2026-11-08",
+  "year": 2026,
+  "doi": "10.1016/j.ijbiomac.2026.155199",
+  "url": "https://doi.org/10.1016/j.ijbiomac.2026.155199",
+  "source": "pubmed",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Catalyst",
+   "Mechanochemistry",
+   "Milling"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-11-09"
+ },
+ {
+  "id": "a6587058c947613c",
+  "title": "Ball-milling synthesis and drug encapsulation properties of mixed-ligand-modified cyclodextrin-based MOF particles",
+  "authors": [
+   "Ayumi Ohashi",
+   "Shuji Ohsaki",
+   "Yuto Higuchi",
+   "Shunsuke Tanaka",
+   "Hideya Nakamura",
+   "Satoru Watano"
+  ],
+  "journal": "Advanced Powder Technology",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-07",
+  "year": 2026,
+  "doi": "10.1016/j.apt.2026.105495",
+  "url": "https://doi.org/10.1016/j.apt.2026.105495",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Osaka Metropolitan University",
+   "Kansai University"
+  ],
+  "added": "2026-11-09"
+ },
+ {
+  "id": "185280582e87762b",
+  "title": "Crystal Engineering of Carbamazepine Co-Crystals for Solubility and Dissolution Enhancement: Solid-State Characterization and In-Vitro Performance Evaluation",
+  "authors": [
+   "Anil Kumar",
+   "Vikas Gupta"
+  ],
+  "journal": "International Journal of Innovative Science and Research Technology (IJISRT)",
+  "publisher": "",
+  "published": "2026-11-07",
+  "year": 2026,
+  "doi": "10.38124/ijisrt/26oct1685",
+  "url": "https://doi.org/10.38124/ijisrt/26oct1685",
+  "source": "openalex",
+  "categories": [
+   "Liquid-Assisted Grinding",
+   "Cocrystals & Pharmaceutical Solids",
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Cocrystals",
+   "Crystal Engineering",
+   "Grinding",
+   "Liquid-Assisted Grinding"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-11-09"
+ },
+ {
   "id": "c433d15758b08ecc",
   "title": "Data for \"Anisotropic Shock Compression and Mechanochemistry of Single-Crystal LLM-105: A Reactive Molecular Dynamics Study\"",
   "authors": [
@@ -1475,5 +1571,40 @@
   "relevance_score": 51,
   "affiliations": [],
   "added": "2026-10-14"
+ },
+ {
+  "id": "04ccb12e304752e1",
+  "title": "TiI4- mediated mechanochemical reconstruction of cathodes enabling stable all-solid-state lithium sulfur batteries",
+  "authors": [
+   "Mingyue Zhu",
+   "Wenming Liang",
+   "Nianxin Xia",
+   "Minkang Wang",
+   "Fanya Zhao",
+   "Jinyang Li",
+   "Qian Li",
+   "Yida Hu",
+   "Ximeng Deng",
+   "Xiuli Wang",
+   "Yu Zhong",
+   "Zhimin Liu",
+   "Jiangping Tu"
+  ],
+  "journal": "Energy Storage Materials",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.ensm.2026.105640",
+  "url": "https://doi.org/10.1016/j.ensm.2026.105640",
+  "source": "crossref",
+  "categories": [
+   "General Mechanochemistry"
+  ],
+  "tags": [
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-09"
  }
 ]
