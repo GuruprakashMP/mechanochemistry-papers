@@ -1,5 +1,132 @@
 [
  {
+  "id": "d713e35231512814",
+  "title": "Collision Dynamics in Thermally-Controlled Ball Milling in Rh(I)-Catalyzed C−H/C−N Bond Activation: Mechanism and Hot−Spot Activity",
+  "authors": [
+   "Linqin Shang",
+   "Jin Zhang",
+   "Yawei Zhu",
+   "Renjie Li",
+   "Siqi Jiang",
+   "Nana Chen",
+   "Michal Szostak"
+  ],
+  "journal": "JACS Au",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-11",
+  "year": 2026,
+  "doi": "10.1021/jacsau.6c01116",
+  "url": "https://doi.org/10.1021/jacsau.6c01116",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Hot Spots",
+   "Mechanochemistry",
+   "Milling",
+   "Milling Parameters",
+   "Reaction Mechanism"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "Shaanxi University of Science and Technology",
+   "Rutgers, The State University of New Jersey",
+   "New Jersey Institute of Technology"
+  ],
+  "added": "2026-11-12"
+ },
+ {
+  "id": "d1b8dc1dbe1b0eb6",
+  "title": "Mechanochemical engineering of interface-vacancy-valence coupling in a MnOOH/MnS p-n heterojunction for photocatalytic tetracycline oxidation and Cr(VI) reduction.",
+  "authors": [
+   "Wang Q",
+   "Wei X",
+   "Cao L",
+   "Zhang W",
+   "Zhang S",
+   "Chen H",
+   "Pang F",
+   "Wang X",
+   "Ren Y",
+   "Dai H."
+  ],
+  "journal": "Environmental research",
+  "publisher": "",
+  "published": "2026-11-11",
+  "year": 2026,
+  "doi": "10.1016/j.envres.2026.126156",
+  "url": "https://doi.org/10.1016/j.envres.2026.126156",
+  "source": "europepmc",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 43,
+  "affiliations": [],
+  "added": "2026-11-12"
+ },
+ {
+  "id": "a9135f368780eb9f",
+  "title": "Nanostructured mixed oxide materials for energy applications",
+  "authors": [
+   "Hadi Hassan"
+  ],
+  "journal": "University of St Andrews",
+  "publisher": "",
+  "published": "2026-11-11",
+  "year": 2026,
+  "doi": "10.17630/sta/1780",
+  "url": "https://doi.org/10.17630/sta/1780",
+  "source": "openalex",
+  "categories": [
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Nanostructured",
+   "Perovskites"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-11-12"
+ },
+ {
+  "id": "cbe84a5cb309efea",
+  "title": "Phase composition and photochromism in ball-milled yttrium oxyhydride powders: comparison with a magnetron-sputtered reference",
+  "authors": [
+   "Halil Arslan",
+   "Alexei Kuzmin",
+   "Inga Pudza",
+   "Smagul Zh. Karazhanov"
+  ],
+  "journal": "Materials Today Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-10",
+  "year": 2026,
+  "doi": "10.1016/j.mtchem.2026.104156",
+  "url": "https://doi.org/10.1016/j.mtchem.2026.104156",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institute of Solid State Physics, UL",
+   "University of Latvia",
+   "Institute for Energy Technology"
+  ],
+  "added": "2026-11-12"
+ },
+ {
   "id": "74d50ce898fe95df",
   "title": "Solid-Surface Micellization of Pluronic P123 on Silica Particles by Mechanochemical Processing and Hydration-State Engineering.",
   "authors": [
@@ -27,6 +154,43 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-11-11"
+ },
+ {
+  "id": "553035a97ccc0c1a",
+  "title": "Post synthetic modification of Cu-MOF with riboflavin for stable electrocatalytic conversion of CO 2 to formate.",
+  "authors": [
+   "Sekar P",
+   "Vasanthakumar P",
+   "Paramasivam S",
+   "Deepak RJ",
+   "Calvillo L",
+   "Sarkar S",
+   "Bhuvanesh N",
+   "Sami KA",
+   "Kumar SS",
+   "Karvembu R."
+  ],
+  "journal": "RSC advances",
+  "publisher": "",
+  "published": "2026-11-10",
+  "year": 2026,
+  "doi": "10.1039/d6ra05541a",
+  "url": "https://doi.org/10.1039/d6ra05541a",
+  "source": "europepmc",
+  "categories": [
+   "MOF & Framework Mechanosynthesis",
+   "Mechanical Alloying & Materials",
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "MOFs",
+   "Mechanochemistry",
+   "Nanoparticles"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-11-12"
  },
  {
   "id": "5141e5f30e1011d3",
@@ -154,6 +318,39 @@
    "Seoul National University"
   ],
   "added": "2026-11-11"
+ },
+ {
+  "id": "9e4fe8ed2f831854",
+  "title": "Photovoltaic e-waste for PFAS remediation and H 2 evolution",
+  "authors": [
+   "Giulia Brufani",
+   "Maria Teresa Tiberi",
+   "Luca Tiritiello",
+   "Francesco Mauriello",
+   "Luigi Vaccaro"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-11-09",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15011879/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15011879/v1",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Heterogeneous Catalysis",
+   "Mechanochemistry",
+   "Organic Synthesis"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Reggio Calabria",
+   "University of Perugia"
+  ],
+  "added": "2026-11-12"
  },
  {
   "id": "9b4aab9624f826eb",
@@ -1526,6 +1723,34 @@
   "relevance_score": 51,
   "affiliations": [],
   "added": "2026-11-01"
+ },
+ {
+  "id": "b83acb7843b745c0",
+  "title": "Concentration-Dependent Stability of Pea Protein Dispersions Improved by Sequential Ball Milling and High-Pressure Homogenization.",
+  "authors": [
+   "Xiaoyu Gu",
+   "Zhishen Mu",
+   "Hong Sun",
+   "Zhanmei Jiang",
+   "Juncai Hou"
+  ],
+  "journal": "Journal of food science",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1111/1750-3841.71611",
+  "url": "https://doi.org/10.1111/1750-3841.71611",
+  "source": "pubmed",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Milling"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-12"
  },
  {
   "id": "b65d8857c985bbe3",
