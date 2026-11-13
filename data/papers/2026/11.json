@@ -97,6 +97,49 @@
   "added": "2026-11-12"
  },
  {
+  "id": "6f52b13400fb7f9c",
+  "title": "Named Reactions under Mechanochemical Conditions: A Critical Survey",
+  "authors": [
+   "Francesco Basoccu",
+   "Dipak J. Fartade",
+   "Shyamal Kanti Bera",
+   "Pietro Caboni",
+   "Astha Linda",
+   "Roberto Scipione",
+   "Andrea Porcheddu"
+  ],
+  "journal": "Chemical Reviews",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-11",
+  "year": 2026,
+  "doi": "10.1021/acs.chemrev.5c00882",
+  "url": "https://doi.org/10.1021/acs.chemrev.5c00882",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "Green & Solvent-Free Chemistry",
+   "Reactor Engineering & Scale-up",
+   "Mechanism & Kinetics"
+  ],
+  "tags": [
+   "Atom Economy",
+   "Continuous Manufacturing",
+   "Extrusion",
+   "Green Chemistry",
+   "Mechanochemistry",
+   "Reaction Kinetics",
+   "Resonant Acoustic Mixing",
+   "Scale-up",
+   "Solvent-Free",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "University of Cagliari"
+  ],
+  "added": "2026-11-13"
+ },
+ {
   "id": "cbe84a5cb309efea",
   "title": "Phase composition and photochromism in ball-milled yttrium oxyhydride powders: comparison with a magnetron-sputtered reference",
   "authors": [
@@ -125,6 +168,49 @@
    "Institute for Energy Technology"
   ],
   "added": "2026-11-12"
+ },
+ {
+  "id": "8bbdf92008a3f2ca",
+  "title": "Scalable Amidation Reaction by Resonant Acoustic Mixing. Application to the multi-gram scale synthesis of marketed Agrochemicals",
+  "authors": [
+   "Andrea Casagrande",
+   "Christos Chatzigiannis",
+   "Ken-ichi Otake",
+   "Joris Vezzani",
+   "Allan Niidu",
+   "Evelina Colacino"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-11-10",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15011959/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15011959/v1",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Reactor Engineering & Scale-up",
+   "In-Situ Monitoring",
+   "Organic Mechanosynthesis"
+  ],
+  "tags": [
+   "Amide Bond Formation",
+   "Ball Milling",
+   "Grinding",
+   "Mechanochemistry",
+   "Milling",
+   "PXRD",
+   "Resonant Acoustic Mixing",
+   "Scale-up"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "Tallinn University of Technology",
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Institut Charles Gerhardt Montpellier",
+   "Kyoto University"
+  ],
+  "added": "2026-11-13"
  },
  {
   "id": "74d50ce898fe95df",
