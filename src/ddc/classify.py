@@ -1,7 +1,7 @@
 """Relevance classification.
 
 Implements the project's core filtering rule: a paper is indexed only when
-*mechanochemistry is its primary subject* — any methodology (experimental,
+*mechanochemistry is its primary subject* - any methodology (experimental,
 computational/DFT, machine learning) qualifies, but neighbouring fields that
 merely share the "mechano-" root or the word "grinding" (mechanobiology,
 mechanotransduction, machining, engine tribology) are rejected.

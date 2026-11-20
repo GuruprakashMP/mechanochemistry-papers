@@ -38,7 +38,7 @@ legal. Papers keep their true journal/publisher fields; `source` records which
 API found them first.
 
 ### Metadata only, abstracts are transient
-Abstracts are fetched for classification but **never written to disk** —
+Abstracts are fetched for classification but **never written to disk** -
 `Paper` has no abstract field by design. This eliminates copyright risk while
 keeping classification quality high.
 
@@ -49,7 +49,7 @@ neighbouring fields that share the "mechano-"/"grinding" vocabulary
 (mechanobiology, mechanotransduction, machining, engine tribology) and a bonus
 for chemistry/materials venues.
 **Why:** free, instant, deterministic, fully explainable, tunable by editing
-one file — and it needs no API key, so automation can never silently stop.
+one file - and it needs no API key, so automation can never silently stop.
 Score shape: `20 + 4·min(primary,10) + 3·min(support,12) + venue − penalties`,
 clamped to 0–100; acceptance requires evidence on *both* sides plus the
 configurable `min_relevance_score` (default 40).
@@ -110,8 +110,17 @@ date. Month-only dates (DOAJ) become the 1st of the month.
 ~23 broad-recall topic queries per year (precision comes from the classifier,
 not the query), plus the complete works of the pioneers in
 `config/pioneers.json`. It checkpoints (shards + seen-set) after every query,
-so interrupting and re-running is always safe — already-ingested papers are
+so interrupting and re-running is always safe - already-ingested papers are
 skipped as duplicates.
+
+### Table-of-contents graphics
+`toc.py` reads, once a day, the RSS feeds of the ACS, Wiley and RSC journals that
+have papers added in the last 60 days (RSC journal code and ACS CODEN from the DOI,
+Wiley's electronic ISSN from Crossref, cached in `data/state/toc_sources.json`),
+takes each item's DOI and graphic URL, and keeps those of indexed papers in
+`data/state/toc.json`. Only URLs on the publisher's own HTTPS hosts are kept. The
+generator adds them to `feed.json`, the year shards and the archive cards; the
+browser loads the image from the publisher (`referrerpolicy="no-referrer"`).
 
 ### Progressive loading in the browser
 `app.js` fetches the manifest, renders as soon as the newest three year-shards

@@ -40,14 +40,14 @@ _Last updated: 2026-07-29 (backfill complete: 63,827 papers)_
 ## Known issues (inherited environment quirks)
 
 - Local machine: arXiv fails (missing SSL certs) and ChemRxiv 403s
-  (Cloudflare) — both work/degrade gracefully in GitHub Actions.
+  (Cloudflare) - both work/degrade gracefully in GitHub Actions.
 - Semantic Scholar keyless tier rate-limits; collector skips gracefully.
 - OpenAlex throttles in long daily windows (~11:00–05:00 UTC) regardless of
   runner IP; only ~05:00–11:00 UTC is reliable. Each run has a ~15k-record
-  fetch budget — the committed fetch-side checkpoint
+  fetch budget - the committed fetch-side checkpoint
   (data/state/backfill_progress.json) makes retries spend it only on missing
-  queries. The pioneer sweep alone costs ~15k fetches — never bundle it with
+  queries. The pioneer sweep alone costs ~15k fetches - never bundle it with
   a topic-year range in one run.
 - OpenAlex serves occasional corrupted merges (OSTI repository records with a
   foreign publisher's DOI + abstract). Detection: OSTI journal/publisher with
-  a DOI not starting 10.2172 — dropped at ingestion by the collector guard.
+  a DOI not starting 10.2172 - dropped at ingestion by the collector guard.

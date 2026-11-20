@@ -1,7 +1,7 @@
 # MechanochemistryPapers
 
 A fully automated, continuously updated public index of **mechanochemistry
-research papers** — ball milling & grinding, liquid-assisted grinding,
+research papers** - ball milling & grinding, liquid-assisted grinding,
 twin-screw extrusion, mechanocatalysis & mechanoredox, cocrystals &
 pharmaceutical solids, MOF & framework mechanosynthesis, polymer
 mechanochemistry & mechanophores, piezo- & tribocatalysis, mechanical alloying
@@ -13,14 +13,14 @@ mechanotransduction, machining, engine tribology) are filtered out.
 Sister project of
 [DataDrivenChemistryPapers](https://github.com/GuruprakashMP/ddc-papers) and
 [PhotocatalysisPapers](https://github.com/GuruprakashMP/photocatalysis-papers)
-— same architecture, different scientific scope.
+ - same architecture, different scientific scope.
 
 * **No papers are hosted.** Only bibliographic metadata (title, authors,
   journal, date, DOI, link); every card links to the original publisher.
 * **Zero dependencies.** Standard-library Python; JSON + static HTML,
   perfect for GitHub Pages.
 * **Fully automatic.** A GitHub Actions workflow collects, deduplicates,
-  classifies, rebuilds the site and commits — every day.
+  classifies, rebuilds the site and commits - every day.
 
 ## Quick start (local)
 
@@ -39,7 +39,7 @@ python -m unittest discover -s tests
 python -m http.server 8761   # then open http://localhost:8761
 ```
 
-The backfill starts at **1960** — the modern era of mechanochemistry, though
+The backfill starts at **1960** - the modern era of mechanochemistry, though
 the field has deep roots (Faraday, Carey Lea, Ostwald). Run it in year-sized
 ranges via the "Mechanochemistry historical backfill" GitHub Actions workflow:
 OpenAlex allows roughly 15–20k record fetches per runner per day, and every
@@ -61,7 +61,7 @@ out. Tune the vocabulary in `src/ddc/keywords.py`.
 ## Sources
 
 Direct: **arXiv**, **ChemRxiv**. Aggregators: **Crossref**, **OpenAlex**,
-**PubMed**, **Europe PMC**, **Semantic Scholar**, **DOAJ** — which legally
+**PubMed**, **Europe PMC**, **Semantic Scholar**, **DOAJ** - which legally
 carry the metadata of every DOI-issuing publisher (ACS, RSC, Wiley, Springer
 Nature, Elsevier, MDPI, ...).
 

@@ -2,14 +2,14 @@
 
 Three vocabularies drive the relevance decision:
 
-* ``PRIMARY_TERMS`` — mechanochemistry-specific vocabulary. A paper must show
+* ``PRIMARY_TERMS`` - mechanochemistry-specific vocabulary. A paper must show
   strong evidence here to be indexed at all: this is the project's core rule,
   *mechanochemistry as the primary subject* (ball milling, grinding, extrusion,
   mechanocatalysis, polymer mechanochemistry, tribochemistry...).
-* ``SUPPORT_TERMS`` — mills, techniques, materials, reactions, monitoring,
+* ``SUPPORT_TERMS`` - mills, techniques, materials, reactions, monitoring,
   computational and data-driven methods that refine the score and assign
   categories.
-* ``NEGATIVE_TERMS`` — signals the paper belongs to a neighbouring field that
+* ``NEGATIVE_TERMS`` - signals the paper belongs to a neighbouring field that
   merely shares the "mechano-" root or the word "grinding": mechanobiology,
   mechanotransduction, cell/tissue/bone mechanics, machining and engine
   tribology.  ``penalty`` points.
@@ -21,7 +21,7 @@ on paper cards; categories group papers for browsing.
 Note on scope calls (deliberate, see NEGATIVE_TERMS):
 * "mechanical alloying" is IN scope (mechanochemical synthesis of alloys,
   high-entropy/amorphous/nanocrystalline materials by milling), so it is a
-  PRIMARY term — only pure biology/machining neighbours are penalised.
+  PRIMARY term - only pure biology/machining neighbours are penalised.
 * "mechanical properties" is NOT penalised: mechanochemically made materials
   routinely report them.
 """
@@ -31,7 +31,7 @@ from __future__ import annotations
 from typing import Dict, Tuple
 
 # ---------------------------------------------------------------------------
-# Primary mechanochemistry terms — required evidence
+# Primary mechanochemistry terms - required evidence
 # ---------------------------------------------------------------------------
 PRIMARY_TERMS: Dict[str, Tuple[int, str, str]] = {
     # phrase: (weight, tag, category)
@@ -98,7 +98,7 @@ PRIMARY_TERMS: Dict[str, Tuple[int, str, str]] = {
 }
 
 # ---------------------------------------------------------------------------
-# Support terms — mills, techniques, materials, reactions, monitoring, methods
+# Support terms - mills, techniques, materials, reactions, monitoring, methods
 # ---------------------------------------------------------------------------
 SUPPORT_TERMS: Dict[str, Tuple[int, str, str]] = {
     # mills & equipment
@@ -236,7 +236,7 @@ SUPPORT_TERMS: Dict[str, Tuple[int, str, str]] = {
 }
 
 # ---------------------------------------------------------------------------
-# Negative signals — neighbouring fields that merely share the "mechano-"
+# Negative signals - neighbouring fields that merely share the "mechano-"
 # root or the word "grinding".  Kept deliberately narrow: mechanical alloying
 # and mechanical properties of materials are IN scope and never penalised.
 # ---------------------------------------------------------------------------
