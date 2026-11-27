@@ -1,5 +1,41 @@
 [
  {
+  "id": "fd729f5f07d06d00",
+  "title": "Access to Integrative Solid Forms via Mechanochemical Salification: Salts, Polyheterosalts, and Ionic Solid Solutions, with Characterization Using Halide NMR Spectroscopy",
+  "authors": [
+   "Zachary T. Dowdell",
+   "Peyton G Osborn",
+   "Sean T. Holmes",
+   "Robert W. Schurko"
+  ],
+  "journal": "Chemistry of Materials",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1021/acs.chemmater.6c01613",
+  "url": "https://doi.org/10.1021/acs.chemmater.6c01613",
+  "source": "openalex",
+  "categories": [
+   "Liquid-Assisted Grinding",
+   "Ball Milling & Grinding",
+   "Computational & Data-Driven",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "DFT",
+   "Grinding",
+   "Liquid-Assisted Grinding",
+   "Mechanochemistry",
+   "PXRD"
+  ],
+  "relevance_score": 80,
+  "affiliations": [
+   "Florida State University",
+   "National High Magnetic Field Laboratory"
+  ],
+  "added": "2026-11-27"
+ },
+ {
   "id": "eb8029a96cbf5e2a",
   "title": "Carbonyldiimidazole-Assisted Mechanochemical Synthesis of Lignin Esters With Tunable Molecular Characteristics.",
   "authors": [
@@ -34,6 +70,103 @@
   "added": "2026-11-19"
  },
  {
+  "id": "eb609ee37ecd278d",
+  "title": "Synthesis and Techniques for the Production of Nano‐Biochar",
+  "authors": [
+   "Neetu Chauhan",
+   "Pragya Joshi"
+  ],
+  "journal": "Wiley eBooks",
+  "publisher": "Wiley",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1002/9781394409617.ch2",
+  "url": "https://doi.org/10.1002/9781394409617.ch2",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Grinding",
+   "High-Energy Milling",
+   "Milling",
+   "Nanoparticles",
+   "Sonication",
+   "Ultrasonic"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-11-27"
+ },
+ {
+  "id": "e2444444a7e83f1e",
+  "title": "Mechanical, Water Absorption and Morphological Properties of Nitric Acid-modified Short Carbon Fiber Reinforced Acrylonitrile Butadiene Styrene Composites",
+  "authors": [
+   "Lixiang He",
+   "Quan Wang",
+   "Tuo Cheng",
+   "Qun Zhang"
+  ],
+  "journal": "Research Square",
+  "publisher": "",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.21203/rs.3.rs-11796758/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-11796758/v1",
+  "source": "openalex",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Twin-Screw Extrusion"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Tianjin University of Technology and Education"
+  ],
+  "added": "2026-11-27"
+ },
+ {
+  "id": "c79d134b41aeebc0",
+  "title": "Interfacial Electron Coupling in Mechanochemically Synthesized Single-Atom Catalysts Drives Selective CO2 Electroreduction",
+  "authors": [
+   "Yurong Yin",
+   "Zhuangzhuang Zhang",
+   "Xiang Liu",
+   "Xinyu Qi",
+   "Xiaoge Lu",
+   "Liping He",
+   "Yaxin Jing",
+   "Xiaoxun Ma",
+   "Chengyi Dai"
+  ],
+  "journal": "Transactions of Tianjin University",
+  "publisher": "Springer Science+Business Media",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1007/s12209-026-00500-5",
+  "url": "https://doi.org/10.1007/s12209-026-00500-5",
+  "source": "openalex",
+  "categories": [
+   "Mechanocatalysis & Mechanoredox"
+  ],
+  "tags": [
+   "Catalyst",
+   "Mechanochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Northwest University",
+   "Yan'an University",
+   "Yulin University"
+  ],
+  "added": "2026-11-27"
+ },
+ {
   "id": "8e9bc5051bb24da1",
   "title": "Synthesis, Structure, and In Vivo Evaluation of Analgesic Activity of N-propargyl-2-methyl-trans-decahydroquinolin-4-one Oximes.",
   "authors": [
@@ -61,6 +194,102 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-11-18"
+ },
+ {
+  "id": "691fa2175647a95b",
+  "title": "Application of Nano‐Biochar in Composite Development",
+  "authors": [
+   "Kingsley O. Iwuozor",
+   "Ebuka Chizitere Emenike",
+   "Stephen Sunday Emmanuel",
+   "Abel Ujaigbe Egbemhenghe",
+   "Adewale George Adeniyi"
+  ],
+  "journal": "Wiley eBooks",
+  "publisher": "Wiley",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1002/9781394409617.ch10",
+  "url": "https://doi.org/10.1002/9781394409617.ch10",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Sonochemistry",
+   "In-Situ Monitoring"
+  ],
+  "tags": [
+   "Ball Milling",
+   "In-Situ",
+   "Milling",
+   "Sonication"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Ilorin",
+   "Texas Tech University"
+  ],
+  "added": "2026-11-27"
+ },
+ {
+  "id": "43223454d3a58661",
+  "title": "Turning Abrasion Into Function: Mechanochemical Decoration of Ceria Nanoshapes for Boosting Oxygen Storage and Reduction via Ultrasmall Ceria-Zirconia Domains.",
+  "authors": [
+   "Eleonora Aneggi",
+   "Jordi Llorca",
+   "Alessandro Trovarelli"
+  ],
+  "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+  "publisher": "",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1002/smll.76922",
+  "url": "https://doi.org/10.1002/smll.76922",
+  "source": "pubmed",
+  "categories": [
+   "Ball Milling & Grinding"
+  ],
+  "tags": [
+   "Mechanochemistry",
+   "Milling",
+   "Milling Media"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-11-27"
+ },
+ {
+  "id": "33b8b721bf9a3e6a",
+  "title": "Application of Nano‐Biochar in Water Treatment",
+  "authors": [
+   "Ebuka Chizitere Emenike",
+   "Kingsley O. Iwuozor",
+   "Kingsley Chidiebere Okwu",
+   "Adewale George Adeniyi"
+  ],
+  "journal": "Wiley eBooks",
+  "publisher": "Wiley",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1002/9781394409617.ch7",
+  "url": "https://doi.org/10.1002/9781394409617.ch7",
+  "source": "openalex",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Green & Solvent-Free Chemistry",
+   "Sonochemistry"
+  ],
+  "tags": [
+   "Ball Milling",
+   "Green Synthesis",
+   "Milling",
+   "Ultrasonic"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "University of Ilorin",
+   "Rivers State University"
+  ],
+  "added": "2026-11-27"
  },
  {
   "id": "f182ce9897f5b4c2",
@@ -690,6 +919,42 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-11-22"
+ },
+ {
+  "id": "90e46484b1faf4b0",
+  "title": "Trade-off between ion transport and interfacial stability in all-solid-state cathodes with high active material fraction.",
+  "authors": [
+   "Zhe Li",
+   "Bowen Liu",
+   "Jing Wu",
+   "Miao Xu",
+   "Kai Yang",
+   "Dongyan Wang",
+   "Yi Wang",
+   "Chunhao Yuan",
+   "Bing Ding",
+   "Xiaogang Zhang"
+  ],
+  "journal": "Journal of colloid and interface science",
+  "publisher": "",
+  "published": "2026-11-21",
+  "year": 2026,
+  "doi": "10.1016/j.jcis.2026.142052",
+  "url": "https://doi.org/10.1016/j.jcis.2026.142052",
+  "source": "pubmed",
+  "categories": [
+   "Ball Milling & Grinding",
+   "Mechanical Alloying & Materials"
+  ],
+  "tags": [
+   "Ball Milling",
+   "High-Energy Milling",
+   "Mechanically Induced",
+   "Milling"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-11-27"
  },
  {
   "id": "729080ef06066a3a",
@@ -2570,6 +2835,33 @@
   "added": "2026-11-11"
  },
  {
+  "id": "affec873361bdd7e",
+  "title": "Polyethylene/Microgranular Cellulose Composites Prepared by Reactive Extrusion with an Azidotriazine Grafting Agent",
+  "authors": [
+   "Brieuc Le Besnerais",
+   "Licia Gaeta",
+   "Nathan J. Van Zee",
+   "Renaud Nicolaÿ"
+  ],
+  "journal": "ACS Applied Polymer Materials",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-11-09",
+  "year": 2026,
+  "doi": "10.1021/acsapm.6c04854",
+  "url": "https://doi.org/10.1021/acsapm.6c04854",
+  "source": "crossref",
+  "categories": [
+   "Twin-Screw Extrusion"
+  ],
+  "tags": [
+   "Extrusion",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-11-27"
+ },
+ {
   "id": "9e4fe8ed2f831854",
   "title": "Photovoltaic e-waste for PFAS remediation and H 2 evolution",
   "authors": [
@@ -2999,6 +3291,38 @@
   "relevance_score": 68,
   "affiliations": [],
   "added": "2026-11-05"
+ },
+ {
+  "id": "c96f8414be2f8d7d",
+  "title": "Structure and Dynamics of High-Density Polyethylene Cross-linked by an Azidotriazine via Reactive Extrusion",
+  "authors": [
+   "Stefano Chiani",
+   "Frances Abygail F. Genio",
+   "Michail Danikas",
+   "Nathan J. Van Zee",
+   "Renaud Nicolaÿ",
+   "Costantino Creton",
+   "George Floudas"
+  ],
+  "journal": "ACS Applied Polymer Materials",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-11-05",
+  "year": 2026,
+  "doi": "10.1021/acsapm.6c03473",
+  "url": "https://doi.org/10.1021/acsapm.6c03473",
+  "source": "crossref",
+  "categories": [
+   "Twin-Screw Extrusion",
+   "Computational & Data-Driven"
+  ],
+  "tags": [
+   "Extrusion",
+   "Molecular Dynamics",
+   "Reactive Extrusion"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-11-27"
  },
  {
   "id": "c92bb2c8aebc6d3e",
